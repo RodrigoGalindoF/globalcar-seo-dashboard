@@ -1,0 +1,85 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,mex,care dental,0,1,0,12
+2024-05-01,2024-05-07,mex,global care,0,2,0,1
+2024-05-01,2024-05-07,mex,globalcare,0,2,0,2.5
+2024-05-01,2024-05-07,mex,xcare dental,0,1,0,9
+2024-05-08,2024-05-14,mex,global care,0,10,0,1.6
+2024-05-08,2024-05-14,mex,global dental center,0,1,0,11
+2024-05-08,2024-05-14,mex,global dental health,0,1,0,9
+2024-05-15,2024-05-21,mex,get dental,0,2,0,3
+2024-05-15,2024-05-21,mex,global care,0,6,0,1.1666666666666667
+2024-05-15,2024-05-21,mex,global dental,0,5,0,11
+2024-05-15,2024-05-21,mex,global dental center,0,3,0,9.333333333333334
+2024-05-15,2024-05-21,mex,globalcare,0,3,0,1
+2024-05-22,2024-05-28,mex,dental global,0,2,0,11.5
+2024-05-22,2024-05-28,mex,global care,0,3,0,2
+2024-05-22,2024-05-28,mex,global cares,0,1,0,9
+2024-05-22,2024-05-28,mex,global dental center,0,1,0,11
+2024-05-22,2024-05-28,mex,globalcare,0,5,0,1.4
+2024-05-29,2024-06-04,mex,global care,0,6,0,2.5
+2024-05-29,2024-06-04,mex,global dental,0,1,0,12
+2024-05-29,2024-06-04,mex,global dental center,0,1,0,11
+2024-05-29,2024-06-04,mex,globalcare,0,2,0,1
+2024-06-05,2024-06-11,mex,dental global,0,1,0,5
+2024-06-05,2024-06-11,mex,global care,0,12,0,2
+2024-06-05,2024-06-11,mex,global dental,0,1,0,11
+2024-06-12,2024-06-18,mex,get who cares.com,0,1,0,8
+2024-06-12,2024-06-18,mex,globa care,0,1,0,3
+2024-06-12,2024-06-18,mex,global care,0,10,0,2.4
+2024-06-12,2024-06-18,mex,global carr,0,1,0,3
+2024-06-12,2024-06-18,mex,global dental center,0,1,0,9
+2024-06-12,2024-06-18,mex,globalcare,0,2,0,1
+2024-06-19,2024-06-25,mex,global care,0,2,0,3
+2024-06-19,2024-06-25,mex,global dental,0,2,0,11
+2024-06-19,2024-06-25,mex,global dental center,0,1,0,12
+2024-06-19,2024-06-25,mex,globalcare,0,2,0,1
+2024-06-26,2024-07-02,mex,consultorio global,0,1,0,12
+2024-06-26,2024-07-02,mex,get dental,0,2,0,2
+2024-06-26,2024-07-02,mex,global care,0,3,0,3
+2024-06-26,2024-07-02,mex,global care llc,0,1,0,3
+2024-06-26,2024-07-02,mex,global dental,0,3,0,10.333333333333334
+2024-06-26,2024-07-02,mex,global dental center,0,2,0,12
+2024-07-03,2024-07-09,mex,dental global,0,1,0,9
+2024-07-03,2024-07-09,mex,get dental,0,3,0,2
+2024-07-03,2024-07-09,mex,global care,0,4,0,3
+2024-07-10,2024-07-16,mex,get dental,0,1,0,2
+2024-07-10,2024-07-16,mex,global care,0,5,0,2.2
+2024-07-10,2024-07-16,mex,global dental,0,1,0,11
+2024-07-10,2024-07-16,mex,global dental center,0,1,0,12
+2024-07-17,2024-07-23,mex,get dental,0,2,0,2
+2024-07-17,2024-07-23,mex,global care,0,2,0,4
+2024-07-17,2024-07-23,mex,global dental baja,0,1,0,10
+2024-07-24,2024-07-30,mex,global care,0,3,0,2.333333333333333
+2024-07-24,2024-07-30,mex,global care llc,0,1,0,4
+2024-07-24,2024-07-30,mex,global dental baja,0,1,0,12
+2024-07-31,2024-08-06,mex,get dental,0,1,0,2
+2024-07-31,2024-08-06,mex,globa care,0,1,0,2
+2024-07-31,2024-08-06,mex,global care,0,7,0,2.571428571428571
+2024-07-31,2024-08-06,mex,global dental,0,1,0,11
+2024-08-07,2024-08-13,mex,get dental,0,1,0,1
+2024-08-07,2024-08-13,mex,global care,0,2,0,1
+2024-08-14,2024-08-20,mex,care dentist,0,1,0,6
+2024-08-14,2024-08-20,mex,english speaking dentist mexico city,0,1,0,11
+2024-08-14,2024-08-20,mex,get mexico,0,1,0,9
+2024-08-14,2024-08-20,mex,global care,0,5,0,1.2
+2024-08-14,2024-08-20,mex,global dental center,0,2,0,12
+2024-08-14,2024-08-20,mex,la global care,0,1,0,3
+2024-08-21,2024-08-27,mex,globa care,0,1,0,1
+2024-08-21,2024-08-27,mex,global care,0,10,0,1.3
+2024-08-21,2024-08-27,mex,global care center,0,3,0,1
+2024-08-21,2024-08-27,mex,global carr,0,1,0,3
+2024-08-21,2024-08-27,mex,global dental care,0,1,0,2
+2024-08-21,2024-08-27,mex,globalcare,0,1,0,1
+2024-08-28,2024-09-03,mex,dental crown,0,1,0,98
+2024-08-28,2024-09-03,mex,dental crowns,0,5,0,78.6
+2024-08-28,2024-09-03,mex,global care,0,9,0,1.2222222222222223
+2024-08-28,2024-09-03,mex,global care agency,0,1,0,6
+2024-08-28,2024-09-03,mex,global dental,0,1,0,11
+2024-08-28,2024-09-03,mex,global dental partners,0,1,0,10
+2024-09-04,2024-09-10,mex,crowns dental,0,1,0,89
+2024-09-04,2024-09-10,mex,dental crowns,0,5,0,81.2
+2024-09-04,2024-09-10,mex,global care,0,6,0,1.6666666666666665
+2024-09-04,2024-09-10,mex,global carr,0,1,0,1
+2024-09-11,2024-09-17,mex,dental crowns,0,9,0,83.22222222222223
+2024-09-11,2024-09-17,mex,la global care,0,1,0,3
+2024-09-11,2024-09-17,mex,teeth crowns,0,1,0,80

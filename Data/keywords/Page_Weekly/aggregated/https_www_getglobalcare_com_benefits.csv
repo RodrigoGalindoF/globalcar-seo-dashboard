@@ -1,0 +1,287 @@
+start_date,end_date,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,global care clinic,0,1,0,10
+2024-05-01,2024-05-07,global care network,0,1,0,10
+2024-05-01,2024-05-07,globalcare,0,3,0,6.333333333333333
+2024-05-08,2024-05-14,bookolis cancun,0,1,0,27
+2024-05-08,2024-05-14,global care network,0,1,0,11
+2024-05-08,2024-05-14,globalcare,0,2,0,4
+2024-05-15,2024-05-21,dental perfect insurgentes,0,1,0,64
+2024-05-15,2024-05-21,global care,0,5,0,7
+2024-05-15,2024-05-21,global care network,0,1,0,11
+2024-05-15,2024-05-21,globalcare health plan,0,1,0,68
+2024-05-22,2024-05-28,dental care mexico,0,1,0,11
+2024-05-22,2024-05-28,global care,0,7,0,9.714285714285714
+2024-05-22,2024-05-28,global dental care,0,1,0,9
+2024-05-22,2024-05-28,globalcare inc,0,1,0,10
+2024-05-22,2024-05-28,globel care,0,1,0,11
+2024-05-29,2024-06-04,global care,0,7,0,9.142857142857142
+2024-05-29,2024-06-04,global care network,0,2,0,9
+2024-05-29,2024-06-04,globalcare,0,3,0,6.333333333333333
+2024-06-05,2024-06-11,global care,0,13,0,10.384615384615385
+2024-06-05,2024-06-11,global care network,0,2,0,8.5
+2024-06-05,2024-06-11,global care services,0,1,0,8
+2024-06-05,2024-06-11,globalcare,0,1,0,12
+2024-06-05,2024-06-11,globalcare insurance,0,3,0,38.666666666666664
+2024-06-12,2024-06-18,18007787879,0,1,0,4
+2024-06-12,2024-06-18,care mex,0,1,0,11
+2024-06-12,2024-06-18,dental perfect insurgentes,0,2,0,73.5
+2024-06-12,2024-06-18,global care,0,14,0,9.642857142857142
+2024-06-12,2024-06-18,global care cosmetics corporation,0,2,0,11
+2024-06-12,2024-06-18,global care phone number,0,1,0,9
+2024-06-12,2024-06-18,global care services,0,1,0,9
+2024-06-12,2024-06-18,globalcare,0,3,0,9.666666666666666
+2024-06-19,2024-06-25,care mex,0,1,0,10
+2024-06-19,2024-06-25,clinica dental miami world care,0,1,0,9
+2024-06-19,2024-06-25,global care,0,17,0,9.647058823529411
+2024-06-19,2024-06-25,global care agency,0,2,0,9
+2024-06-19,2024-06-25,global care network,0,2,0,8.5
+2024-06-19,2024-06-25,global care number,0,1,0,11
+2024-06-19,2024-06-25,global care services,0,1,0,14
+2024-06-19,2024-06-25,global dental care,0,1,0,7
+2024-06-19,2024-06-25,globalcare insurance,0,1,0,85
+2024-06-19,2024-06-25,la global care,0,1,0,11
+2024-06-26,2024-07-02,dental perfect insurgentes,0,1,0,59
+2024-06-26,2024-07-02,global care,0,9,0,9.666666666666666
+2024-06-26,2024-07-02,global care services,0,2,0,12
+2024-06-26,2024-07-02,globalcare,0,5,0,9.4
+2024-06-26,2024-07-02,globalcare insurance,0,2,0,82.5
+2024-07-03,2024-07-09,global care,0,9,0,9.444444444444445
+2024-07-03,2024-07-09,globalcare insurance,0,1,0,91
+2024-07-10,2024-07-16,global care,0,13,0,8.307692307692307
+2024-07-10,2024-07-16,globalcare,0,6,0,3.8333333333333335
+2024-07-10,2024-07-16,globalcare insurance,0,3,0,76.66666666666667
+2024-07-17,2024-07-23,global care,0,8,0,10.25
+2024-07-17,2024-07-23,global dental care,0,1,0,10
+2024-07-17,2024-07-23,globalcare,0,6,0,33.833333333333336
+2024-07-17,2024-07-23,ihg customer care,0,1,0,1
+2024-07-24,2024-07-30,global care,0,16,0,10.4375
+2024-07-24,2024-07-30,global care network,0,5,0,11.2
+2024-07-24,2024-07-30,globalcare,0,8,0,25.75
+2024-07-24,2024-07-30,globalcare insurance,0,3,0,63.666666666666664
+2024-07-31,2024-08-06,dental care mexico,0,1,0,10
+2024-07-31,2024-08-06,global care,0,14,0,9.785714285714286
+2024-07-31,2024-08-06,globalcare,0,6,0,3.1666666666666665
+2024-08-07,2024-08-13,global care,0,9,0,9.777777777777779
+2024-08-07,2024-08-13,global care services,0,1,0,8
+2024-08-07,2024-08-13,global dental care,0,1,0,8
+2024-08-07,2024-08-13,globalcare,0,9,0,2.666666666666667
+2024-08-07,2024-08-13,globalcare insurance,0,2,0,23.5
+2024-08-14,2024-08-20,global care,0,19,0,9.578947368421053
+2024-08-14,2024-08-20,global care phone number,0,1,0,8
+2024-08-14,2024-08-20,global dental care,0,3,0,11
+2024-08-14,2024-08-20,globalcare,0,15,0,2.533333333333333
+2024-08-14,2024-08-20,globalcare insurance,0,2,0,29
+2024-08-21,2024-08-27,dental care mexico,0,1,0,11
+2024-08-21,2024-08-27,dental services mexico,0,1,0,10
+2024-08-21,2024-08-27,dentaris health group,0,1,0,12
+2024-08-21,2024-08-27,global care,0,14,0,10.5
+2024-08-21,2024-08-27,global dental care,0,1,0,13
+2024-08-21,2024-08-27,global dental clinic,0,2,0,14.5
+2024-08-21,2024-08-27,globalcare,0,5,0,1.6
+2024-08-28,2024-09-03,care mexico,0,1,0,10
+2024-08-28,2024-09-03,dental care mexico,0,1,0,11
+2024-08-28,2024-09-03,english speaking dentist mexico city,0,1,0,12
+2024-08-28,2024-09-03,get-who-cares.com,0,1,0,9
+2024-08-28,2024-09-03,get-who-cares.com/,0,1,0,9
+2024-08-28,2024-09-03,global care,0,3,0,8.333333333333332
+2024-08-28,2024-09-03,global dental care,0,3,0,11
+2024-08-28,2024-09-03,globalcare,0,5,0,2.6
+2024-08-28,2024-09-03,my global dentist,0,1,0,9
+2024-09-04,2024-09-10,care mexico,0,1,0,10
+2024-09-04,2024-09-10,get mexico,0,1,0,8
+2024-09-04,2024-09-10,get-who-cares.com,0,2,0,8.5
+2024-09-04,2024-09-10,get-who-cares.com/,0,1,0,9
+2024-09-04,2024-09-10,global care,0,13,0,8
+2024-09-04,2024-09-10,global dental care,0,7,0,12.285714285714286
+2024-09-04,2024-09-10,global dental center,0,2,0,9
+2024-09-04,2024-09-10,globalcare,0,2,0,10
+2024-09-04,2024-09-10,smile venue dental reviews,0,1,0,11
+2024-09-11,2024-09-17,clínica dental aesthetic dentistry guadalajara,0,1,0,9
+2024-09-11,2024-09-17,dentaris health group,0,5,0,11.4
+2024-09-11,2024-09-17,elite dental partners lawsuit,0,1,0,56
+2024-09-11,2024-09-17,get-who-cares.com,0,2,0,7
+2024-09-11,2024-09-17,get-who-cares.com/,0,1,0,10
+2024-09-11,2024-09-17,globacare,0,1,0,11
+2024-09-11,2024-09-17,global care,0,18,0,10.722222222222221
+2024-09-11,2024-09-17,global care health insurance,0,2,0,60
+2024-09-11,2024-09-17,global dental care,0,3,0,13
+2024-09-11,2024-09-17,global dentist,0,1,0,10
+2024-09-11,2024-09-17,globalcare,0,4,0,5.75
+2024-09-11,2024-09-17,globalcare insurance,0,2,0,18.5
+2024-09-11,2024-09-17,my global dentist,0,1,0,5
+2024-09-18,2024-09-24,global care,0,11,0,11.545454545454545
+2024-09-18,2024-09-24,global care health insurance,0,3,0,63.666666666666664
+2024-09-18,2024-09-24,global dental care,0,1,0,12
+2024-09-18,2024-09-24,globalcare,0,1,0,5
+2024-09-18,2024-09-24,globle care,0,1,0,11
+2024-09-25,2024-10-01,care mexico,0,1,0,11
+2024-09-25,2024-10-01,dental care mexico,0,2,0,10
+2024-09-25,2024-10-01,elite dental partners lawsuit,0,1,0,73
+2024-09-25,2024-10-01,get-who-cares.com,0,1,0,9
+2024-09-25,2024-10-01,global care,0,9,0,5.111111111111111
+2024-09-25,2024-10-01,global dental care,0,4,0,12.25
+2024-09-25,2024-10-01,globalcare,0,8,0,7.125
+2024-10-02,2024-10-08,dental care mexico,0,4,0,9.75
+2024-10-02,2024-10-08,global care,0,7,0,5.857142857142857
+2024-10-02,2024-10-08,global dental care,0,1,0,13
+2024-10-02,2024-10-08,globalcare,0,4,0,3.25
+2024-10-02,2024-10-08,my global dentist,0,1,0,10
+2024-10-09,2024-10-15,dental care in mexico,0,1,0,12
+2024-10-09,2024-10-15,dental care mexico,0,1,0,13
+2024-10-09,2024-10-15,elite dental partners lawsuit,0,1,0,59
+2024-10-09,2024-10-15,english speaking dentist mexico city,0,8,0,11.125
+2024-10-09,2024-10-15,get mexico,0,1,0,9
+2024-10-09,2024-10-15,global care,0,10,0,6.8
+2024-10-09,2024-10-15,global dental,0,1,0,11
+2024-10-09,2024-10-15,global dental center photos,0,1,0,12
+2024-10-09,2024-10-15,globalcare,0,4,0,2.75
+2024-10-16,2024-10-22,dental care mexico,0,2,0,12
+2024-10-16,2024-10-22,global care,0,14,0,7.214285714285714
+2024-10-16,2024-10-22,global dental care,0,4,0,9.75
+2024-10-16,2024-10-22,global dental services,0,1,0,11
+2024-10-16,2024-10-22,globalcare,0,3,0,3.3333333333333335
+2024-10-23,2024-10-29,dental care mexico,0,3,0,11.666666666666666
+2024-10-23,2024-10-29,global care,0,7,0,6.428571428571429
+2024-10-23,2024-10-29,global dental care,0,1,0,9
+2024-10-23,2024-10-29,global dental center,0,1,0,11
+2024-10-23,2024-10-29,globalcare,0,15,0,4.6
+2024-10-23,2024-10-29,globle care,0,1,0,10
+2024-10-23,2024-10-29,my global dentist,0,1,0,14
+2024-10-23,2024-10-29,what is global care,0,1,0,93
+2024-10-30,2024-11-05,dental care mexico,0,3,0,12.333333333333334
+2024-10-30,2024-11-05,globa care,0,1,0,4
+2024-10-30,2024-11-05,global care,0,4,0,10.75
+2024-10-30,2024-11-05,global dental care,0,1,0,9
+2024-10-30,2024-11-05,globalcare,0,2,0,7
+2024-11-06,2024-11-12,affordable dental care mexico,0,1,0,7
+2024-11-06,2024-11-12,global care,0,5,0,7.8
+2024-11-06,2024-11-12,global dental care,0,1,0,9
+2024-11-06,2024-11-12,globalcare,0,2,0,2
+2024-11-13,2024-11-19,care dentist,0,1,0,11
+2024-11-13,2024-11-19,global care,0,3,0,3
+2024-11-13,2024-11-19,global dental,0,3,0,10.666666666666666
+2024-11-20,2024-11-26,affordable dental care mexico,0,2,0,7
+2024-11-20,2024-11-26,dental care mexico,0,4,0,11
+2024-11-20,2024-11-26,global care,0,2,0,9.5
+2024-11-20,2024-11-26,global dental,0,2,0,11
+2024-11-20,2024-11-26,global dental care,0,2,0,10
+2024-11-20,2024-11-26,global dental center,0,2,0,10
+2024-11-20,2024-11-26,globalcare,0,1,0,1
+2024-11-20,2024-11-26,my global dentist,0,1,0,8
+2024-11-27,2024-12-03,18007787879,0,1,0,4
+2024-11-27,2024-12-03,affordable dental care mexico,0,1,0,5
+2024-11-27,2024-12-03,global care,0,3,0,2
+2024-12-04,2024-12-10,global dental,0,1,0,10
+2024-12-04,2024-12-10,global dentist,0,1,0,3
+2024-12-04,2024-12-10,globalcare,0,1,0,6
+2024-12-04,2024-12-10,globalcare inc,0,1,0,72
+2024-12-04,2024-12-10,globalcare insurance,0,2,0,47.5
+2024-12-11,2024-12-17,dental care in mexico,0,2,0,13
+2024-12-11,2024-12-17,globalcare,0,1,0,1
+2024-12-18,2024-12-24,affordable dental care mexico,0,1,0,8
+2024-12-18,2024-12-24,global care,0,1,0,2
+2024-12-18,2024-12-24,global dental services,0,1,0,2
+2024-12-18,2024-12-24,globalcare,0,2,0,12.5
+2024-12-25,2024-12-31,globalcare insurance,0,2,0,25
+2025-01-01,2025-01-07,globalcare insurance,0,1,0,49
+2025-01-08,2025-01-14,global care travel insurance,0,1,0,97
+2025-01-08,2025-01-14,globalcare insurance,0,3,0,45
+2025-01-15,2025-01-21,global care travel insurance,0,1,0,78
+2025-01-15,2025-01-21,globalcare,0,1,0,1
+2025-01-22,2025-01-28,globalcare insurance,0,3,0,17.333333333333332
+2025-01-22,2025-01-28,imagens de globalcare,0,1,0,2
+2025-01-29,2025-02-04,global care travel insurance,0,1,0,60
+2025-01-29,2025-02-04,imagens de globalcare,0,1,0,4
+2025-02-05,2025-02-11,global care travel insurance,0,2,0,78
+2025-02-05,2025-02-11,globalcare insurance,0,1,0,48
+2025-02-12,2025-02-18,affordable dental care mexico,0,2,0,5
+2025-02-12,2025-02-18,get who cares.com,0,1,0,8
+2025-02-12,2025-02-18,globa care,0,1,0,3
+2025-02-12,2025-02-18,global care,0,12,0,6.416666666666667
+2025-02-12,2025-02-18,global carr,0,1,0,3
+2025-02-12,2025-02-18,global dental,0,1,0,11
+2025-02-12,2025-02-18,global dental care,0,1,0,12
+2025-02-12,2025-02-18,global dental tijuana,0,2,0,11
+2025-02-12,2025-02-18,globalcare,0,2,0,1
+2025-02-12,2025-02-18,globalcare insurance,0,3,0,7.666666666666667
+2025-02-19,2025-02-25,global care,0,7,0,2.2857142857142856
+2025-02-19,2025-02-25,global dental,0,3,0,11
+2025-02-19,2025-02-25,global dental baja,0,3,0,7
+2025-02-19,2025-02-25,global dental care,0,4,0,9.75
+2025-02-19,2025-02-25,global dental center,0,1,0,12
+2025-02-19,2025-02-25,globalcare,0,3,0,1
+2025-02-19,2025-02-25,globalcare insurance,0,1,0,9
+2025-02-26,2025-03-04,affordable dental care mexico,0,1,0,6
+2025-02-26,2025-03-04,consultorio global,0,1,0,12
+2025-02-26,2025-03-04,get dental,0,2,0,2
+2025-02-26,2025-03-04,global care,0,11,0,2.7272727272727275
+2025-02-26,2025-03-04,global care llc,0,1,0,3
+2025-02-26,2025-03-04,global dental,0,3,0,10.333333333333334
+2025-02-26,2025-03-04,global dental baja,0,1,0,5
+2025-02-26,2025-03-04,global dental care,0,4,0,11.75
+2025-02-26,2025-03-04,global dental center,0,3,0,11.333333333333334
+2025-02-26,2025-03-04,globalcare,0,7,0,4.571428571428571
+2025-03-05,2025-03-11,dental global,0,1,0,9
+2025-03-05,2025-03-11,get dental,0,3,0,2
+2025-03-05,2025-03-11,global care,0,8,0,3
+2025-03-05,2025-03-11,global care insurance,0,1,0,97
+2025-03-05,2025-03-11,global dental care,0,9,0,13.11111111111111
+2025-03-05,2025-03-11,globalcare,0,3,0,7
+2025-03-12,2025-03-18,affordable dental care mexico,0,1,0,7
+2025-03-12,2025-03-18,get dental,0,1,0,2
+2025-03-12,2025-03-18,global care,0,9,0,2
+2025-03-12,2025-03-18,global care insurance,0,2,0,93.5
+2025-03-12,2025-03-18,global dental,0,1,0,11
+2025-03-12,2025-03-18,global dental care,0,8,0,10
+2025-03-12,2025-03-18,global dental center,0,1,0,12
+2025-03-12,2025-03-18,globalcare,0,7,0,4.571428571428571
+2025-03-19,2025-03-25,dental care world,0,1,0,9
+2025-03-19,2025-03-25,get dental,0,2,0,2
+2025-03-19,2025-03-25,globa care,0,1,0,1
+2025-03-19,2025-03-25,global care,0,9,0,2.5555555555555554
+2025-03-19,2025-03-25,global dental baja,0,1,0,10
+2025-03-19,2025-03-25,global dental care,0,2,0,10.5
+2025-03-19,2025-03-25,global dental tijuana,0,1,0,11
+2025-03-19,2025-03-25,globalcare,0,3,0,5.666666666666667
+2025-03-26,2025-04-01,global care,0,10,0,1.4
+2025-03-26,2025-04-01,global care llc,0,2,0,7.5
+2025-03-26,2025-04-01,global dental baja,0,1,0,12
+2025-03-26,2025-04-01,global dental care,0,4,0,11
+2025-03-26,2025-04-01,global dental tijuana,0,5,0,12.6
+2025-03-26,2025-04-01,globalcare,0,4,0,4.5
+2025-04-02,2025-04-08,fedex tijuana aeropuerto,0,1,0,41
+2025-04-02,2025-04-08,get dental,0,1,0,2
+2025-04-02,2025-04-08,globa care,0,1,0,2
+2025-04-02,2025-04-08,global care,0,8,0,2.375
+2025-04-02,2025-04-08,global care center,0,1,0,5
+2025-04-02,2025-04-08,global care insurance,0,2,0,69
+2025-04-02,2025-04-08,global dental,0,1,0,11
+2025-04-02,2025-04-08,global dental care,0,3,0,9
+2025-04-02,2025-04-08,global dental tijuana,0,5,0,10.2
+2025-04-02,2025-04-08,global protective solutions reviews,0,1,0,90
+2025-04-02,2025-04-08,globalcare,0,3,0,3
+2025-04-02,2025-04-08,globalcare insurance,0,2,0,17
+2025-04-02,2025-04-08,periondental,0,2,0,11
+2025-04-09,2025-04-15,credit dental care,0,1,0,12
+2025-04-09,2025-04-15,dental care mexico,0,1,0,12
+2025-04-09,2025-04-15,english speaking dentist mexico city,0,1,0,12
+2025-04-09,2025-04-15,get dental,0,1,0,1
+2025-04-09,2025-04-15,global care,0,7,0,3.857142857142857
+2025-04-09,2025-04-15,global care elite,0,1,0,40
+2025-04-09,2025-04-15,global carr,0,1,0,1
+2025-04-09,2025-04-15,global dent playa del carmen,0,1,0,11
+2025-04-09,2025-04-15,global dental baja,0,1,0,9
+2025-04-09,2025-04-15,globalcare,0,5,0,3.4
+2025-04-09,2025-04-15,globaldentaldiscount,0,1,0,63
+2025-04-16,2025-04-22,english speaking dentist mexico city,0,2,0,11.5
+2025-04-16,2025-04-22,global care,0,1,0,2
+2025-04-16,2025-04-22,global care health insurance,0,11,0,66
+2025-04-16,2025-04-22,global care travel insurance,0,2,0,39.5
+2025-04-16,2025-04-22,globalcare,0,5,0,5
+2025-04-16,2025-04-22,globalcare insurance,0,1,0,22
+2025-04-23,2025-04-29,global care health insurance,0,6,0,65.66666666666667
+2025-04-23,2025-04-29,global care insurance,0,1,0,61
+2025-04-23,2025-04-29,globalcare,0,5,0,1
+2025-04-23,2025-04-29,globalcare insurance,0,1,0,5
+2025-04-30,2025-05-06,global care health insurance,0,1,0,100
+2025-04-30,2025-05-06,globalcare,0,1,0,1

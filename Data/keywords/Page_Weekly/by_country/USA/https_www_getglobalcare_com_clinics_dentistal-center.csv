@@ -1,0 +1,20 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,usa,dental clinic queretaro,0,2,0,33.5
+2024-05-08,2024-05-14,usa,dental clinic queretaro,0,2,0,11.5
+2024-05-08,2024-05-14,usa,dental clinic querétaro,0,2,0,15.5
+2024-05-15,2024-05-21,usa,dental clinic queretaro,0,1,0,9
+2024-05-15,2024-05-21,usa,dental clinic querétaro,0,1,0,14
+2024-05-22,2024-05-28,usa,dental clinic querétaro,0,1,0,14
+2024-05-29,2024-06-04,usa,dental clinic querétaro,0,2,0,8
+2024-06-05,2024-06-11,usa,dental clinic queretaro,0,2,0,10.5
+2024-06-12,2024-06-18,usa,dental clinic querétaro,0,1,0,1
+2024-06-19,2024-06-25,usa,dental center queretaro,0,3,0,15
+2024-06-26,2024-07-02,usa,dental clinic queretaro,0,1,0,10
+2024-07-03,2024-07-09,usa,dental center queretaro,0,1,0,11
+2024-07-03,2024-07-09,usa,dental clinic querétaro,0,1,0,14
+2024-07-10,2024-07-16,usa,dental center queretaro,0,1,0,39
+2024-07-17,2024-07-23,usa,dental clinic queretaro,0,4,0,9.25
+2024-07-24,2024-07-30,usa,dental clinic querétaro,0,1,0,10
+2024-07-31,2024-08-06,usa,dental clinic queretaro,0,3,0,6.666666666666667
+2024-07-31,2024-08-06,usa,world trade center queretaro,0,1,0,38
+2024-08-07,2024-08-13,usa,dentistal,0,1,0,2

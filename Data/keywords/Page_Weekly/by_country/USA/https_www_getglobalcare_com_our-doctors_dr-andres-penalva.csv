@@ -1,0 +1,77 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,usa,18007787879,0,1,0,9
+2024-05-01,2024-05-07,usa,dr penalva,0,1,0,9
+2024-05-08,2024-05-14,usa,dentist in mexico city,0,1,0,88
+2024-05-15,2024-05-21,usa,mexico city dental implants,0,1,0,100
+2024-05-22,2024-05-28,usa,dr andres dentist,0,2,0,94.5
+2024-05-29,2024-06-04,usa,dr andres dentist,0,1,0,72
+2024-05-29,2024-06-04,usa,peñalva,0,1,0,49
+2024-05-29,2024-06-04,usa,western iowa periodontics and implant dentistry,0,1,0,2
+2024-06-05,2024-06-11,usa,mexico city dental implants,0,1,0,101
+2024-06-12,2024-06-18,usa,dental implants mexico city,0,1,0,95
+2024-06-12,2024-06-18,usa,dr andres dentist,0,1,0,67
+2024-06-19,2024-06-25,usa,urologist mexico city,0,1,0,50
+2024-06-26,2024-07-02,usa,andres dental,0,1,0,70
+2024-06-26,2024-07-02,usa,dr andres dentist,0,1,0,51
+2024-07-03,2024-07-09,usa,penalva,0,1,0,60
+2024-07-10,2024-07-16,usa,dr may penalba,0,4,0,11.5
+2024-07-17,2024-07-23,usa,dr may penalba,0,2,0,13
+2024-07-17,2024-07-23,usa,dr penalva,0,1,0,2
+2024-07-17,2024-07-23,usa,peñalva,0,1,0,12
+2024-07-17,2024-07-23,usa,veneers mexico city,0,1,0,35
+2024-07-24,2024-07-30,usa,dr andres dentist,0,1,0,68
+2024-07-24,2024-07-30,usa,dr may penalba,0,2,0,10.5
+2024-07-31,2024-08-06,usa,dr may penalba,0,3,0,12.333333333333334
+2024-08-07,2024-08-13,usa,dr may penalba,0,2,0,12
+2024-08-14,2024-08-20,usa,dental implants in mexico city,0,1,0,76
+2024-08-14,2024-08-20,usa,dr andres dentist,0,2,0,10.5
+2024-08-14,2024-08-20,usa,dr may penalba,0,2,0,11
+2024-08-21,2024-08-27,usa,dr andres dentist,0,1,0,9
+2024-08-21,2024-08-27,usa,dr may penalba,0,4,0,11.25
+2024-08-28,2024-09-03,usa,dr may penalba,0,1,0,10
+2024-09-04,2024-09-10,usa,dr andres dentist,0,2,0,7.5
+2024-09-04,2024-09-10,usa,dr may penalba,0,5,0,9.6
+2024-09-11,2024-09-17,usa,dr andres dentist,0,2,0,21.5
+2024-09-11,2024-09-17,usa,dr may penalba,0,6,0,10
+2024-09-11,2024-09-17,usa,peñalva,0,2,0,3.5
+2024-09-18,2024-09-24,usa,dr may penalba,0,3,0,10
+2024-09-18,2024-09-24,usa,dr penalva,0,2,0,4
+2024-09-25,2024-10-01,usa,dr may penalba,0,4,0,8.25
+2024-10-02,2024-10-08,usa,dr may penalba,0,2,0,8.5
+2024-10-09,2024-10-15,usa,dr andres dentist,0,2,0,16.5
+2024-10-09,2024-10-15,usa,dr may penalba,0,3,0,7.333333333333333
+2024-10-16,2024-10-22,usa,dr may penalba,0,7,0,7.571428571428571
+2024-10-23,2024-10-29,usa,dr may penalba,0,4,0,8
+2024-10-30,2024-11-05,usa,dental implants mexico city,0,1,0,79
+2024-10-30,2024-11-05,usa,dr may penalba,0,6,0,8.666666666666668
+2024-11-06,2024-11-12,usa,dr may penalba,0,4,0,8.75
+2024-11-13,2024-11-19,usa,dr may penalba,0,6,0,9.333333333333334
+2024-11-20,2024-11-26,usa,dr may penalba,0,6,0,9
+2024-11-27,2024-12-03,usa,dr may penalba,0,1,0,10
+2024-12-04,2024-12-10,usa,dr may penalba,0,2,0,9
+2024-12-11,2024-12-17,usa,2500 veneers cancun,0,1,0,80
+2024-12-11,2024-12-17,usa,dr may penalba,0,1,0,10
+2024-12-18,2024-12-24,usa,dr may penalba,0,1,0,10
+2024-12-25,2024-12-31,usa,dr may penalba,0,1,0,9
+2024-12-25,2024-12-31,usa,periodoncia cdmx,0,1,0,8
+2025-01-01,2025-01-07,usa,dr may penalba,0,3,0,11
+2025-01-08,2025-01-14,usa,dr may penalba,0,7,0,11.142857142857142
+2025-01-15,2025-01-21,usa,periodontist in mexico,0,1,0,42
+2025-01-22,2025-01-28,usa,cancun dental care complaints,0,1,0,84
+2025-01-29,2025-02-04,usa,diordent,0,1,0,13
+2025-01-29,2025-02-04,usa,zona dental gran patio,0,1,0,8
+2025-02-05,2025-02-11,usa,periodontist mexico,0,1,0,47
+2025-02-12,2025-02-18,usa,penalva,0,1,0,1
+2025-02-12,2025-02-18,usa,periodontist in mexico,0,1,0,25
+2025-02-19,2025-02-25,usa,doctor de paz maxilofacial,0,1,0,62
+2025-02-19,2025-02-25,usa,dr andres dentist,0,1,0,75
+2025-02-26,2025-03-04,usa,periodontist specialist tojuana mx,0,4,0,94.5
+2025-03-05,2025-03-11,usa,periodontist in mexico,0,1,0,30
+2025-03-05,2025-03-11,usa,periodontist mexico,0,2,0,44
+2025-03-05,2025-03-11,usa,periodontist specialist tojuana mx,0,7,0,92.42857142857143
+2025-03-12,2025-03-18,usa,dr carlos garcia dentist,0,1,0,29
+2025-03-12,2025-03-18,usa,periodoncista en queretaro,0,1,0,43
+2025-03-12,2025-03-18,usa,periodontist specialist tojuana mx,0,4,0,97
+2025-03-12,2025-03-18,usa,where is a good periodontist in mexico city for gum graft surgery,0,4,0,9.5
+2025-03-19,2025-03-25,usa,periodontist mexico,0,1,0,37
+2025-03-19,2025-03-25,usa,periodontist specialist tojuana mx,0,1,0,94

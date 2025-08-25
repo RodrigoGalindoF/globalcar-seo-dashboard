@@ -1,0 +1,883 @@
+start_date,end_date,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,eliezer brecher,0,6,0,7.166666666666667
+2024-05-01,2024-05-07,global care,0,1,0,99
+2024-05-01,2024-05-07,global care company,0,1,0,13
+2024-05-01,2024-05-07,global care medical,0,1,0,100
+2024-05-01,2024-05-07,global care medical group,0,2,0,88
+2024-05-01,2024-05-07,global care network,0,3,0,13.666666666666666
+2024-05-01,2024-05-07,globalcare,0,5,0,85
+2024-05-08,2024-05-14,eliezer brecher,0,9,0,7.555555555555555
+2024-05-08,2024-05-14,global care,0,2,0,85.5
+2024-05-08,2024-05-14,global care company,0,2,0,10.5
+2024-05-08,2024-05-14,global care medical,0,1,0,97
+2024-05-08,2024-05-14,global care medical group,0,6,0,80
+2024-05-08,2024-05-14,global care provider phone number,0,1,0,83
+2024-05-08,2024-05-14,globalcare,0,2,0,78
+2024-05-15,2024-05-21,eliezer brecher,0,2,0,8
+2024-05-15,2024-05-21,global care medical,0,3,0,97
+2024-05-15,2024-05-21,global care medical group,0,1,0,101
+2024-05-15,2024-05-21,global care medical group doctors,0,1,0,79
+2024-05-15,2024-05-21,globalcare,0,5,0,85.8
+2024-05-15,2024-05-21,globalcare medical group,0,1,0,73
+2024-05-22,2024-05-28,eliezer brecher,0,2,0,7
+2024-05-22,2024-05-28,global care,0,1,0,90
+2024-05-22,2024-05-28,global care medical group doctors,0,1,0,77
+2024-05-22,2024-05-28,global care phone number,0,1,0,89
+2024-05-22,2024-05-28,globalcare,0,2,0,89
+2024-05-29,2024-06-04,eliezer brecher,0,2,0,9
+2024-05-29,2024-06-04,global care,0,1,0,101
+2024-05-29,2024-06-04,global care hospital doctors,0,1,0,78
+2024-05-29,2024-06-04,global care inc,0,2,0,66
+2024-05-29,2024-06-04,global care medical,0,1,0,62
+2024-05-29,2024-06-04,global care medical group,0,1,0,80
+2024-05-29,2024-06-04,globalcare,0,3,0,54
+2024-06-05,2024-06-11,eliezer brecher,0,1,0,47
+2024-06-05,2024-06-11,global care,0,1,0,89
+2024-06-05,2024-06-11,global care force,0,1,0,91
+2024-06-05,2024-06-11,global care medical group,0,3,0,89.66666666666667
+2024-06-05,2024-06-11,globalcare,0,3,0,73.33333333333333
+2024-06-05,2024-06-11,what is global care,0,1,0,60
+2024-06-12,2024-06-18,global care cosmetics corporation,0,1,0,23
+2024-06-12,2024-06-18,global care inc provider phone number,0,1,0,81
+2024-06-12,2024-06-18,global care medical,0,1,0,74
+2024-06-12,2024-06-18,global care medical group,0,2,0,90.5
+2024-06-12,2024-06-18,global care provider phone number,0,1,0,93
+2024-06-12,2024-06-18,globalcare,0,6,0,77.83333333333333
+2024-06-12,2024-06-18,globalcare inc,0,2,0,9
+2024-06-19,2024-06-25,global care clinic,0,1,0,8
+2024-06-19,2024-06-25,global care contact number,0,2,0,12
+2024-06-19,2024-06-25,global care phone number,0,1,0,53
+2024-06-19,2024-06-25,globalcare,0,4,0,90
+2024-06-19,2024-06-25,globalcare inc,0,3,0,7.666666666666667
+2024-06-19,2024-06-25,globalcare insurance,0,1,0,99
+2024-06-19,2024-06-25,globalcare medical group,0,1,0,94
+2024-06-26,2024-07-02,global care clinic,0,1,0,9
+2024-06-26,2024-07-02,global care medical group,0,3,0,88.66666666666667
+2024-06-26,2024-07-02,global care provider phone number,0,1,0,99
+2024-06-26,2024-07-02,globalcare,0,6,0,85
+2024-07-03,2024-07-09,global care medical group,0,2,0,88.5
+2024-07-03,2024-07-09,global care residence,0,1,0,13
+2024-07-03,2024-07-09,globalcare,0,4,0,77
+2024-07-03,2024-07-09,globalcare inc,0,1,0,10
+2024-07-03,2024-07-09,globalcare medical group,0,1,0,88
+2024-07-10,2024-07-16,a global care inc,0,1,0,98
+2024-07-10,2024-07-16,eliezer brecher,0,1,0,53
+2024-07-10,2024-07-16,global care company,0,1,0,13
+2024-07-10,2024-07-16,global care medical group doctors,0,1,0,71
+2024-07-10,2024-07-16,global care medical group provider phone number,0,1,0,84
+2024-07-10,2024-07-16,global care provider phone number,0,1,0,101
+2024-07-10,2024-07-16,globalcare,0,4,0,89
+2024-07-10,2024-07-16,globalcare inc,0,1,0,10
+2024-07-17,2024-07-23,eliezer brecher,0,5,0,9
+2024-07-17,2024-07-23,global care hospital logo,0,1,0,88
+2024-07-17,2024-07-23,global care medical group,0,1,0,52
+2024-07-17,2024-07-23,global care phone number,0,1,0,56
+2024-07-17,2024-07-23,globalcare,0,4,0,69
+2024-07-17,2024-07-23,globalcare inc,0,2,0,11
+2024-07-24,2024-07-30,eliezer brecher,0,3,0,8.666666666666668
+2024-07-24,2024-07-30,global care,0,3,0,70
+2024-07-24,2024-07-30,global care clinic,0,1,0,10
+2024-07-24,2024-07-30,globalcare,0,7,0,67.57142857142857
+2024-07-24,2024-07-30,globalcare inc,0,1,0,10
+2024-07-31,2024-08-06,eliezer brecher,0,7,0,8.714285714285715
+2024-07-31,2024-08-06,global care clinic,0,1,0,14
+2024-07-31,2024-08-06,global care company,0,1,0,10
+2024-07-31,2024-08-06,global care provider phone number,0,1,0,89
+2024-07-31,2024-08-06,globalcare,0,6,0,79.83333333333333
+2024-07-31,2024-08-06,globalcare inc,0,2,0,10
+2024-07-31,2024-08-06,globalcare medical group,0,1,0,77
+2024-08-07,2024-08-13,eliezer brecher,0,6,0,8.5
+2024-08-07,2024-08-13,getglobal group,0,1,0,82
+2024-08-07,2024-08-13,global care company,0,1,0,35
+2024-08-07,2024-08-13,global care provider phone number,0,1,0,94
+2024-08-07,2024-08-13,globalcare,0,3,0,70
+2024-08-14,2024-08-20,eliezer brecher,1,3,0.3333333333333333,6.666666666666667
+2024-08-14,2024-08-20,global care medical group,0,1,0,49
+2024-08-14,2024-08-20,globalcare,0,9,0,51.888888888888886
+2024-08-14,2024-08-20,globalcare inc,0,1,0,10
+2024-08-14,2024-08-20,globalcare insurance,0,1,0,85
+2024-08-14,2024-08-20,globalcare medical group,0,1,0,70
+2024-08-14,2024-08-20,globalcare services,0,1,0,96
+2024-08-21,2024-08-27,eliezer brecher,0,3,0,9
+2024-08-21,2024-08-27,global care medical,0,1,0,59
+2024-08-21,2024-08-27,global care medical group doctors,0,1,0,81
+2024-08-21,2024-08-27,global care phone number,0,1,0,78
+2024-08-21,2024-08-27,global care provider phone number,0,1,0,82
+2024-08-21,2024-08-27,globalcare,0,3,0,67.33333333333333
+2024-08-21,2024-08-27,globalcare inc,0,1,0,10
+2024-08-21,2024-08-27,globalcare insurance,0,1,0,63
+2024-08-28,2024-09-03,eliezer brecher,0,2,0,6
+2024-08-28,2024-09-03,global care,0,1,0,73
+2024-08-28,2024-09-03,global care cosmetics corporation,0,1,0,88
+2024-08-28,2024-09-03,global care inc provider phone number,0,1,0,74
+2024-08-28,2024-09-03,global care medical group provider phone number,0,1,0,67
+2024-08-28,2024-09-03,global care provider phone number,0,1,0,77
+2024-08-28,2024-09-03,globalcare services,0,1,0,79
+2024-08-28,2024-09-03,what is global care,0,1,0,65
+2024-09-04,2024-09-10,eliezer brecher,0,4,0,8.25
+2024-09-04,2024-09-10,getglobal group,0,1,0,78
+2024-09-04,2024-09-10,global care,0,3,0,86.66666666666667
+2024-09-04,2024-09-10,global care inc provider phone number,0,1,0,82
+2024-09-04,2024-09-10,global care medical,0,2,0,55.5
+2024-09-04,2024-09-10,global care medical group,0,1,0,76
+2024-09-04,2024-09-10,global care provider phone number,0,1,0,87
+2024-09-04,2024-09-10,globalcare,0,4,0,79.5
+2024-09-04,2024-09-10,globalcare medical group,0,1,0,72
+2024-09-04,2024-09-10,globalcare services,0,1,0,87
+2024-09-11,2024-09-17,eliezer brecher,0,3,0,8
+2024-09-11,2024-09-17,getglobal group,0,1,0,72
+2024-09-11,2024-09-17,global care,0,2,0,97
+2024-09-11,2024-09-17,global care inc provider phone number,0,6,0,74.5
+2024-09-11,2024-09-17,global care medical group,0,1,0,66
+2024-09-11,2024-09-17,global care network,0,1,0,9
+2024-09-11,2024-09-17,globalcare,0,5,0,82.8
+2024-09-11,2024-09-17,globalcare medical group,0,4,0,63.25
+2024-09-18,2024-09-24,eliezer brecher,0,4,0,9.5
+2024-09-18,2024-09-24,global care,0,3,0,87.33333333333333
+2024-09-18,2024-09-24,global care hospital doctors,0,1,0,65
+2024-09-18,2024-09-24,global care inc provider phone number,0,1,0,74
+2024-09-18,2024-09-24,global care medical group,0,1,0,55
+2024-09-18,2024-09-24,global care phone number,0,1,0,81
+2024-09-18,2024-09-24,globalcare,0,9,0,70.66666666666667
+2024-09-25,2024-10-01,eliezer brecher,0,1,0,7
+2024-09-25,2024-10-01,global care inc,0,1,0,100
+2024-09-25,2024-10-01,global care medical,0,2,0,54
+2024-09-25,2024-10-01,global care medical group doctors,0,1,0,84
+2024-09-25,2024-10-01,global care medical tourism,0,1,0,7
+2024-09-25,2024-10-01,global care network,0,4,0,8
+2024-09-25,2024-10-01,global care provider phone number,0,1,0,85
+2024-09-25,2024-10-01,globalcare,0,7,0,80.57142857142857
+2024-09-25,2024-10-01,globalcare inc,0,1,0,10
+2024-09-25,2024-10-01,globalcare medical,0,1,0,50
+2024-10-02,2024-10-08,eliezer brecher,0,2,0,6
+2024-10-02,2024-10-08,global care,0,3,0,87
+2024-10-02,2024-10-08,global care company,0,1,0,10
+2024-10-02,2024-10-08,global care hospital doctors,0,1,0,73
+2024-10-02,2024-10-08,global care inc,0,1,0,100
+2024-10-02,2024-10-08,global care medical,0,3,0,54
+2024-10-02,2024-10-08,global care medical group,0,1,0,57
+2024-10-02,2024-10-08,global care provider phone number,0,1,0,75
+2024-10-02,2024-10-08,globalcare,0,5,0,81.8
+2024-10-02,2024-10-08,globalcare medical group,0,2,0,72
+2024-10-02,2024-10-08,what is global care,0,1,0,67
+2024-10-09,2024-10-15,eliezer brecher,0,3,0,6.333333333333333
+2024-10-09,2024-10-15,global care,0,1,0,98
+2024-10-09,2024-10-15,global care company,0,1,0,12
+2024-10-09,2024-10-15,global care group,0,1,0,41
+2024-10-09,2024-10-15,global care medical,0,1,0,43
+2024-10-09,2024-10-15,global care medical group,0,1,0,56
+2024-10-09,2024-10-15,global care medical group provider phone number,0,1,0,70
+2024-10-09,2024-10-15,global care provider phone number,0,1,0,42
+2024-10-09,2024-10-15,globalcare,0,3,0,70.66666666666667
+2024-10-09,2024-10-15,the global care company,0,1,0,8
+2024-10-16,2024-10-22,eliezer brecher,0,2,0,4
+2024-10-16,2024-10-22,global care,0,1,0,100
+2024-10-16,2024-10-22,global care group,0,1,0,82
+2024-10-16,2024-10-22,global care medical group,0,1,0,57
+2024-10-16,2024-10-22,global care phone number,0,1,0,96
+2024-10-16,2024-10-22,globalcare,0,4,0,76.5
+2024-10-16,2024-10-22,globalcare medical group,0,3,0,91.66666666666667
+2024-10-23,2024-10-29,"brecher, eliezer, dmd",0,2,0,24
+2024-10-23,2024-10-29,eliezer brecher,0,2,0,21
+2024-10-23,2024-10-29,global care,0,1,0,92
+2024-10-23,2024-10-29,global care medical group,0,1,0,68
+2024-10-23,2024-10-29,globalcare,0,5,0,74.8
+2024-10-30,2024-11-05,global care medical,0,1,0,82
+2024-10-30,2024-11-05,global care medical group,0,2,0,70
+2024-10-30,2024-11-05,global care provider phone number,0,1,0,48
+2024-10-30,2024-11-05,globalcare,0,6,0,62.166666666666664
+2024-10-30,2024-11-05,globalcare services,0,1,0,74
+2024-10-30,2024-11-05,what is global care,0,1,0,83
+2024-11-06,2024-11-12,eliezer brecher,0,1,0,10
+2024-11-06,2024-11-12,global care company,0,1,0,10
+2024-11-06,2024-11-12,globalcare,0,3,0,62.666666666666664
+2024-11-06,2024-11-12,globalcare clinical trials,0,1,0,97
+2024-11-06,2024-11-12,globalcare services,0,1,0,87
+2024-11-06,2024-11-12,the global care company,0,1,0,95
+2024-11-13,2024-11-19,18007787879,0,1,0,3
+2024-11-13,2024-11-19,globalcare,0,6,0,67.16666666666667
+2024-11-13,2024-11-19,globalcare clinical trials,0,1,0,67
+2024-11-13,2024-11-19,globalcare medical group,0,1,0,71
+2024-11-13,2024-11-19,globalcare services,0,1,0,83
+2024-11-20,2024-11-26,18007787879,0,2,0,3
+2024-11-20,2024-11-26,eliezer brecher,0,8,0,7.75
+2024-11-20,2024-11-26,global care hospital,0,1,0,45
+2024-11-20,2024-11-26,globalcare,0,5,0,79
+2024-11-20,2024-11-26,globalcare medical,0,1,0,6
+2024-11-27,2024-12-03,eliezer brecher,0,6,0,8.5
+2024-11-27,2024-12-03,global care,0,1,0,92
+2024-11-27,2024-12-03,global care company,0,1,0,50
+2024-11-27,2024-12-03,global care hospital,0,1,0,35
+2024-11-27,2024-12-03,global care medical,0,1,0,97
+2024-11-27,2024-12-03,globalcare,0,8,0,69.375
+2024-11-27,2024-12-03,globalcare clinical trials,0,1,0,80
+2024-11-27,2024-12-03,globalcare services,0,1,0,96
+2024-12-04,2024-12-10,eliezer brecher,0,6,0,8
+2024-12-04,2024-12-10,global care inc claims address,0,1,0,78
+2024-12-04,2024-12-10,global care network,0,3,0,7.666666666666667
+2024-12-04,2024-12-10,globalcare,0,13,0,66.6923076923077
+2024-12-04,2024-12-10,globalcare clinical trials,0,2,0,72
+2024-12-04,2024-12-10,globalcare services,0,1,0,14
+2024-12-11,2024-12-17,eliezer brecher,0,5,0,8.6
+2024-12-11,2024-12-17,globalcare,0,7,0,66.85714285714286
+2024-12-18,2024-12-24,a global care inc,0,1,0,52
+2024-12-18,2024-12-24,eliezer brecher,0,3,0,9
+2024-12-18,2024-12-24,global care agency,0,1,0,101
+2024-12-18,2024-12-24,global care group,0,1,0,42
+2024-12-18,2024-12-24,global care hospital,0,1,0,29
+2024-12-18,2024-12-24,global care international,0,1,0,48
+2024-12-18,2024-12-24,globalcare,0,3,0,43.333333333333336
+2024-12-18,2024-12-24,globalcare clinical trials,0,2,0,86
+2024-12-18,2024-12-24,globalcare services,0,1,0,98
+2024-12-18,2024-12-24,what is global care,0,1,0,86
+2024-12-25,2024-12-31,eliezer brecher,1,1,1,14
+2024-12-25,2024-12-31,a global care,0,1,0,76
+2024-12-25,2024-12-31,dr brough dallas,0,1,0,65
+2024-12-25,2024-12-31,globalcare,0,2,0,57
+2024-12-25,2024-12-31,globalcare services,0,1,0,99
+2025-01-01,2025-01-07,eliezer brecher,0,2,0,7.5
+2025-01-01,2025-01-07,global care hospital,0,1,0,44
+2025-01-01,2025-01-07,globalcare,0,8,0,62.375
+2025-01-08,2025-01-14,eliezer brecher,0,4,0,6.25
+2025-01-08,2025-01-14,global care group,0,1,0,34
+2025-01-08,2025-01-14,global dental services,0,1,0,82
+2025-01-08,2025-01-14,globalcare,0,10,0,56.3
+2025-01-15,2025-01-21,eliezer brecher,0,3,0,5.666666666666667
+2025-01-15,2025-01-21,global care company,0,2,0,6
+2025-01-15,2025-01-21,global treatment clinic,0,1,0,92
+2025-01-15,2025-01-21,globalcare,0,6,0,40
+2025-01-15,2025-01-21,globalcare inc,0,3,0,5
+2025-01-22,2025-01-28,globalcare inc,1,3,0.3333333333333333,8.333333333333332
+2025-01-22,2025-01-28,18007787879,0,2,0,2
+2025-01-22,2025-01-28,eliezer brecher,0,3,0,5.666666666666667
+2025-01-22,2025-01-28,globalcare,0,8,0,28.375
+2025-01-29,2025-02-04,global care network,1,2,0.5,5.5
+2025-01-29,2025-02-04,18007787879,0,1,0,1
+2025-01-29,2025-02-04,eliezer brecher,0,4,0,5
+2025-01-29,2025-02-04,global care company,0,1,0,4
+2025-01-29,2025-02-04,global care group,0,1,0,36
+2025-01-29,2025-02-04,global care hospital doctors,0,1,0,38
+2025-01-29,2025-02-04,global care inc,0,2,0,53
+2025-01-29,2025-02-04,globalcare,0,6,0,43.833333333333336
+2025-01-29,2025-02-04,globalcare inc,0,3,0,7.666666666666667
+2025-01-29,2025-02-04,the global care company,0,1,0,8
+2025-01-29,2025-02-04,глобал дентал клиник,0,1,0,46
+2025-02-05,2025-02-11,18007787879,0,1,0,4
+2025-02-05,2025-02-11,eliezer brecher,0,3,0,9.666666666666666
+2025-02-05,2025-02-11,global care,0,1,0,166
+2025-02-05,2025-02-11,global care company,0,2,0,9
+2025-02-05,2025-02-11,global care inc,0,1,0,64
+2025-02-05,2025-02-11,global care network,0,1,0,10
+2025-02-05,2025-02-11,global dental services,0,1,0,73
+2025-02-05,2025-02-11,globalcare,0,6,0,32.16666666666667
+2025-02-05,2025-02-11,globalcare clinical trials,0,2,0,95
+2025-02-05,2025-02-11,the global care company,0,1,0,7
+2025-02-12,2025-02-18,18007787879,0,1,0,4
+2025-02-12,2025-02-18,eliezer brecher,0,3,0,12.666666666666666
+2025-02-12,2025-02-18,global care,0,3,0,4
+2025-02-12,2025-02-18,global care inc,0,1,0,2
+2025-02-12,2025-02-18,global care inc provider phone number,0,1,0,3
+2025-02-12,2025-02-18,global care medical group,0,1,0,3
+2025-02-12,2025-02-18,global care provider phone number for claims,0,1,0,3
+2025-02-12,2025-02-18,globalcare,0,6,0,29.166666666666668
+2025-02-12,2025-02-18,globalcare health services,0,1,0,6
+2025-02-12,2025-02-18,globalcare inc,0,1,0,6
+2025-02-12,2025-02-18,the global care company,0,1,0,8
+2025-02-19,2025-02-25,globalcare,1,13,0.07692307692307693,32.07692307692308
+2025-02-19,2025-02-25,eliezer brecher,0,1,0,6
+2025-02-19,2025-02-25,global care,0,9,0,3.111111111111111
+2025-02-19,2025-02-25,global care group,0,1,0,37
+2025-02-19,2025-02-25,global care hospital,0,1,0,6
+2025-02-19,2025-02-25,global care inc,0,1,0,35
+2025-02-19,2025-02-25,global care inc provider phone number,0,1,0,2
+2025-02-19,2025-02-25,global care insurance,0,1,0,2
+2025-02-19,2025-02-25,global care ipa,0,1,0,3
+2025-02-19,2025-02-25,global care ipa claims address,0,1,0,1
+2025-02-19,2025-02-25,global care ipa phone number,0,1,0,4
+2025-02-19,2025-02-25,global care medical group,0,2,0,3
+2025-02-19,2025-02-25,global care medical group ipa,0,2,0,3
+2025-02-19,2025-02-25,global care provider phone number for claims,0,1,0,2
+2025-02-19,2025-02-25,global care provider portal,0,1,0,5
+2025-02-19,2025-02-25,globalcare clinical trials,0,1,0,87
+2025-02-19,2025-02-25,globalcare inc,0,5,0,7.6
+2025-02-19,2025-02-25,globalcare one stop solution,0,1,0,11
+2025-02-19,2025-02-25,what is global care,0,2,0,25
+2025-02-26,2025-03-04,global care inc provider phone number,1,1,1,2
+2025-02-26,2025-03-04,global care services,1,3,0.3333333333333333,5
+2025-02-26,2025-03-04,globalcare,1,16,0.0625,15.75
+2025-02-26,2025-03-04,18007787879,0,1,0,1
+2025-02-26,2025-03-04,care global,0,1,0,4
+2025-02-26,2025-03-04,eliezer brecher,0,1,0,8
+2025-02-26,2025-03-04,global cardio care,0,1,0,160
+2025-02-26,2025-03-04,global care,0,15,0,16.666666666666664
+2025-02-26,2025-03-04,global care center,0,2,0,4.5
+2025-02-26,2025-03-04,global care clinic,0,1,0,12
+2025-02-26,2025-03-04,global care company,0,2,0,2
+2025-02-26,2025-03-04,global care emr,0,2,0,3
+2025-02-26,2025-03-04,global care group,0,1,0,35
+2025-02-26,2025-03-04,global care hospital,0,1,0,5
+2025-02-26,2025-03-04,global care inc,0,3,0,20.333333333333332
+2025-02-26,2025-03-04,global care insurance,0,1,0,2
+2025-02-26,2025-03-04,global care ipa,0,1,0,2
+2025-02-26,2025-03-04,global care ips,0,1,0,7
+2025-02-26,2025-03-04,global care medical group,0,2,0,3
+2025-02-26,2025-03-04,global care medical group ipa,0,1,0,2
+2025-02-26,2025-03-04,global care network,0,3,0,4.666666666666666
+2025-02-26,2025-03-04,global care provider phone number,0,2,0,2
+2025-02-26,2025-03-04,global care provider phone number for claims,0,1,0,2
+2025-02-26,2025-03-04,global care provider portal,0,2,0,5.5
+2025-02-26,2025-03-04,global care services inc,0,1,0,72
+2025-02-26,2025-03-04,global medical group,0,1,0,4
+2025-02-26,2025-03-04,globalcare inc,0,3,0,4
+2025-02-26,2025-03-04,globalcare provider portal,0,1,0,6
+2025-02-26,2025-03-04,is global care services legit,0,1,0,2
+2025-03-05,2025-03-11,global care,1,14,0.07142857142857142,7.285714285714286
+2025-03-05,2025-03-11,18007787879,0,1,0,5
+2025-03-05,2025-03-11,eliezer brecher,0,1,0,4
+2025-03-05,2025-03-11,global care company,0,1,0,6
+2025-03-05,2025-03-11,global care hospital reviews,0,1,0,4
+2025-03-05,2025-03-11,global care inc,0,2,0,16
+2025-03-05,2025-03-11,global care inc provider phone number,0,1,0,2
+2025-03-05,2025-03-11,global care inc provider portal,0,1,0,5
+2025-03-05,2025-03-11,global care ipa provider portal,0,1,0,4
+2025-03-05,2025-03-11,global care medical group,0,5,0,3
+2025-03-05,2025-03-11,global care medical group - alta hospital,0,1,0,3
+2025-03-05,2025-03-11,global care medicine,0,1,0,3
+2025-03-05,2025-03-11,global care network,0,1,0,9
+2025-03-05,2025-03-11,global care phone number,0,1,0,2
+2025-03-05,2025-03-11,global care provider phone number,0,2,0,3
+2025-03-05,2025-03-11,global care provider portal,0,2,0,5
+2025-03-05,2025-03-11,global care services,0,1,0,3
+2025-03-05,2025-03-11,global care services inc,0,1,0,4
+2025-03-05,2025-03-11,global care services reviews,0,1,0,2
+2025-03-05,2025-03-11,global care solutions,0,1,0,7
+2025-03-05,2025-03-11,global dental services,0,1,0,83
+2025-03-05,2025-03-11,globalcare,0,13,0,24.692307692307693
+2025-03-05,2025-03-11,globalcare clinical trials,0,1,0,97
+2025-03-05,2025-03-11,globalcare inc,0,1,0,2
+2025-03-12,2025-03-18,globalcare,1,15,0.06666666666666667,21.266666666666666
+2025-03-12,2025-03-18,care global,0,1,0,1
+2025-03-12,2025-03-18,eliezer brecher,0,4,0,6.75
+2025-03-12,2025-03-18,global care,0,13,0,2.6923076923076925
+2025-03-12,2025-03-18,global care company,0,2,0,4
+2025-03-12,2025-03-18,global care group,0,1,0,4
+2025-03-12,2025-03-18,global care inc insurance,0,1,0,92
+2025-03-12,2025-03-18,global care inc provider phone number,0,1,0,2
+2025-03-12,2025-03-18,global care insurance provider phone number,0,1,0,2
+2025-03-12,2025-03-18,global care international,0,1,0,3
+2025-03-12,2025-03-18,global care ipa provider phone number,0,1,0,1
+2025-03-12,2025-03-18,global care jobs,0,1,0,4
+2025-03-12,2025-03-18,global care llc,0,1,0,10
+2025-03-12,2025-03-18,global care medical group,0,3,0,3.3333333333333335
+2025-03-12,2025-03-18,global care medical group claims address,0,1,0,3
+2025-03-12,2025-03-18,global care medical group ipa provider phone number,0,1,0,3
+2025-03-12,2025-03-18,global care phone number,0,1,0,2
+2025-03-12,2025-03-18,global care provider phone number,0,1,0,4
+2025-03-12,2025-03-18,global care provider portal,0,1,0,6
+2025-03-12,2025-03-18,global care services,0,1,0,4
+2025-03-12,2025-03-18,global care services inc,0,1,0,78
+2025-03-12,2025-03-18,is global care services legit,0,1,0,2
+2025-03-12,2025-03-18,the global care company,0,1,0,3
+2025-03-19,2025-03-25,care global,0,1,0,4
+2025-03-19,2025-03-25,eliezer brecher,0,2,0,4
+2025-03-19,2025-03-25,global care,0,15,0,2.533333333333333
+2025-03-19,2025-03-25,global care agency,0,1,0,82
+2025-03-19,2025-03-25,global care de donde es,0,2,0,3
+2025-03-19,2025-03-25,global care hospital,0,1,0,6
+2025-03-19,2025-03-25,global care hospital reviews,0,1,0,3
+2025-03-19,2025-03-25,global care inc,0,2,0,4
+2025-03-19,2025-03-25,global care inc insurance,0,1,0,1
+2025-03-19,2025-03-25,global care inc provider phone number,0,1,0,2
+2025-03-19,2025-03-25,global care insurance provider phone number,0,1,0,2
+2025-03-19,2025-03-25,global care ipa provider phone number,0,1,0,1
+2025-03-19,2025-03-25,global care medical group,0,1,0,3
+2025-03-19,2025-03-25,global care medical group claims address,0,1,0,3
+2025-03-19,2025-03-25,global care medical group ipa provider phone number,0,1,0,3
+2025-03-19,2025-03-25,global care medical group reviews,0,1,0,7
+2025-03-19,2025-03-25,global care medicine,0,1,0,1
+2025-03-19,2025-03-25,global care network,0,1,0,12
+2025-03-19,2025-03-25,global care phone number,0,1,0,3
+2025-03-19,2025-03-25,global care provider phone number for claims,0,1,0,2
+2025-03-19,2025-03-25,global care provider portal,0,2,0,4.5
+2025-03-19,2025-03-25,global care services,0,2,0,3
+2025-03-19,2025-03-25,globalcare,0,26,0,12.653846153846153
+2025-03-19,2025-03-25,globalcare hospital,0,1,0,12
+2025-03-19,2025-03-25,is global care services legit,0,1,0,2
+2025-03-19,2025-03-25,what is global care,0,1,0,40
+2025-03-26,2025-04-01,مستشفى جلوبال كير ابوظبي,1,2,0.5,5.5
+2025-03-26,2025-04-01,18007787879,0,1,0,3
+2025-03-26,2025-04-01,a global care,0,1,0,45
+2025-03-26,2025-04-01,a global care inc,0,1,0,9
+2025-03-26,2025-04-01,care global,0,2,0,3
+2025-03-26,2025-04-01,eliezer brecher,0,7,0,6.142857142857143
+2025-03-26,2025-04-01,global care,0,19,0,11.052631578947368
+2025-03-26,2025-04-01,global care company,0,1,0,8
+2025-03-26,2025-04-01,global care emr,0,1,0,3
+2025-03-26,2025-04-01,global care group,0,2,0,32
+2025-03-26,2025-04-01,global care hospital,0,2,0,6.5
+2025-03-26,2025-04-01,global care inc,0,3,0,17.666666666666668
+2025-03-26,2025-04-01,global care inc provider portal,0,1,0,6
+2025-03-26,2025-04-01,global care insurance,0,1,0,2
+2025-03-26,2025-04-01,global care international,0,1,0,40
+2025-03-26,2025-04-01,global care ipa provider phone number,0,3,0,1.6666666666666665
+2025-03-26,2025-04-01,global care llc,0,1,0,2
+2025-03-26,2025-04-01,global care medical group,0,1,0,3
+2025-03-26,2025-04-01,global care medical group ipa provider phone number,0,3,0,2
+2025-03-26,2025-04-01,global care network,0,1,0,32
+2025-03-26,2025-04-01,global care provider portal,0,2,0,5.5
+2025-03-26,2025-04-01,global treatment clinic,0,1,0,100
+2025-03-26,2025-04-01,global wound care medical group california,0,1,0,8
+2025-03-26,2025-04-01,globalcare,0,20,0,18.05
+2025-04-02,2025-04-08,18007787879,0,1,0,5
+2025-04-02,2025-04-08,eliezer brecher,0,2,0,4
+2025-04-02,2025-04-08,global care,0,19,0,2.473684210526316
+2025-04-02,2025-04-08,global care clinic,0,1,0,9
+2025-04-02,2025-04-08,global care group,0,1,0,39
+2025-04-02,2025-04-08,global care hospital,0,6,0,4.166666666666666
+2025-04-02,2025-04-08,global care hospital doctors,0,1,0,29
+2025-04-02,2025-04-08,global care inc,0,4,0,27.75
+2025-04-02,2025-04-08,global care insurance,0,1,0,2
+2025-04-02,2025-04-08,global care ipa,0,3,0,2.333333333333333
+2025-04-02,2025-04-08,global care ipa provider phone number,0,9,0,1
+2025-04-02,2025-04-08,global care llc,0,3,0,2.666666666666667
+2025-04-02,2025-04-08,global care medical group,0,6,0,2.833333333333333
+2025-04-02,2025-04-08,global care medical group claims address,0,1,0,5
+2025-04-02,2025-04-08,global care medical group ipa,0,1,0,1
+2025-04-02,2025-04-08,global care medical group ipa provider phone number,0,6,0,1
+2025-04-02,2025-04-08,global care medical group phone number,0,1,0,1
+2025-04-02,2025-04-08,global care medical group provider phone number,0,3,0,1
+2025-04-02,2025-04-08,global care medicine,0,1,0,1
+2025-04-02,2025-04-08,global care network,0,2,0,11.5
+2025-04-02,2025-04-08,global care phone number,0,1,0,2
+2025-04-02,2025-04-08,global care provider contact number,0,2,0,1
+2025-04-02,2025-04-08,global care provider phone number,0,3,0,2
+2025-04-02,2025-04-08,global care provider phone number for claims,0,1,0,1
+2025-04-02,2025-04-08,global care solutions,0,2,0,1
+2025-04-02,2025-04-08,global cares,0,1,0,8
+2025-04-02,2025-04-08,global treatment clinic,0,1,0,101
+2025-04-02,2025-04-08,globalcae,0,1,0,10
+2025-04-02,2025-04-08,globalcare,0,14,0,18.571428571428573
+2025-04-02,2025-04-08,globalcare health services,0,1,0,7
+2025-04-02,2025-04-08,مستشفى جلوبال كير,0,2,0,5
+2025-04-02,2025-04-08,مستشفي جلوبال,0,1,0,2
+2025-04-09,2025-04-15,eliezer brecher,1,3,0.3333333333333333,7.333333333333333
+2025-04-09,2025-04-15,18007787879,0,2,0,3
+2025-04-09,2025-04-15,global care,0,23,0,2.5217391304347827
+2025-04-09,2025-04-15,global care emr,0,1,0,3
+2025-04-09,2025-04-15,global care group inglewood,0,1,0,3
+2025-04-09,2025-04-15,global care hospital,0,15,0,3.466666666666667
+2025-04-09,2025-04-15,global care inc,0,1,0,11
+2025-04-09,2025-04-15,global care inc insurance,0,1,0,3
+2025-04-09,2025-04-15,global care inc provider phone number,0,8,0,1
+2025-04-09,2025-04-15,global care international,0,1,0,5
+2025-04-09,2025-04-15,global care ipa provider phone number,0,1,0,1
+2025-04-09,2025-04-15,global care medical,0,1,0,4
+2025-04-09,2025-04-15,global care medical group,0,4,0,3
+2025-04-09,2025-04-15,global care medical group claims address,0,1,0,1
+2025-04-09,2025-04-15,global care medical group ipa,0,3,0,1.3333333333333333
+2025-04-09,2025-04-15,global care medical group ipa provider phone number,0,2,0,2
+2025-04-09,2025-04-15,global care medical group phone number,0,2,0,1
+2025-04-09,2025-04-15,global care medical group provider phone number,0,2,0,2
+2025-04-09,2025-04-15,global care medical group reviews,0,1,0,3
+2025-04-09,2025-04-15,global care network,0,3,0,9.333333333333334
+2025-04-09,2025-04-15,global care pflegedienst gmbh,0,1,0,2
+2025-04-09,2025-04-15,global care provider contact number,0,4,0,1
+2025-04-09,2025-04-15,global care provider phone number,0,3,0,4.666666666666666
+2025-04-09,2025-04-15,global care provider phone number for claims,0,1,0,2
+2025-04-09,2025-04-15,global care services,0,1,0,2
+2025-04-09,2025-04-15,global care solutions,0,2,0,4.5
+2025-04-09,2025-04-15,global medical care,0,2,0,3
+2025-04-09,2025-04-15,globalcae,0,2,0,8.5
+2025-04-09,2025-04-15,globalcare,0,20,0,9.55
+2025-04-09,2025-04-15,globalcare clinical trials,0,1,0,80
+2025-04-09,2025-04-15,globalcare health,0,1,0,3
+2025-04-09,2025-04-15,globalcare one stop solution,0,1,0,8
+2025-04-09,2025-04-15,is global care services legit,0,1,0,2
+2025-04-16,2025-04-22,global care provider contact number,2,10,0.2,1
+2025-04-16,2025-04-22,global care international,1,1,1,4
+2025-04-16,2025-04-22,globalcare,1,3,0.3333333333333333,7.333333333333333
+2025-04-16,2025-04-22,eliezer brecher,0,5,0,6.6
+2025-04-16,2025-04-22,global care,0,13,0,8.76923076923077
+2025-04-16,2025-04-22,global care company,0,2,0,1.5
+2025-04-16,2025-04-22,global care de donde es,0,1,0,3
+2025-04-16,2025-04-22,global care hospital,0,6,0,4.333333333333334
+2025-04-16,2025-04-22,global care inc provider phone number,0,1,0,1
+2025-04-16,2025-04-22,global care inc provider portal,0,1,0,5
+2025-04-16,2025-04-22,global care insurance,0,1,0,2
+2025-04-16,2025-04-22,global care medical group ipa provider phone number,0,1,0,3
+2025-04-16,2025-04-22,global care medicine,0,2,0,3
+2025-04-16,2025-04-22,global care number,0,1,0,9
+2025-04-16,2025-04-22,global care provider portal,0,2,0,5
+2025-04-16,2025-04-22,global medical services,0,1,0,1
+2025-04-16,2025-04-22,globalcae,0,1,0,5
+2025-04-16,2025-04-22,جلوبال كير,0,1,0,8
+2025-04-23,2025-04-29,a global care inc,0,1,0,35
+2025-04-23,2025-04-29,eliezer brecher,0,6,0,8
+2025-04-23,2025-04-29,global care,0,19,0,6.052631578947368
+2025-04-23,2025-04-29,global care company,0,2,0,2.5
+2025-04-23,2025-04-29,global care de donde es,0,1,0,3
+2025-04-23,2025-04-29,global care hospital,0,2,0,2.5
+2025-04-23,2025-04-29,global care inc,0,1,0,28
+2025-04-23,2025-04-29,global care innovations,0,1,0,8
+2025-04-23,2025-04-29,global care international,0,1,0,3
+2025-04-23,2025-04-29,global care ipa,0,1,0,3
+2025-04-23,2025-04-29,global care ltd,0,1,0,5
+2025-04-23,2025-04-29,global care medical group,0,4,0,3.5
+2025-04-23,2025-04-29,global care medical group ipa claims mailing address,0,4,0,5.25
+2025-04-23,2025-04-29,global care medical group tewksbury,0,1,0,5
+2025-04-23,2025-04-29,global care number,0,1,0,1
+2025-04-23,2025-04-29,global care products,0,1,0,10
+2025-04-23,2025-04-29,global care provider phone number,0,2,0,3
+2025-04-23,2025-04-29,global care provider portal,0,2,0,5
+2025-04-23,2025-04-29,global care services inc,0,1,0,97
+2025-04-23,2025-04-29,global treatment clinic,0,1,0,93
+2025-04-23,2025-04-29,globalcare,0,6,0,5.333333333333333
+2025-04-23,2025-04-29,globalcare clinical trials,0,1,0,90
+2025-04-23,2025-04-29,globalcare inc,0,3,0,3
+2025-04-23,2025-04-29,مستشفى جلوبال كير #ابوظبي,0,1,0,8
+2025-04-30,2025-05-06,globalcare inc,1,5,0.2,2.4
+2025-04-30,2025-05-06,eliezer brecher,0,10,0,7.4
+2025-04-30,2025-05-06,global care,0,15,0,17.533333333333335
+2025-04-30,2025-05-06,global care hospital,0,6,0,4
+2025-04-30,2025-05-06,global care hospital doctors,0,1,0,42
+2025-04-30,2025-05-06,global care inc,0,2,0,28
+2025-04-30,2025-05-06,global care insurance,0,1,0,2
+2025-04-30,2025-05-06,global care ipa,0,3,0,3
+2025-04-30,2025-05-06,global care medical group,0,2,0,2.5
+2025-04-30,2025-05-06,global care network,0,3,0,42
+2025-04-30,2025-05-06,global care provider contact number,0,2,0,1
+2025-04-30,2025-05-06,global care provider portal,0,1,0,5
+2025-04-30,2025-05-06,global care services inc,0,1,0,66
+2025-04-30,2025-05-06,global treatment clinic,0,2,0,92.5
+2025-04-30,2025-05-06,globalcare,0,6,0,7.333333333333333
+2025-05-07,2025-05-13,globalcare inc,1,1,1,2
+2025-05-07,2025-05-13,eliezer brecher,0,8,0,7.125
+2025-05-07,2025-05-13,global care,0,2,0,40
+2025-05-07,2025-05-13,global care laxå,0,1,0,44
+2025-05-07,2025-05-13,globalcare,0,8,0,3.375
+2025-05-07,2025-05-13,globalcare clinical trials,0,2,0,91
+2025-05-07,2025-05-13,globalcare services,0,1,0,52
+2025-05-07,2025-05-13,the global care company,0,1,0,7
+2025-05-07,2025-05-13,what is global care,0,1,0,12
+2025-05-14,2025-05-20,eliezer brecher,0,7,0,6.428571428571429
+2025-05-14,2025-05-20,global care,0,3,0,3.3333333333333335
+2025-05-14,2025-05-20,global care medical,0,1,0,4
+2025-05-14,2025-05-20,global care medical group,0,1,0,4
+2025-05-14,2025-05-20,global care provider portal,0,1,0,5
+2025-05-14,2025-05-20,globalcare,0,30,0,12
+2025-05-14,2025-05-20,globalcare inc,0,3,0,3
+2025-05-14,2025-05-20,globalcare medical group,0,2,0,59.5
+2025-05-14,2025-05-20,globalcare one stop solution,0,1,0,8
+2025-05-14,2025-05-20,globalcare services,0,1,0,55
+2025-05-21,2025-05-27,globalcare inc,2,5,0.4,5.4
+2025-05-21,2025-05-27,18007787879,0,1,0,3
+2025-05-21,2025-05-27,a global care inc,0,1,0,40
+2025-05-21,2025-05-27,concierge dental group,0,1,0,97
+2025-05-21,2025-05-27,eliezer brecher,0,7,0,8
+2025-05-21,2025-05-27,global care,0,16,0,2.6875
+2025-05-21,2025-05-27,global care center,0,1,0,2
+2025-05-21,2025-05-27,global care company,0,2,0,4.5
+2025-05-21,2025-05-27,global care emr,0,1,0,3
+2025-05-21,2025-05-27,global care hospital,0,2,0,3.5
+2025-05-21,2025-05-27,global care inc,0,1,0,34
+2025-05-21,2025-05-27,global care inc provider phone number,0,1,0,2
+2025-05-21,2025-05-27,global care ipa,0,1,0,3
+2025-05-21,2025-05-27,global care llc,0,1,0,1
+2025-05-21,2025-05-27,global care medical,0,1,0,75
+2025-05-21,2025-05-27,global care medical group,0,12,0,3
+2025-05-21,2025-05-27,global care medical group ipa claims mailing address,0,1,0,1
+2025-05-21,2025-05-27,global care network,0,2,0,7.5
+2025-05-21,2025-05-27,global care provider contact number,0,5,0,1
+2025-05-21,2025-05-27,global care provider phone number,0,1,0,2
+2025-05-21,2025-05-27,global care provider portal,0,2,0,5.5
+2025-05-21,2025-05-27,global care tewksbury,0,1,0,4
+2025-05-21,2025-05-27,global treatment clinic,0,4,0,97.5
+2025-05-21,2025-05-27,globalcare,0,27,0,14.592592592592593
+2025-05-21,2025-05-27,globalcare clinical trials,0,1,0,96
+2025-05-21,2025-05-27,globalcare medical group,0,2,0,58
+2025-05-21,2025-05-27,globalcare services,0,1,0,10
+2025-05-21,2025-05-27,is global care services legit,0,1,0,2
+2025-05-21,2025-05-27,kinal global care,0,1,0,43
+2025-05-21,2025-05-27,what is global care,0,1,0,7
+2025-05-28,2025-06-03,globalcare,3,41,0.07317073170731707,10.804878048780488
+2025-05-28,2025-06-03,18007787879,0,7,0,3.7142857142857144
+2025-05-28,2025-06-03,eliezer brecher,0,4,0,6.5
+2025-05-28,2025-06-03,gc insurance,0,1,0,1
+2025-05-28,2025-06-03,global care,0,25,0,2.8
+2025-05-28,2025-06-03,global care company,0,2,0,10.5
+2025-05-28,2025-06-03,global care health,0,2,0,4
+2025-05-28,2025-06-03,global care hospital,0,3,0,36.333333333333336
+2025-05-28,2025-06-03,global care hospital doctors,0,1,0,96
+2025-05-28,2025-06-03,global care hospital reviews,0,1,0,7
+2025-05-28,2025-06-03,global care inc,0,2,0,54.5
+2025-05-28,2025-06-03,global care insurance,0,1,0,2
+2025-05-28,2025-06-03,global care international,0,2,0,3
+2025-05-28,2025-06-03,global care llc,0,1,0,7
+2025-05-28,2025-06-03,global care medical group,0,3,0,4.666666666666666
+2025-05-28,2025-06-03,global care medical group ipa claims mailing address,0,1,0,1
+2025-05-28,2025-06-03,global care network,0,7,0,8
+2025-05-28,2025-06-03,global care provider contact number,0,1,0,3
+2025-05-28,2025-06-03,global care provider phone number for claims,0,1,0,2
+2025-05-28,2025-06-03,global care provider portal,0,2,0,5.5
+2025-05-28,2025-06-03,global care surgery,0,1,0,55
+2025-05-28,2025-06-03,global med care,0,1,0,3
+2025-05-28,2025-06-03,global treatment clinic,0,1,0,94
+2025-05-28,2025-06-03,globalcare clinical trials,0,1,0,92
+2025-05-28,2025-06-03,globalcare health,0,1,0,10
+2025-05-28,2025-06-03,globalcare health services,0,1,0,2
+2025-05-28,2025-06-03,globalcare inc,0,1,0,3
+2025-05-28,2025-06-03,globle care,0,1,0,2
+2025-05-28,2025-06-03,the global care company,0,1,0,8
+2025-06-04,2025-06-10,global care,2,19,0.10526315789473684,2.7894736842105265
+2025-06-04,2025-06-10,global care provider portal,1,1,1,4
+2025-06-04,2025-06-10,globalcare,1,33,0.030303030303030304,7.363636363636363
+2025-06-04,2025-06-10,18007787879,0,1,0,3
+2025-06-04,2025-06-10,concierge dental group,0,1,0,93
+2025-06-04,2025-06-10,eliezer brecher,0,2,0,7.5
+2025-06-04,2025-06-10,global care canlubang,0,1,0,8
+2025-06-04,2025-06-10,global care company,0,2,0,6.5
+2025-06-04,2025-06-10,global care hospital,0,5,0,3.6
+2025-06-04,2025-06-10,global care hospital reviews,0,1,0,6
+2025-06-04,2025-06-10,global care inc provider phone number,0,2,0,2
+2025-06-04,2025-06-10,global care insurance,0,1,0,2
+2025-06-04,2025-06-10,global care insurance provider portal,0,1,0,5
+2025-06-04,2025-06-10,global care international,0,1,0,79
+2025-06-04,2025-06-10,global care ipa,0,3,0,34
+2025-06-04,2025-06-10,global care ipa medical group,0,1,0,3
+2025-06-04,2025-06-10,global care medical group - alta hospital,0,2,0,3
+2025-06-04,2025-06-10,global care medical group claims address,0,1,0,1
+2025-06-04,2025-06-10,global care network,0,7,0,12.857142857142858
+2025-06-04,2025-06-10,global care services,0,1,0,1
+2025-06-04,2025-06-10,global care solution,0,1,0,1
+2025-06-04,2025-06-10,global cares,0,1,0,2
+2025-06-04,2025-06-10,globalcare services,0,1,0,48
+2025-06-04,2025-06-10,the global care company,0,1,0,6
+2025-06-11,2025-06-17,global care insurance,1,3,0.3333333333333333,2
+2025-06-11,2025-06-17,18007787879,0,3,0,3.3333333333333335
+2025-06-11,2025-06-17,eliezer brecher,0,2,0,4.5
+2025-06-11,2025-06-17,global care,0,21,0,2.571428571428571
+2025-06-11,2025-06-17,global care group inglewood photos,0,1,0,8
+2025-06-11,2025-06-17,global care hospital,0,5,0,3
+2025-06-11,2025-06-17,global care hospital reviews,0,1,0,2
+2025-06-11,2025-06-17,global care inc,0,2,0,6.5
+2025-06-11,2025-06-17,global care inc provider portal,0,1,0,5
+2025-06-11,2025-06-17,global care ipa,0,1,0,2
+2025-06-11,2025-06-17,global care llc,0,1,0,1
+2025-06-11,2025-06-17,global care medical,0,1,0,101
+2025-06-11,2025-06-17,global care medical group,0,6,0,34.166666666666664
+2025-06-11,2025-06-17,global care network,0,4,0,7.25
+2025-06-11,2025-06-17,global care products,0,2,0,2
+2025-06-11,2025-06-17,global care provider portal,0,2,0,4.5
+2025-06-11,2025-06-17,global care services,0,2,0,6
+2025-06-11,2025-06-17,global care services inc,0,4,0,4.25
+2025-06-11,2025-06-17,global home care,0,1,0,1
+2025-06-11,2025-06-17,globalcare,0,52,0,11.596153846153847
+2025-06-11,2025-06-17,globalcare inc,0,2,0,3
+2025-06-11,2025-06-17,globalcare insurance,0,1,0,2
+2025-06-11,2025-06-17,globalcare medical group,0,1,0,58
+2025-06-18,2025-06-24,globalcare,2,42,0.047619047619047616,9.19047619047619
+2025-06-18,2025-06-24,18007787879,1,4,0.25,3
+2025-06-18,2025-06-24,global care,1,9,0.1111111111111111,2.7777777777777777
+2025-06-18,2025-06-24,global care insurance,1,2,0.5,2
+2025-06-18,2025-06-24,global care ipa,1,1,1,2
+2025-06-18,2025-06-24,clinicas global,0,1,0,79
+2025-06-18,2025-06-24,global care center,0,1,0,3
+2025-06-18,2025-06-24,global care group,0,1,0,45
+2025-06-18,2025-06-24,global care group inglewood photos,0,2,0,8
+2025-06-18,2025-06-24,global care hospital,0,4,0,4.75
+2025-06-18,2025-06-24,global care inc,0,1,0,21
+2025-06-18,2025-06-24,global care inc provider phone number,0,1,0,2
+2025-06-18,2025-06-24,global care insurance provider portal,0,1,0,5
+2025-06-18,2025-06-24,global care international,0,1,0,4
+2025-06-18,2025-06-24,global care llc,0,1,0,1
+2025-06-18,2025-06-24,global care medical,0,1,0,101
+2025-06-18,2025-06-24,global care medical group,0,4,0,51
+2025-06-18,2025-06-24,global care medical group doctors,0,1,0,9
+2025-06-18,2025-06-24,global care medical group ipa claims address,0,2,0,1
+2025-06-18,2025-06-24,global care medical group lowell ma,0,1,0,64
+2025-06-18,2025-06-24,global care network,0,5,0,5.8
+2025-06-18,2025-06-24,global care provider phone number,0,2,0,3
+2025-06-18,2025-06-24,global care services,0,1,0,2
+2025-06-18,2025-06-24,global caring group,0,1,0,5
+2025-06-18,2025-06-24,globalcare clinical trials,0,1,0,96
+2025-06-18,2025-06-24,globalcare inc,0,1,0,3
+2025-06-18,2025-06-24,the global care company,0,1,0,25
+2025-06-18,2025-06-24,what is global care,0,2,0,6
+2025-06-25,2025-07-01,globalcare,3,56,0.05357142857142857,7.392857142857143
+2025-06-25,2025-07-01,globalcare inc,1,4,0.25,2.75
+2025-06-25,2025-07-01,18007787879,0,2,0,3.5
+2025-06-25,2025-07-01,a global care inc,0,1,0,20
+2025-06-25,2025-07-01,eliezer brecher,0,1,0,8
+2025-06-25,2025-07-01,global care,0,7,0,16.285714285714285
+2025-06-25,2025-07-01,global care company,0,2,0,6
+2025-06-25,2025-07-01,global care group,0,1,0,81
+2025-06-25,2025-07-01,global care group inglewood photos,0,5,0,7.6
+2025-06-25,2025-07-01,global care hospital,0,2,0,3
+2025-06-25,2025-07-01,global care inc,0,1,0,65
+2025-06-25,2025-07-01,global care inc provider phone number,0,1,0,1
+2025-06-25,2025-07-01,global care insurance provider phone number,0,1,0,4
+2025-06-25,2025-07-01,global care international,0,1,0,60
+2025-06-25,2025-07-01,global care ipa,0,2,0,45.5
+2025-06-25,2025-07-01,global care medical,0,3,0,67
+2025-06-25,2025-07-01,global care medical group,0,5,0,22.8
+2025-06-25,2025-07-01,global care medical group ipa,0,1,0,68
+2025-06-25,2025-07-01,global care medical group ipa claims address,0,1,0,1
+2025-06-25,2025-07-01,global care medical group ipa provider phone number,0,1,0,3
+2025-06-25,2025-07-01,global care network,0,2,0,7.5
+2025-06-25,2025-07-01,global care pharmacy,0,1,0,4
+2025-06-25,2025-07-01,global care provider phone number,0,1,0,2
+2025-06-25,2025-07-01,global care provider portal,0,1,0,4
+2025-06-25,2025-07-01,global care surgery,0,1,0,17
+2025-06-25,2025-07-01,global mobile care,0,1,0,99
+2025-06-25,2025-07-01,globalcare medical group,0,1,0,55
+2025-06-25,2025-07-01,the global care company,0,2,0,7
+2025-06-25,2025-07-01,what is global care,0,6,0,11.333333333333334
+2025-07-02,2025-07-08,globalcare,1,56,0.017857142857142856,11.982142857142858
+2025-07-02,2025-07-08,18007787879,0,2,0,4.5
+2025-07-02,2025-07-08,eliezer brecher,0,4,0,4.25
+2025-07-02,2025-07-08,global care,0,8,0,13.375
+2025-07-02,2025-07-08,global care australia,0,1,0,3
+2025-07-02,2025-07-08,global care company,0,4,0,8.75
+2025-07-02,2025-07-08,global care group,0,4,0,15.25
+2025-07-02,2025-07-08,global care group inglewood photos,0,2,0,7.5
+2025-07-02,2025-07-08,global care hospital,0,1,0,3
+2025-07-02,2025-07-08,global care hospital doctors,0,1,0,73
+2025-07-02,2025-07-08,global care hospital reviews,0,1,0,5
+2025-07-02,2025-07-08,global care inc,0,6,0,23.666666666666668
+2025-07-02,2025-07-08,global care inc provider phone number,0,8,0,80.25
+2025-07-02,2025-07-08,global care international,0,1,0,50
+2025-07-02,2025-07-08,global care medical,0,1,0,98
+2025-07-02,2025-07-08,global care medical group,0,9,0,68
+2025-07-02,2025-07-08,global care medical group doctors,0,2,0,64.5
+2025-07-02,2025-07-08,global care medical group ipa claims address,0,1,0,1
+2025-07-02,2025-07-08,global care medical group phone number,0,1,0,4
+2025-07-02,2025-07-08,global care medicine,0,1,0,1
+2025-07-02,2025-07-08,global care network,0,7,0,9.142857142857142
+2025-07-02,2025-07-08,global care products,0,1,0,87
+2025-07-02,2025-07-08,global care provider phone number,0,2,0,58
+2025-07-02,2025-07-08,global care provider phone number for claims,0,1,0,57
+2025-07-02,2025-07-08,global care solutions,0,1,0,1
+2025-07-02,2025-07-08,globalcare health,0,1,0,3
+2025-07-02,2025-07-08,globalcare inc,0,5,0,4.2
+2025-07-02,2025-07-08,globalcare medical group,0,1,0,60
+2025-07-02,2025-07-08,globalcare services,0,2,0,43.5
+2025-07-02,2025-07-08,network management,0,1,0,9
+2025-07-02,2025-07-08,what is global care,0,1,0,2
+2025-07-09,2025-07-15,globalcare inc,1,8,0.125,3.125
+2025-07-09,2025-07-15,18007787879,0,4,0,6
+2025-07-09,2025-07-15,concierge dental group pllc,0,1,0,70
+2025-07-09,2025-07-15,eliezer brecher,0,7,0,4.714285714285714
+2025-07-09,2025-07-15,global care,0,1,0,1
+2025-07-09,2025-07-15,global care company,0,6,0,7
+2025-07-09,2025-07-15,global care group,0,1,0,10
+2025-07-09,2025-07-15,global care group inglewood photos,0,4,0,8.75
+2025-07-09,2025-07-15,global care hospital,0,1,0,96
+2025-07-09,2025-07-15,global care hospital careers,0,1,0,71
+2025-07-09,2025-07-15,global care inc,0,3,0,14.666666666666666
+2025-07-09,2025-07-15,global care inc provider phone number,0,8,0,72.375
+2025-07-09,2025-07-15,global care medical,0,6,0,86.5
+2025-07-09,2025-07-15,global care medical group,0,9,0,85.11111111111111
+2025-07-09,2025-07-15,global care network,0,4,0,9.5
+2025-07-09,2025-07-15,global care phone number,0,1,0,9
+2025-07-09,2025-07-15,global care provider phone number,0,5,0,23.4
+2025-07-09,2025-07-15,global care services,0,1,0,87
+2025-07-09,2025-07-15,globalcare,0,38,0,6.7631578947368425
+2025-07-09,2025-07-15,globalcare clinical trials,0,2,0,85
+2025-07-09,2025-07-15,globalcare provider portal,0,1,0,10
+2025-07-09,2025-07-15,na.globalcare,0,1,0,5
+2025-07-09,2025-07-15,what is global care,0,2,0,10.5
+2025-07-16,2025-07-22,globalcare,1,48,0.020833333333333332,12.354166666666666
+2025-07-16,2025-07-22,a global care inc,0,1,0,9
+2025-07-16,2025-07-22,eliezer brecher,0,1,0,9
+2025-07-16,2025-07-22,global care,0,3,0,27.666666666666668
+2025-07-16,2025-07-22,global care company,0,6,0,8.5
+2025-07-16,2025-07-22,global care group inglewood photos,0,1,0,9
+2025-07-16,2025-07-22,global care hospital,0,1,0,4
+2025-07-16,2025-07-22,global care inc,0,1,0,6
+2025-07-16,2025-07-22,global care inc provider phone number,0,8,0,73.625
+2025-07-16,2025-07-22,global care international,0,1,0,31
+2025-07-16,2025-07-22,global care medical group,0,6,0,91.83333333333333
+2025-07-16,2025-07-22,global care network,0,1,0,12
+2025-07-16,2025-07-22,global care phone number,0,1,0,8
+2025-07-16,2025-07-22,global care products,0,1,0,85
+2025-07-16,2025-07-22,global care provider phone number,0,1,0,11
+2025-07-16,2025-07-22,global care services inc,0,2,0,59.5
+2025-07-16,2025-07-22,global care surgery,0,1,0,8
+2025-07-16,2025-07-22,globalcare inc,0,5,0,2.8
+2025-07-16,2025-07-22,globalcare medical group,0,1,0,61
+2025-07-16,2025-07-22,the global care company,0,2,0,17.5
+2025-07-16,2025-07-22,what is global care,0,3,0,5.666666666666667
+2025-07-16,2025-07-22,world dental care,0,1,0,93
+2025-07-23,2025-07-29,global care,1,19,0.05263157894736842,53.05263157894737
+2025-07-23,2025-07-29,global care inc,1,2,0.5,29.5
+2025-07-23,2025-07-29,eliezer brecher,0,7,0,6
+2025-07-23,2025-07-29,global care company,0,1,0,9
+2025-07-23,2025-07-29,global care group,0,1,0,3
+2025-07-23,2025-07-29,global care hospital,0,1,0,89
+2025-07-23,2025-07-29,global care inc provider phone number,0,7,0,79.85714285714286
+2025-07-23,2025-07-29,global care logo,0,1,0,7
+2025-07-23,2025-07-29,global care medical,0,1,0,99
+2025-07-23,2025-07-29,global care medical group,0,2,0,61
+2025-07-23,2025-07-29,global care network,0,3,0,11
+2025-07-23,2025-07-29,global care number,0,1,0,7
+2025-07-23,2025-07-29,global care services,0,2,0,59
+2025-07-23,2025-07-29,global care services inc,0,1,0,96
+2025-07-23,2025-07-29,global care surgery,0,1,0,29
+2025-07-23,2025-07-29,global mobile care,0,1,0,92
+2025-07-23,2025-07-29,globalcare,0,62,0,7.580645161290323
+2025-07-23,2025-07-29,globalcare inc,0,1,0,2
+2025-07-23,2025-07-29,globalcare medical group,0,1,0,51
+2025-07-23,2025-07-29,what is global care,0,5,0,3.2
+2025-07-30,2025-08-05,globalcare,1,59,0.01694915254237288,10.661016949152541
+2025-07-30,2025-08-05,8187020100,0,1,0,2
+2025-07-30,2025-08-05,a global care inc,0,2,0,27.5
+2025-07-30,2025-08-05,eliezer brecher,0,7,0,6
+2025-07-30,2025-08-05,global care,0,10,0,40.9
+2025-07-30,2025-08-05,global care company,0,3,0,12.666666666666666
+2025-07-30,2025-08-05,global care group,0,1,0,95
+2025-07-30,2025-08-05,global care hospital,0,1,0,91
+2025-07-30,2025-08-05,global care hospital doctors,0,1,0,77
+2025-07-30,2025-08-05,global care inc,0,9,0,23.22222222222222
+2025-07-30,2025-08-05,global care inc provider phone number,0,9,0,60.666666666666664
+2025-07-30,2025-08-05,global care medical group,0,4,0,93
+2025-07-30,2025-08-05,global care near me,0,2,0,10.5
+2025-07-30,2025-08-05,global care network,0,3,0,6.666666666666667
+2025-07-30,2025-08-05,global care phone number,0,1,0,5
+2025-07-30,2025-08-05,global care provider phone number,0,3,0,81
+2025-07-30,2025-08-05,globalcare inc,0,3,0,2
+2025-07-30,2025-08-05,globalcare v 10.1,0,7,0,5
+2025-07-30,2025-08-05,what is global care,0,1,0,7
+2025-08-06,2025-08-12,globalcare,1,63,0.015873015873015872,11.428571428571429
+2025-08-06,2025-08-12,customer global care,0,1,0,6
+2025-08-06,2025-08-12,eliezer brecher,0,5,0,7.4
+2025-08-06,2025-08-12,global care,0,8,0,31.25
+2025-08-06,2025-08-12,global care company,0,2,0,6.5
+2025-08-06,2025-08-12,global care inc,0,3,0,5.666666666666667
+2025-08-06,2025-08-12,global care inc insurance,0,1,0,1
+2025-08-06,2025-08-12,global care inc provider phone number,0,6,0,38.666666666666664
+2025-08-06,2025-08-12,global care medical,0,1,0,92
+2025-08-06,2025-08-12,global care medical center,0,1,0,29
+2025-08-06,2025-08-12,global care medical group,0,1,0,77
+2025-08-06,2025-08-12,global care medical group ipa claims mailing address,0,1,0,1
+2025-08-06,2025-08-12,global care medicine,0,1,0,46
+2025-08-06,2025-08-12,global care network,0,1,0,9
+2025-08-06,2025-08-12,global care phone number,0,1,0,5
+2025-08-06,2025-08-12,globalcare inc,0,4,0,1.75
+2025-08-06,2025-08-12,globalcare leiria,0,1,0,8
+2025-08-06,2025-08-12,globalcare services,0,1,0,54
+2025-08-06,2025-08-12,globalcare v 10.1,0,13,0,4.769230769230769
+2025-08-06,2025-08-12,international x dental clinic,0,1,0,87
+2025-08-06,2025-08-12,na.globalcare,0,1,0,2
+2025-08-13,2025-08-17,globalcare v 10.1,1,2,0.5,4.5
+2025-08-13,2025-08-17,eliezer brecher,0,3,0,7.333333333333333
+2025-08-13,2025-08-17,global care,0,4,0,79.5
+2025-08-13,2025-08-17,global care company,0,3,0,6
+2025-08-13,2025-08-17,global care inc,0,1,0,2
+2025-08-13,2025-08-17,global care inc provider phone number,0,3,0,53
+2025-08-13,2025-08-17,global care near me,0,2,0,18
+2025-08-13,2025-08-17,global care products,0,1,0,50
+2025-08-13,2025-08-17,globalcare,0,21,0,13.047619047619047
+2025-08-13,2025-08-17,globalcare inc,0,1,0,4
+2025-08-13,2025-08-17,globalcare medical group,0,1,0,43
+2025-08-13,2025-08-17,na.globalcare,0,1,0,4
+2025-08-13,2025-08-17,what is global care,0,2,0,4

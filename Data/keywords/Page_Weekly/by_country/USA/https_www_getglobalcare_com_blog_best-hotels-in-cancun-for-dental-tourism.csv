@@ -1,0 +1,573 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,usa,cancun dental vacation,0,1,0,74
+2024-05-01,2024-05-07,usa,cancun mexico dental tourism,0,1,0,68
+2024-05-01,2024-05-07,usa,dental tourism cancun,0,3,0,52
+2024-05-01,2024-05-07,usa,dental tourism in cancun,0,2,0,72
+2024-05-01,2024-05-07,usa,dental vacation cancun,0,2,0,48
+2024-05-01,2024-05-07,usa,dental vacations cancun,0,1,0,47
+2024-05-08,2024-05-14,usa,cancun dental tourism,0,7,0,58.57142857142857
+2024-05-08,2024-05-14,usa,cancun dental vacation,0,8,0,71.625
+2024-05-08,2024-05-14,usa,cancun for dental holiday,0,1,0,45
+2024-05-08,2024-05-14,usa,cancun mexico dental tourism,0,2,0,67.5
+2024-05-08,2024-05-14,usa,dental tourism cancun,0,10,0,46.7
+2024-05-08,2024-05-14,usa,dental tourism cancun mexico,0,7,0,62.857142857142854
+2024-05-08,2024-05-14,usa,dental tourism in cancun,0,14,0,65.71428571428571
+2024-05-08,2024-05-14,usa,dental vacation cancun,0,10,0,47.2
+2024-05-08,2024-05-14,usa,dental vacation in cancun mexico,0,1,0,56
+2024-05-08,2024-05-14,usa,dental vacations cancun,0,11,0,49
+2024-05-08,2024-05-14,usa,hotels near cancun dental specialists,0,4,0,6.75
+2024-05-08,2024-05-14,usa,mexico dental tourism hotels,0,2,0,67.5
+2024-05-15,2024-05-21,usa,best hotels in cancún,0,1,0,77
+2024-05-15,2024-05-21,usa,cancun dental tourism,0,9,0,53.888888888888886
+2024-05-15,2024-05-21,usa,cancun dental vacation,0,10,0,59
+2024-05-15,2024-05-21,usa,cancun mexico dental tourism,0,5,0,61.4
+2024-05-15,2024-05-21,usa,dental tourism cancun,0,10,0,44.2
+2024-05-15,2024-05-21,usa,dental tourism cancun mexico,0,7,0,58.285714285714285
+2024-05-15,2024-05-21,usa,dental tourism in cancun,0,17,0,58.35294117647059
+2024-05-15,2024-05-21,usa,dental vacation cancun,0,13,0,45.69230769230769
+2024-05-15,2024-05-21,usa,dental vacation in cancun mexico,0,1,0,49
+2024-05-15,2024-05-21,usa,dental vacations cancun,0,10,0,48.1
+2024-05-15,2024-05-21,usa,hotels near cancun dental specialists,0,3,0,7.666666666666667
+2024-05-15,2024-05-21,usa,veneers cost cancun,0,6,0,99.66666666666667
+2024-05-22,2024-05-28,usa,cancun dental tourism,0,10,0,52.7
+2024-05-22,2024-05-28,usa,cancun dental vacation,0,11,0,60.27272727272727
+2024-05-22,2024-05-28,usa,cancun for dental holiday,0,2,0,42
+2024-05-22,2024-05-28,usa,cancun mexico dental tourism,0,12,0,71.33333333333333
+2024-05-22,2024-05-28,usa,dental tourism cancun,0,15,0,45.2
+2024-05-22,2024-05-28,usa,dental tourism cancun mexico,0,5,0,54.6
+2024-05-22,2024-05-28,usa,dental tourism in cancun,0,21,0,59.142857142857146
+2024-05-22,2024-05-28,usa,dental vacation cancun,0,7,0,45.285714285714285
+2024-05-22,2024-05-28,usa,dental vacation in cancun mexico,0,2,0,50.5
+2024-05-22,2024-05-28,usa,dental vacations cancun,0,11,0,44.45454545454545
+2024-05-22,2024-05-28,usa,hotels near cancun dental specialists,0,1,0,9
+2024-05-29,2024-06-04,usa,cancun dental tourism,0,14,0,53
+2024-05-29,2024-06-04,usa,cancun dental vacation,0,13,0,63.38461538461539
+2024-05-29,2024-06-04,usa,cancun for dental holiday,0,1,0,42
+2024-05-29,2024-06-04,usa,cancun mexico dental tourism,0,15,0,71.4
+2024-05-29,2024-06-04,usa,dental tourism cancun,0,9,0,48.55555555555556
+2024-05-29,2024-06-04,usa,dental tourism cancun mexico,0,3,0,57.666666666666664
+2024-05-29,2024-06-04,usa,dental tourism in cancun,0,18,0,53.55555555555556
+2024-05-29,2024-06-04,usa,dental vacation cancun,0,17,0,47.05882352941177
+2024-05-29,2024-06-04,usa,dental vacation in cancun mexico,0,2,0,48.5
+2024-05-29,2024-06-04,usa,dental vacations cancun,0,12,0,46.083333333333336
+2024-05-29,2024-06-04,usa,hotels near cancun dental specialists,0,2,0,9
+2024-05-29,2024-06-04,usa,veneers cost cancun,0,9,0,97.33333333333333
+2024-06-05,2024-06-11,usa,cancun dental tourism,0,7,0,63.714285714285715
+2024-06-05,2024-06-11,usa,cancun dental vacation,0,6,0,75
+2024-06-05,2024-06-11,usa,cancun for dental holiday,0,1,0,47
+2024-06-05,2024-06-11,usa,cancun mexico dental tourism,0,7,0,77.85714285714286
+2024-06-05,2024-06-11,usa,dental tourism cancun,0,8,0,49.375
+2024-06-05,2024-06-11,usa,dental tourism cancun mexico,0,6,0,67.83333333333333
+2024-06-05,2024-06-11,usa,dental tourism in cancun,0,12,0,59.5
+2024-06-05,2024-06-11,usa,dental vacation cancun,0,8,0,50
+2024-06-05,2024-06-11,usa,dental vacation in cancun mexico,0,1,0,59
+2024-06-05,2024-06-11,usa,dental vacations cancun,0,6,0,48.833333333333336
+2024-06-12,2024-06-18,usa,best dental implants in cancun,0,1,0,84
+2024-06-12,2024-06-18,usa,cancun cares,0,1,0,81
+2024-06-12,2024-06-18,usa,cancun dental tourism,0,28,0,46.285714285714285
+2024-06-12,2024-06-18,usa,cancun dental vacation,0,14,0,45.357142857142854
+2024-06-12,2024-06-18,usa,cancun dental vacation packages,0,1,0,69
+2024-06-12,2024-06-18,usa,cancun for dental holiday,0,1,0,16
+2024-06-12,2024-06-18,usa,cancun mexico dental tourism,0,15,0,51.333333333333336
+2024-06-12,2024-06-18,usa,cancun tourism,0,2,0,92.5
+2024-06-12,2024-06-18,usa,dental cancun,0,1,0,87
+2024-06-12,2024-06-18,usa,dental resort mexico,0,1,0,35
+2024-06-12,2024-06-18,usa,dental tourism cancun,0,37,0,36
+2024-06-12,2024-06-18,usa,dental tourism cancun mexico,0,8,0,42.625
+2024-06-12,2024-06-18,usa,dental tourism in cancun,0,22,0,39.95454545454545
+2024-06-12,2024-06-18,usa,dental tourism packages 2023,0,5,0,48.4
+2024-06-12,2024-06-18,usa,dental treatment in cancun,0,1,0,86
+2024-06-12,2024-06-18,usa,dental vacation cancun,0,8,0,40.375
+2024-06-12,2024-06-18,usa,dental vacation in cancun mexico,0,1,0,33
+2024-06-12,2024-06-18,usa,dental vacations cancun,0,12,0,33.583333333333336
+2024-06-12,2024-06-18,usa,dental work in cancun,0,1,0,88
+2024-06-12,2024-06-18,usa,hotels near cancun dental specialists,0,3,0,3.3333333333333335
+2024-06-12,2024-06-18,usa,ocean dental cancun,0,1,0,87
+2024-06-19,2024-06-25,usa,best dental implants in cancun,0,2,0,84
+2024-06-19,2024-06-25,usa,best dentist in cancun,0,1,0,85
+2024-06-19,2024-06-25,usa,best dentist in cancun mexico,0,1,0,88
+2024-06-19,2024-06-25,usa,best veneers cancun mexico,0,2,0,87
+2024-06-19,2024-06-25,usa,cancun dental tourism,0,31,0,31.387096774193548
+2024-06-19,2024-06-25,usa,cancun dental vacation,0,5,0,32.2
+2024-06-19,2024-06-25,usa,cancun dental veneers,0,9,0,97.22222222222223
+2024-06-19,2024-06-25,usa,cancun dentists,0,5,0,86.2
+2024-06-19,2024-06-25,usa,cancun for dental holiday,0,2,0,14
+2024-06-19,2024-06-25,usa,cancun mexico dental tourism,0,21,0,37.904761904761905
+2024-06-19,2024-06-25,usa,cancun tourism,0,9,0,91.88888888888889
+2024-06-19,2024-06-25,usa,dental cancun,0,2,0,91
+2024-06-19,2024-06-25,usa,dental care in cancun,0,9,0,85
+2024-06-19,2024-06-25,usa,dental tourism cancun,0,25,0,25.48
+2024-06-19,2024-06-25,usa,dental tourism cancun mexico,0,8,0,35.5
+2024-06-19,2024-06-25,usa,dental tourism in cancun,0,23,0,28.304347826086957
+2024-06-19,2024-06-25,usa,dental tourism packages 2023,0,5,0,40
+2024-06-19,2024-06-25,usa,dental treatment in cancun,0,1,0,85
+2024-06-19,2024-06-25,usa,dental vacation cancun,0,5,0,28
+2024-06-19,2024-06-25,usa,dental vacations cancun,0,10,0,24.2
+2024-06-19,2024-06-25,usa,dental work in cancun,0,2,0,83.5
+2024-06-19,2024-06-25,usa,dental work in cancún,0,1,0,78
+2024-06-19,2024-06-25,usa,hotels near cancun dental specialists,0,5,0,3.6
+2024-06-26,2024-07-02,usa,hotels near cancun dental specialists,1,3,0.3333333333333333,3
+2024-06-26,2024-07-02,usa,best dental implants in cancun,0,1,0,81
+2024-06-26,2024-07-02,usa,best dentist cancun,0,1,0,80
+2024-06-26,2024-07-02,usa,best dentist in cancun,0,2,0,87.5
+2024-06-26,2024-07-02,usa,cancun dental tourism,0,21,0,30.666666666666668
+2024-06-26,2024-07-02,usa,cancun dental vacation,0,13,0,31.384615384615383
+2024-06-26,2024-07-02,usa,cancun dental veneers,0,10,0,95.5
+2024-06-26,2024-07-02,usa,cancun dentists,0,3,0,91.33333333333333
+2024-06-26,2024-07-02,usa,cancun for dental holiday,0,2,0,17
+2024-06-26,2024-07-02,usa,cancun mexico dental tourism,0,25,0,38.12
+2024-06-26,2024-07-02,usa,cancun tourism,0,6,0,89.5
+2024-06-26,2024-07-02,usa,dental cancun,0,2,0,92
+2024-06-26,2024-07-02,usa,dental care in cancun,0,7,0,89.14285714285714
+2024-06-26,2024-07-02,usa,dental tourism cancun,0,21,0,27.095238095238095
+2024-06-26,2024-07-02,usa,dental tourism cancun mexico,0,7,0,36
+2024-06-26,2024-07-02,usa,dental tourism in cancun,0,16,0,27.5625
+2024-06-26,2024-07-02,usa,dental tourism packages 2023,0,4,0,36.5
+2024-06-26,2024-07-02,usa,dental vacation cancun,0,9,0,27.666666666666668
+2024-06-26,2024-07-02,usa,dental vacation in cancun mexico,0,1,0,32
+2024-06-26,2024-07-02,usa,dental vacations cancun,0,8,0,26.875
+2024-06-26,2024-07-02,usa,dental work in cancun,0,1,0,88
+2024-06-26,2024-07-02,usa,resort tourism torts,0,1,0,61
+2024-07-03,2024-07-09,usa,best dental implants in cancun,0,1,0,80
+2024-07-03,2024-07-09,usa,best dental tourism,0,1,0,77
+2024-07-03,2024-07-09,usa,best dentist in cancun,0,2,0,91
+2024-07-03,2024-07-09,usa,cancun cares,0,6,0,75.66666666666667
+2024-07-03,2024-07-09,usa,cancun dental tourism,0,30,0,31.2
+2024-07-03,2024-07-09,usa,cancun dental vacation,0,7,0,31.571428571428573
+2024-07-03,2024-07-09,usa,cancun dental vacation packages,0,3,0,47.333333333333336
+2024-07-03,2024-07-09,usa,cancun dental veneers,0,9,0,94.77777777777777
+2024-07-03,2024-07-09,usa,cancun dentists,0,1,0,99
+2024-07-03,2024-07-09,usa,cancun for dental holiday,0,2,0,17
+2024-07-03,2024-07-09,usa,cancun mexico dental tourism,0,18,0,37.833333333333336
+2024-07-03,2024-07-09,usa,cancun tourism,0,11,0,83.81818181818181
+2024-07-03,2024-07-09,usa,dental cancun,0,2,0,92.5
+2024-07-03,2024-07-09,usa,dental care cancun mexico,0,1,0,83
+2024-07-03,2024-07-09,usa,dental care in cancun,0,10,0,89.4
+2024-07-03,2024-07-09,usa,dental tourism cancun,0,33,0,26.78787878787879
+2024-07-03,2024-07-09,usa,dental tourism cancun mexico,0,10,0,35.9
+2024-07-03,2024-07-09,usa,dental tourism in cancun,0,15,0,28.466666666666665
+2024-07-03,2024-07-09,usa,dental tourism packages 2023,0,6,0,37
+2024-07-03,2024-07-09,usa,dental treatment in cancun,0,1,0,90
+2024-07-03,2024-07-09,usa,dental vacation cancun,0,8,0,25.875
+2024-07-03,2024-07-09,usa,dental vacation in cancun mexico,0,2,0,31
+2024-07-03,2024-07-09,usa,dental vacations cancun,0,13,0,27.307692307692307
+2024-07-03,2024-07-09,usa,dental work in cancun,0,2,0,89.5
+2024-07-03,2024-07-09,usa,dental work in cancún,0,1,0,59
+2024-07-03,2024-07-09,usa,dentists cancun,0,1,0,99
+2024-07-03,2024-07-09,usa,hotels near cancun dental specialists,0,5,0,3
+2024-07-03,2024-07-09,usa,medical tourism cancun,0,1,0,108
+2024-07-03,2024-07-09,usa,mexico dental tourism packages,0,1,0,89
+2024-07-03,2024-07-09,usa,tourism in cancun,0,1,0,98
+2024-07-10,2024-07-16,usa,best dental tourism,0,2,0,74
+2024-07-10,2024-07-16,usa,cancun cares,0,1,0,76
+2024-07-10,2024-07-16,usa,cancun dental tourism,0,20,0,32.6
+2024-07-10,2024-07-16,usa,cancun dental vacation,0,7,0,35
+2024-07-10,2024-07-16,usa,cancun dental veneers,0,7,0,97.14285714285714
+2024-07-10,2024-07-16,usa,cancun for dental holiday,0,2,0,20
+2024-07-10,2024-07-16,usa,cancun mexico dental tourism,0,19,0,40.473684210526315
+2024-07-10,2024-07-16,usa,cancun tourism,0,4,0,89.75
+2024-07-10,2024-07-16,usa,dental care in cancun,0,1,0,94
+2024-07-10,2024-07-16,usa,dental tourism cancun,0,27,0,29.666666666666668
+2024-07-10,2024-07-16,usa,dental tourism cancun mexico,0,5,0,36.6
+2024-07-10,2024-07-16,usa,dental tourism cancun mx,0,2,0,40.5
+2024-07-10,2024-07-16,usa,dental tourism in cancun,0,21,0,31.857142857142858
+2024-07-10,2024-07-16,usa,dental tourism packages 2023,0,4,0,41.25
+2024-07-10,2024-07-16,usa,dental treatment in cancun,0,1,0,92
+2024-07-10,2024-07-16,usa,dental vacation cancun,0,7,0,27.857142857142858
+2024-07-10,2024-07-16,usa,dental vacations cancun,0,12,0,28.25
+2024-07-10,2024-07-16,usa,dental work in cancún,0,1,0,79
+2024-07-10,2024-07-16,usa,hotels near cancun dental specialists,0,1,0,4
+2024-07-17,2024-07-23,usa,best veneers cancun mexico,0,1,0,94
+2024-07-17,2024-07-23,usa,cancun dental tourism,0,13,0,36.84615384615385
+2024-07-17,2024-07-23,usa,cancun dental vacation,0,2,0,37
+2024-07-17,2024-07-23,usa,cancun dental veneers,0,5,0,102.8
+2024-07-17,2024-07-23,usa,cancun mexico dental tourism,0,14,0,41.07142857142857
+2024-07-17,2024-07-23,usa,dental care in cancun,0,1,0,85
+2024-07-17,2024-07-23,usa,dental tourism all inclusive,0,2,0,46.5
+2024-07-17,2024-07-23,usa,dental tourism all-inclusive,0,2,0,49.5
+2024-07-17,2024-07-23,usa,dental tourism cancun,0,30,0,30.3
+2024-07-17,2024-07-23,usa,dental tourism cancun mexico,0,6,0,40.333333333333336
+2024-07-17,2024-07-23,usa,dental tourism cancun mx,0,1,0,42
+2024-07-17,2024-07-23,usa,dental tourism in cancun,0,21,0,34.666666666666664
+2024-07-17,2024-07-23,usa,dental tourism packages 2023,0,2,0,45.5
+2024-07-17,2024-07-23,usa,dental vacation cancun,0,9,0,31
+2024-07-17,2024-07-23,usa,dental vacations cancun,0,15,0,35.6
+2024-07-17,2024-07-23,usa,hotels near cancun dental specialists,0,4,0,3.5
+2024-07-24,2024-07-30,usa,best dental implants in cancun,0,3,0,81.66666666666667
+2024-07-24,2024-07-30,usa,best veneers cancun mexico,0,3,0,86
+2024-07-24,2024-07-30,usa,cancun dental tourism,0,18,0,37.44444444444444
+2024-07-24,2024-07-30,usa,cancun dental vacation,0,3,0,38.333333333333336
+2024-07-24,2024-07-30,usa,cancun dental vacation packages,0,1,0,57
+2024-07-24,2024-07-30,usa,cancun dental veneers,0,6,0,100
+2024-07-24,2024-07-30,usa,cancun mexico dental tourism,0,16,0,40.75
+2024-07-24,2024-07-30,usa,dental care in cancun,0,1,0,101
+2024-07-24,2024-07-30,usa,dental tourism cancun,0,38,0,30.63157894736842
+2024-07-24,2024-07-30,usa,dental tourism cancun mexico,0,4,0,42
+2024-07-24,2024-07-30,usa,dental tourism cancun mx,0,1,0,44
+2024-07-24,2024-07-30,usa,dental tourism in cancun,0,18,0,36.05555555555556
+2024-07-24,2024-07-30,usa,dental tourism packages 2023,0,1,0,45
+2024-07-24,2024-07-30,usa,dental vacation cancun,0,5,0,32.2
+2024-07-24,2024-07-30,usa,dental vacations cancun,0,9,0,38.666666666666664
+2024-07-24,2024-07-30,usa,dental work in cancún,0,2,0,76
+2024-07-31,2024-08-06,usa,best dental tourism,0,1,0,71
+2024-07-31,2024-08-06,usa,best place for dental tourism,0,1,0,77
+2024-07-31,2024-08-06,usa,best veneers cancun mexico,0,1,0,82
+2024-07-31,2024-08-06,usa,cancun dental tourism,0,17,0,35.23529411764706
+2024-07-31,2024-08-06,usa,cancun dental vacation packages,0,2,0,53
+2024-07-31,2024-08-06,usa,cancun dental veneers,0,8,0,101
+2024-07-31,2024-08-06,usa,cancun for dental holiday,0,2,0,17
+2024-07-31,2024-08-06,usa,cancun mexico dental tourism,0,20,0,41.45
+2024-07-31,2024-08-06,usa,dental care in cancun,0,1,0,94
+2024-07-31,2024-08-06,usa,dental tourism cancun,0,32,0,29.15625
+2024-07-31,2024-08-06,usa,dental tourism cancun mexico,0,3,0,42
+2024-07-31,2024-08-06,usa,dental tourism in cancun,0,26,0,35.5
+2024-07-31,2024-08-06,usa,dental tourism packages 2023,0,1,0,41
+2024-07-31,2024-08-06,usa,dental vacation cancun,0,5,0,28.6
+2024-07-31,2024-08-06,usa,dental vacations cancun,0,10,0,32.7
+2024-07-31,2024-08-06,usa,dental work in cancún,0,2,0,56
+2024-08-07,2024-08-13,usa,best hotels in cancun,0,4,0,11
+2024-08-07,2024-08-13,usa,best veneers cancun mexico,0,2,0,88
+2024-08-07,2024-08-13,usa,cancun dental tourism,0,1,0,33
+2024-08-07,2024-08-13,usa,cancun dental veneers,0,9,0,96.55555555555556
+2024-08-07,2024-08-13,usa,cancun for dental holiday,0,1,0,18
+2024-08-07,2024-08-13,usa,cancun mexico dental tourism,0,18,0,43.44444444444444
+2024-08-07,2024-08-13,usa,dental tourism all inclusive,0,3,0,50.666666666666664
+2024-08-07,2024-08-13,usa,dental tourism all-inclusive,0,3,0,49.666666666666664
+2024-08-07,2024-08-13,usa,dental tourism cancun,0,30,0,29.033333333333335
+2024-08-07,2024-08-13,usa,dental tourism in cancun,0,20,0,35.2
+2024-08-07,2024-08-13,usa,dental vacation cancun,0,7,0,29.285714285714285
+2024-08-07,2024-08-13,usa,dental vacation in cancun mexico,0,3,0,33
+2024-08-07,2024-08-13,usa,dental vacations cancun,0,15,0,27.333333333333332
+2024-08-07,2024-08-13,usa,dental work in cancún,0,1,0,57
+2024-08-07,2024-08-13,usa,hotels near cancun dental specialists,0,2,0,3.5
+2024-08-07,2024-08-13,usa,resort tourism torts,0,1,0,69
+2024-08-07,2024-08-13,usa,why cancun for a dental trip new york resident,0,2,0,27
+2024-08-14,2024-08-20,usa,best veneers cancun mexico,0,1,0,87
+2024-08-14,2024-08-20,usa,cancun dental vacation packages,0,1,0,39
+2024-08-14,2024-08-20,usa,cancun dental veneers,0,7,0,97
+2024-08-14,2024-08-20,usa,cancun mexico dental tourism,0,21,0,41.095238095238095
+2024-08-14,2024-08-20,usa,dental tourism all inclusive,0,2,0,63.5
+2024-08-14,2024-08-20,usa,dental tourism cancun,0,24,0,32.54166666666667
+2024-08-14,2024-08-20,usa,dental tourism cancun mx,0,2,0,39
+2024-08-14,2024-08-20,usa,dental tourism in cancun,0,16,0,34.9375
+2024-08-14,2024-08-20,usa,dental vacation cancun,0,6,0,30.5
+2024-08-14,2024-08-20,usa,dental vacation in cancun mexico,0,1,0,33
+2024-08-14,2024-08-20,usa,dental vacations cancun,0,13,0,33.69230769230769
+2024-08-14,2024-08-20,usa,resort tourism torts,0,1,0,82
+2024-08-21,2024-08-27,usa,cancun dental vacation,0,1,0,38
+2024-08-21,2024-08-27,usa,cancun dental vacation packages,0,3,0,38.333333333333336
+2024-08-21,2024-08-27,usa,cancun dental veneers,0,7,0,96
+2024-08-21,2024-08-27,usa,cancun for dental holiday,0,2,0,29.5
+2024-08-21,2024-08-27,usa,cancun mexico dental tourism,0,14,0,40.714285714285715
+2024-08-21,2024-08-27,usa,dental tourism all inclusive,0,1,0,39
+2024-08-21,2024-08-27,usa,dental tourism all-inclusive,0,1,0,43
+2024-08-21,2024-08-27,usa,dental tourism cancun,0,26,0,32.03846153846154
+2024-08-21,2024-08-27,usa,dental tourism in cancun,0,20,0,32.5
+2024-08-21,2024-08-27,usa,dental vacation cancun,0,8,0,27.75
+2024-08-21,2024-08-27,usa,dental vacation in cancun mexico,0,2,0,29.5
+2024-08-21,2024-08-27,usa,dental vacations cancun,0,9,0,34.666666666666664
+2024-08-21,2024-08-27,usa,hotels near cancun dental specialists,0,1,0,3
+2024-08-28,2024-09-03,usa,cancun dental vacation,0,8,0,41.75
+2024-08-28,2024-09-03,usa,cancun dental vacation packages,0,4,0,43.75
+2024-08-28,2024-09-03,usa,cancun dental veneers,0,2,0,95
+2024-08-28,2024-09-03,usa,cancun for dental holiday,0,1,0,32
+2024-08-28,2024-09-03,usa,cancun mexico dental tourism,0,18,0,34.27777777777778
+2024-08-28,2024-09-03,usa,dental tourism all inclusive,0,1,0,48
+2024-08-28,2024-09-03,usa,dental tourism all-inclusive,0,1,0,48
+2024-08-28,2024-09-03,usa,dental tourism cancun,0,25,0,30.64
+2024-08-28,2024-09-03,usa,dental tourism in cancun,0,20,0,31.65
+2024-08-28,2024-09-03,usa,dental vacation cancun,0,8,0,27.5
+2024-08-28,2024-09-03,usa,dental vacation in cancun mexico,0,2,0,27.5
+2024-08-28,2024-09-03,usa,dental vacations cancun,0,9,0,40
+2024-08-28,2024-09-03,usa,hotels near cancun dental specialists,0,11,0,3.909090909090909
+2024-08-28,2024-09-03,usa,veneers cost in cancun,0,1,0,98
+2024-09-04,2024-09-10,usa,cancun dental vacation,0,1,0,44
+2024-09-04,2024-09-10,usa,cancun dental vacation packages,0,1,0,41
+2024-09-04,2024-09-10,usa,cancun for dental holiday,0,2,0,36
+2024-09-04,2024-09-10,usa,cancun mexico dental tourism,0,10,0,26
+2024-09-04,2024-09-10,usa,dental tourism all inclusive,0,5,0,47.2
+2024-09-04,2024-09-10,usa,dental tourism all-inclusive,0,1,0,48
+2024-09-04,2024-09-10,usa,dental tourism cancun,0,18,0,30.22222222222222
+2024-09-04,2024-09-10,usa,dental tourism in cancun,0,17,0,30.764705882352942
+2024-09-04,2024-09-10,usa,dental vacation cancun,0,5,0,25.8
+2024-09-04,2024-09-10,usa,dental vacations cancun,0,4,0,43
+2024-09-04,2024-09-10,usa,hotels near cancun dental specialists,0,13,0,3.923076923076923
+2024-09-11,2024-09-17,usa,dental vacation cancun,1,5,0.2,28.8
+2024-09-11,2024-09-17,usa,cancun dental vacation packages,0,3,0,45.333333333333336
+2024-09-11,2024-09-17,usa,cancun for dental holiday,0,4,0,35.75
+2024-09-11,2024-09-17,usa,cancun mexico dental tourism,0,4,0,22.25
+2024-09-11,2024-09-17,usa,dental resort mexico,0,1,0,32
+2024-09-11,2024-09-17,usa,dental tourism cancun,0,16,0,33.75
+2024-09-11,2024-09-17,usa,dental tourism in cancun,0,15,0,31.733333333333334
+2024-09-11,2024-09-17,usa,dental vacation in cancun mexico,0,5,0,31.6
+2024-09-11,2024-09-17,usa,dental vacations cancun,0,1,0,29
+2024-09-11,2024-09-17,usa,hotels near cancun dental specialists,0,6,0,3.6666666666666665
+2024-09-18,2024-09-24,usa,hotels near cancun dental specialists,1,12,0.08333333333333333,3.8333333333333335
+2024-09-18,2024-09-24,usa,cancun dental vacation packages,0,4,0,47.25
+2024-09-18,2024-09-24,usa,cancun for dental holiday,0,5,0,33.6
+2024-09-18,2024-09-24,usa,cancun mexico dental tourism,0,16,0,34.4375
+2024-09-18,2024-09-24,usa,dental tourism cancun,0,20,0,32.1
+2024-09-18,2024-09-24,usa,dental tourism cancun mx,0,1,0,24
+2024-09-18,2024-09-24,usa,dental tourism in cancun,0,42,0,38.57142857142857
+2024-09-18,2024-09-24,usa,dental vacation cancun,0,9,0,28.333333333333332
+2024-09-18,2024-09-24,usa,dental vacation in cancun mexico,0,2,0,36
+2024-09-18,2024-09-24,usa,dental vacations cancun,0,7,0,38.714285714285715
+2024-09-18,2024-09-24,usa,veneers cancun mx,0,1,0,88
+2024-09-25,2024-10-01,usa,cancun dental tourism,0,16,0,33.5
+2024-09-25,2024-10-01,usa,cancun dental veneers,0,2,0,96
+2024-09-25,2024-10-01,usa,cancun for dental holiday,0,1,0,33
+2024-09-25,2024-10-01,usa,cancun mexico dental tourism,0,13,0,37.38461538461539
+2024-09-25,2024-10-01,usa,dental tourism cancun,0,31,0,30.838709677419356
+2024-09-25,2024-10-01,usa,dental tourism in cancun,0,20,0,30.7
+2024-09-25,2024-10-01,usa,dental vacation cancun,0,9,0,31.22222222222222
+2024-09-25,2024-10-01,usa,dental vacation in cancun mexico,0,7,0,31
+2024-09-25,2024-10-01,usa,dental vacations cancun,0,4,0,47.75
+2024-09-25,2024-10-01,usa,hotels near cancun dental specialists,0,3,0,3.3333333333333335
+2024-10-02,2024-10-08,usa,best veneers cancun mexico,0,11,0,96.54545454545455
+2024-10-02,2024-10-08,usa,cancun dental tourism,0,19,0,30.894736842105264
+2024-10-02,2024-10-08,usa,cancun dental vacation packages,0,3,0,46.333333333333336
+2024-10-02,2024-10-08,usa,cancun dental veneers,0,7,0,98.85714285714286
+2024-10-02,2024-10-08,usa,cancun for dental holiday,0,1,0,35
+2024-10-02,2024-10-08,usa,cancun mexico dental tourism,0,14,0,30.642857142857142
+2024-10-02,2024-10-08,usa,dental tourism cancun,0,31,0,29.967741935483872
+2024-10-02,2024-10-08,usa,dental tourism cancun mx,0,1,0,22
+2024-10-02,2024-10-08,usa,dental tourism in cancun,0,18,0,26.166666666666668
+2024-10-02,2024-10-08,usa,dental vacation cancun,0,18,0,32.16666666666667
+2024-10-02,2024-10-08,usa,dental vacation in cancun mexico,0,2,0,30.5
+2024-10-02,2024-10-08,usa,dental vacations cancun,0,15,0,40.666666666666664
+2024-10-02,2024-10-08,usa,hotels near cancun dental specialists,0,4,0,3.5
+2024-10-02,2024-10-08,usa,veneers cancun mx,0,3,0,71
+2024-10-09,2024-10-15,usa,best veneers cancun mexico,0,5,0,98
+2024-10-09,2024-10-15,usa,cancun dental tourism,0,13,0,31.615384615384617
+2024-10-09,2024-10-15,usa,cancun dental vacation packages,0,2,0,47.5
+2024-10-09,2024-10-15,usa,cancun dental veneers,0,5,0,97.4
+2024-10-09,2024-10-15,usa,cancun for dental holiday,0,4,0,34.75
+2024-10-09,2024-10-15,usa,cancun mexico dental tourism,0,15,0,35.333333333333336
+2024-10-09,2024-10-15,usa,dental tourism cancun,0,38,0,32.078947368421055
+2024-10-09,2024-10-15,usa,dental tourism in cancun,0,19,0,30.31578947368421
+2024-10-09,2024-10-15,usa,dental vacation cancun,0,7,0,34.42857142857143
+2024-10-09,2024-10-15,usa,dental vacation in cancun mexico,0,5,0,31.8
+2024-10-09,2024-10-15,usa,dental vacations cancun,0,12,0,41.833333333333336
+2024-10-09,2024-10-15,usa,hotels near cancun dental specialists,0,5,0,3.4
+2024-10-09,2024-10-15,usa,veneers cancun mx,0,6,0,70.33333333333333
+2024-10-16,2024-10-22,usa,best veneers cancun mexico,0,9,0,94.11111111111111
+2024-10-16,2024-10-22,usa,cancun dental tourism,0,32,0,26.96875
+2024-10-16,2024-10-22,usa,cancun dental vacation packages,0,1,0,44
+2024-10-16,2024-10-22,usa,cancun dental veneers,0,13,0,96.6923076923077
+2024-10-16,2024-10-22,usa,cancun for dental holiday,0,2,0,29
+2024-10-16,2024-10-22,usa,cancun mexico dental tourism,0,14,0,30.857142857142858
+2024-10-16,2024-10-22,usa,dental tourism cancun,0,31,0,27.677419354838708
+2024-10-16,2024-10-22,usa,dental tourism cancun mexico,0,4,0,40.5
+2024-10-16,2024-10-22,usa,dental tourism cancun mx,0,3,0,20.666666666666668
+2024-10-16,2024-10-22,usa,dental tourism in cancun,0,18,0,23.333333333333332
+2024-10-16,2024-10-22,usa,dental treatment in cancun,0,3,0,93
+2024-10-16,2024-10-22,usa,dental vacation cancun,0,26,0,28.653846153846153
+2024-10-16,2024-10-22,usa,dental vacation in cancun mexico,0,2,0,27.5
+2024-10-16,2024-10-22,usa,dental vacations cancun,0,15,0,40.333333333333336
+2024-10-16,2024-10-22,usa,hotels near cancun dental specialists,0,7,0,3.7142857142857144
+2024-10-16,2024-10-22,usa,implant cancun,0,1,0,90
+2024-10-16,2024-10-22,usa,veneers cancun mx,0,6,0,79.83333333333333
+2024-10-23,2024-10-29,usa,all-on-4 dental implants cancun mx,0,1,0,81
+2024-10-23,2024-10-29,usa,best veneers cancun mexico,0,8,0,87
+2024-10-23,2024-10-29,usa,cancun dental prices,0,1,0,67
+2024-10-23,2024-10-29,usa,cancun dental tourism,0,28,0,26.214285714285715
+2024-10-23,2024-10-29,usa,cancun dental veneers,0,8,0,93.375
+2024-10-23,2024-10-29,usa,cancun for dental holiday,0,3,0,32
+2024-10-23,2024-10-29,usa,cancun mexico dental tourism,0,10,0,31
+2024-10-23,2024-10-29,usa,cancun veneers cost,0,1,0,96
+2024-10-23,2024-10-29,usa,dental tourism cancun,0,33,0,25.09090909090909
+2024-10-23,2024-10-29,usa,dental tourism cancun mexico,0,9,0,36.77777777777778
+2024-10-23,2024-10-29,usa,dental tourism in cancun,0,16,0,25.4375
+2024-10-23,2024-10-29,usa,dental vacation cancun,0,23,0,30.304347826086957
+2024-10-23,2024-10-29,usa,dental vacation in cancun mexico,0,6,0,30.5
+2024-10-23,2024-10-29,usa,dental vacations cancun,0,13,0,43.84615384615385
+2024-10-23,2024-10-29,usa,dental work in cancún,0,2,0,83.5
+2024-10-23,2024-10-29,usa,hotels near cancun dental specialists,0,5,0,3.2
+2024-10-23,2024-10-29,usa,veneers cost in cancun,0,5,0,95.2
+2024-10-23,2024-10-29,usa,why cancun for a dental trip new york resident,0,1,0,43
+2024-10-30,2024-11-05,usa,best veneers cancun mexico,0,1,0,71
+2024-10-30,2024-11-05,usa,cancun dental tourism,0,20,0,26.05
+2024-10-30,2024-11-05,usa,cancun dental vacation,0,6,0,33.833333333333336
+2024-10-30,2024-11-05,usa,cancun dental veneers,0,12,0,94.75
+2024-10-30,2024-11-05,usa,cancun mexico dental tourism,0,20,0,30.2
+2024-10-30,2024-11-05,usa,dental tourism cancun,0,17,0,28.176470588235293
+2024-10-30,2024-11-05,usa,dental tourism cancun mexico,0,4,0,35.5
+2024-10-30,2024-11-05,usa,dental tourism cancun mx,0,1,0,21
+2024-10-30,2024-11-05,usa,dental tourism in cancun,0,13,0,24.307692307692307
+2024-10-30,2024-11-05,usa,dental vacation cancun,0,25,0,31.24
+2024-10-30,2024-11-05,usa,dental vacation in cancun mexico,0,4,0,28.5
+2024-10-30,2024-11-05,usa,dental vacations cancun,0,6,0,34
+2024-10-30,2024-11-05,usa,hotels near cancun dental specialists,0,6,0,3.5
+2024-10-30,2024-11-05,usa,veneers cancun mx,0,4,0,74
+2024-10-30,2024-11-05,usa,veneers cost in cancun,0,1,0,90
+2024-11-06,2024-11-12,usa,hotels near cancun dental specialists,1,2,0.5,3
+2024-11-06,2024-11-12,usa,best veneers cancun mexico,0,2,0,74
+2024-11-06,2024-11-12,usa,cancun dental tourism,0,25,0,27.04
+2024-11-06,2024-11-12,usa,cancun dental vacation,0,2,0,36.5
+2024-11-06,2024-11-12,usa,cancun dental veneers,0,6,0,98
+2024-11-06,2024-11-12,usa,cancun mexico dental tourism,0,15,0,27.466666666666665
+2024-11-06,2024-11-12,usa,dental tourism cancun,0,21,0,26.904761904761905
+2024-11-06,2024-11-12,usa,dental tourism cancun mexico,0,3,0,42
+2024-11-06,2024-11-12,usa,dental tourism in cancun,0,16,0,22.1875
+2024-11-06,2024-11-12,usa,dental vacation cancun,0,24,0,31.416666666666668
+2024-11-06,2024-11-12,usa,dental vacation in cancun mexico,0,3,0,29.666666666666668
+2024-11-06,2024-11-12,usa,dental vacations cancun,0,5,0,34.4
+2024-11-06,2024-11-12,usa,veneers cancun mx,0,2,0,67.5
+2024-11-06,2024-11-12,usa,veneers cost in cancun,0,2,0,99.5
+2024-11-13,2024-11-19,usa,best veneers cancun mexico,0,2,0,88
+2024-11-13,2024-11-19,usa,cancun dental tourism,0,28,0,31.107142857142858
+2024-11-13,2024-11-19,usa,cancun dental vacation,0,5,0,35.8
+2024-11-13,2024-11-19,usa,cancun dental veneers,0,9,0,101.55555555555556
+2024-11-13,2024-11-19,usa,cancun mexico dental tourism,0,15,0,27.8
+2024-11-13,2024-11-19,usa,dental implants cancun mx,0,1,0,84
+2024-11-13,2024-11-19,usa,dental tourism cancun,0,18,0,27.38888888888889
+2024-11-13,2024-11-19,usa,dental tourism cancun mexico,0,3,0,39
+2024-11-13,2024-11-19,usa,dental tourism in cancun,0,15,0,32.733333333333334
+2024-11-13,2024-11-19,usa,dental treatment in cancun,0,2,0,96
+2024-11-13,2024-11-19,usa,dental vacation cancun,0,14,0,30.071428571428573
+2024-11-13,2024-11-19,usa,dental vacation in cancun mexico,0,2,0,32
+2024-11-13,2024-11-19,usa,dental vacations cancun,0,3,0,40.666666666666664
+2024-11-13,2024-11-19,usa,dental work cancun,0,1,0,87
+2024-11-13,2024-11-19,usa,hotels near cancun dental specialists,0,12,0,3
+2024-11-13,2024-11-19,usa,veneers cancun mx,0,1,0,79
+2024-11-20,2024-11-26,usa,hotels near cancun dental specialists,1,7,0.14285714285714285,2.857142857142857
+2024-11-20,2024-11-26,usa,best veneers cancun mexico,0,5,0,79
+2024-11-20,2024-11-26,usa,cancun dental prices,0,1,0,79
+2024-11-20,2024-11-26,usa,cancun dental tourism,0,26,0,30.115384615384617
+2024-11-20,2024-11-26,usa,cancun dental vacation,0,6,0,35.666666666666664
+2024-11-20,2024-11-26,usa,cancun dental veneers,0,11,0,100.0909090909091
+2024-11-20,2024-11-26,usa,cancun dentistry in cancun,0,2,0,89.5
+2024-11-20,2024-11-26,usa,cancun mexico dental tourism,0,9,0,29.666666666666668
+2024-11-20,2024-11-26,usa,dental implants cancun mx,0,1,0,91
+2024-11-20,2024-11-26,usa,dental tourism cancun,0,19,0,26.05263157894737
+2024-11-20,2024-11-26,usa,dental tourism cancun mexico,0,4,0,38.75
+2024-11-20,2024-11-26,usa,dental tourism cancun mx,0,3,0,23
+2024-11-20,2024-11-26,usa,dental tourism in cancun,0,17,0,23.235294117647058
+2024-11-20,2024-11-26,usa,dental treatment in cancun,0,2,0,91.5
+2024-11-20,2024-11-26,usa,dental vacation cancun,0,8,0,31.25
+2024-11-20,2024-11-26,usa,dental vacation in cancun mexico,0,5,0,33
+2024-11-20,2024-11-26,usa,dental vacations cancun,0,6,0,41.333333333333336
+2024-11-27,2024-12-03,usa,hotels near cancun dental specialists,1,5,0.2,3.8
+2024-11-27,2024-12-03,usa,best veneers cancun mexico,0,8,0,97.875
+2024-11-27,2024-12-03,usa,cancun dental tourism,0,22,0,44.68181818181818
+2024-11-27,2024-12-03,usa,cancun dental vacation,0,2,0,39.5
+2024-11-27,2024-12-03,usa,cancun dental veneers,0,11,0,94.9090909090909
+2024-11-27,2024-12-03,usa,cancun mexico dental tourism,0,1,0,25
+2024-11-27,2024-12-03,usa,dental tourism cancun,0,9,0,42.111111111111114
+2024-11-27,2024-12-03,usa,dental tourism cancun mexico,0,1,0,79
+2024-11-27,2024-12-03,usa,dental tourism in cancun,0,2,0,13.5
+2024-11-27,2024-12-03,usa,dental vacation cancun,0,10,0,46.4
+2024-11-27,2024-12-03,usa,dental vacation in cancun mexico,0,7,0,44.857142857142854
+2024-11-27,2024-12-03,usa,dental vacations cancun,0,4,0,48.25
+2024-12-04,2024-12-10,usa,best veneers cancun mexico,0,1,0,99
+2024-12-04,2024-12-10,usa,cancun dental tourism,0,31,0,51.16129032258065
+2024-12-04,2024-12-10,usa,dental tourism cancun,0,22,0,44.27272727272727
+2024-12-04,2024-12-10,usa,dental vacation cancun,0,6,0,46.666666666666664
+2024-12-04,2024-12-10,usa,dental vacation in cancun mexico,0,5,0,49.4
+2024-12-04,2024-12-10,usa,dental vacations cancun,0,6,0,57.5
+2024-12-04,2024-12-10,usa,hotels near cancun dental specialists,0,4,0,3.25
+2024-12-11,2024-12-17,usa,best veneers cancun mexico,0,2,0,95.5
+2024-12-11,2024-12-17,usa,cancun dental tourism,0,15,0,41.733333333333334
+2024-12-11,2024-12-17,usa,dental tourism cancun,0,10,0,41.1
+2024-12-11,2024-12-17,usa,dental vacation cancun,0,5,0,45.2
+2024-12-11,2024-12-17,usa,dental vacation in cancun mexico,0,4,0,44.5
+2024-12-11,2024-12-17,usa,hotels near cancun dental specialists,0,4,0,3
+2024-12-18,2024-12-24,usa,cancun dental tourism,0,7,0,44.42857142857143
+2024-12-18,2024-12-24,usa,dental tourism cancun,0,9,0,37.22222222222222
+2024-12-18,2024-12-24,usa,dental vacation cancun,0,6,0,47.833333333333336
+2024-12-18,2024-12-24,usa,dental vacation in cancun mexico,0,4,0,44.5
+2024-12-18,2024-12-24,usa,dental vacations cancun,0,4,0,55.25
+2024-12-18,2024-12-24,usa,hotels near cancun dental specialists,0,3,0,3
+2024-12-25,2024-12-31,usa,cancun dental tourism,0,6,0,52.333333333333336
+2024-12-25,2024-12-31,usa,cancun dental vacation,0,1,0,64
+2024-12-25,2024-12-31,usa,cancun dental vacation packages,0,2,0,48
+2024-12-25,2024-12-31,usa,dental tourism cancun,0,4,0,48.75
+2024-12-25,2024-12-31,usa,dental vacation cancun,0,8,0,53.75
+2024-12-25,2024-12-31,usa,dental vacation in cancun mexico,0,1,0,54
+2024-12-25,2024-12-31,usa,dental vacations cancun,0,1,0,48
+2024-12-25,2024-12-31,usa,hotels near cancun dental specialists,0,10,0,3.2
+2025-01-01,2025-01-07,usa,hotels near cancun dental specialists,1,8,0.125,3
+2025-01-01,2025-01-07,usa,cancun dental tourism,0,7,0,50.714285714285715
+2025-01-01,2025-01-07,usa,cancun dental vacation packages,0,2,0,53.5
+2025-01-01,2025-01-07,usa,dental tourism cancun,0,1,0,53
+2025-01-01,2025-01-07,usa,dental vacation in cancun mexico,0,1,0,40
+2025-01-01,2025-01-07,usa,dental vacations cancun,0,1,0,49
+2025-01-08,2025-01-14,usa,cancun dental tourism,0,8,0,47.75
+2025-01-08,2025-01-14,usa,dental vacation cancun,0,1,0,72
+2025-01-08,2025-01-14,usa,dental vacation in cancun mexico,0,1,0,63
+2025-01-08,2025-01-14,usa,dental vacations cancun,0,2,0,49.5
+2025-01-08,2025-01-14,usa,hotels near cancun dental specialists,0,3,0,4
+2025-01-15,2025-01-21,usa,cancun dental tourism,0,7,0,44.57142857142857
+2025-01-15,2025-01-21,usa,dental tourism cancun,0,6,0,40.333333333333336
+2025-01-15,2025-01-21,usa,dental vacation cancun,0,2,0,54.5
+2025-01-15,2025-01-21,usa,dental vacations cancun,0,7,0,54.714285714285715
+2025-01-15,2025-01-21,usa,hotels near cancun dental specialists,0,3,0,3.3333333333333335
+2025-01-22,2025-01-28,usa,dental tourism cancun,0,9,0,48.333333333333336
+2025-01-22,2025-01-28,usa,dental tourism cancun mexico,0,2,0,73
+2025-01-22,2025-01-28,usa,dental vacation cancun,0,5,0,78.8
+2025-01-22,2025-01-28,usa,dental vacation in cancun mexico,0,1,0,56
+2025-01-22,2025-01-28,usa,dental vacations cancun,0,4,0,56
+2025-01-22,2025-01-28,usa,hotels near cancun dental specialists,0,7,0,3.5714285714285716
+2025-01-29,2025-02-04,usa,cancun dental tourism,0,37,0,44.432432432432435
+2025-01-29,2025-02-04,usa,cancun dental vacation,0,3,0,85.33333333333333
+2025-01-29,2025-02-04,usa,dental tourism cancun,0,48,0,44.75
+2025-01-29,2025-02-04,usa,dental vacation cancun,0,38,0,56.28947368421053
+2025-01-29,2025-02-04,usa,dental vacation in cancun mexico,0,3,0,56.333333333333336
+2025-01-29,2025-02-04,usa,dental vacations cancun,0,35,0,52.65714285714286
+2025-01-29,2025-02-04,usa,hotels near cancun dental specialists,0,5,0,3.2
+2025-02-05,2025-02-11,usa,cancun dental tourism,0,61,0,43.18032786885246
+2025-02-05,2025-02-11,usa,cancun dental vacation,0,18,0,47.611111111111114
+2025-02-05,2025-02-11,usa,dental destinations cancun,0,1,0,84
+2025-02-05,2025-02-11,usa,dental tourism cancun,0,53,0,40.81132075471698
+2025-02-05,2025-02-11,usa,dental vacation cancun,0,36,0,45.888888888888886
+2025-02-05,2025-02-11,usa,dental vacation in cancun mexico,0,7,0,44.285714285714285
+2025-02-05,2025-02-11,usa,dental vacations cancun,0,41,0,51.63414634146341
+2025-02-05,2025-02-11,usa,hotels near cancun dental specialists,0,11,0,3.3636363636363638
+2025-02-05,2025-02-11,usa,nizuc resort & spa,0,1,0,6
+2025-02-12,2025-02-18,usa,hotels near cancun dental specialists,1,6,0.16666666666666666,3.3333333333333335
+2025-02-12,2025-02-18,usa,cancun dental tourism,0,55,0,39.30909090909091
+2025-02-12,2025-02-18,usa,cancun dental vacation,0,38,0,55.28947368421053
+2025-02-12,2025-02-18,usa,dental tourism cancun,0,62,0,36.75806451612903
+2025-02-12,2025-02-18,usa,dental tourism cancun mexico,0,33,0,59.333333333333336
+2025-02-12,2025-02-18,usa,dental vacation cancun,0,45,0,43.86666666666667
+2025-02-12,2025-02-18,usa,dental vacation in cancun mexico,0,9,0,41
+2025-02-12,2025-02-18,usa,dental vacations cancun,0,19,0,56.89473684210526
+2025-02-19,2025-02-25,usa,cancun dental tourism,0,59,0,33.88135593220339
+2025-02-19,2025-02-25,usa,cancun dental vacation,0,45,0,67
+2025-02-19,2025-02-25,usa,dental tourism cancun,0,55,0,31.163636363636364
+2025-02-19,2025-02-25,usa,dental tourism cancun mexico,0,30,0,46.96666666666667
+2025-02-19,2025-02-25,usa,dental vacation cancun,0,51,0,36.01960784313726
+2025-02-19,2025-02-25,usa,dental vacation in cancun mexico,0,9,0,39.55555555555556
+2025-02-19,2025-02-25,usa,dental vacations cancun,0,2,0,43
+2025-02-19,2025-02-25,usa,hotels near cancun dental specialists,0,7,0,3.857142857142857
+2025-02-26,2025-03-04,usa,cancun dental tourism,0,38,0,43.026315789473685
+2025-02-26,2025-03-04,usa,cancun dental vacation,0,18,0,82.94444444444444
+2025-02-26,2025-03-04,usa,dental tourism cancun,0,54,0,39.166666666666664
+2025-02-26,2025-03-04,usa,dental tourism cancun mexico,0,30,0,67.8
+2025-02-26,2025-03-04,usa,dental tourism in cancun,0,2,0,59
+2025-02-26,2025-03-04,usa,dental vacation cancun,0,50,0,42.84
+2025-02-26,2025-03-04,usa,dental vacation in cancun mexico,0,6,0,43
+2025-02-26,2025-03-04,usa,hotels near cancun dental specialists,0,7,0,4
+2025-03-05,2025-03-11,usa,hotels near cancun dental specialists,1,9,0.1111111111111111,3.7777777777777777
+2025-03-05,2025-03-11,usa,best veneers cancun mexico,0,1,0,99
+2025-03-05,2025-03-11,usa,cancun dental tourism,0,1,0,44
+2025-03-05,2025-03-11,usa,cancun dental vacation,0,49,0,73.73469387755102
+2025-03-05,2025-03-11,usa,cancun dental vacation packages,0,2,0,49.5
+2025-03-05,2025-03-11,usa,cancun dental veneers,0,1,0,65
+2025-03-05,2025-03-11,usa,cancun mexico dental tourism,0,1,0,69
+2025-03-05,2025-03-11,usa,dental tourism cancun,0,66,0,37.09090909090909
+2025-03-05,2025-03-11,usa,dental tourism cancun mexico,0,33,0,60
+2025-03-05,2025-03-11,usa,dental tourism in cancun,0,1,0,54
+2025-03-05,2025-03-11,usa,dental vacation cancun,0,63,0,37.20634920634921
+2025-03-05,2025-03-11,usa,dental vacation in cancun mexico,0,1,0,41
+2025-03-05,2025-03-11,usa,dental vacations cancun,0,5,0,35.8
+2025-03-12,2025-03-18,usa,best veneers cancun mexico,0,5,0,98.6
+2025-03-12,2025-03-18,usa,cancun dental vacation,0,11,0,71.81818181818181
+2025-03-12,2025-03-18,usa,cancun mexico dental tourism,0,2,0,57.5
+2025-03-12,2025-03-18,usa,dental destinations cancun,0,1,0,50
+2025-03-12,2025-03-18,usa,dental tourism cancun,0,45,0,40.111111111111114
+2025-03-12,2025-03-18,usa,dental tourism cancun mexico,0,25,0,59.16
+2025-03-12,2025-03-18,usa,dental vacation cancun,0,41,0,37.951219512195124
+2025-03-12,2025-03-18,usa,dental vacation in cancun mexico,0,1,0,35
+2025-03-12,2025-03-18,usa,dental vacations cancun,0,27,0,56.074074074074076
+2025-03-12,2025-03-18,usa,hotels near cancun dental specialists,0,2,0,3.5

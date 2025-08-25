@@ -1,0 +1,35 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,mex,dental care,0,1,0,15
+2024-05-01,2024-05-07,mex,the dental care,0,1,0,12
+2024-05-08,2024-05-14,mex,dental clinic near me,0,1,0,11
+2024-05-08,2024-05-14,mex,global dental,0,1,0,7
+2024-05-15,2024-05-21,mex,dental care clinic,0,1,0,9
+2024-05-22,2024-05-28,mex,dental care,0,1,0,12
+2024-05-29,2024-06-04,mex,care dental,0,1,0,12
+2024-05-29,2024-06-04,mex,dental care,0,1,0,12
+2024-06-05,2024-06-11,mex,dental care,0,1,0,10
+2024-06-05,2024-06-11,mex,dental cleaning near me,0,1,0,8
+2024-06-12,2024-06-18,mex,dental care,0,2,0,11
+2024-06-12,2024-06-18,mex,global dental,0,1,0,7
+2024-06-19,2024-06-25,mex,bilingual dentist near me,0,1,0,10
+2024-06-19,2024-06-25,mex,carefirst dentists,0,1,0,59
+2024-06-19,2024-06-25,mex,cheap dentist near me,0,1,0,11
+2024-06-19,2024-06-25,mex,dental care,0,2,0,11
+2024-06-19,2024-06-25,mex,teeth cleaning near me,0,1,0,14
+2024-06-19,2024-06-25,mex,walk in dentist near me,0,1,0,9
+2024-06-26,2024-07-02,mex,affordable dental care,0,1,0,35
+2024-06-26,2024-07-02,mex,bilingual dentist near me,0,1,0,10
+2024-07-03,2024-07-09,mex,dental care,0,1,0,12
+2024-07-10,2024-07-16,mex,dental work in merida,0,1,0,74
+2024-07-17,2024-07-23,mex,dental cleaning near me,0,1,0,10
+2024-07-24,2024-07-30,mex,teeth care near me,0,1,0,9
+2024-07-31,2024-08-06,mex,dental care,0,2,0,9
+2024-08-07,2024-08-13,mex,dental care,0,2,0,9
+2024-08-07,2024-08-13,mex,t.me packs merida,0,1,0,19
+2024-08-14,2024-08-20,mex,dental care,0,3,0,8
+2024-08-21,2024-08-27,mex,dental care,0,3,0,10.333333333333334
+2024-08-28,2024-09-03,mex,affordable dentist near me,0,1,0,32
+2024-09-04,2024-09-10,mex,globalcare,0,1,0,1
+2024-09-11,2024-09-17,mex,dental care sucursales,0,1,0,7
+2024-09-11,2024-09-17,mex,dental clinic near me,0,1,0,10
+2024-09-18,2024-09-24,mex,medical care and research merida,0,1,0,39

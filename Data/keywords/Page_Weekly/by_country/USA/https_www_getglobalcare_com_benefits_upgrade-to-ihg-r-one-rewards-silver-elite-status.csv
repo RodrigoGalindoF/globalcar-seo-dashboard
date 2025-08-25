@@ -1,0 +1,108 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,usa,ihg elite status,0,2,0,53
+2024-05-01,2024-05-07,usa,ihg first responder discount code,0,1,0,55
+2024-05-08,2024-05-14,usa,ihg elite status,0,6,0,55.666666666666664
+2024-05-08,2024-05-14,usa,ihg healthcare discount,0,2,0,85
+2024-05-08,2024-05-14,usa,ihg silver benefits,0,1,0,37
+2024-05-08,2024-05-14,usa,silver elite status,0,1,0,49
+2024-05-15,2024-05-21,usa,ihg elite status,0,10,0,50
+2024-05-15,2024-05-21,usa,ihg healthcare discount,0,3,0,64.66666666666666
+2024-05-15,2024-05-21,usa,ihg silver benefits,0,1,0,34
+2024-05-22,2024-05-28,usa,ihg elite status,0,6,0,68.33333333333333
+2024-05-29,2024-06-04,usa,ihg silver,0,1,0,34
+2024-05-29,2024-06-04,usa,ihg silver elite benefits,0,1,0,30
+2024-05-29,2024-06-04,usa,silver elite status,0,1,0,49
+2024-06-05,2024-06-11,usa,ihg silver elite benefits,0,1,0,26
+2024-06-12,2024-06-18,usa,gold elite status ihg,0,3,0,69
+2024-06-12,2024-06-18,usa,ihg elite member,0,1,0,46
+2024-06-12,2024-06-18,usa,ihg elite status,0,13,0,34.38461538461539
+2024-06-12,2024-06-18,usa,ihg elite status levels,0,1,0,44
+2024-06-12,2024-06-18,usa,ihg gold elite status,0,1,0,77
+2024-06-12,2024-06-18,usa,ihg levels,0,1,0,50
+2024-06-12,2024-06-18,usa,ihg member levels,0,2,0,82
+2024-06-12,2024-06-18,usa,ihg membership levels,0,4,0,68.25
+2024-06-12,2024-06-18,usa,ihg one rewards member benefits,0,1,0,85
+2024-06-12,2024-06-18,usa,ihg one rewards platinum elite status,0,5,0,68.8
+2024-06-12,2024-06-18,usa,ihg one rewards status levels,0,1,0,59
+2024-06-12,2024-06-18,usa,ihg platinum elite benefits,0,1,0,55
+2024-06-12,2024-06-18,usa,ihg reward levels,0,5,0,57.4
+2024-06-12,2024-06-18,usa,ihg reward status,0,4,0,45
+2024-06-12,2024-06-18,usa,ihg rewards benefits chart,0,1,0,49
+2024-06-12,2024-06-18,usa,ihg rewards levels,0,1,0,76
+2024-06-12,2024-06-18,usa,ihg rewards platinum elite status,0,1,0,72
+2024-06-12,2024-06-18,usa,ihg silver elite,0,1,0,32
+2024-06-12,2024-06-18,usa,ihg status,0,16,0,35.625
+2024-06-12,2024-06-18,usa,ihg status levels,0,2,0,43
+2024-06-12,2024-06-18,usa,ihg upgrade,0,1,0,32
+2024-06-12,2024-06-18,usa,silver elite status,0,1,0,37
+2024-06-19,2024-06-25,usa,global benefits ihg,0,2,0,40.5
+2024-06-19,2024-06-25,usa,ihg elite status,0,14,0,34.357142857142854
+2024-06-19,2024-06-25,usa,ihg levels,0,1,0,52
+2024-06-19,2024-06-25,usa,ihg membership levels,0,4,0,67
+2024-06-19,2024-06-25,usa,ihg reward status,0,2,0,47
+2024-06-19,2024-06-25,usa,ihg status,0,4,0,35
+2024-06-26,2024-07-02,usa,ihg elite status,0,9,0,62
+2024-06-26,2024-07-02,usa,ihg gold elite status,0,2,0,75.5
+2024-06-26,2024-07-02,usa,ihg membership levels,0,1,0,78
+2024-06-26,2024-07-02,usa,ihg one rewards platinum elite status,0,2,0,98
+2024-06-26,2024-07-02,usa,ihg reward levels,0,1,0,76
+2024-06-26,2024-07-02,usa,ihg reward status,0,11,0,69.81818181818181
+2024-06-26,2024-07-02,usa,ihg rewards levels,0,2,0,79.5
+2024-06-26,2024-07-02,usa,ihg silver elite member benefits,0,2,0,35
+2024-06-26,2024-07-02,usa,ihg status levels,0,1,0,66
+2024-06-26,2024-07-02,usa,ihg® one rewards platinum elite status,0,1,0,97
+2024-06-26,2024-07-02,usa,levels of ihg rewards,0,1,0,80
+2024-07-03,2024-07-09,usa,ihg elite benefits,0,3,0,71.33333333333333
+2024-07-03,2024-07-09,usa,ihg elite status,0,22,0,58.72727272727273
+2024-07-03,2024-07-09,usa,ihg hotels first responder discount,0,1,0,93
+2024-07-03,2024-07-09,usa,ihg member levels,0,1,0,97
+2024-07-03,2024-07-09,usa,ihg membership levels,0,9,0,85.22222222222223
+2024-07-03,2024-07-09,usa,ihg one rewards platinum elite status,0,2,0,91.5
+2024-07-03,2024-07-09,usa,ihg reward levels,0,8,0,75.25
+2024-07-03,2024-07-09,usa,ihg reward status,0,3,0,71.66666666666667
+2024-07-03,2024-07-09,usa,ihg rewards status,0,1,0,69
+2024-07-03,2024-07-09,usa,ihg rewards status levels,0,1,0,73
+2024-07-03,2024-07-09,usa,ihg status levels,0,3,0,70.33333333333333
+2024-07-03,2024-07-09,usa,ihg® one rewards platinum elite status,0,2,0,95
+2024-07-10,2024-07-16,usa,gold elite ihg,0,1,0,100
+2024-07-10,2024-07-16,usa,gold elite ihg benefits,0,1,0,81
+2024-07-10,2024-07-16,usa,ihg elite status,0,52,0,55.5
+2024-07-10,2024-07-16,usa,ihg first responder discount code,0,1,0,29
+2024-07-10,2024-07-16,usa,ihg gold elite,0,1,0,83
+2024-07-10,2024-07-16,usa,ihg gold elite benefits,0,1,0,97
+2024-07-10,2024-07-16,usa,ihg gold elite status,0,4,0,87
+2024-07-10,2024-07-16,usa,ihg membership levels,0,3,0,78.66666666666667
+2024-07-10,2024-07-16,usa,ihg one rewards levels,0,2,0,74
+2024-07-10,2024-07-16,usa,ihg one status,0,1,0,72
+2024-07-10,2024-07-16,usa,ihg reward levels,0,8,0,75.875
+2024-07-10,2024-07-16,usa,ihg reward status,0,7,0,69.28571428571429
+2024-07-10,2024-07-16,usa,ihg rewards platinum elite status,0,1,0,87
+2024-07-10,2024-07-16,usa,ihg rewards status,0,1,0,66
+2024-07-10,2024-07-16,usa,ihg silver benefits,0,1,0,47
+2024-07-10,2024-07-16,usa,ihg silver elite benefits,0,1,0,43
+2024-07-10,2024-07-16,usa,ihg status benefits,0,1,0,78
+2024-07-10,2024-07-16,usa,ihg status levels,0,5,0,69.2
+2024-07-10,2024-07-16,usa,ihg status tiers,0,1,0,101
+2024-07-10,2024-07-16,usa,ihg statuses,0,1,0,74
+2024-07-10,2024-07-16,usa,silver elite,0,1,0,10
+2024-07-10,2024-07-16,usa,silver elite ihg,0,1,0,38
+2024-07-17,2024-07-23,usa,benefits of ihg platinum elite status,0,1,0,79
+2024-07-17,2024-07-23,usa,delete ihg account permanently,0,1,0,15
+2024-07-17,2024-07-23,usa,gold elite ihg benefits,0,1,0,99
+2024-07-17,2024-07-23,usa,ihg elite benefits,0,2,0,73.5
+2024-07-17,2024-07-23,usa,ihg elite status,0,33,0,67.60606060606061
+2024-07-17,2024-07-23,usa,ihg first responder discount code,0,1,0,27
+2024-07-17,2024-07-23,usa,ihg gold elite status,0,2,0,100.5
+2024-07-17,2024-07-23,usa,ihg member levels,0,1,0,97
+2024-07-17,2024-07-23,usa,ihg member status,0,1,0,81
+2024-07-17,2024-07-23,usa,ihg membership levels,0,14,0,81.5
+2024-07-17,2024-07-23,usa,ihg one rewards platinum elite status,0,4,0,88
+2024-07-17,2024-07-23,usa,ihg reward levels,0,10,0,76.9
+2024-07-17,2024-07-23,usa,ihg reward status,0,8,0,67.5
+2024-07-17,2024-07-23,usa,ihg rewards benefits,0,1,0,86
+2024-07-17,2024-07-23,usa,ihg rewards platinum elite status,0,1,0,86
+2024-07-17,2024-07-23,usa,ihg rewards status levels,0,1,0,66
+2024-07-17,2024-07-23,usa,ihg silver elite,0,1,0,37
+2024-07-17,2024-07-23,usa,ihg silver elite benefits,0,1,0,47
+2024-07-17,2024-07-23,usa,ihg status levels,0,10,0,68.7
+2024-07-17,2024-07-23,usa,silver elite ihg,0,1,0,56

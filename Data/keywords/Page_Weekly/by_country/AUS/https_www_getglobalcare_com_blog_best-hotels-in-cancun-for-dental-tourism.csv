@@ -1,0 +1,58 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,aus,cancun dental tourism,0,1,0,52
+2024-05-01,2024-05-07,aus,dental vacations cancun,0,1,0,44
+2024-05-08,2024-05-14,aus,cancun mexico dental tourism,0,1,0,60
+2024-05-08,2024-05-14,aus,dental tourism cancun,0,1,0,33
+2024-05-08,2024-05-14,aus,dental vacations cancun,0,1,0,36
+2024-05-15,2024-05-21,aus,dental tourism cancun,0,1,0,26
+2024-05-22,2024-05-28,aus,cancun dental tourism,0,2,0,34.5
+2024-05-22,2024-05-28,aus,cancun mexico dental tourism,0,1,0,40
+2024-05-22,2024-05-28,aus,dental tourism cancun,0,2,0,25.5
+2024-05-22,2024-05-28,aus,dental vacation cancun,0,1,0,29
+2024-05-29,2024-06-04,aus,cancun dental tourism,0,1,0,24
+2024-05-29,2024-06-04,aus,dental tourism cancun,0,2,0,31
+2024-05-29,2024-06-04,aus,dental tourism in cancun,0,1,0,30
+2024-06-05,2024-06-11,aus,cancun dental vacation,0,1,0,35
+2024-06-12,2024-06-18,aus,cancun dental tourism,0,1,0,37
+2024-06-12,2024-06-18,aus,cancun mexico dental tourism,0,1,0,44
+2024-06-12,2024-06-18,aus,dental tourism cancun,0,1,0,33
+2024-06-19,2024-06-25,aus,cancun dental veneers,0,1,0,103
+2024-06-19,2024-06-25,aus,cancun mexico dental tourism,0,1,0,51
+2024-06-19,2024-06-25,aus,dental tourism in cancun,0,1,0,45
+2024-06-26,2024-07-02,aus,cancun dental tourism,0,2,0,39
+2024-06-26,2024-07-02,aus,cancun mexico dental tourism,0,1,0,59
+2024-06-26,2024-07-02,aus,dental tourism in cancun,0,1,0,38
+2024-07-03,2024-07-09,aus,cancun dental veneers,0,1,0,96
+2024-07-03,2024-07-09,aus,dental tourism cancun,0,1,0,27
+2024-07-03,2024-07-09,aus,dental vacation cancun,0,1,0,32
+2024-07-10,2024-07-16,aus,cancun mexico dental tourism,0,1,0,45
+2024-07-10,2024-07-16,aus,dental vacation cancun,0,1,0,25
+2024-07-17,2024-07-23,aus,cancun dental vacation,0,1,0,44
+2024-07-17,2024-07-23,aus,dental vacations cancun,0,1,0,40
+2024-07-24,2024-07-30,aus,dental tourism cancun,0,1,0,34
+2024-07-31,2024-08-06,aus,cancun dental tourism,0,2,0,32
+2024-07-31,2024-08-06,aus,dental vacation cancun,0,1,0,34
+2024-08-07,2024-08-13,aus,cancun dental vacation packages,0,1,0,48
+2024-08-07,2024-08-13,aus,cancun dental veneers,0,1,0,101
+2024-08-07,2024-08-13,aus,dental tourism cancun,0,1,0,31
+2024-08-07,2024-08-13,aus,dental tourism in cancun,0,1,0,35
+2024-08-07,2024-08-13,aus,dental vacation cancun,0,2,0,31.5
+2024-08-14,2024-08-20,aus,cancun dental tourism,0,1,0,33
+2024-08-14,2024-08-20,aus,dental tourism cancun,0,1,0,31
+2024-08-14,2024-08-20,aus,dental tourism cancun mexico,0,1,0,38
+2024-08-14,2024-08-20,aus,dental tourism in cancun,0,1,0,34
+2024-08-21,2024-08-27,aus,cancun mexico dental tourism,0,2,0,25.5
+2024-08-21,2024-08-27,aus,dental tourism cancun,0,1,0,30
+2024-08-21,2024-08-27,aus,dental tourism in cancun,0,1,0,32
+2024-08-28,2024-09-03,aus,cancun dental tourism,0,1,0,40
+2024-08-28,2024-09-03,aus,dental tourism in cancun,0,1,0,36
+2024-09-04,2024-09-10,aus,cancun dental tourism,0,1,0,37
+2024-09-04,2024-09-10,aus,cancun mexico dental tourism,0,1,0,30
+2024-09-04,2024-09-10,aus,dental tourism cancun,0,1,0,23
+2024-09-11,2024-09-17,aus,cancun dental tourism,0,1,0,73
+2024-09-11,2024-09-17,aus,cancun mexico dental tourism,0,1,0,34
+2024-09-18,2024-09-24,aus,best veneers cancun mexico,0,1,0,102
+2024-09-25,2024-10-01,aus,cancun dental tourism,0,2,0,39.5
+2024-10-02,2024-10-08,aus,cancun dental tourism,0,1,0,51
+2024-10-09,2024-10-15,aus,dental vacation cancun,0,1,0,77
+2024-10-16,2024-10-22,aus,dental tourism in cancun,0,1,0,42

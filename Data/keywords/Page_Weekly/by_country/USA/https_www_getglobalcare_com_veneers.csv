@@ -1,0 +1,43 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,usa,globalcare,0,2,0,3
+2024-05-08,2024-05-14,usa,globalcare,0,1,0,6
+2024-05-15,2024-05-21,usa,globalcare,0,3,0,5
+2024-05-15,2024-05-21,usa,globalcare.com,0,1,0,8
+2024-05-22,2024-05-28,usa,globalcare.com,0,1,0,8
+2024-05-29,2024-06-04,usa,globalcare,0,1,0,2
+2024-06-05,2024-06-11,usa,globalcare,0,3,0,4
+2024-06-12,2024-06-18,usa,globalcare,0,3,0,2
+2024-06-19,2024-06-25,usa,globalcare,0,3,0,3.6666666666666665
+2024-06-26,2024-07-02,usa,globalcare,0,3,0,4.333333333333334
+2024-07-03,2024-07-09,usa,globalcare,0,2,0,4
+2024-07-10,2024-07-16,usa,globalcare,0,3,0,3.6666666666666665
+2024-07-17,2024-07-23,usa,globalcare,0,1,0,2
+2024-07-24,2024-07-30,usa,globalcare,0,1,0,10
+2024-07-31,2024-08-06,usa,globalcare,0,3,0,9.333333333333334
+2024-08-07,2024-08-13,usa,globalcare,0,4,0,10
+2024-08-14,2024-08-20,usa,globalcare,0,5,0,6
+2024-08-21,2024-08-27,usa,globalcare,0,4,0,9.25
+2024-08-28,2024-09-03,usa,globalcare,0,5,0,8
+2024-09-04,2024-09-10,usa,globalcare,0,2,0,4
+2024-09-11,2024-09-17,usa,global dental care,0,1,0,1
+2024-09-11,2024-09-17,usa,globalcare,0,1,0,10
+2024-09-18,2024-09-24,usa,english speaking dentist mexico city,0,1,0,12
+2024-09-18,2024-09-24,usa,global care,0,1,0,5
+2024-09-18,2024-09-24,usa,global dental clinic,0,2,0,4
+2024-09-18,2024-09-24,usa,globalcare,0,1,0,1
+2024-09-18,2024-09-24,usa,veeners,0,1,0,7
+2024-09-18,2024-09-24,usa,veeners cost,0,2,0,77
+2024-09-18,2024-09-24,usa,what are veeners,0,1,0,7
+2024-09-25,2024-10-01,usa,global dental clinic,0,1,0,10
+2024-09-25,2024-10-01,usa,veeners,0,3,0,8.666666666666668
+2024-09-25,2024-10-01,usa,veeners cost,0,10,0,74.9
+2024-10-02,2024-10-08,usa,global care,0,5,0,11.6
+2024-10-02,2024-10-08,usa,global dental baja,0,1,0,8
+2024-10-02,2024-10-08,usa,globel care,0,1,0,12
+2024-10-02,2024-10-08,usa,veeners cost,0,2,0,69
+2024-10-09,2024-10-15,usa,global care,0,6,0,11.333333333333334
+2024-10-09,2024-10-15,usa,veeners,0,1,0,8
+2024-10-09,2024-10-15,usa,veeners cost,0,2,0,82
+2024-10-16,2024-10-22,usa,global care,0,1,0,11
+2024-10-16,2024-10-22,usa,global dental tijuana,0,1,0,11
+2024-10-16,2024-10-22,usa,goldencare reviews,0,1,0,1

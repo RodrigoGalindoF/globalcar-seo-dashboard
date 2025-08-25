@@ -1,0 +1,63 @@
+start_date,end_date,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,changing dentists,0,1,0,55
+2024-05-08,2024-05-14,changing dentists,0,2,0,53.5
+2024-05-08,2024-05-14,sharing dental records between providers,0,1,0,89
+2024-05-08,2024-05-14,transfer dental records,0,2,0,97.5
+2024-05-08,2024-05-14,transferring dental records,0,1,0,94
+2024-05-15,2024-05-21,how to get dental records transferred,0,1,0,82
+2024-05-15,2024-05-21,sharing dental records between providers,0,16,0,90
+2024-05-15,2024-05-21,transfer dental records,0,3,0,89
+2024-05-22,2024-05-28,how to get dental records transferred,0,3,0,85.33333333333333
+2024-05-22,2024-05-28,sharing dental records between providers,0,7,0,81
+2024-05-22,2024-05-28,switch dentists,0,1,0,97
+2024-05-22,2024-05-28,transfer dental records,0,8,0,89.375
+2024-05-29,2024-06-04,are dental records shared between dentists,0,1,0,72
+2024-05-29,2024-06-04,changing dentists,0,2,0,66
+2024-05-29,2024-06-04,do dentists transfer records,0,1,0,69
+2024-05-29,2024-06-04,how to get dental records transferred,0,2,0,80
+2024-05-29,2024-06-04,how to transfer dental records,0,2,0,91
+2024-05-29,2024-06-04,is it easy to switch dentists,0,1,0,35
+2024-05-29,2024-06-04,sharing dental records between providers,0,7,0,76.85714285714286
+2024-05-29,2024-06-04,transfer dental records,0,10,0,84.4
+2024-05-29,2024-06-04,transferring dental records,0,1,0,65
+2024-06-05,2024-06-11,am i entitled to my dental records,0,1,0,1
+2024-06-05,2024-06-11,changing dentists,0,1,0,73
+2024-06-05,2024-06-11,how to get dental records transferred,0,4,0,78
+2024-06-05,2024-06-11,how to transfer dental records,0,1,0,95
+2024-06-05,2024-06-11,sharing dental records between providers,0,6,0,79.16666666666667
+2024-06-05,2024-06-11,switching dentists,0,5,0,30
+2024-06-05,2024-06-11,transfer dental records,0,16,0,71
+2024-06-12,2024-06-18,can dental records be transferred,0,1,0,86
+2024-06-12,2024-06-18,changing dentists,0,1,0,64
+2024-06-12,2024-06-18,do dentists share records,0,1,0,87
+2024-06-12,2024-06-18,how to get dental records transferred,0,1,0,73
+2024-06-12,2024-06-18,how to transfer dental records,0,34,0,92.70588235294117
+2024-06-12,2024-06-18,sharing dental records between providers,0,6,0,66.83333333333333
+2024-06-12,2024-06-18,switching dentists,0,6,0,44.5
+2024-06-12,2024-06-18,transfer dental records,0,6,0,89.33333333333333
+2024-06-12,2024-06-18,transferring dental records,0,1,0,82
+2024-06-19,2024-06-25,changing dentist transfer of records,0,1,0,29
+2024-06-19,2024-06-25,dentist tourism,0,1,0,102
+2024-06-19,2024-06-25,how to get dental records transferred,0,1,0,80
+2024-06-19,2024-06-25,sharing dental records between providers,0,6,0,55.5
+2024-06-19,2024-06-25,transfer dental records,0,6,0,91.83333333333333
+2024-06-19,2024-06-25,transferring dental records,0,1,0,91
+2024-06-26,2024-07-02,changing dentists,0,2,0,74.5
+2024-06-26,2024-07-02,how to get dental records transferred,0,3,0,83.66666666666667
+2024-06-26,2024-07-02,how to transfer dental records,0,1,0,95
+2024-06-26,2024-07-02,sharing dental records between providers,0,8,0,55.625
+2024-06-26,2024-07-02,switching dentists,0,1,0,90
+2024-06-26,2024-07-02,transfer dental records,0,11,0,91.9090909090909
+2024-06-26,2024-07-02,transferring dental records,0,1,0,61
+2024-06-26,2024-07-02,what happens when you switch dentists,0,1,0,54
+2024-07-03,2024-07-09,changing dentists,0,2,0,83
+2024-07-03,2024-07-09,do dentists have access to your medical records,0,1,0,101
+2024-07-03,2024-07-09,how to get dental records transferred,0,1,0,77
+2024-07-03,2024-07-09,sharing dental records between providers,0,5,0,62.8
+2024-07-03,2024-07-09,transfer dental records,0,13,0,94.61538461538461
+2024-07-10,2024-07-16,can dental records be transferred,0,2,0,83.5
+2024-07-10,2024-07-16,changing dentists,0,1,0,85
+2024-07-10,2024-07-16,how to get dental records transferred,0,4,0,83.75
+2024-07-10,2024-07-16,sharing dental records between providers,0,6,0,62
+2024-07-10,2024-07-16,transfer dental records,0,5,0,95.4
+2024-07-10,2024-07-16,transferring dental records,0,1,0,81

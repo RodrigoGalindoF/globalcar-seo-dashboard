@@ -1,0 +1,25 @@
+start_date,end_date,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,dental tourism agency,0,2,0,37
+2024-05-01,2024-05-07,pre vetted,0,1,0,32
+2024-05-01,2024-05-07,prevetted,0,1,0,62
+2024-05-08,2024-05-14,dental tourism agency,0,1,0,71
+2024-05-15,2024-05-21,prevetted,0,1,0,82
+2024-05-22,2024-05-28,pre vetted,0,3,0,31.333333333333332
+2024-05-22,2024-05-28,prevetted,0,1,0,80
+2024-05-29,2024-06-04,pre vetted,0,6,0,55.833333333333336
+2024-05-29,2024-06-04,pre-vetted,0,2,0,54.5
+2024-06-05,2024-06-11,pre vetted,0,2,0,47.5
+2024-06-05,2024-06-11,pre-vetted,0,2,0,22
+2024-06-05,2024-06-11,pre-vetting,0,1,0,79
+2024-06-12,2024-06-18,dental tourism agency,0,1,0,74
+2024-06-12,2024-06-18,pre vetted,0,1,0,66
+2024-06-12,2024-06-18,prevetted,0,1,0,70
+2024-06-19,2024-06-25,dental tourism agency,0,1,0,72
+2024-06-19,2024-06-25,puerto vallarta dental tourism,0,1,0,96
+2024-06-26,2024-07-02,dental tourism agencies,0,1,0,30
+2024-06-26,2024-07-02,dental vacation puerto vallarta,0,1,0,100
+2024-06-26,2024-07-02,pre vetted,0,1,0,28
+2024-06-26,2024-07-02,vetted local providers,0,4,0,92.25
+2024-07-03,2024-07-09,vetted local providers,0,11,0,90
+2024-07-10,2024-07-16,vetted local providers,0,8,0,90.125
+2024-07-17,2024-07-23,vetted local providers,0,5,0,92.4

@@ -1,0 +1,541 @@
+start_date,end_date,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,global care,0,4,0,10
+2024-05-01,2024-05-07,global care network,0,1,0,10
+2024-05-08,2024-05-14,global care,0,9,0,11.333333333333334
+2024-05-08,2024-05-14,globalcare,0,1,0,12
+2024-05-15,2024-05-21,care mex,0,1,0,11
+2024-05-15,2024-05-21,global care,0,9,0,10.333333333333334
+2024-05-15,2024-05-21,global care cosmetics corporation,0,2,0,11
+2024-05-22,2024-05-28,care mex,0,1,0,10
+2024-05-22,2024-05-28,global care,0,8,0,9.875
+2024-05-22,2024-05-28,global care services,0,1,0,14
+2024-05-29,2024-06-04,global care,0,6,0,9.166666666666666
+2024-05-29,2024-06-04,global care services,0,2,0,12
+2024-05-29,2024-06-04,globalcare,0,2,0,10
+2024-05-29,2024-06-04,previa dental works,0,1,0,91
+2024-06-05,2024-06-11,global care,0,4,0,8.5
+2024-06-12,2024-06-18,global care,0,6,0,9.333333333333334
+2024-06-12,2024-06-18,globalcare,0,4,0,2
+2024-06-19,2024-06-25,global care,0,4,0,10.25
+2024-06-19,2024-06-25,globalcare,0,1,0,4
+2024-06-26,2024-07-02,global care,0,8,0,10.875
+2024-06-26,2024-07-02,globalcare,0,1,0,7
+2024-07-03,2024-07-09,dental care mexico,0,1,0,10
+2024-07-03,2024-07-09,global care,0,3,0,11
+2024-07-03,2024-07-09,one destination clinic cancun,0,1,0,51
+2024-07-10,2024-07-16,dental clinic puerto vallarta,0,1,0,59
+2024-07-10,2024-07-16,global care,0,4,0,10
+2024-07-10,2024-07-16,globalcare,0,3,0,4.333333333333334
+2024-07-17,2024-07-23,global care,0,6,0,9.166666666666666
+2024-07-17,2024-07-23,global care phone number,0,1,0,8
+2024-07-17,2024-07-23,global dental care,0,2,0,13.5
+2024-07-17,2024-07-23,globalcare,0,6,0,1.5
+2024-07-17,2024-07-23,one destination clinic cancun,0,3,0,50.666666666666664
+2024-07-24,2024-07-30,18007787879,0,1,0,7
+2024-07-24,2024-07-30,dental care mexico,0,1,0,11
+2024-07-24,2024-07-30,dentaris health group,0,1,0,12
+2024-07-24,2024-07-30,global care,0,5,0,11.4
+2024-07-24,2024-07-30,global dental care,0,1,0,13
+2024-07-24,2024-07-30,global dental clinic,0,2,0,14.5
+2024-07-31,2024-08-06,18007787879,0,2,0,3.5
+2024-07-31,2024-08-06,get-who-cares.com,0,1,0,9
+2024-07-31,2024-08-06,get-who-cares.com/,0,1,0,9
+2024-07-31,2024-08-06,global care,0,1,0,3
+2024-07-31,2024-08-06,global dental care,0,2,0,12.5
+2024-07-31,2024-08-06,globalcare,0,2,0,5
+2024-07-31,2024-08-06,one destination clinic cancun,0,1,0,48
+2024-08-07,2024-08-13,dentaris health group,0,1,0,7
+2024-08-07,2024-08-13,get mexico,0,1,0,8
+2024-08-07,2024-08-13,get-who-cares.com,0,2,0,8.5
+2024-08-07,2024-08-13,get-who-cares.com/,0,1,0,9
+2024-08-07,2024-08-13,global care,0,9,0,7.888888888888889
+2024-08-07,2024-08-13,global dental care,0,5,0,12.4
+2024-08-07,2024-08-13,globalcare,0,1,0,8
+2024-08-07,2024-08-13,one destination clinic cancun,0,2,0,49.5
+2024-08-07,2024-08-13,smile venue dental reviews,0,1,0,11
+2024-08-14,2024-08-20,18007787879,0,3,0,3.3333333333333335
+2024-08-14,2024-08-20,american biodental center tijuana,0,1,0,87
+2024-08-14,2024-08-20,dentaris health group,0,2,0,13.5
+2024-08-14,2024-08-20,get-who-cares.com,0,2,0,7
+2024-08-14,2024-08-20,get-who-cares.com/,0,1,0,10
+2024-08-14,2024-08-20,globacare,0,1,0,11
+2024-08-14,2024-08-20,global care,0,10,0,11.1
+2024-08-14,2024-08-20,global dental care,0,3,0,13
+2024-08-14,2024-08-20,global dentist,0,1,0,10
+2024-08-14,2024-08-20,globalcare,0,2,0,5.5
+2024-08-14,2024-08-20,my global dentist,0,1,0,5
+2024-08-14,2024-08-20,one destination clinic,0,1,0,50
+2024-08-14,2024-08-20,one destination clinic cancun,0,1,0,46
+2024-08-21,2024-08-27,global care,0,7,0,12
+2024-08-21,2024-08-27,global dental care,0,1,0,12
+2024-08-21,2024-08-27,globle care,0,1,0,11
+2024-08-21,2024-08-27,one destination clinic,0,1,0,68
+2024-08-28,2024-09-03,care mexico,0,1,0,11
+2024-08-28,2024-09-03,dental care mexico,0,2,0,10
+2024-08-28,2024-09-03,english-speaking dentists in puerto vallarta,0,1,0,63
+2024-08-28,2024-09-03,get-who-cares.com,0,1,0,9
+2024-08-28,2024-09-03,global care,0,5,0,5.2
+2024-08-28,2024-09-03,global dental care,0,1,0,11
+2024-08-28,2024-09-03,one destination clinic cancun,0,2,0,37.5
+2024-09-04,2024-09-10,dental care mexico,0,4,0,9.75
+2024-09-04,2024-09-10,dental implants guadalajara mexico,0,2,0,49
+2024-09-04,2024-09-10,english-speaking dentists in puerto vallarta,0,1,0,59
+2024-09-04,2024-09-10,global care,0,7,0,5.857142857142857
+2024-09-04,2024-09-10,global dental care,0,1,0,13
+2024-09-04,2024-09-10,globalcare,0,4,0,3.25
+2024-09-04,2024-09-10,guadalajara dental clinic,0,1,0,36
+2024-09-04,2024-09-10,my global dentist,0,1,0,10
+2024-09-04,2024-09-10,one destination clinic cancun,0,2,0,33.5
+2024-09-11,2024-09-17,dental care in mexico,0,1,0,12
+2024-09-11,2024-09-17,dental care mexico,0,1,0,13
+2024-09-11,2024-09-17,english speaking dentist mexico city,0,8,0,11.125
+2024-09-11,2024-09-17,get mexico,0,1,0,9
+2024-09-11,2024-09-17,global care,0,10,0,6.8
+2024-09-11,2024-09-17,global dental,0,1,0,11
+2024-09-11,2024-09-17,globalcare,0,4,0,2.75
+2024-09-11,2024-09-17,guadalajara dental clinic,0,3,0,44
+2024-09-11,2024-09-17,one destination clinic cancun,0,1,0,34
+2024-09-18,2024-09-24,all on 4 monterrey mexico,0,2,0,56
+2024-09-18,2024-09-24,dental care mexico,0,2,0,12
+2024-09-18,2024-09-24,global care,0,14,0,7.214285714285714
+2024-09-18,2024-09-24,global dental care,0,4,0,9.75
+2024-09-18,2024-09-24,globalcare,0,3,0,3.3333333333333335
+2024-09-25,2024-10-01,18007787879,0,1,0,3
+2024-09-25,2024-10-01,all on 4 monterrey mexico,0,2,0,53.5
+2024-09-25,2024-10-01,dental care mexico,0,3,0,11.666666666666666
+2024-09-25,2024-10-01,global care,0,7,0,6.428571428571429
+2024-09-25,2024-10-01,global dental care,0,1,0,9
+2024-09-25,2024-10-01,global dental center,0,1,0,11
+2024-09-25,2024-10-01,globalcare,0,14,0,4.142857142857142
+2024-09-25,2024-10-01,globle care,0,1,0,10
+2024-09-25,2024-10-01,guadalajara dental implants,0,3,0,38.666666666666664
+2024-09-25,2024-10-01,my global dentist,0,1,0,14
+2024-10-02,2024-10-08,all on 4 monterrey mexico,0,2,0,63
+2024-10-02,2024-10-08,dental care mexico,0,3,0,12.333333333333334
+2024-10-02,2024-10-08,dental care today,0,1,0,4
+2024-10-02,2024-10-08,globa care,0,1,0,4
+2024-10-02,2024-10-08,global care,0,4,0,10.75
+2024-10-02,2024-10-08,global dental care,0,1,0,9
+2024-10-02,2024-10-08,globalcare,0,2,0,7
+2024-10-02,2024-10-08,guadalajara dental implants,0,7,0,39.285714285714285
+2024-10-02,2024-10-08,songco dental and medical clinic,0,1,0,3
+2024-10-09,2024-10-15,affordable dental care mexico,0,1,0,7
+2024-10-09,2024-10-15,all on 4 monterrey mexico,0,1,0,62
+2024-10-09,2024-10-15,dental implants guadalajara mexico,0,2,0,41.5
+2024-10-09,2024-10-15,english speaking dental clinic near me,0,1,0,6
+2024-10-09,2024-10-15,global care,0,5,0,7.8
+2024-10-09,2024-10-15,global dental,0,1,0,67
+2024-10-09,2024-10-15,global dental care,0,1,0,9
+2024-10-09,2024-10-15,globalcare,0,2,0,2
+2024-10-09,2024-10-15,guadalajara dental implants,0,5,0,35.8
+2024-10-16,2024-10-22,all dental clinic,0,2,0,14
+2024-10-16,2024-10-22,all on 4 monterrey mexico,0,1,0,57
+2024-10-16,2024-10-22,care dentist,0,1,0,11
+2024-10-16,2024-10-22,clínica dental global dental,0,1,0,9
+2024-10-16,2024-10-22,dental care in mexico,0,1,0,10
+2024-10-16,2024-10-22,dental implants guadalajara mexico,0,1,0,29
+2024-10-16,2024-10-22,dental implants in guadalajara mexico,0,1,0,28
+2024-10-16,2024-10-22,global care,0,7,0,4.714285714285714
+2024-10-16,2024-10-22,global care center,0,1,0,7
+2024-10-16,2024-10-22,global dental,0,5,0,10.4
+2024-10-16,2024-10-22,global dental tijuana,0,3,0,5
+2024-10-16,2024-10-22,globalcare,0,1,0,8
+2024-10-16,2024-10-22,guadalajara dental implants,0,7,0,35
+2024-10-16,2024-10-22,teeth implants in guadalajara jalisco,0,3,0,44.666666666666664
+2024-10-23,2024-10-29,affordable dental care mexico,0,2,0,7
+2024-10-23,2024-10-29,all dental clinic,0,1,0,14
+2024-10-23,2024-10-29,all on 4 monterrey mexico,0,5,0,49
+2024-10-23,2024-10-29,american bio dental tijuana mexico,0,1,0,84
+2024-10-23,2024-10-29,dental care mexico,0,4,0,11
+2024-10-23,2024-10-29,dental clinics,0,1,0,8
+2024-10-23,2024-10-29,dentures clinics,0,1,0,28
+2024-10-23,2024-10-29,english speaking dentist near me,0,1,0,5
+2024-10-23,2024-10-29,global care,0,2,0,9.5
+2024-10-23,2024-10-29,global dental,0,3,0,11
+2024-10-23,2024-10-29,global dental care,0,2,0,10
+2024-10-23,2024-10-29,global dental center,0,2,0,10
+2024-10-23,2024-10-29,globalcare,0,1,0,1
+2024-10-23,2024-10-29,guadalajara dental clinic,0,14,0,25.071428571428573
+2024-10-23,2024-10-29,guadalajara dental implants,0,6,0,37.5
+2024-10-23,2024-10-29,guadalajara dentist,0,1,0,45
+2024-10-23,2024-10-29,my global dentist,0,1,0,8
+2024-10-23,2024-10-29,teeth implants in guadalajara jalisco,0,2,0,49
+2024-10-30,2024-11-05,18007787879,0,1,0,4
+2024-10-30,2024-11-05,affordable dental care mexico,0,1,0,5
+2024-10-30,2024-11-05,all on 4 monterrey mexico,0,2,0,57.5
+2024-10-30,2024-11-05,american bio dental tijuana mexico,0,1,0,84
+2024-10-30,2024-11-05,dental care clinic,0,1,0,7
+2024-10-30,2024-11-05,dental care clinics,0,1,0,11
+2024-10-30,2024-11-05,dental implants guadalajara mexico,0,3,0,35
+2024-10-30,2024-11-05,dental implants in guadalajara mexico,0,1,0,30
+2024-10-30,2024-11-05,global care,0,3,0,2
+2024-10-30,2024-11-05,global dental,0,1,0,12
+2024-10-30,2024-11-05,guadalajara dental clinic,0,14,0,32.07142857142857
+2024-10-30,2024-11-05,guadalajara dental implants,0,6,0,36.5
+2024-10-30,2024-11-05,guadalajara dentist,0,1,0,45
+2024-10-30,2024-11-05,teeth implants in guadalajara jalisco,0,1,0,47
+2024-11-06,2024-11-12,affordable dental implants near me,0,1,0,55
+2024-11-06,2024-11-12,all on 4 monterrey mexico,0,2,0,58
+2024-11-06,2024-11-12,cleveland dental clinic,0,1,0,96
+2024-11-06,2024-11-12,dental care clinic,0,1,0,9
+2024-11-06,2024-11-12,dental clinic guadalajara,0,1,0,33
+2024-11-06,2024-11-12,dental clinic near me,0,1,0,8
+2024-11-06,2024-11-12,dental implants in guadalajara mexico,0,2,0,30
+2024-11-06,2024-11-12,dentist appointment,0,1,0,9
+2024-11-06,2024-11-12,dentist near me english speaking,0,1,0,10
+2024-11-06,2024-11-12,global dental,0,1,0,65
+2024-11-06,2024-11-12,guadalajara dental clinic,0,13,0,35.92307692307692
+2024-11-06,2024-11-12,guadalajara dental implants,0,6,0,37.833333333333336
+2024-11-06,2024-11-12,guadalajara dentist,0,2,0,45.5
+2024-11-06,2024-11-12,teeth implants in guadalajara jalisco,0,4,0,59.25
+2024-11-13,2024-11-19,american bio dental tijuana mexico,0,1,0,76
+2024-11-13,2024-11-19,american biodental mexico,0,2,0,84
+2024-11-13,2024-11-19,dental care,0,1,0,10
+2024-11-13,2024-11-19,dental care without insurance,0,1,0,38
+2024-11-13,2024-11-19,dental clinic near me,0,1,0,8
+2024-11-13,2024-11-19,dentist english speaking near me,0,1,0,7
+2024-11-13,2024-11-19,english speaking dentist near me,0,1,0,11
+2024-11-13,2024-11-19,global dental,0,1,0,68
+2024-11-13,2024-11-19,global dentist,0,1,0,69
+2024-11-13,2024-11-19,guadalajara dental clinic,0,13,0,36.38461538461539
+2024-11-13,2024-11-19,guadalajara dental implants,0,2,0,39
+2024-11-13,2024-11-19,teeth implants in guadalajara jalisco,0,2,0,58.5
+2024-11-20,2024-11-26,18007787879,0,1,0,2
+2024-11-20,2024-11-26,american biodental mexico,0,5,0,80.2
+2024-11-20,2024-11-26,dental clinics,0,1,0,75
+2024-11-20,2024-11-26,global dental,0,3,0,30
+2024-11-20,2024-11-26,guadalajara dental clinic,0,8,0,35
+2024-11-20,2024-11-26,periondental,0,1,0,12
+2024-11-20,2024-11-26,teeth implants in guadalajara jalisco,0,1,0,58
+2024-11-27,2024-12-03,all on 4 dental implants near me,0,1,0,11
+2024-11-27,2024-12-03,american biodental mexico,0,4,0,83.75
+2024-11-27,2024-12-03,dental care clinic,0,1,0,9
+2024-11-27,2024-12-03,dental clinics,0,4,0,23.75
+2024-11-27,2024-12-03,dental implants guadalajara mexico,0,1,0,63
+2024-11-27,2024-12-03,global dental,0,1,0,70
+2024-11-27,2024-12-03,globalcare,0,1,0,1
+2024-11-27,2024-12-03,guadalajara dental clinic,0,9,0,30.77777777777778
+2024-11-27,2024-12-03,teeth implants in guadalajara jalisco,0,3,0,52
+2024-11-27,2024-12-03,world dentist,0,2,0,7
+2024-12-04,2024-12-10,all on 4 dental implants near me,0,1,0,9
+2024-12-04,2024-12-10,dental appointment,0,2,0,8
+2024-12-04,2024-12-10,dental clinics,0,2,0,24
+2024-12-04,2024-12-10,dental implants guadalajara mexico,0,2,0,29
+2024-12-04,2024-12-10,global dental,0,2,0,11
+2024-12-04,2024-12-10,globalcare,0,1,0,1
+2024-12-04,2024-12-10,guadalajara dental clinic,0,2,0,34
+2024-12-04,2024-12-10,teeth implants in guadalajara jalisco,0,2,0,70.5
+2024-12-11,2024-12-17,all on 4 studio cancun,0,1,0,92
+2024-12-11,2024-12-17,dental care clinic,0,1,0,8
+2024-12-11,2024-12-17,dental clinic near me,0,2,0,5
+2024-12-11,2024-12-17,dental implants guadalajara mexico,0,1,0,62
+2024-12-11,2024-12-17,dental implants in guadalajara mexico,0,2,0,36.5
+2024-12-11,2024-12-17,global dental,0,1,0,12
+2024-12-11,2024-12-17,guadalajara dental clinic,0,6,0,28.166666666666668
+2024-12-11,2024-12-17,periondental,0,2,0,9.5
+2024-12-18,2024-12-24,all dental clinic,0,1,0,5
+2024-12-18,2024-12-24,american biodental mexico,0,1,0,70
+2024-12-18,2024-12-24,dental implants guadalajara mexico,0,1,0,34
+2024-12-18,2024-12-24,global dental,0,1,0,63
+2024-12-18,2024-12-24,guadalajara dental clinic,0,7,0,31.285714285714285
+2024-12-18,2024-12-24,guadalajara dental implants,0,7,0,38.57142857142857
+2024-12-18,2024-12-24,guadalajara dentist,0,1,0,45
+2024-12-25,2024-12-31,all on 4 studio cancun,0,1,0,68
+2024-12-25,2024-12-31,dental care clinics,0,2,0,11
+2024-12-25,2024-12-31,guadalajara dental clinic,0,5,0,36.2
+2024-12-25,2024-12-31,guadalajara dental implants,0,5,0,41.4
+2025-01-01,2025-01-07,dental global,0,2,0,11.5
+2025-01-01,2025-01-07,dentist guadalajara,0,1,0,41
+2025-01-01,2025-01-07,dentist in guadalajara mexico,0,1,0,34
+2025-01-01,2025-01-07,global care,0,14,0,8.214285714285715
+2025-01-01,2025-01-07,global dental,0,2,0,11
+2025-01-01,2025-01-07,global dental center,0,1,0,11
+2025-01-01,2025-01-07,globalcare,0,5,0,2.4
+2025-01-01,2025-01-07,guadalajara dental,0,2,0,48
+2025-01-01,2025-01-07,guadalajara dental care,0,1,0,38
+2025-01-01,2025-01-07,guadalajara dental clinic,0,14,0,29.357142857142858
+2025-01-01,2025-01-07,guadalajara dental implants,0,6,0,38
+2025-01-01,2025-01-07,guadalajara dentist,0,5,0,49
+2025-01-01,2025-01-07,trusted dental care,0,1,0,52
+2025-01-08,2025-01-14,all on 4 dental implants near me,0,1,0,7
+2025-01-08,2025-01-14,cheapest dental clinic,0,1,0,10
+2025-01-08,2025-01-14,dental care mexico,0,1,0,8
+2025-01-08,2025-01-14,dental implants guadalajara mexico,0,1,0,54
+2025-01-08,2025-01-14,dentaris,0,1,0,6
+2025-01-08,2025-01-14,global care,0,12,0,5.666666666666667
+2025-01-08,2025-01-14,global dental,0,1,0,12
+2025-01-08,2025-01-14,global dental care,0,19,0,11.157894736842104
+2025-01-08,2025-01-14,global dental center,0,1,0,11
+2025-01-08,2025-01-14,global dental tijuana,0,1,0,3
+2025-01-08,2025-01-14,globalcare,0,2,0,1
+2025-01-08,2025-01-14,guadalajara dental clinic,0,13,0,33.23076923076923
+2025-01-08,2025-01-14,guadalajara dental implants,0,7,0,39.857142857142854
+2025-01-08,2025-01-14,periondental,0,1,0,7
+2025-01-15,2025-01-21,18007787879,0,1,0,3
+2025-01-15,2025-01-21,dental global,0,1,0,5
+2025-01-15,2025-01-21,dental implants guadalajara mexico,0,1,0,33
+2025-01-15,2025-01-21,dentaris boulevard,0,1,0,12
+2025-01-15,2025-01-21,dentaris photos,0,1,0,4
+2025-01-15,2025-01-21,global care,0,14,0,3.142857142857143
+2025-01-15,2025-01-21,global dental,0,1,0,11
+2025-01-15,2025-01-21,global dental baja,0,1,0,4
+2025-01-15,2025-01-21,global dental care,0,7,0,10.142857142857142
+2025-01-15,2025-01-21,globalcare,0,1,0,3
+2025-01-15,2025-01-21,guadalajara dental,0,4,0,76.75
+2025-01-15,2025-01-21,guadalajara dental clinic,0,10,0,36.6
+2025-01-15,2025-01-21,guadalajara dental implants,0,7,0,43.285714285714285
+2025-01-15,2025-01-21,https //www.dentistalgodones.com/services/dental-crowns,0,1,0,89
+2025-01-15,2025-01-21,implant supported dentures near me,0,1,0,12
+2025-01-15,2025-01-21,trusted dental care,0,1,0,59
+2025-01-22,2025-01-28,affordable dental care mexico,0,2,0,5
+2025-01-22,2025-01-28,dental care clinics,0,2,0,13
+2025-01-22,2025-01-28,dental implants in guadalajara mexico,0,1,0,46
+2025-01-22,2025-01-28,dentist appointment,0,1,0,19
+2025-01-22,2025-01-28,dentist in guadalajara mexico,0,1,0,48
+2025-01-22,2025-01-28,get who cares.com,0,1,0,8
+2025-01-22,2025-01-28,globa care,0,1,0,3
+2025-01-22,2025-01-28,global care,0,20,0,4.75
+2025-01-22,2025-01-28,global carr,0,1,0,3
+2025-01-22,2025-01-28,global dental,0,1,0,11
+2025-01-22,2025-01-28,global dental care,0,1,0,12
+2025-01-22,2025-01-28,global dental center,0,1,0,9
+2025-01-22,2025-01-28,global dental tijuana,0,2,0,11
+2025-01-22,2025-01-28,globalcare,0,3,0,1
+2025-01-22,2025-01-28,guadalajara dental,0,1,0,98
+2025-01-22,2025-01-28,guadalajara dental clinic,0,3,0,39
+2025-01-22,2025-01-28,guadalajara dental implants,0,6,0,45.666666666666664
+2025-01-22,2025-01-28,https //www.dentistalgodones.com/services/dental-crowns,0,1,0,86
+2025-01-29,2025-02-04,dental implants guadalajara mexico,0,1,0,51
+2025-01-29,2025-02-04,dental implants in guadalajara mexico,0,1,0,64
+2025-01-29,2025-02-04,global care,0,7,0,2.2857142857142856
+2025-01-29,2025-02-04,global dental,0,3,0,11
+2025-01-29,2025-02-04,global dental baja,0,3,0,7
+2025-01-29,2025-02-04,global dental care,0,4,0,9.75
+2025-01-29,2025-02-04,global dental center,0,1,0,12
+2025-01-29,2025-02-04,globalcare,0,3,0,1
+2025-01-29,2025-02-04,guadalajara dental clinic,0,6,0,47.666666666666664
+2025-01-29,2025-02-04,guadalajara dental implants,0,7,0,48.857142857142854
+2025-02-05,2025-02-11,affordable dental care mexico,0,1,0,6
+2025-02-05,2025-02-11,consultorio global,0,1,0,12
+2025-02-05,2025-02-11,dental implants guadalajara mexico,0,1,0,48
+2025-02-05,2025-02-11,get dental,0,2,0,2
+2025-02-05,2025-02-11,global care,0,11,0,2.7272727272727275
+2025-02-05,2025-02-11,global care llc,0,1,0,3
+2025-02-05,2025-02-11,global dent,0,1,0,78
+2025-02-05,2025-02-11,global dental,0,3,0,10.333333333333334
+2025-02-05,2025-02-11,global dental baja,0,1,0,5
+2025-02-05,2025-02-11,global dental care,0,5,0,9.8
+2025-02-05,2025-02-11,global dental center,0,3,0,11.333333333333334
+2025-02-05,2025-02-11,globalcare,0,7,0,4.571428571428571
+2025-02-05,2025-02-11,greenway dental,0,1,0,81
+2025-02-05,2025-02-11,guadalajara dental clinic,0,2,0,48
+2025-02-05,2025-02-11,guadalajara dental implants,0,10,0,51.8
+2025-02-12,2025-02-18,dental global,0,1,0,9
+2025-02-12,2025-02-18,get dental,0,3,0,2
+2025-02-12,2025-02-18,global care,0,8,0,3
+2025-02-12,2025-02-18,global dental care,0,9,0,13.11111111111111
+2025-02-12,2025-02-18,globalcare,0,2,0,10
+2025-02-12,2025-02-18,guadalajara dental clinic,0,1,0,35
+2025-02-19,2025-02-25,affordable dental care mexico,0,1,0,7
+2025-02-19,2025-02-25,dental implants guadalajara mexico,0,1,0,51
+2025-02-19,2025-02-25,get dental,0,1,0,2
+2025-02-19,2025-02-25,global care,0,9,0,2
+2025-02-19,2025-02-25,global dental,0,1,0,11
+2025-02-19,2025-02-25,global dental care,0,8,0,10
+2025-02-19,2025-02-25,global dental center,0,1,0,12
+2025-02-19,2025-02-25,globalcare,0,5,0,6
+2025-02-19,2025-02-25,guadalajara dental clinic,0,2,0,37.5
+2025-02-19,2025-02-25,guadalajara dental implants,0,14,0,44.142857142857146
+2025-02-26,2025-03-04,dental care world,0,1,0,9
+2025-02-26,2025-03-04,dental implants guadalajara mexico,0,1,0,54
+2025-02-26,2025-03-04,get dental,0,2,0,2
+2025-02-26,2025-03-04,globa care,0,1,0,1
+2025-02-26,2025-03-04,global care,0,9,0,2.5555555555555554
+2025-02-26,2025-03-04,global dental baja,0,1,0,10
+2025-02-26,2025-03-04,global dental care,0,2,0,10.5
+2025-02-26,2025-03-04,global dental tijuana,0,1,0,11
+2025-02-26,2025-03-04,globalcare,0,2,0,8
+2025-02-26,2025-03-04,guadalajara dental clinic,0,1,0,32
+2025-02-26,2025-03-04,guadalajara dental implants,0,3,0,46
+2025-03-05,2025-03-11,all on 4 studio cancun,0,1,0,60
+2025-03-05,2025-03-11,dentaris photos,0,1,0,3
+2025-03-05,2025-03-11,global care,0,10,0,1.4
+2025-03-05,2025-03-11,global care llc,0,2,0,7.5
+2025-03-05,2025-03-11,global dent,0,1,0,66
+2025-03-05,2025-03-11,global dental baja,0,1,0,12
+2025-03-05,2025-03-11,global dental care,0,4,0,11
+2025-03-05,2025-03-11,global dental tijuana,0,5,0,12.6
+2025-03-05,2025-03-11,globalcare,0,2,0,8
+2025-03-12,2025-03-18,clinic smile design guadalajara,0,1,0,43
+2025-03-12,2025-03-18,dental implants guadalajara mexico,0,1,0,40
+2025-03-12,2025-03-18,dental implants in guadalajara mexico,0,2,0,55.5
+2025-03-12,2025-03-18,get dental,0,1,0,2
+2025-03-12,2025-03-18,globa care,0,1,0,2
+2025-03-12,2025-03-18,global care,0,8,0,2.375
+2025-03-12,2025-03-18,global care center,0,1,0,5
+2025-03-12,2025-03-18,global dent playa del carmen,0,1,0,13
+2025-03-12,2025-03-18,global dental,0,1,0,11
+2025-03-12,2025-03-18,global dental care,0,3,0,9
+2025-03-12,2025-03-18,global dental tijuana,0,5,0,10.2
+2025-03-12,2025-03-18,globalcare,0,2,0,4
+2025-03-12,2025-03-18,guadalajara dental implants,0,6,0,48.166666666666664
+2025-03-12,2025-03-18,one destination clinic cancun mx,0,1,0,97
+2025-03-12,2025-03-18,periondental,0,2,0,11
+2025-03-19,2025-03-25,clinicas dentales en guadalajara,0,1,0,68
+2025-03-19,2025-03-25,credit dental care,0,1,0,12
+2025-03-19,2025-03-25,crm clinica dental,0,1,0,34
+2025-03-19,2025-03-25,dental care mexico,0,1,0,12
+2025-03-19,2025-03-25,english speaking dentist mexico city,0,1,0,12
+2025-03-19,2025-03-25,get dental,0,1,0,1
+2025-03-19,2025-03-25,global care,0,4,0,1.25
+2025-03-19,2025-03-25,global carr,0,1,0,1
+2025-03-19,2025-03-25,global dent playa del carmen,0,2,0,12
+2025-03-19,2025-03-25,global dental baja,0,1,0,9
+2025-03-19,2025-03-25,globalcare,0,1,0,9
+2025-03-19,2025-03-25,guadalajara dental,0,1,0,97
+2025-03-19,2025-03-25,guadalajara dental implants,0,5,0,47.6
+2025-03-26,2025-04-01,all inclusive dental packages mexico,0,1,0,87
+2025-03-26,2025-04-01,best dental clinics in mexico,0,1,0,94
+2025-03-26,2025-04-01,clínica del carmen guadalajara,0,1,0,74
+2025-03-26,2025-04-01,dental clinic mexico,0,1,0,93
+2025-03-26,2025-04-01,dental clinic near me with price,0,1,0,13
+2025-03-26,2025-04-01,dental clinics in mexico,0,1,0,90
+2025-03-26,2025-04-01,dental implants guadalajara mexico,0,1,0,72
+2025-03-26,2025-04-01,dental office in my area,0,1,0,26
+2025-03-26,2025-04-01,dental offices,0,1,0,15
+2025-03-26,2025-04-01,dental services,0,1,0,64
+2025-03-26,2025-04-01,dental work mexico,0,1,0,96
+2025-03-26,2025-04-01,dentaris,0,1,0,6
+2025-03-26,2025-04-01,dentaris cancún,0,4,0,43.25
+2025-03-26,2025-04-01,guadalajara dental clinic,0,1,0,45
+2025-03-26,2025-04-01,implant concierge llc,0,1,0,105
+2025-03-26,2025-04-01,implant dentist near me,0,1,0,60
+2025-03-26,2025-04-01,marietta dental care tijuana mx,0,1,0,52
+2025-04-02,2025-04-08,barrington dental clinic,0,2,0,82
+2025-04-02,2025-04-08,best mexican dentist,0,1,0,102
+2025-04-02,2025-04-08,clinica dental en guadalajara,0,1,0,33
+2025-04-02,2025-04-08,dental clinic mexico,0,2,0,100
+2025-04-02,2025-04-08,dental clinics,0,2,0,27.5
+2025-04-02,2025-04-08,dental clinics in guanajuato,0,1,0,87
+2025-04-02,2025-04-08,dental clinics in mexico,0,5,0,95.6
+2025-04-02,2025-04-08,dental clinics near me,0,1,0,72
+2025-04-02,2025-04-08,dental globe,0,1,0,6
+2025-04-02,2025-04-08,dental implants guadalajara mexico,0,1,0,86
+2025-04-02,2025-04-08,dental offices,0,1,0,97
+2025-04-02,2025-04-08,dental places,0,1,0,57
+2025-04-02,2025-04-08,dental service,0,2,0,98
+2025-04-02,2025-04-08,dental services,0,2,0,78
+2025-04-02,2025-04-08,dental world,0,1,0,83
+2025-04-02,2025-04-08,dentaris cancún,0,9,0,38.888888888888886
+2025-04-02,2025-04-08,dentaris photos,0,1,0,8
+2025-04-02,2025-04-08,dentist clinics,0,2,0,53.5
+2025-04-02,2025-04-08,dentist guadalajara,0,1,0,64
+2025-04-02,2025-04-08,dentist in mexico,0,1,0,95
+2025-04-02,2025-04-08,dentist near me,0,1,0,63
+2025-04-02,2025-04-08,globa care,0,1,0,1
+2025-04-02,2025-04-08,global care,0,5,0,6.4
+2025-04-02,2025-04-08,global care center,0,1,0,1
+2025-04-02,2025-04-08,global dental care,0,1,0,2
+2025-04-02,2025-04-08,global dental clinic,0,1,0,10
+2025-04-02,2025-04-08,globalcare,0,4,0,2.75
+2025-04-02,2025-04-08,guadalajara dental,0,2,0,69.5
+2025-04-02,2025-04-08,guadalajara dental clinic,0,9,0,42.111111111111114
+2025-04-02,2025-04-08,guadalajara dentist,0,1,0,70
+2025-04-02,2025-04-08,invisalign puerto vallarta,0,1,0,91
+2025-04-02,2025-04-08,one destination clinic cancun mx,0,1,0,82
+2025-04-02,2025-04-08,total smile group,0,1,0,39
+2025-04-02,2025-04-08,universal dental clinic,0,1,0,34
+2025-04-09,2025-04-15,all on 4 monterrey mexico,0,1,0,98
+2025-04-09,2025-04-15,consultorio dental cancun,0,1,0,65
+2025-04-09,2025-04-15,dental clinics in guanajuato,0,1,0,91
+2025-04-09,2025-04-15,dental house playa del carmen,0,1,0,59
+2025-04-09,2025-04-15,dental implants guadalajara mexico,0,3,0,71
+2025-04-09,2025-04-15,dental repair services,0,1,0,96
+2025-04-09,2025-04-15,dental services,0,2,0,89.5
+2025-04-09,2025-04-15,dental smile clinic monterrey,0,1,0,69
+2025-04-09,2025-04-15,dentaris cancun,0,1,0,73
+2025-04-09,2025-04-15,dentaris cancún,0,6,0,35.666666666666664
+2025-04-09,2025-04-15,dentaris dental clinic in cancun,0,1,0,59
+2025-04-09,2025-04-15,dentcare cancun,0,1,0,37
+2025-04-09,2025-04-15,dentista queretaro,0,1,0,87
+2025-04-09,2025-04-15,english dental clinic near me,0,1,0,6
+2025-04-09,2025-04-15,global care,0,15,0,5.333333333333333
+2025-04-09,2025-04-15,global care agency,0,1,0,6
+2025-04-09,2025-04-15,global dental,0,1,0,11
+2025-04-09,2025-04-15,global dental baja,0,2,0,8.5
+2025-04-09,2025-04-15,global dental care,0,4,0,8.75
+2025-04-09,2025-04-15,global dental partners,0,1,0,10
+2025-04-09,2025-04-15,globalcare,0,6,0,5.333333333333333
+2025-04-09,2025-04-15,globel care,0,1,0,12
+2025-04-09,2025-04-15,grupo dental clinics,0,1,0,42
+2025-04-09,2025-04-15,guadalajara dental clinic,0,9,0,41.77777777777778
+2025-04-09,2025-04-15,marietta dental care tijuana mx,0,2,0,48
+2025-04-09,2025-04-15,mexico dental clinics,0,1,0,93
+2025-04-09,2025-04-15,one destination clinic cancun mx,0,2,0,93.5
+2025-04-09,2025-04-15,professional dental care,0,2,0,32.5
+2025-04-09,2025-04-15,trusted dental care,0,1,0,52
+2025-04-16,2025-04-22,airport dental clinic,0,1,0,67
+2025-04-16,2025-04-22,all inclusive dental packages,0,1,0,94
+2025-04-16,2025-04-22,all-inclusive dental packages,0,2,0,92.5
+2025-04-16,2025-04-22,bokanova dental center,0,1,0,43
+2025-04-16,2025-04-22,clinica dental en ingles,0,2,0,52
+2025-04-16,2025-04-22,clinicas dentales queretaro,0,1,0,59
+2025-04-16,2025-04-22,clínica dental en guadalajara,0,1,0,39
+2025-04-16,2025-04-22,clínica dental méxico monterrey,0,1,0,70
+2025-04-16,2025-04-22,dca dental clinic,0,1,0,50
+2025-04-16,2025-04-22,dental clinic in mexico,0,1,0,82
+2025-04-16,2025-04-22,dental clinics in mexico,0,3,0,83.33333333333333
+2025-04-16,2025-04-22,dental clinics mexico,0,1,0,100
+2025-04-16,2025-04-22,dental guadalajara,0,1,0,96
+2025-04-16,2025-04-22,dental implants in guadalajara mexico,0,1,0,55
+2025-04-16,2025-04-22,dental services,0,2,0,94
+2025-04-16,2025-04-22,dentaris cancún,0,6,0,36.166666666666664
+2025-04-16,2025-04-22,dentaris photos,0,1,0,4
+2025-04-16,2025-04-22,dentcare cancun,0,1,0,32
+2025-04-16,2025-04-22,dentist in guadalajara mexico,0,2,0,51.5
+2025-04-16,2025-04-22,dentist near me,0,1,0,46
+2025-04-16,2025-04-22,global care,0,15,0,7.2
+2025-04-16,2025-04-22,global carr,0,1,0,1
+2025-04-16,2025-04-22,globalcare,0,8,0,5.25
+2025-04-16,2025-04-22,globalcare v 10.1,0,6,0,8.166666666666668
+2025-04-16,2025-04-22,grupo dental bosques,0,1,0,20
+2025-04-16,2025-04-22,guadalajara dental,0,2,0,63.5
+2025-04-16,2025-04-22,guadalajara dental clinic,0,6,0,38.833333333333336
+2025-04-16,2025-04-22,guadalajara dental clinic reviews,0,1,0,33
+2025-04-16,2025-04-22,guadalajara dental implants,0,1,0,46
+2025-04-16,2025-04-22,guadalajara dentist,0,1,0,69
+2025-04-16,2025-04-22,marietta dental care tijuana mx,0,1,0,52
+2025-04-16,2025-04-22,mexican dentists,0,1,0,93
+2025-04-16,2025-04-22,one destination clinic cancun mx,0,6,0,91.16666666666667
+2025-04-23,2025-04-29,all coast dental,0,1,0,38
+2025-04-23,2025-04-29,best dentist near me,0,1,0,25
+2025-04-23,2025-04-29,clear choice near me,0,1,0,162
+2025-04-23,2025-04-29,dental care,0,1,0,99
+2025-04-23,2025-04-29,dental care clinic,0,1,0,22
+2025-04-23,2025-04-29,dental clinic,0,2,0,81
+2025-04-23,2025-04-29,dental clinic in mexico,0,2,0,101
+2025-04-23,2025-04-29,dental clinic mexico,0,5,0,100
+2025-04-23,2025-04-29,dental clinic near me,0,1,0,23
+2025-04-23,2025-04-29,dental clinics in mexico,0,5,0,97.6
+2025-04-23,2025-04-29,dental clinics mexico,0,1,0,102
+2025-04-23,2025-04-29,dental implants guadalajara mexico,0,1,0,43
+2025-04-23,2025-04-29,dental implants in guadalajara mexico,0,1,0,61
+2025-04-23,2025-04-29,dental offices near me,0,6,0,51.833333333333336
+2025-04-23,2025-04-29,dental services,0,4,0,77.75
+2025-04-23,2025-04-29,dentaris cancún,0,1,0,47
+2025-04-23,2025-04-29,dentist guadalajara,0,2,0,46.5
+2025-04-23,2025-04-29,dentist in guadalajara mexico,0,2,0,50.5
+2025-04-23,2025-04-29,dentist office near me,0,4,0,65.75
+2025-04-23,2025-04-29,dentiste mexique,0,1,0,79
+2025-04-23,2025-04-29,global care,0,3,0,11
+2025-04-23,2025-04-29,global care inc,0,1,0,10
+2025-04-23,2025-04-29,global dental tijuana,0,1,0,11
+2025-04-23,2025-04-29,globalcare,0,3,0,9.333333333333334
+2025-04-23,2025-04-29,guadalajara dental,0,3,0,62
+2025-04-23,2025-04-29,guadalajara dental clinic,0,2,0,38
+2025-04-23,2025-04-29,guadalajara dental implants,0,1,0,42
+2025-04-23,2025-04-29,la global care,0,1,0,3
+2025-04-23,2025-04-29,marietta dental care tijuana mx,0,1,0,56
+2025-04-23,2025-04-29,smile design clinic guadalajara,0,1,0,25
+2025-04-23,2025-04-29,teeth cleaning near me,0,1,0,73
+2025-04-23,2025-04-29,trusted dental care,0,1,0,50

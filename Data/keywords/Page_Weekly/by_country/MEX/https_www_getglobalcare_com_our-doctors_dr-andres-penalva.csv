@@ -1,0 +1,104 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,mex,dentist in mexico city,0,1,0,63
+2024-05-08,2024-05-14,mex,andres peñalva,0,1,0,8
+2024-05-15,2024-05-21,mex,andres peñalva,0,1,0,9
+2024-05-22,2024-05-28,mex,andres peñalva,0,1,0,7
+2024-05-29,2024-06-04,mex,andres peñalva,0,2,0,11.5
+2024-06-05,2024-06-11,mex,andres peñalva,0,1,0,6
+2024-06-12,2024-06-18,mex,andres peñalva,0,2,0,9
+2024-06-19,2024-06-25,mex,andres peñalva,0,1,0,6
+2024-06-19,2024-06-25,mex,andres peñalva tron,0,1,0,8
+2024-06-26,2024-07-02,mex,andres peñalva tron,0,2,0,7.5
+2024-07-03,2024-07-09,mex,andres peñalva tron,0,2,0,8.5
+2024-07-10,2024-07-16,mex,andres peñalva,0,4,0,10
+2024-07-10,2024-07-16,mex,dr may penalba,0,1,0,7
+2024-07-17,2024-07-23,mex,andres peñalva tron,0,2,0,10.5
+2024-07-24,2024-07-30,mex,andres peñalva tron,1,2,0.5,11
+2024-07-31,2024-08-06,mex,andres peñalva,0,1,0,6
+2024-07-31,2024-08-06,mex,andres peñalva tron,0,2,0,11.5
+2024-08-07,2024-08-13,mex,andres peñalva,0,4,0,6.5
+2024-08-14,2024-08-20,mex,andres peñalva tron,0,5,0,8.8
+2024-08-21,2024-08-27,mex,andres peñalva tron,0,6,0,7.833333333333333
+2024-08-21,2024-08-27,mex,especialidad en periodoncia cdmx,0,2,0,9
+2024-08-28,2024-09-03,mex,andres peñalva tron,0,9,0,7.777777777777778
+2024-08-28,2024-09-03,mex,periodontist mexico,0,1,0,10
+2024-08-28,2024-09-03,mex,periodontist near me,0,1,0,9
+2024-08-28,2024-09-03,mex,periodontists near me,0,1,0,6
+2024-09-04,2024-09-10,mex,andres peñalva tron,0,4,0,11.75
+2024-09-04,2024-09-10,mex,periodontist near me,0,1,0,7
+2024-09-11,2024-09-17,mex,periodontal doctors near me,1,3,0.3333333333333333,3
+2024-09-11,2024-09-17,mex,andres peñalva tron,0,9,0,10.88888888888889
+2024-09-11,2024-09-17,mex,periodontics near me,0,1,0,18
+2024-09-18,2024-09-24,mex,andres peñalva tron,0,5,0,10.4
+2024-09-18,2024-09-24,mex,periodontics near me,0,5,0,19
+2024-09-25,2024-10-01,mex,andres peñalva tron,1,7,0.14285714285714285,8.857142857142858
+2024-09-25,2024-10-01,mex,dr penalva,0,1,0,8
+2024-09-25,2024-10-01,mex,periodontics near me,0,3,0,12
+2024-09-25,2024-10-01,mex,periodontist near me,0,2,0,20
+2024-09-25,2024-10-01,mex,prosthodontist near me,0,1,0,62
+2024-10-02,2024-10-08,mex,andres peñalva tron,0,3,0,7.333333333333333
+2024-10-02,2024-10-08,mex,implant specialist near me,0,1,0,6
+2024-10-02,2024-10-08,mex,periodontics near me,0,2,0,48.5
+2024-10-02,2024-10-08,mex,periodontist near me,0,1,0,4
+2024-10-09,2024-10-15,mex,andres peñalva tron,1,10,0.1,6.1
+2024-10-09,2024-10-15,mex,periodontal doctor near me,0,1,0,5
+2024-10-09,2024-10-15,mex,periodontics near me,0,1,0,4
+2024-10-09,2024-10-15,mex,st dental lmplant specialist near me,0,1,0,4
+2024-10-16,2024-10-22,mex,andres peñalva tron,0,6,0,5.666666666666667
+2024-10-16,2024-10-22,mex,dentist paddocks,0,1,0,10
+2024-10-16,2024-10-22,mex,periodontics near me,0,1,0,5
+2024-10-16,2024-10-22,mex,periodontist near me,0,1,0,7
+2024-10-23,2024-10-29,mex,andres peñalva tron,0,6,0,9
+2024-10-23,2024-10-29,mex,periodontist near me,0,1,0,8
+2024-10-30,2024-11-05,mex,andres peñalva tron,0,7,0,9.142857142857142
+2024-10-30,2024-11-05,mex,dentista andres,0,1,0,8
+2024-10-30,2024-11-05,mex,periodontics near me,0,5,0,15.8
+2024-10-30,2024-11-05,mex,periodontist near me,0,2,0,23
+2024-10-30,2024-11-05,mex,periodontists near me,0,2,0,19
+2024-11-06,2024-11-12,mex,periodontics near me,0,13,0,16.615384615384613
+2024-11-06,2024-11-12,mex,periodontist near me,0,1,0,11
+2024-11-13,2024-11-19,mex,andres peñalva tron,0,1,0,13
+2024-11-13,2024-11-19,mex,periodontics near me,0,7,0,9.428571428571429
+2024-11-13,2024-11-19,mex,periodontist near me,0,2,0,17.5
+2024-11-13,2024-11-19,mex,periodontists near me,0,2,0,17.5
+2024-11-13,2024-11-19,mex,prosthodontist near me,0,1,0,66
+2024-11-20,2024-11-26,mex,andres peñalva tron,0,2,0,9
+2024-11-20,2024-11-26,mex,periodontics near me,0,2,0,9
+2024-11-20,2024-11-26,mex,periodontist near me,0,1,0,8
+2024-11-27,2024-12-03,mex,andres peñalva tron,0,1,0,15
+2024-11-27,2024-12-03,mex,periodontics near me,0,1,0,11
+2024-11-27,2024-12-03,mex,periodontist near me,0,2,0,6.5
+2024-11-27,2024-12-03,mex,periodontists near me,0,1,0,6
+2024-12-04,2024-12-10,mex,andres peñalva tron,0,4,0,9
+2024-12-04,2024-12-10,mex,periodontics near me,0,2,0,4
+2024-12-04,2024-12-10,mex,peñalva,0,1,0,9
+2024-12-11,2024-12-17,mex,andres peñalva tron,0,7,0,7.142857142857143
+2024-12-11,2024-12-17,mex,periodontics near me,0,9,0,44.111111111111114
+2024-12-18,2024-12-24,mex,andres peñalva tron,0,6,0,7.333333333333333
+2024-12-18,2024-12-24,mex,periodontics near me,0,12,0,31.25
+2024-12-18,2024-12-24,mex,periodontist near me,0,1,0,8
+2024-12-18,2024-12-24,mex,periodontists near me,0,2,0,16.5
+2024-12-25,2024-12-31,mex,andres peñalva tron,1,5,0.2,6.6
+2024-12-25,2024-12-31,mex,periodontics near me,0,12,0,34.916666666666664
+2024-12-25,2024-12-31,mex,periodontist near me,0,1,0,11
+2024-12-25,2024-12-31,mex,periodontists near me,0,1,0,10
+2025-01-01,2025-01-07,mex,andres peñalva tron,0,3,0,6.666666666666667
+2025-01-01,2025-01-07,mex,periodontics near me,0,1,0,94
+2025-01-08,2025-01-14,mex,andres peñalva tron,0,4,0,6.25
+2025-01-15,2025-01-21,mex,andres peñalva tron,0,7,0,5.571428571428571
+2025-01-22,2025-01-28,mex,andres peñalva tron,0,1,0,7
+2025-01-29,2025-02-04,mex,andres peñalva tron,0,2,0,9
+2025-01-29,2025-02-04,mex,periodontist los algodones mexico,0,3,0,92.33333333333333
+2025-01-29,2025-02-04,mex,periodontist near me,0,1,0,36
+2025-01-29,2025-02-04,mex,periodontists near me,0,1,0,25
+2025-02-05,2025-02-11,mex,periodontist in my area,0,1,0,18
+2025-02-05,2025-02-11,mex,periodontist los algodones mexico,0,4,0,88
+2025-02-05,2025-02-11,mex,periodontist near me,0,1,0,36
+2025-02-12,2025-02-18,mex,andres peñalva tron,0,1,0,4
+2025-02-12,2025-02-18,mex,periodontist los algodones mexico,0,2,0,89.5
+2025-02-12,2025-02-18,mex,peñalva,0,1,0,7
+2025-02-19,2025-02-25,mex,andres peñalva tron,0,2,0,4.5
+2025-02-19,2025-02-25,mex,periodontics near me,0,1,0,90
+2025-02-19,2025-02-25,mex,periodontist los algodones mexico,0,4,0,86.5
+2025-02-19,2025-02-25,mex,periodontist near me,0,2,0,70.5
+2025-02-19,2025-02-25,mex,periodontists near me,0,2,0,19.5

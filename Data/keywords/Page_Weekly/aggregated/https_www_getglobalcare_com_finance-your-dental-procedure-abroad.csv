@@ -1,0 +1,407 @@
+start_date,end_date,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,movilend,0,1,0,18
+2024-05-08,2024-05-14,movilend,0,1,0,16
+2024-05-15,2024-05-21,dentist salary abroad,0,1,0,87
+2024-05-22,2024-05-28,dentist salary abroad,0,1,0,85
+2024-05-22,2024-05-28,global care,0,5,0,7
+2024-05-22,2024-05-28,global care network,0,1,0,11
+2024-05-29,2024-06-04,dental care mexico,0,1,0,11
+2024-05-29,2024-06-04,global care,0,2,0,10
+2024-05-29,2024-06-04,globel care,0,1,0,11
+2024-06-05,2024-06-11,global care,0,7,0,9.142857142857142
+2024-06-05,2024-06-11,global care network,0,2,0,9
+2024-06-05,2024-06-11,globalcare,0,6,0,6.166666666666667
+2024-06-05,2024-06-11,globalcare inc,0,1,0,8
+2024-06-12,2024-06-18,global care clinic,1,1,1,5
+2024-06-12,2024-06-18,global care,0,14,0,10.285714285714286
+2024-06-12,2024-06-18,global care network,0,4,0,8.25
+2024-06-12,2024-06-18,global care services,0,1,0,8
+2024-06-12,2024-06-18,globalcare,0,8,0,5.375
+2024-06-19,2024-06-25,18007787879,0,1,0,4
+2024-06-19,2024-06-25,care mex,0,1,0,11
+2024-06-19,2024-06-25,global care,0,14,0,9.642857142857142
+2024-06-19,2024-06-25,global care center,0,1,0,9
+2024-06-19,2024-06-25,global care cosmetics corporation,0,2,0,11
+2024-06-19,2024-06-25,global care inc,0,1,0,10
+2024-06-19,2024-06-25,global care network,0,1,0,9
+2024-06-19,2024-06-25,global care phone number,0,1,0,9
+2024-06-19,2024-06-25,global care services,0,1,0,9
+2024-06-19,2024-06-25,globalcare,0,5,0,7
+2024-06-26,2024-07-02,care mex,0,1,0,10
+2024-06-26,2024-07-02,clinica dental miami world care,0,1,0,9
+2024-06-26,2024-07-02,dental treatment abroad,0,1,0,78
+2024-06-26,2024-07-02,global care,0,17,0,9.647058823529411
+2024-06-26,2024-07-02,global care agency,0,2,0,9
+2024-06-26,2024-07-02,global care inc,0,1,0,10
+2024-06-26,2024-07-02,global care network,0,2,0,8.5
+2024-06-26,2024-07-02,global care number,0,1,0,11
+2024-06-26,2024-07-02,global care services,0,1,0,14
+2024-06-26,2024-07-02,global dental care,0,1,0,7
+2024-06-26,2024-07-02,globalcare,0,5,0,2.6
+2024-06-26,2024-07-02,la global care,0,1,0,11
+2024-07-03,2024-07-09,global care,0,9,0,9.666666666666666
+2024-07-03,2024-07-09,global care inc,0,1,0,10
+2024-07-03,2024-07-09,global care services,0,2,0,12
+2024-07-03,2024-07-09,globalcare,0,8,0,6.75
+2024-07-03,2024-07-09,globalcare inc,0,2,0,10
+2024-07-10,2024-07-16,financing for dental surgery in mexico,0,1,0,100
+2024-07-10,2024-07-16,global care,0,9,0,9.444444444444445
+2024-07-10,2024-07-16,global care inc,0,1,0,10
+2024-07-10,2024-07-16,global care network,0,2,0,9.5
+2024-07-10,2024-07-16,globalcare,0,2,0,3
+2024-07-17,2024-07-23,financing for dental surgery in mexico,0,3,0,99
+2024-07-17,2024-07-23,global care,0,13,0,8.307692307692307
+2024-07-17,2024-07-23,global care network,0,1,0,9
+2024-07-17,2024-07-23,global dental care,0,1,0,10
+2024-07-17,2024-07-23,globalcare,0,7,0,3.7142857142857144
+2024-07-17,2024-07-23,globalcare inc,0,1,0,9
+2024-07-24,2024-07-30,global care,0,8,0,10.25
+2024-07-24,2024-07-30,global care inc,0,1,0,11
+2024-07-24,2024-07-30,global dental care,0,1,0,10
+2024-07-24,2024-07-30,globalcare,0,4,0,4.75
+2024-07-24,2024-07-30,globalcare inc,0,1,0,8
+2024-07-24,2024-07-30,loan for dental treatment,0,1,0,86
+2024-07-31,2024-08-06,dental treatment abroad,0,1,0,98
+2024-07-31,2024-08-06,global care,0,16,0,10.4375
+2024-07-31,2024-08-06,global care network,0,2,0,9
+2024-07-31,2024-08-06,globalcare,0,4,0,6
+2024-08-07,2024-08-13,dental care mexico,0,1,0,10
+2024-08-07,2024-08-13,dental treatment abroad,0,1,0,97
+2024-08-07,2024-08-13,global care,0,14,0,9.785714285714286
+2024-08-07,2024-08-13,globalcare,0,4,0,2.75
+2024-08-14,2024-08-20,global care,0,9,0,9.777777777777779
+2024-08-14,2024-08-20,global care services,0,1,0,8
+2024-08-14,2024-08-20,globalcare,0,9,0,2.666666666666667
+2024-08-21,2024-08-27,financing for dental surgery in mexico,0,1,0,101
+2024-08-21,2024-08-27,global care,0,19,0,9.578947368421053
+2024-08-21,2024-08-27,global care phone number,0,1,0,8
+2024-08-21,2024-08-27,global dental care,0,2,0,13.5
+2024-08-21,2024-08-27,globalcare,0,15,0,2.533333333333333
+2024-08-28,2024-09-03,18007787879,0,8,0,4.625
+2024-08-28,2024-09-03,dental care mexico,0,1,0,11
+2024-08-28,2024-09-03,dentaris health group,0,1,0,12
+2024-08-28,2024-09-03,financing for dental surgery in mexico,0,4,0,95.75
+2024-08-28,2024-09-03,global care,0,14,0,10.5
+2024-08-28,2024-09-03,global dental care,0,1,0,13
+2024-08-28,2024-09-03,global dental clinic,0,2,0,14.5
+2024-08-28,2024-09-03,globalcare,0,4,0,1
+2024-09-04,2024-09-10,care mexico,0,1,0,10
+2024-09-04,2024-09-10,dental care mexico,0,1,0,11
+2024-09-04,2024-09-10,english speaking dentist mexico city,0,1,0,12
+2024-09-04,2024-09-10,finance your care,0,1,0,40
+2024-09-04,2024-09-10,financing for dental surgery in mexico,0,5,0,94.4
+2024-09-04,2024-09-10,get-who-cares.com,0,1,0,9
+2024-09-04,2024-09-10,get-who-cares.com/,0,1,0,9
+2024-09-04,2024-09-10,global care,0,3,0,8.333333333333332
+2024-09-04,2024-09-10,global dental care,0,3,0,11
+2024-09-04,2024-09-10,globalcare,0,5,0,2.6
+2024-09-04,2024-09-10,my global dentist,0,1,0,9
+2024-09-11,2024-09-17,care mexico,0,1,0,10
+2024-09-11,2024-09-17,dental treatment abroad,0,1,0,92
+2024-09-11,2024-09-17,financing for dental surgery in mexico,0,4,0,96.5
+2024-09-11,2024-09-17,get mexico,0,1,0,8
+2024-09-11,2024-09-17,get-who-cares.com,0,2,0,8.5
+2024-09-11,2024-09-17,get-who-cares.com/,0,1,0,9
+2024-09-11,2024-09-17,global care,0,13,0,8
+2024-09-11,2024-09-17,global dental care,0,5,0,12.4
+2024-09-11,2024-09-17,global dental center,0,2,0,9
+2024-09-11,2024-09-17,globalcare,0,2,0,10
+2024-09-11,2024-09-17,smile venue dental reviews,0,1,0,11
+2024-09-18,2024-09-24,clínica dental aesthetic dentistry guadalajara,0,1,0,9
+2024-09-18,2024-09-24,dentaris health group,0,5,0,11.4
+2024-09-18,2024-09-24,finance your care,0,1,0,64
+2024-09-18,2024-09-24,financing for dental surgery in mexico,0,4,0,92
+2024-09-18,2024-09-24,get-who-cares.com,0,2,0,7
+2024-09-18,2024-09-24,get-who-cares.com/,0,1,0,10
+2024-09-18,2024-09-24,globacare,0,1,0,11
+2024-09-18,2024-09-24,global care,0,18,0,10.722222222222221
+2024-09-18,2024-09-24,global dental care,0,3,0,13
+2024-09-18,2024-09-24,global dentist,0,1,0,10
+2024-09-18,2024-09-24,globalcare,0,4,0,5.75
+2024-09-18,2024-09-24,my global dentist,0,1,0,5
+2024-09-18,2024-09-24,operation abroad,0,1,0,102
+2024-09-25,2024-10-01,dental treatment abroad cost,0,1,0,49
+2024-09-25,2024-10-01,financing for dental surgery in mexico,0,5,0,96.4
+2024-09-25,2024-10-01,global care,0,11,0,11.545454545454545
+2024-09-25,2024-10-01,global dental care,0,1,0,12
+2024-09-25,2024-10-01,globle care,0,1,0,11
+2024-10-02,2024-10-08,care mexico,0,1,0,11
+2024-10-02,2024-10-08,dental care mexico,0,2,0,10
+2024-10-02,2024-10-08,dental treatment abroad cost,0,1,0,86
+2024-10-02,2024-10-08,dental treatments abroad,0,1,0,93
+2024-10-02,2024-10-08,finance your care,0,1,0,32
+2024-10-02,2024-10-08,financing for dental surgery in mexico,0,5,0,92
+2024-10-02,2024-10-08,get-who-cares.com,0,1,0,9
+2024-10-02,2024-10-08,global care,0,9,0,5.111111111111111
+2024-10-02,2024-10-08,global dental care,0,2,0,10.5
+2024-10-02,2024-10-08,globalcare,0,7,0,7.428571428571429
+2024-10-09,2024-10-15,dental care mexico,0,4,0,9.75
+2024-10-09,2024-10-15,financing for dental surgery in mexico,0,1,0,96
+2024-10-09,2024-10-15,global care,0,7,0,5.857142857142857
+2024-10-09,2024-10-15,global dental care,0,1,0,13
+2024-10-09,2024-10-15,globalcare,0,4,0,3.25
+2024-10-09,2024-10-15,my global dentist,0,1,0,10
+2024-10-16,2024-10-22,dental care in mexico,0,1,0,12
+2024-10-16,2024-10-22,dental care mexico,0,1,0,13
+2024-10-16,2024-10-22,dental treatment abroad,0,1,0,90
+2024-10-16,2024-10-22,english speaking dentist mexico city,0,8,0,11.125
+2024-10-16,2024-10-22,financing for dental surgery in mexico,0,3,0,90.66666666666667
+2024-10-16,2024-10-22,get mexico,0,1,0,9
+2024-10-16,2024-10-22,global care,0,10,0,6.8
+2024-10-16,2024-10-22,global dental,0,1,0,11
+2024-10-16,2024-10-22,global dental center photos,0,1,0,12
+2024-10-16,2024-10-22,globalcare,0,4,0,2.75
+2024-10-23,2024-10-29,dental care mexico,0,2,0,12
+2024-10-23,2024-10-29,financing for dental surgery in mexico,0,4,0,79.75
+2024-10-23,2024-10-29,global care,0,14,0,7.214285714285714
+2024-10-23,2024-10-29,global dental care,0,4,0,9.75
+2024-10-23,2024-10-29,global dental services,0,1,0,11
+2024-10-23,2024-10-29,globalcare,0,3,0,3.3333333333333335
+2024-10-30,2024-11-05,dental care mexico,0,3,0,11.666666666666666
+2024-10-30,2024-11-05,financing for dental surgery in mexico,0,5,0,87.2
+2024-10-30,2024-11-05,global care,0,7,0,6.428571428571429
+2024-10-30,2024-11-05,global dental care,0,1,0,9
+2024-10-30,2024-11-05,global dental center,0,1,0,11
+2024-10-30,2024-11-05,globalcare,0,15,0,4.6
+2024-10-30,2024-11-05,globle care,0,1,0,10
+2024-10-30,2024-11-05,my global dentist,0,1,0,14
+2024-11-06,2024-11-12,dental care mexico,0,3,0,12.333333333333334
+2024-11-06,2024-11-12,financing for dental surgery in mexico,0,10,0,69.9
+2024-11-06,2024-11-12,globa care,0,1,0,4
+2024-11-06,2024-11-12,global care,0,4,0,10.75
+2024-11-06,2024-11-12,global dental care,0,1,0,9
+2024-11-06,2024-11-12,globalcare,0,2,0,7
+2024-11-13,2024-11-19,affordable dental care mexico,0,1,0,7
+2024-11-13,2024-11-19,financing for dental surgery in mexico,0,7,0,65.71428571428571
+2024-11-13,2024-11-19,global care,0,5,0,7.8
+2024-11-13,2024-11-19,global dental care,0,1,0,9
+2024-11-13,2024-11-19,globalcare,0,2,0,2
+2024-11-20,2024-11-26,care dentist,0,1,0,11
+2024-11-20,2024-11-26,clínica dental global dental,0,1,0,9
+2024-11-20,2024-11-26,dental care in mexico,0,1,0,10
+2024-11-20,2024-11-26,financing for dental surgery in mexico,0,8,0,69.375
+2024-11-20,2024-11-26,global care,0,7,0,4.714285714285714
+2024-11-20,2024-11-26,global dental,0,5,0,10.4
+2024-11-20,2024-11-26,global dental tijuana,0,3,0,5
+2024-11-27,2024-12-03,affordable dental care mexico,0,2,0,7
+2024-11-27,2024-12-03,dental care mexico,0,4,0,11
+2024-11-27,2024-12-03,financing for dental surgery in mexico,0,9,0,84.77777777777777
+2024-11-27,2024-12-03,global care,0,2,0,9.5
+2024-11-27,2024-12-03,global dental,0,2,0,11
+2024-11-27,2024-12-03,global dental care,0,2,0,10
+2024-11-27,2024-12-03,global dental center,0,2,0,10
+2024-11-27,2024-12-03,globalcare,0,1,0,1
+2024-11-27,2024-12-03,my global dentist,0,1,0,8
+2024-12-04,2024-12-10,18007787879,0,1,0,4
+2024-12-04,2024-12-10,affordable dental care mexico,0,1,0,5
+2024-12-04,2024-12-10,financing dental work,0,1,0,61
+2024-12-04,2024-12-10,financing for dental surgery in mexico,0,9,0,84.33333333333333
+2024-12-04,2024-12-10,global care,0,3,0,2
+2024-12-11,2024-12-17,affordable dental care mexico,0,1,0,8
+2024-12-11,2024-12-17,financing for dental surgery in mexico,0,11,0,49.81818181818182
+2024-12-11,2024-12-17,global dental,0,1,0,10
+2024-12-11,2024-12-17,global dental center,0,1,0,12
+2024-12-11,2024-12-17,global dentist,0,1,0,3
+2024-12-11,2024-12-17,globalcare,0,1,0,6
+2024-12-18,2024-12-24,dental care in mexico,0,2,0,13
+2024-12-18,2024-12-24,dental care mexico,0,1,0,11
+2024-12-18,2024-12-24,dental implants financing near me,0,1,0,78
+2024-12-18,2024-12-24,financing for dental surgery in mexico,0,9,0,41.333333333333336
+2024-12-18,2024-12-24,global care,0,1,0,10
+2024-12-18,2024-12-24,global dental,0,6,0,11
+2024-12-18,2024-12-24,globalcare,0,2,0,1
+2024-12-25,2024-12-31,affordable dental care mexico,0,1,0,8
+2024-12-25,2024-12-31,dental care in mexico,0,1,0,5
+2024-12-25,2024-12-31,dental services in mexico,0,1,0,11
+2024-12-25,2024-12-31,finance dental work,0,1,0,65
+2024-12-25,2024-12-31,financing for dental surgery in mexico,0,11,0,42.09090909090909
+2024-12-25,2024-12-31,global care,0,3,0,3
+2024-12-25,2024-12-31,global dental,0,2,0,10.5
+2024-12-25,2024-12-31,global dental center,0,1,0,10
+2024-12-25,2024-12-31,global dental services,0,1,0,2
+2024-12-25,2024-12-31,globalcare,0,1,0,13
+2025-01-01,2025-01-07,18007787879,0,1,0,2
+2025-01-01,2025-01-07,financing for dental surgery in mexico,0,5,0,38
+2025-01-01,2025-01-07,global care,0,1,0,2
+2025-01-01,2025-01-07,global dental care,0,1,0,2
+2025-01-01,2025-01-07,global dental center,0,1,0,10
+2025-01-01,2025-01-07,globalcare,0,1,0,10
+2025-01-08,2025-01-14,global care,0,2,0,6.5
+2025-01-08,2025-01-14,global dental tijuana,0,1,0,11
+2025-01-08,2025-01-14,globalcare,0,1,0,1
+2025-01-15,2025-01-21,affordable dental care mexico,0,2,0,5
+2025-01-15,2025-01-21,care dental,0,1,0,12
+2025-01-15,2025-01-21,global care,0,5,0,7.4
+2025-01-15,2025-01-21,global dental,0,1,0,10
+2025-01-15,2025-01-21,global dental care,0,3,0,10.666666666666666
+2025-01-15,2025-01-21,globalcare,0,5,0,8.4
+2025-01-15,2025-01-21,xcare dental,0,1,0,9
+2025-01-22,2025-01-28,affordable dental care mexico,0,1,0,6
+2025-01-22,2025-01-28,global care,0,16,0,5.125
+2025-01-22,2025-01-28,global dental care,0,2,0,11
+2025-01-22,2025-01-28,global dental center,0,1,0,11
+2025-01-22,2025-01-28,global dental health,0,1,0,9
+2025-01-22,2025-01-28,globalcare,0,3,0,10.666666666666666
+2025-01-29,2025-02-04,dental procedures abroad,0,1,0,102
+2025-01-29,2025-02-04,dental treatment abroad,0,1,0,98
+2025-02-05,2025-02-11,dental global,0,2,0,11.5
+2025-02-05,2025-02-11,global care,0,14,0,8.214285714285715
+2025-02-05,2025-02-11,global dental center,0,1,0,11
+2025-02-05,2025-02-11,globalcare,0,5,0,2.4
+2025-02-12,2025-02-18,dental care mexico,0,1,0,8
+2025-02-12,2025-02-18,global care,0,12,0,5.666666666666667
+2025-02-12,2025-02-18,global dental,0,1,0,12
+2025-02-12,2025-02-18,global dental care,0,19,0,11.157894736842104
+2025-02-12,2025-02-18,global dental center,0,1,0,11
+2025-02-12,2025-02-18,global dental tijuana,0,1,0,3
+2025-02-12,2025-02-18,globalcare,0,2,0,1
+2025-02-12,2025-02-18,offshore dental billing,0,1,0,91
+2025-02-12,2025-02-18,periondental,0,1,0,7
+2025-02-19,2025-02-25,18007787879,0,1,0,3
+2025-02-19,2025-02-25,dental global,0,1,0,5
+2025-02-19,2025-02-25,global care,0,14,0,3.142857142857143
+2025-02-19,2025-02-25,global dental,0,1,0,11
+2025-02-19,2025-02-25,global dental baja,0,1,0,4
+2025-02-19,2025-02-25,global dental care,0,7,0,10.142857142857142
+2025-02-19,2025-02-25,globalcare,0,1,0,3
+2025-02-26,2025-03-04,affordable dental care mexico,0,2,0,5
+2025-02-26,2025-03-04,get who cares.com,0,1,0,8
+2025-02-26,2025-03-04,globa care,0,1,0,3
+2025-02-26,2025-03-04,global care,0,20,0,4.75
+2025-02-26,2025-03-04,global carr,0,1,0,3
+2025-02-26,2025-03-04,global dental,0,1,0,11
+2025-02-26,2025-03-04,global dental care,0,1,0,12
+2025-02-26,2025-03-04,global dental center,0,1,0,9
+2025-02-26,2025-03-04,global dental tijuana,0,2,0,11
+2025-02-26,2025-03-04,globalcare,0,3,0,1
+2025-03-05,2025-03-11,dental surgery abroad,0,1,0,68
+2025-03-05,2025-03-11,dental surgery loan,0,1,0,87
+2025-03-05,2025-03-11,dental treatment abroad,0,1,0,101
+2025-03-05,2025-03-11,financing for dental surgery in mexico,0,8,0,32
+2025-03-05,2025-03-11,global care,0,7,0,2.2857142857142856
+2025-03-05,2025-03-11,global dental,0,3,0,11
+2025-03-05,2025-03-11,global dental baja,0,3,0,7
+2025-03-05,2025-03-11,global dental care,0,4,0,9.75
+2025-03-05,2025-03-11,global dental center,0,1,0,12
+2025-03-05,2025-03-11,globalcare,0,3,0,1
+2025-03-05,2025-03-11,loan for dental treatment,0,1,0,64
+2025-03-05,2025-03-11,operation abroad,0,1,0,78
+2025-03-12,2025-03-18,affordable dental care mexico,0,1,0,6
+2025-03-12,2025-03-18,consultorio global,0,1,0,12
+2025-03-12,2025-03-18,dental loan,0,1,0,72
+2025-03-12,2025-03-18,financing for dental surgery in mexico,0,7,0,32.42857142857143
+2025-03-12,2025-03-18,get dental,0,2,0,2
+2025-03-12,2025-03-18,global care,0,11,0,2.7272727272727275
+2025-03-12,2025-03-18,global care llc,0,1,0,3
+2025-03-12,2025-03-18,global dental,0,3,0,10.333333333333334
+2025-03-12,2025-03-18,global dental baja,0,1,0,5
+2025-03-12,2025-03-18,global dental care,0,5,0,9.8
+2025-03-12,2025-03-18,global dental center,0,3,0,11.333333333333334
+2025-03-12,2025-03-18,globalcare,0,7,0,4.571428571428571
+2025-03-19,2025-03-25,dental care loans,0,1,0,82
+2025-03-19,2025-03-25,dental global,0,1,0,9
+2025-03-19,2025-03-25,dental work financing,0,1,0,64
+2025-03-19,2025-03-25,financing for dental surgery in mexico,0,6,0,32.66666666666667
+2025-03-19,2025-03-25,get dental,0,3,0,2
+2025-03-19,2025-03-25,global care,0,8,0,3
+2025-03-19,2025-03-25,global dental care,0,9,0,13.11111111111111
+2025-03-19,2025-03-25,globalcare,0,2,0,10
+2025-03-19,2025-03-25,loan for dental clinic,0,1,0,66
+2025-03-26,2025-04-01,affordable dental care mexico,0,1,0,7
+2025-03-26,2025-04-01,can you get a loan for dental work,0,3,0,70
+2025-03-26,2025-04-01,dental procedure financing,0,1,0,70
+2025-03-26,2025-04-01,dental surgery financing,0,2,0,74
+2025-03-26,2025-04-01,financing for dental surgery in mexico,0,9,0,34.111111111111114
+2025-03-26,2025-04-01,get dental,0,1,0,2
+2025-03-26,2025-04-01,global care,0,9,0,2
+2025-03-26,2025-04-01,global dental,0,1,0,11
+2025-03-26,2025-04-01,global dental care,0,8,0,10
+2025-03-26,2025-04-01,global dental center,0,1,0,12
+2025-03-26,2025-04-01,globalcare,0,5,0,6
+2025-04-02,2025-04-08,can i get a loan for dental work,0,2,0,76.5
+2025-04-02,2025-04-08,dental care world,0,1,0,9
+2025-04-02,2025-04-08,financing for dental surgery in mexico,0,7,0,33.714285714285715
+2025-04-02,2025-04-08,get dental,0,2,0,2
+2025-04-02,2025-04-08,globa care,0,1,0,1
+2025-04-02,2025-04-08,global care,0,9,0,2.5555555555555554
+2025-04-02,2025-04-08,global dental baja,0,1,0,10
+2025-04-02,2025-04-08,global dental care,0,2,0,10.5
+2025-04-02,2025-04-08,global dental tijuana,0,1,0,11
+2025-04-02,2025-04-08,globalcare,0,2,0,8
+2025-04-02,2025-04-08,loan for dental work,0,2,0,75.5
+2025-04-09,2025-04-15,dental surgery financing,0,2,0,85.5
+2025-04-09,2025-04-15,financing for dental surgery in mexico,0,6,0,33.166666666666664
+2025-04-09,2025-04-15,global care,0,10,0,1.4
+2025-04-09,2025-04-15,global care llc,0,2,0,7.5
+2025-04-09,2025-04-15,global dental baja,0,1,0,12
+2025-04-09,2025-04-15,global dental care,0,4,0,11
+2025-04-09,2025-04-15,global dental tijuana,0,5,0,12.6
+2025-04-09,2025-04-15,globalcare,0,2,0,8
+2025-04-16,2025-04-22,dental treatment loan,0,1,0,65
+2025-04-16,2025-04-22,financing for dental surgery in mexico,0,7,0,32
+2025-04-16,2025-04-22,get dental,0,1,0,2
+2025-04-16,2025-04-22,globa care,0,1,0,2
+2025-04-16,2025-04-22,global care,0,8,0,2.375
+2025-04-16,2025-04-22,global care center,0,1,0,5
+2025-04-16,2025-04-22,global dental,0,1,0,11
+2025-04-16,2025-04-22,global dental care,0,3,0,9
+2025-04-16,2025-04-22,global dental tijuana,0,5,0,10.2
+2025-04-16,2025-04-22,globalcare,0,2,0,4
+2025-04-16,2025-04-22,offshore dental billing,0,1,0,95
+2025-04-16,2025-04-22,periondental,0,2,0,11
+2025-04-23,2025-04-29,3rd party dental financing,0,1,0,67
+2025-04-23,2025-04-29,apply for dental loan,0,1,0,93
+2025-04-23,2025-04-29,credit dental care,0,1,0,12
+2025-04-23,2025-04-29,dental care mexico,0,1,0,12
+2025-04-23,2025-04-29,financing for dental surgery in mexico,0,7,0,32
+2025-04-23,2025-04-29,get dental,0,1,0,1
+2025-04-23,2025-04-29,global care,0,3,0,1.3333333333333333
+2025-04-23,2025-04-29,global carr,0,1,0,1
+2025-04-23,2025-04-29,global dental baja,0,1,0,9
+2025-04-23,2025-04-29,overseas dental treatment,0,1,0,76
+2025-04-30,2025-05-06,dental procedures abroad,0,1,0,88
+2025-04-30,2025-05-06,financing for dental surgery in mexico,0,8,0,37.625
+2025-04-30,2025-05-06,global care,0,5,0,4.8
+2025-04-30,2025-05-06,global dental care,0,4,0,11
+2025-04-30,2025-05-06,global dental clinic,0,2,0,4
+2025-04-30,2025-05-06,global dental specialist clinic,0,1,0,8
+2025-04-30,2025-05-06,globalcare,0,2,0,6.5
+2025-05-07,2025-05-13,dental finance,0,2,0,89
+2025-05-07,2025-05-13,dental treatment abroad cost,0,2,0,98
+2025-05-07,2025-05-13,financing for dental surgery in mexico,0,11,0,32.09090909090909
+2025-05-07,2025-05-13,globa care,0,1,0,1
+2025-05-07,2025-05-13,global care,0,14,0,3.857142857142857
+2025-05-07,2025-05-13,global care center,0,3,0,1
+2025-05-07,2025-05-13,global carr,0,1,0,3
+2025-05-07,2025-05-13,global dental care,0,3,0,7
+2025-05-07,2025-05-13,global dental clinic,0,1,0,10
+2025-05-07,2025-05-13,globalcare,0,4,0,8
+2025-05-07,2025-05-13,globalcare inc,0,1,0,9
+2025-05-14,2025-05-20,dental treatment abroad cost,0,3,0,93.66666666666667
+2025-05-14,2025-05-20,financing for dental surgery in mexico,0,7,0,28.428571428571427
+2025-05-14,2025-05-20,global care,0,15,0,5.333333333333333
+2025-05-14,2025-05-20,global care agency,0,1,0,6
+2025-05-14,2025-05-20,global care company,0,1,0,11
+2025-05-14,2025-05-20,global dental,0,1,0,11
+2025-05-14,2025-05-20,global dental baja,0,2,0,8.5
+2025-05-14,2025-05-20,global dental care,0,4,0,8.75
+2025-05-14,2025-05-20,global dental partners,0,1,0,10
+2025-05-14,2025-05-20,globalcare,0,6,0,5.5
+2025-05-14,2025-05-20,globalcare inc,0,1,0,12
+2025-05-14,2025-05-20,globel care,0,1,0,12
+2025-05-21,2025-05-27,financing for dental surgery in mexico,0,7,0,28.428571428571427
+2025-05-21,2025-05-27,global care,0,15,0,7.2
+2025-05-21,2025-05-27,global carr,0,1,0,1
+2025-05-21,2025-05-27,globalcare,0,5,0,7.8
+2025-05-21,2025-05-27,globalcare inc,0,1,0,6
+2025-05-21,2025-05-27,globalcare v 10.1,0,6,0,8.166666666666668
+2025-05-28,2025-06-03,dental care financing,0,1,0,99
+2025-05-28,2025-06-03,dental treatment abroad cost,0,2,0,99
+2025-05-28,2025-06-03,financing for dental surgery in mexico,0,6,0,17.833333333333332
+2025-05-28,2025-06-03,global care,0,3,0,11
+2025-05-28,2025-06-03,global care company,0,1,0,10
+2025-05-28,2025-06-03,global care inc,0,1,0,10
+2025-05-28,2025-06-03,global dental tijuana,0,1,0,11
+2025-05-28,2025-06-03,globalcare,0,3,0,9.333333333333334
+2025-05-28,2025-06-03,la global care,0,1,0,3
+2025-05-28,2025-06-03,loans for dental work,0,1,0,80

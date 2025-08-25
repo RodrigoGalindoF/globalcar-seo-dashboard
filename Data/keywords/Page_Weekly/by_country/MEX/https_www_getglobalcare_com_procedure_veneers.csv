@@ -1,0 +1,64 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,mex,global care,0,4,0,6
+2024-05-08,2024-05-14,mex,global care,0,4,0,8
+2024-05-15,2024-05-21,mex,global care,0,1,0,8
+2024-05-22,2024-05-28,mex,global care,0,1,0,9
+2024-05-29,2024-06-04,mex,global care,0,1,0,12
+2024-06-05,2024-06-11,mex,global care,0,2,0,7.5
+2024-06-05,2024-06-11,mex,global care services,0,1,0,14
+2024-06-12,2024-06-18,mex,global care,0,1,0,2
+2024-06-19,2024-06-25,mex,global care,0,1,0,2
+2024-06-19,2024-06-25,mex,globalcare,0,1,0,1
+2024-06-19,2024-06-25,mex,my global dentist,0,1,0,10
+2024-06-26,2024-07-02,mex,global care,0,1,0,3
+2024-07-03,2024-07-09,mex,global care,0,1,0,7
+2024-07-03,2024-07-09,mex,global dental center,0,1,0,11
+2024-07-03,2024-07-09,mex,my global dentist,0,1,0,14
+2024-07-03,2024-07-09,mex,porcelain veneers monterrey mexico,0,1,0,33
+2024-07-10,2024-07-16,mex,globa care,0,1,0,4
+2024-07-17,2024-07-23,mex,global care,0,1,0,3
+2024-07-17,2024-07-23,mex,veneers in monterrey,0,1,0,92
+2024-07-24,2024-07-30,mex,dental care in mexico,0,1,0,10
+2024-07-24,2024-07-30,mex,global care,0,5,0,2.4
+2024-07-24,2024-07-30,mex,global dental,0,4,0,10.5
+2024-07-31,2024-08-06,mex,dental care mexico,0,1,0,10
+2024-08-07,2024-08-13,mex,global care,0,2,0,2.5
+2024-08-14,2024-08-20,mex,global dental,0,1,0,10
+2024-08-14,2024-08-20,mex,global dental center,0,1,0,12
+2024-08-21,2024-08-27,mex,global dental,0,6,0,11
+2024-08-21,2024-08-27,mex,veneers in monterrey,0,1,0,60
+2024-08-28,2024-09-03,mex,dental care in mexico,0,1,0,5
+2024-08-28,2024-09-03,mex,global care,0,3,0,3
+2024-08-28,2024-09-03,mex,global dental,0,1,0,11
+2024-09-04,2024-09-10,mex,dental care mexico,0,1,0,12
+2024-09-04,2024-09-10,mex,global care,0,2,0,1.5
+2024-09-11,2024-09-17,mex,global care,0,1,0,3
+2024-09-11,2024-09-17,mex,global dental,0,1,0,11
+2024-09-11,2024-09-17,mex,global dental center,0,3,0,11
+2024-09-11,2024-09-17,mex,global dental clinic,0,1,0,10
+2024-09-18,2024-09-24,mex,care dental,0,1,0,12
+2024-09-18,2024-09-24,mex,global dental,0,1,0,10
+2024-09-18,2024-09-24,mex,globalcare,0,1,0,1
+2024-09-25,2024-10-01,mex,global care,0,4,0,2.25
+2024-09-25,2024-10-01,mex,global dental center,0,1,0,11
+2024-10-02,2024-10-08,mex,get dental,0,2,0,3
+2024-10-02,2024-10-08,mex,global care,0,6,0,1.1666666666666667
+2024-10-02,2024-10-08,mex,global dental,0,5,0,11
+2024-10-02,2024-10-08,mex,global dental center,0,3,0,9.333333333333334
+2024-10-02,2024-10-08,mex,globalcare,0,3,0,1
+2024-10-09,2024-10-15,mex,global cares,0,1,0,9
+2024-10-09,2024-10-15,mex,veneers north dakota,0,1,0,53
+2024-10-16,2024-10-22,mex,dental global,0,1,0,5
+2024-10-16,2024-10-22,mex,global care,0,4,0,3
+2024-10-16,2024-10-22,mex,global dental,0,1,0,11
+2024-10-23,2024-10-29,mex,get who cares.com,0,1,0,8
+2024-10-23,2024-10-29,mex,globa care,0,1,0,3
+2024-10-23,2024-10-29,mex,global care,0,4,0,3
+2024-10-23,2024-10-29,mex,global carr,0,1,0,3
+2024-10-23,2024-10-29,mex,global dental center,0,1,0,9
+2024-10-23,2024-10-29,mex,globalcare,0,2,0,1
+2024-10-30,2024-11-05,mex,veneers,0,2,0,43.5
+2024-11-06,2024-11-12,mex,veneers north dakota,0,1,0,48
+2024-11-13,2024-11-19,mex,dental veneers,0,1,0,59
+2024-11-13,2024-11-19,mex,porcelain veneers,0,1,0,47
+2024-11-20,2024-11-26,mex,veneers,0,1,0,48

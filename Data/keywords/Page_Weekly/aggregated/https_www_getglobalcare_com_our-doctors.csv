@@ -1,0 +1,236 @@
+start_date,end_date,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,global care clinic,0,1,0,10
+2024-05-01,2024-05-07,global care network,0,1,0,10
+2024-05-01,2024-05-07,globalcare,0,3,0,6.333333333333333
+2024-05-08,2024-05-14,global care network,0,1,0,11
+2024-05-08,2024-05-14,globalcare,0,2,0,4
+2024-05-15,2024-05-21,ontime el berron,0,1,0,35
+2024-05-22,2024-05-28,globalcare,0,4,0,91.5
+2024-05-22,2024-05-28,google analytics export more than 5000,0,1,0,78
+2024-05-29,2024-06-04,ontime el berron,0,2,0,36
+2024-06-05,2024-06-11,global care hospital doctors,0,1,0,94
+2024-06-12,2024-06-18,2500 veneers cancun,0,1,0,66
+2024-06-12,2024-06-18,globalcare,0,1,0,61
+2024-06-19,2024-06-25,2500 veneers cancun,0,1,0,59
+2024-06-19,2024-06-25,dr berron,0,2,0,5
+2024-06-26,2024-07-02,2500 veneers cancun,0,4,0,67.25
+2024-06-26,2024-07-02,global care hospital doctors,0,1,0,81
+2024-06-26,2024-07-02,globalcare,0,3,0,80.66666666666667
+2024-06-26,2024-07-02,globalcare inc,0,1,0,62
+2024-07-03,2024-07-09,2500 veneers cancun,0,4,0,64.25
+2024-07-03,2024-07-09,globalcare,0,7,0,77.71428571428571
+2024-07-10,2024-07-16,2500 veneers cancun,0,2,0,64
+2024-07-10,2024-07-16,global care hospital doctors,0,1,0,89
+2024-07-10,2024-07-16,globalcare,0,4,0,79.5
+2024-07-17,2024-07-23,dr guadalajara in tijuana mexico,0,1,0,87
+2024-07-17,2024-07-23,global care,0,5,0,7
+2024-07-17,2024-07-23,global care network,0,1,0,11
+2024-07-17,2024-07-23,globalcare,0,2,0,92
+2024-07-24,2024-07-30,dental care mexico,0,1,0,11
+2024-07-24,2024-07-30,global care,0,7,0,9.714285714285714
+2024-07-24,2024-07-30,global dental care,0,1,0,9
+2024-07-24,2024-07-30,globalcare,0,3,0,77.66666666666667
+2024-07-24,2024-07-30,globalcare inc,0,1,0,10
+2024-07-31,2024-08-06,"cancun veneers $2,500",0,3,0,60.333333333333336
+2024-07-31,2024-08-06,global care hospital doctors,0,1,0,34
+2024-07-31,2024-08-06,global care medical group doctors,0,1,0,28
+2024-07-31,2024-08-06,globalcare,0,6,0,80.33333333333333
+2024-08-07,2024-08-13,global care,0,13,0,10.384615384615385
+2024-08-07,2024-08-13,global care clinic,0,1,0,5
+2024-08-07,2024-08-13,global care network,0,3,0,8.333333333333332
+2024-08-07,2024-08-13,global care services,0,1,0,8
+2024-08-07,2024-08-13,globalcare,0,8,0,67.375
+2024-08-07,2024-08-13,ontime el berron,0,1,0,34
+2024-08-14,2024-08-20,18007787879,0,1,0,4
+2024-08-14,2024-08-20,care mex,0,1,0,11
+2024-08-14,2024-08-20,global care,0,14,0,9.642857142857142
+2024-08-14,2024-08-20,global care cosmetics corporation,0,2,0,11
+2024-08-14,2024-08-20,global care phone number,0,1,0,9
+2024-08-14,2024-08-20,global care services,0,1,0,9
+2024-08-14,2024-08-20,globalcare,0,7,0,45.142857142857146
+2024-08-21,2024-08-27,care mex,0,1,0,10
+2024-08-21,2024-08-27,clinica dental miami world care,0,1,0,9
+2024-08-21,2024-08-27,global care,0,9,0,9.88888888888889
+2024-08-21,2024-08-27,global care network,0,1,0,6
+2024-08-21,2024-08-27,global care number,0,1,0,11
+2024-08-21,2024-08-27,global care services,0,1,0,14
+2024-08-21,2024-08-27,global dental care,0,1,0,7
+2024-08-21,2024-08-27,globalcare,0,3,0,65.33333333333333
+2024-08-21,2024-08-27,la global care,0,1,0,11
+2024-08-28,2024-09-03,dental express puerto vallarta,0,1,0,65
+2024-08-28,2024-09-03,global care,0,3,0,10.333333333333334
+2024-08-28,2024-09-03,global care hospital doctors,0,1,0,32
+2024-08-28,2024-09-03,globalcare,0,6,0,70.33333333333333
+2024-09-04,2024-09-10,18007787879,0,1,0,4
+2024-09-04,2024-09-10,global care,0,9,0,9.444444444444445
+2024-09-04,2024-09-10,global care medical group doctors,0,1,0,32
+2024-09-04,2024-09-10,globalcare,0,7,0,88.85714285714286
+2024-09-11,2024-09-17,global care,0,13,0,8.307692307692307
+2024-09-11,2024-09-17,global care hospital doctors,0,1,0,38
+2024-09-11,2024-09-17,globalcare,0,11,0,38.27272727272727
+2024-09-11,2024-09-17,our trusted network,0,1,0,81
+2024-09-18,2024-09-24,global care,0,8,0,10.25
+2024-09-18,2024-09-24,global dental care,0,1,0,10
+2024-09-18,2024-09-24,globalcare,0,3,0,5.666666666666667
+2024-09-25,2024-10-01,global care,0,16,0,10.4375
+2024-09-25,2024-10-01,global care hospital doctors,0,1,0,21
+2024-09-25,2024-10-01,global care inc provider phone number,0,1,0,45
+2024-09-25,2024-10-01,global care network,0,5,0,11.2
+2024-09-25,2024-10-01,globalcare,0,5,0,6
+2024-10-02,2024-10-08,dental care mexico,0,1,0,10
+2024-10-02,2024-10-08,global care,0,14,0,9.785714285714286
+2024-10-02,2024-10-08,globalcare,0,6,0,3.1666666666666665
+2024-10-09,2024-10-15,global care,0,9,0,9.777777777777779
+2024-10-09,2024-10-15,global care hospital doctors,0,1,0,40
+2024-10-09,2024-10-15,global care services,0,1,0,8
+2024-10-09,2024-10-15,global dental care,0,1,0,8
+2024-10-09,2024-10-15,globalcare,0,9,0,2.666666666666667
+2024-10-16,2024-10-22,global care,0,19,0,9.578947368421053
+2024-10-16,2024-10-22,global care phone number,0,1,0,8
+2024-10-16,2024-10-22,global dental care,0,3,0,11
+2024-10-16,2024-10-22,globalcare,0,16,0,8.125
+2024-10-16,2024-10-22,hector luevanos,0,1,0,1
+2024-10-23,2024-10-29,18007787879,0,3,0,3.6666666666666665
+2024-10-23,2024-10-29,dental care mexico,0,1,0,11
+2024-10-23,2024-10-29,dental services mexico,0,1,0,10
+2024-10-23,2024-10-29,dentaris health group,0,1,0,12
+2024-10-23,2024-10-29,dentist in mexico near texas border,0,1,0,97
+2024-10-23,2024-10-29,global care,0,14,0,10.5
+2024-10-23,2024-10-29,global care medical group doctors,0,4,0,44.75
+2024-10-23,2024-10-29,global dental care,0,1,0,13
+2024-10-23,2024-10-29,global dental clinic,0,2,0,14.5
+2024-10-23,2024-10-29,globalcare,0,5,0,1.6
+2024-10-30,2024-11-05,care mexico,0,1,0,10
+2024-10-30,2024-11-05,dental care mexico,0,1,0,11
+2024-10-30,2024-11-05,english speaking dentist mexico city,0,1,0,12
+2024-10-30,2024-11-05,get-who-cares.com,0,1,0,9
+2024-10-30,2024-11-05,get-who-cares.com/,0,1,0,9
+2024-10-30,2024-11-05,global care,0,3,0,8.333333333333332
+2024-10-30,2024-11-05,global care hospital doctors,0,1,0,17
+2024-10-30,2024-11-05,global care inc claims address,0,1,0,13
+2024-10-30,2024-11-05,global care inc provider phone number,0,1,0,44
+2024-10-30,2024-11-05,global care network,0,1,0,9
+2024-10-30,2024-11-05,global dental care,0,3,0,11
+2024-10-30,2024-11-05,globalcare,0,6,0,13.5
+2024-10-30,2024-11-05,my global dentist,0,1,0,9
+2024-11-06,2024-11-12,care mexico,0,1,0,10
+2024-11-06,2024-11-12,get mexico,0,1,0,8
+2024-11-06,2024-11-12,get-who-cares.com,0,2,0,8.5
+2024-11-06,2024-11-12,get-who-cares.com/,0,1,0,9
+2024-11-06,2024-11-12,global care,0,13,0,8
+2024-11-06,2024-11-12,global care network,0,1,0,49
+2024-11-06,2024-11-12,global dental care,0,7,0,12.285714285714286
+2024-11-06,2024-11-12,global dental center,0,2,0,9
+2024-11-06,2024-11-12,globalcare,0,3,0,30
+2024-11-06,2024-11-12,globalcare medical group,0,1,0,72
+2024-11-06,2024-11-12,smile venue dental reviews,0,1,0,11
+2024-11-13,2024-11-19,clínica dental aesthetic dentistry guadalajara,0,1,0,9
+2024-11-13,2024-11-19,dentaris health group,0,5,0,11.4
+2024-11-13,2024-11-19,get-who-cares.com,0,2,0,7
+2024-11-13,2024-11-19,get-who-cares.com/,0,1,0,10
+2024-11-13,2024-11-19,globacare,0,1,0,11
+2024-11-13,2024-11-19,global care,0,18,0,10.722222222222221
+2024-11-13,2024-11-19,global care hospital doctors,0,1,0,46
+2024-11-13,2024-11-19,global care medical group doctors,0,1,0,50
+2024-11-13,2024-11-19,global dental care,0,3,0,13
+2024-11-13,2024-11-19,global dentist,0,1,0,10
+2024-11-13,2024-11-19,globalcare,0,4,0,5.75
+2024-11-13,2024-11-19,my global dentist,0,1,0,5
+2024-11-20,2024-11-26,global care,0,11,0,11.545454545454545
+2024-11-20,2024-11-26,global care medical group,0,1,0,97
+2024-11-20,2024-11-26,global dental care,0,1,0,12
+2024-11-20,2024-11-26,globalcare,0,1,0,5
+2024-11-20,2024-11-26,globalcare medical group,0,1,0,85
+2024-11-20,2024-11-26,globle care,0,1,0,11
+2024-11-27,2024-12-03,18007787879,0,1,0,3
+2024-11-27,2024-12-03,care mexico,0,1,0,11
+2024-11-27,2024-12-03,dental care mexico,0,2,0,10
+2024-11-27,2024-12-03,get-who-cares.com,0,1,0,9
+2024-11-27,2024-12-03,global care,0,9,0,5.111111111111111
+2024-11-27,2024-12-03,global care medical group,0,2,0,70
+2024-11-27,2024-12-03,global dental care,0,4,0,12.25
+2024-11-27,2024-12-03,globalcare,0,9,0,13.222222222222221
+2024-11-27,2024-12-03,globalcare medical group,0,1,0,69
+2024-12-04,2024-12-10,dental care in mexico,0,1,0,12
+2024-12-04,2024-12-10,dental care mexico,0,1,0,13
+2024-12-04,2024-12-10,dr kogan dentist,0,1,0,75
+2024-12-04,2024-12-10,english speaking dentist mexico city,0,3,0,10.666666666666666
+2024-12-04,2024-12-10,get mexico,0,1,0,9
+2024-12-04,2024-12-10,global care,0,9,0,7.222222222222222
+2024-12-04,2024-12-10,global dental center photos,0,1,0,12
+2024-12-04,2024-12-10,globalcare,0,2,0,1
+2024-12-11,2024-12-17,dental care mexico,0,2,0,12
+2024-12-11,2024-12-17,global care,0,14,0,7.214285714285714
+2024-12-11,2024-12-17,global care inc provider phone number,0,1,0,150
+2024-12-11,2024-12-17,global dental care,0,4,0,9.75
+2024-12-11,2024-12-17,global dental services,0,1,0,11
+2024-12-11,2024-12-17,globalcare,0,3,0,3.3333333333333335
+2024-12-11,2024-12-17,hector morales dentist,0,1,0,3
+2024-12-18,2024-12-24,global care,0,3,0,3
+2024-12-18,2024-12-24,global dental care,0,1,0,9
+2024-12-18,2024-12-24,globalcare,0,13,0,4.230769230769231
+2024-12-18,2024-12-24,globalcare medical group,0,2,0,83
+2024-12-25,2024-12-31,dental care mexico,0,1,0,12
+2024-12-25,2024-12-31,global care inc provider phone number,0,2,0,67.5
+2024-12-25,2024-12-31,globalcare medical group,0,1,0,78
+2025-01-01,2025-01-07,global care hospital doctors,0,1,0,91
+2025-01-01,2025-01-07,global care medical group,0,1,0,50
+2025-01-01,2025-01-07,globalcare medical group,0,1,0,77
+2025-01-08,2025-01-14,18007787879,0,1,0,4
+2025-01-15,2025-01-21,affordable dental care mexico,0,1,0,7
+2025-01-15,2025-01-21,dental care mexico,0,3,0,11.333333333333334
+2025-01-15,2025-01-21,global care,0,2,0,9.5
+2025-01-15,2025-01-21,global care medical group,0,2,0,63.5
+2025-01-15,2025-01-21,global care network,0,1,0,34
+2025-01-15,2025-01-21,global dental,0,1,0,11
+2025-01-15,2025-01-21,global dental care,0,2,0,10
+2025-01-15,2025-01-21,global dental center,0,2,0,10
+2025-01-15,2025-01-21,globalcare medical group,0,2,0,82
+2025-01-22,2025-01-28,dr yamile hernandez reviews,0,1,0,76
+2025-01-22,2025-01-28,global care medical group,0,1,0,66
+2025-01-22,2025-01-28,global care of new york inc,0,1,0,97
+2025-01-22,2025-01-28,globalcare inc,0,3,0,66
+2025-01-29,2025-02-04,global care medical group,0,4,0,97.25
+2025-02-05,2025-02-11,global care medical group,0,1,0,97
+2025-02-05,2025-02-11,globalcare medical group,0,2,0,86.5
+2025-02-12,2025-02-18,global care medical group,0,4,0,96.5
+2025-02-12,2025-02-18,globalcare medical group,0,1,0,76
+2025-02-19,2025-02-25,global care,0,1,0,61
+2025-02-19,2025-02-25,global care hospital doctors,0,1,0,75
+2025-02-19,2025-02-25,global care of new york inc,0,1,0,85
+2025-02-26,2025-03-04,globalcare,0,1,0,1
+2025-03-05,2025-03-11,global care inc provider phone number,0,1,0,70
+2025-03-05,2025-03-11,globalcare medical group,0,3,0,68.66666666666667
+2025-03-12,2025-03-18,global care medical,0,2,0,67.5
+2025-03-12,2025-03-18,global care medical group doctors,0,1,0,83
+2025-03-12,2025-03-18,globalcare medical group,0,1,0,70
+2025-03-19,2025-03-25,dr yamile hernandez reviews,0,2,0,88
+2025-03-19,2025-03-25,globalcare medical group,0,1,0,75
+2025-03-26,2025-04-01,dr andres villasenor,0,10,0,78.2
+2025-03-26,2025-04-01,dr yamile hernandez reviews,0,3,0,88.66666666666667
+2025-04-02,2025-04-08,dr andres villasenor,0,12,0,77.58333333333333
+2025-04-02,2025-04-08,global care llc photos,0,7,0,5.285714285714286
+2025-04-09,2025-04-15,dr andres villasenor,0,14,0,67.85714285714286
+2025-04-09,2025-04-15,dr ganeles,0,1,0,61
+2025-04-16,2025-04-22,dr andres villasenor,0,9,0,69.22222222222223
+2025-04-16,2025-04-22,dr ganeles,0,1,0,62
+2025-04-23,2025-04-29,dr andres villasenor,0,9,0,67.88888888888889
+2025-04-23,2025-04-29,dr luevano chihuahua,0,1,0,13
+2025-04-23,2025-04-29,global care network,0,1,0,42
+2025-04-23,2025-04-29,global dental center columbus ohio,0,1,0,85
+2025-04-30,2025-05-06,dr andres villasenor,0,9,0,71.88888888888889
+2025-05-07,2025-05-13,dr andres villasenor,0,8,0,73.875
+2025-05-14,2025-05-20,dr yamile hernandez reviews,0,3,0,89
+2025-05-21,2025-05-27,dr andres villasenor,0,6,0,73.66666666666667
+2025-05-21,2025-05-27,english speaking dentist mexico city,0,1,0,12
+2025-05-21,2025-05-27,get dental,0,1,0,1
+2025-05-21,2025-05-27,global care,0,2,0,6
+2025-05-21,2025-05-27,global dent playa del carmen,0,1,0,11
+2025-05-21,2025-05-27,globalcare,0,2,0,6.5
+2025-05-28,2025-06-03,dr andres villasenor,0,1,0,73
+2025-05-28,2025-06-03,dr yamile hernandez reviews,0,1,0,99
+2025-05-28,2025-06-03,ginecólogo en ciudad juárez,0,1,0,71
+2025-06-04,2025-06-10,dr andres villasenor,0,7,0,61.142857142857146
+2025-06-11,2025-06-17,dr andres villasenor,0,7,0,56.142857142857146
+2025-06-18,2025-06-24,dr andres villasenor,0,8,0,54.5
+2025-06-25,2025-07-01,dr andres villasenor,0,6,0,86.33333333333333

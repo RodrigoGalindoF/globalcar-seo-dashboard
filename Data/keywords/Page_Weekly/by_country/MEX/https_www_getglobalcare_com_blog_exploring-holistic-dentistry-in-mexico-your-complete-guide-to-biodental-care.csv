@@ -1,0 +1,216 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,mex,biodental care,0,2,0,16
+2024-05-01,2024-05-07,mex,holistic dentist mexico,0,3,0,6
+2024-05-01,2024-05-07,mex,holistic dentistry mexico,0,1,0,5
+2024-05-01,2024-05-07,mex,natural holistic dentist near me,0,1,0,13
+2024-05-08,2024-05-14,mex,best holistic dentist in mexico,0,1,0,19
+2024-05-08,2024-05-14,mex,biological dentist mexico,0,1,0,30
+2024-05-08,2024-05-14,mex,holistic dental,0,1,0,6
+2024-05-08,2024-05-14,mex,holistic dental care,0,1,0,7
+2024-05-08,2024-05-14,mex,holistic dentist in mexico,0,1,0,22
+2024-05-08,2024-05-14,mex,holistic dentistry near me,0,1,0,14
+2024-05-08,2024-05-14,mex,holistic dentists in mexico,0,1,0,24
+2024-05-15,2024-05-21,mex,holistic dentist near me,1,2,0.5,6.5
+2024-05-15,2024-05-21,mex,biodental care,0,1,0,25
+2024-05-15,2024-05-21,mex,biological dentist mexico,0,1,0,32
+2024-05-15,2024-05-21,mex,holistic dental care,0,1,0,10
+2024-05-15,2024-05-21,mex,holistic dentist tijuana mexico,0,1,0,60
+2024-05-15,2024-05-21,mex,holistic dentistry,0,2,0,5
+2024-05-15,2024-05-21,mex,holistic dentistry mexico,0,1,0,16
+2024-05-22,2024-05-28,mex,holistic dentist near me,1,3,0.3333333333333333,9.666666666666666
+2024-05-22,2024-05-28,mex,biodental care,0,2,0,10.5
+2024-05-22,2024-05-28,mex,biological dentist mexico,0,1,0,11
+2024-05-22,2024-05-28,mex,holistic dental care,0,1,0,10
+2024-05-22,2024-05-28,mex,holistic dentist in mexico,0,2,0,13.5
+2024-05-22,2024-05-28,mex,holistic dentist tijuana mexico,0,1,0,61
+2024-05-22,2024-05-28,mex,holistic dentistry,0,1,0,4
+2024-05-22,2024-05-28,mex,mercury free dentist mexico,0,1,0,30
+2024-05-29,2024-06-04,mex,biological dentist in mexico,0,1,0,30
+2024-05-29,2024-06-04,mex,biological dentistry tijuana,0,1,0,75
+2024-05-29,2024-06-04,mex,holistic dental care,0,1,0,11
+2024-05-29,2024-06-04,mex,holistic dental educat,0,1,0,10
+2024-05-29,2024-06-04,mex,holistic dentist in mexico,0,1,0,23
+2024-05-29,2024-06-04,mex,holistic dentist mexico,0,1,0,14
+2024-05-29,2024-06-04,mex,holistic dentistry,0,1,0,7
+2024-05-29,2024-06-04,mex,mercury free dentist mexico,0,1,0,36
+2024-05-29,2024-06-04,mex,organic dentistry,0,1,0,8
+2024-06-05,2024-06-11,mex,biodental care,0,1,0,15
+2024-06-05,2024-06-11,mex,holistic dentist in mexico,0,2,0,18.5
+2024-06-05,2024-06-11,mex,holistic dentist mexico,0,1,0,22
+2024-06-05,2024-06-11,mex,holistic dentist near me,0,1,0,10
+2024-06-05,2024-06-11,mex,holistic dentistry,0,1,0,5
+2024-06-05,2024-06-11,mex,holistic dentists in mexico,0,1,0,24
+2024-06-12,2024-06-18,mex,holistic dentistry,1,3,0.3333333333333333,5.333333333333333
+2024-06-12,2024-06-18,mex,bio holistic dental,0,2,0,15.5
+2024-06-12,2024-06-18,mex,biodental care,0,3,0,14.666666666666666
+2024-06-12,2024-06-18,mex,biological dentist in tijuana,0,1,0,71
+2024-06-12,2024-06-18,mex,holistic dental care,0,1,0,8
+2024-06-12,2024-06-18,mex,holistic dentist near me,0,1,0,7
+2024-06-12,2024-06-18,mex,holistic dentistry mexico,0,1,0,4
+2024-06-19,2024-06-25,mex,biodental care,0,1,0,10
+2024-06-19,2024-06-25,mex,biological dentist in mexico,0,1,0,28
+2024-06-19,2024-06-25,mex,biological dentist mexico,0,1,0,28
+2024-06-19,2024-06-25,mex,holistic dentist in mexico,0,1,0,20
+2024-06-19,2024-06-25,mex,holistic dentist mexico,0,1,0,20
+2024-06-19,2024-06-25,mex,holistic dentist tijuana mexico,0,1,0,47
+2024-06-19,2024-06-25,mex,holistic dentistry,0,1,0,1
+2024-06-19,2024-06-25,mex,holistic dentistry mexico,0,1,0,5
+2024-06-26,2024-07-02,mex,biodental care,0,1,0,23
+2024-06-26,2024-07-02,mex,biological dentist mexico,0,1,0,26
+2024-06-26,2024-07-02,mex,dental holistic,0,1,0,13
+2024-07-03,2024-07-09,mex,biodental care,0,3,0,11.333333333333334
+2024-07-03,2024-07-09,mex,biological dentist mexico,0,1,0,7
+2024-07-03,2024-07-09,mex,holistic dentist mexico,0,2,0,12
+2024-07-03,2024-07-09,mex,holistic dentist near me,0,2,0,7.5
+2024-07-03,2024-07-09,mex,holistic dentistry,0,1,0,5
+2024-07-03,2024-07-09,mex,holistic dentistry mexico,0,1,0,13
+2024-07-03,2024-07-09,mex,hollistic dentistry,0,1,0,6
+2024-07-10,2024-07-16,mex,best holistic dentist in mexico,0,1,0,5
+2024-07-10,2024-07-16,mex,biodental care,0,8,0,13.375
+2024-07-10,2024-07-16,mex,biological dentist mexico,0,1,0,11
+2024-07-10,2024-07-16,mex,holistic dentist mexico,0,1,0,21
+2024-07-10,2024-07-16,mex,holistic dentistry,0,3,0,6.666666666666667
+2024-07-17,2024-07-23,mex,biodental care,0,1,0,14
+2024-07-17,2024-07-23,mex,biodental mexico,0,1,0,26
+2024-07-17,2024-07-23,mex,biological dentist,0,1,0,79
+2024-07-17,2024-07-23,mex,biological dentist mexico,0,1,0,13
+2024-07-17,2024-07-23,mex,holistic dentistry,0,2,0,3.5
+2024-07-24,2024-07-30,mex,bio dental care,0,1,0,17
+2024-07-24,2024-07-30,mex,biodental care,0,2,0,10.5
+2024-07-24,2024-07-30,mex,biological dentist mexico,0,1,0,12
+2024-07-24,2024-07-30,mex,holistic dental services,0,2,0,6.5
+2024-07-24,2024-07-30,mex,holistic dentist mexico,0,1,0,6
+2024-07-24,2024-07-30,mex,holistic dentistry,0,3,0,1
+2024-07-24,2024-07-30,mex,holistic dentists near me,0,1,0,12
+2024-07-31,2024-08-06,mex,biodental care,0,2,0,9
+2024-07-31,2024-08-06,mex,biologic dentistry near me,0,2,0,10
+2024-07-31,2024-08-06,mex,holistic biological dentist near me,0,1,0,8
+2024-07-31,2024-08-06,mex,holistic dentist mexico,0,1,0,5
+2024-07-31,2024-08-06,mex,holistic dentistry near me,0,1,0,7
+2024-08-07,2024-08-13,mex,bio dental care,0,1,0,15
+2024-08-07,2024-08-13,mex,biodental care,0,1,0,7
+2024-08-07,2024-08-13,mex,dental holistic,0,1,0,6
+2024-08-07,2024-08-13,mex,holistic dental,0,5,0,7.8
+2024-08-07,2024-08-13,mex,holistic dentist near me,0,1,0,94
+2024-08-14,2024-08-20,mex,biodental care,0,5,0,12.6
+2024-08-14,2024-08-20,mex,biological dentist mexico,0,5,0,10
+2024-08-14,2024-08-20,mex,holistic dentist in mexico,0,3,0,5
+2024-08-14,2024-08-20,mex,holistic dentistry,0,1,0,28
+2024-08-14,2024-08-20,mex,homeopathic dentist near me,0,2,0,3
+2024-08-14,2024-08-20,mex,mercury free dentist mexico,0,1,0,26
+2024-08-21,2024-08-27,mex,bio dental care,0,1,0,11
+2024-08-21,2024-08-27,mex,biodental care,0,1,0,13
+2024-08-21,2024-08-27,mex,biological dentist mexico,0,2,0,8.5
+2024-08-21,2024-08-27,mex,holistic dentist near me,0,2,0,8.5
+2024-08-21,2024-08-27,mex,holistic dentistry mexico,0,1,0,20
+2024-08-21,2024-08-27,mex,holistic dentists in mexico,0,1,0,21
+2024-08-21,2024-08-27,mex,holistic.dentist near me,0,1,0,9
+2024-08-28,2024-09-03,mex,best holistic dentist in mexico,0,1,0,7
+2024-08-28,2024-09-03,mex,biodental care,0,1,0,9
+2024-08-28,2024-09-03,mex,biological dentist near me,0,1,0,11
+2024-08-28,2024-09-03,mex,holistic dental,0,1,0,11
+2024-09-04,2024-09-10,mex,best holistic dentist in mexico,1,1,1,8
+2024-09-04,2024-09-10,mex,biodental care,0,3,0,12
+2024-09-04,2024-09-10,mex,holistic dental,0,1,0,5
+2024-09-04,2024-09-10,mex,holistic dentist in mexico,0,1,0,13
+2024-09-04,2024-09-10,mex,holistic dentist mexico,0,2,0,25.5
+2024-09-04,2024-09-10,mex,holistic dentist near me,0,1,0,9
+2024-09-11,2024-09-17,mex,non toxic dentist,1,1,1,4
+2024-09-11,2024-09-17,mex,best holistic dentist in mexico,0,1,0,1
+2024-09-11,2024-09-17,mex,biodental care,0,1,0,14
+2024-09-11,2024-09-17,mex,holistic dental care,0,1,0,11
+2024-09-11,2024-09-17,mex,holistic dentist mexico,0,1,0,14
+2024-09-18,2024-09-24,mex,holistic dental,0,1,0,5
+2024-09-18,2024-09-24,mex,holistic dentist in mexico,0,2,0,8.5
+2024-09-18,2024-09-24,mex,organic dentist near me,0,1,0,6
+2024-09-25,2024-10-01,mex,best holistic dentist near me,0,1,0,5
+2024-09-25,2024-10-01,mex,bio dental care,0,1,0,9
+2024-09-25,2024-10-01,mex,biological dentist mexico,0,1,0,17
+2024-09-25,2024-10-01,mex,biological dentistry mexico,0,1,0,19
+2024-09-25,2024-10-01,mex,holistic dental,0,4,0,12.25
+2024-09-25,2024-10-01,mex,holistic dental services,0,2,0,7.5
+2024-09-25,2024-10-01,mex,holistic dentist mexico,0,1,0,5
+2024-09-25,2024-10-01,mex,holistic dentist near me,0,1,0,10
+2024-09-25,2024-10-01,mex,holistic dentist puerto vallarta,0,1,0,21
+2024-10-02,2024-10-08,mex,holistic dentist near me,0,2,0,9.5
+2024-10-02,2024-10-08,mex,holistic dentistry,0,1,0,5
+2024-10-09,2024-10-15,mex,bio holistic dental,0,1,0,9
+2024-10-09,2024-10-15,mex,biodental care,0,4,0,12.25
+2024-10-09,2024-10-15,mex,biological dentist near me,0,1,0,3
+2024-10-09,2024-10-15,mex,holistic biological dentist near me,0,1,0,7
+2024-10-09,2024-10-15,mex,holistic dentist in mexico,0,7,0,5.571428571428571
+2024-10-09,2024-10-15,mex,holistic dentist mexico,0,1,0,6
+2024-10-09,2024-10-15,mex,holistic dentist near me,0,5,0,14.2
+2024-10-09,2024-10-15,mex,natural dentist,0,1,0,53
+2024-10-16,2024-10-22,mex,holistic dentistry,1,3,0.3333333333333333,4.333333333333334
+2024-10-16,2024-10-22,mex,dentist holistic,0,2,0,1
+2024-10-16,2024-10-22,mex,holistic dentist in mexico,0,7,0,13.428571428571429
+2024-10-16,2024-10-22,mex,holistic dentist mexico,0,2,0,7
+2024-10-16,2024-10-22,mex,holistic dentist near me,0,3,0,10.666666666666666
+2024-10-16,2024-10-22,mex,holistic dentistry mexico,0,1,0,8
+2024-10-23,2024-10-29,mex,biodental care,0,1,0,11
+2024-10-23,2024-10-29,mex,dentistry holistic,0,1,0,1
+2024-10-23,2024-10-29,mex,holistic dentist in mexico,0,7,0,10.285714285714286
+2024-10-23,2024-10-29,mex,holistic dentist mexico city,0,1,0,10
+2024-10-23,2024-10-29,mex,holistic dentistry,0,1,0,1
+2024-10-23,2024-10-29,mex,holistic dentistry near me,0,1,0,3
+2024-10-23,2024-10-29,mex,naturopathic dentists near me,0,1,0,4
+2024-10-30,2024-11-05,mex,all natural dentistry,0,2,0,29
+2024-10-30,2024-11-05,mex,bio dentist,0,2,0,12
+2024-10-30,2024-11-05,mex,bio dentistry,0,1,0,10
+2024-10-30,2024-11-05,mex,biodental care,0,1,0,9
+2024-10-30,2024-11-05,mex,biological dentist mexico,0,1,0,5
+2024-10-30,2024-11-05,mex,biological dentist near me,0,1,0,12
+2024-10-30,2024-11-05,mex,biological dentistry tijuana,0,1,0,35
+2024-10-30,2024-11-05,mex,biological holistic dentist near me,0,1,0,5
+2024-10-30,2024-11-05,mex,dental holistic,0,2,0,11
+2024-10-30,2024-11-05,mex,holistic biological dentist near me,0,2,0,6
+2024-10-30,2024-11-05,mex,holistic dental care,0,1,0,7
+2024-10-30,2024-11-05,mex,holistic dental clinic,0,1,0,4
+2024-10-30,2024-11-05,mex,holistic dental services,0,2,0,6
+2024-10-30,2024-11-05,mex,holistic dentist in mexico,0,7,0,8.714285714285715
+2024-10-30,2024-11-05,mex,holistic dentist mexico city,0,1,0,6
+2024-10-30,2024-11-05,mex,holistic dentistry,0,3,0,1
+2024-10-30,2024-11-05,mex,holistic dentists in my area,0,1,0,7
+2024-10-30,2024-11-05,mex,holistic pediatric dentist near me,0,1,0,23
+2024-10-30,2024-11-05,mex,holistic root canal near me,0,2,0,38.5
+2024-10-30,2024-11-05,mex,homeopathic dentist,0,1,0,7
+2024-10-30,2024-11-05,mex,mercury removal in tijuana,0,2,0,71.5
+2024-10-30,2024-11-05,mex,natural dentist,0,1,0,67
+2024-10-30,2024-11-05,mex,natural dentist near me,0,2,0,4
+2024-10-30,2024-11-05,mex,non toxic dentistry,0,1,0,1
+2024-10-30,2024-11-05,mex,organic dentist,0,1,0,4
+2024-11-06,2024-11-12,mex,bio dental care,0,1,0,9
+2024-11-06,2024-11-12,mex,bio dentist,0,1,0,9
+2024-11-06,2024-11-12,mex,biodental care,0,1,0,17
+2024-11-06,2024-11-12,mex,biological dentist,0,2,0,11
+2024-11-06,2024-11-12,mex,dentista biológico cerca de mi,0,1,0,3
+2024-11-06,2024-11-12,mex,holistic dental care near me,0,1,0,3
+2024-11-06,2024-11-12,mex,holistic dentist in mexico,0,7,0,8.857142857142858
+2024-11-06,2024-11-12,mex,holistic dentist near me,0,1,0,5
+2024-11-06,2024-11-12,mex,holistic dentist tijuana,0,1,0,31
+2024-11-06,2024-11-12,mex,hollistic dentist near me,0,1,0,5
+2024-11-06,2024-11-12,mex,mercury removal in tijuana,0,2,0,71
+2024-11-13,2024-11-19,mex,bio dental care,0,1,0,10
+2024-11-13,2024-11-19,mex,bio dentist,0,2,0,10
+2024-11-13,2024-11-19,mex,bio holistic dental,0,1,0,50
+2024-11-13,2024-11-19,mex,biodental care,0,4,0,11.5
+2024-11-13,2024-11-19,mex,functional dentist,0,1,0,11
+2024-11-13,2024-11-19,mex,holistic dental,0,5,0,16.4
+2024-11-13,2024-11-19,mex,holistic dental care,0,1,0,11
+2024-11-13,2024-11-19,mex,holistic dentist in mexico,0,7,0,8
+2024-11-13,2024-11-19,mex,holistic dentist mexico,0,1,0,6
+2024-11-13,2024-11-19,mex,mercury removal in tijuana,0,1,0,72
+2024-11-13,2024-11-19,mex,natural dentist,0,2,0,50.5
+2024-11-20,2024-11-26,mex,bio dentist,0,1,0,10
+2024-11-20,2024-11-26,mex,biodental care,0,5,0,13
+2024-11-20,2024-11-26,mex,biological dentist,0,2,0,53.5
+2024-11-20,2024-11-26,mex,biological dentist mexico,0,1,0,7
+2024-11-20,2024-11-26,mex,holistic dental,0,5,0,10.4
+2024-11-20,2024-11-26,mex,holistic dental care,0,1,0,1
+2024-11-20,2024-11-26,mex,holistic dental services,0,1,0,6
+2024-11-20,2024-11-26,mex,holistic dentist in mexico,0,6,0,8.5
+2024-11-20,2024-11-26,mex,holistic dentist mexico city,0,1,0,5
+2024-11-20,2024-11-26,mex,holistic dentist near me,0,1,0,7
+2024-11-20,2024-11-26,mex,holistic dentistry,0,1,0,1
+2024-11-20,2024-11-26,mex,naturopathic dentist near me,0,1,0,2

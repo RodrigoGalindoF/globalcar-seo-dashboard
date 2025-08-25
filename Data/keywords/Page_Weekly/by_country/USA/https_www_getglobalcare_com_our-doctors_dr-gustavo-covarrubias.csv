@@ -1,0 +1,76 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,usa,dr covarrubias,0,1,0,46
+2024-05-01,2024-05-07,usa,dr. covarrubias,0,1,0,84
+2024-05-01,2024-05-07,usa,gustavo covarrubias,0,5,0,1.4
+2024-05-08,2024-05-14,usa,dr. covarrubias,0,1,0,83
+2024-05-08,2024-05-14,usa,gustavo covarrubias,0,2,0,1
+2024-05-15,2024-05-21,usa,dentista covarrubias,0,1,0,6
+2024-05-15,2024-05-21,usa,gustavo covarrubias,0,16,0,1.4375
+2024-05-22,2024-05-28,usa,dr covarrubias,0,2,0,39.5
+2024-05-22,2024-05-28,usa,gustavo covarrubias,0,4,0,1.5
+2024-05-29,2024-06-04,usa,gustavo covarrubias,0,12,0,1.75
+2024-06-05,2024-06-11,usa,gustavo covarrubias,0,5,0,8.8
+2024-06-12,2024-06-18,usa,gustavo covarrubias,0,6,0,8.166666666666668
+2024-06-19,2024-06-25,usa,covarrubias dental,0,1,0,13
+2024-06-26,2024-07-02,usa,dentista covarrubias,0,1,0,10
+2024-06-26,2024-07-02,usa,gustavo covarrubias,0,2,0,2
+2024-07-03,2024-07-09,usa,covarrubias dental,0,1,0,3
+2024-07-03,2024-07-09,usa,doctor covarrubias,0,1,0,8
+2024-07-03,2024-07-09,usa,gustavo covarrubias,0,5,0,3.2
+2024-07-10,2024-07-16,usa,gustavo covarrubias,0,13,0,2.0769230769230766
+2024-07-17,2024-07-23,usa,doctora covarrubias,0,2,0,11
+2024-07-17,2024-07-23,usa,gustavo covarrubias,0,12,0,1.6666666666666665
+2024-07-24,2024-07-30,usa,doctora covarrubias,0,1,0,12
+2024-07-24,2024-07-30,usa,gustavo covarrubias,0,6,0,1.6666666666666665
+2024-07-31,2024-08-06,usa,dr gustavo mexico,0,1,0,10
+2024-07-31,2024-08-06,usa,gustavo covarrubias,0,6,0,1.1666666666666667
+2024-08-07,2024-08-13,usa,dentista covarrubias,0,1,0,9
+2024-08-07,2024-08-13,usa,gustavo covarrubias,0,4,0,1
+2024-08-14,2024-08-20,usa,dentista covarrubias,0,1,0,9
+2024-08-14,2024-08-20,usa,dr gustavo mexico,0,3,0,10
+2024-08-14,2024-08-20,usa,gustavo covarrubias,0,9,0,1.5555555555555556
+2024-08-21,2024-08-27,usa,dentista covarrubias,0,2,0,10
+2024-08-21,2024-08-27,usa,dr gustavo mexico,0,1,0,10
+2024-08-21,2024-08-27,usa,gustavo covarrubias,0,3,0,6.666666666666667
+2024-08-28,2024-09-03,usa,gustavo covarrubias,0,7,0,1.8571428571428572
+2024-08-28,2024-09-03,usa,gustavo smile,0,1,0,47
+2024-09-04,2024-09-10,usa,covarrubias last name origin,0,1,0,2
+2024-09-04,2024-09-10,usa,gustavo covarrubias,0,5,0,1.4
+2024-09-11,2024-09-17,usa,covarrubias last name origin,0,1,0,2
+2024-09-11,2024-09-17,usa,dentista covarrubias,0,1,0,12
+2024-09-11,2024-09-17,usa,gustavo covarrubias,0,5,0,1.8
+2024-09-18,2024-09-24,usa,gustavo covarrubias,0,11,0,2.909090909090909
+2024-09-18,2024-09-24,usa,gustavo smile,0,1,0,34
+2024-09-25,2024-10-01,usa,dentista covarrubias,0,2,0,12
+2024-09-25,2024-10-01,usa,gustavo covarrubias,0,7,0,1
+2024-10-02,2024-10-08,usa,dentista covarrubias,0,1,0,10
+2024-10-02,2024-10-08,usa,gustavo covarrubias,0,2,0,1
+2024-10-09,2024-10-15,usa,dental care puerto vallarta,0,1,0,53
+2024-10-09,2024-10-15,usa,dentista covarrubias,0,2,0,11
+2024-10-09,2024-10-15,usa,gustavo covarrubias,0,2,0,2
+2024-10-16,2024-10-22,usa,gustavo covarrubias,0,4,0,3
+2024-10-23,2024-10-29,usa,gustavo covarrubias,0,4,0,2
+2024-10-30,2024-11-05,usa,dentista covarrubias,0,1,0,12
+2024-10-30,2024-11-05,usa,gustavo covarrubias,0,7,0,2.142857142857143
+2024-11-06,2024-11-12,usa,dental care puerto vallarta,0,1,0,40
+2024-11-06,2024-11-12,usa,gustavo covarrubias,0,22,0,1.1818181818181819
+2024-11-13,2024-11-19,usa,gustavo covarrubias,0,17,0,1.5882352941176472
+2024-11-13,2024-11-19,usa,gustavo dentist,0,1,0,8
+2024-11-13,2024-11-19,usa,gustavo smile,0,2,0,31.5
+2024-11-20,2024-11-26,usa,dental implants puerto vallarta mexico,0,1,0,65
+2024-11-20,2024-11-26,usa,gustavo covarrubias,0,20,0,3.45
+2024-11-20,2024-11-26,usa,pv smile puerto vallarta,0,2,0,95
+2024-11-20,2024-11-26,usa,trusted implantologist montana,0,1,0,73
+2024-11-27,2024-12-03,usa,dental care puerto vallarta,0,2,0,46
+2024-11-27,2024-12-03,usa,gustavo covarrubias,0,11,0,3
+2024-11-27,2024-12-03,usa,gustavo dentist,0,1,0,33
+2024-11-27,2024-12-03,usa,puerto vallarta dentistry,0,1,0,49
+2024-12-04,2024-12-10,usa,dental care puerto vallarta,0,1,0,42
+2024-12-04,2024-12-10,usa,gustavo covarrubias,0,9,0,1.5555555555555556
+2024-12-11,2024-12-17,usa,dental implants puerto vallarta mexico,0,1,0,47
+2024-12-11,2024-12-17,usa,gustavo covarrubias,0,5,0,1.6
+2024-12-11,2024-12-17,usa,odontologo cancun,0,1,0,63
+2024-12-11,2024-12-17,usa,puerto vallarta dentistry,0,1,0,53
+2024-12-18,2024-12-24,usa,dental clinic puerto vallarta,0,1,0,54
+2024-12-18,2024-12-24,usa,gustavo covarrubias,0,4,0,1.5
+2024-12-25,2024-12-31,usa,gustavo covarrubias,0,1,0,1

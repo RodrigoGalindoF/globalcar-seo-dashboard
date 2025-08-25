@@ -1,0 +1,71 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,col,molar city in mexico,0,1,0,31
+2024-05-08,2024-05-14,col,molar city,0,1,0,23
+2024-05-15,2024-05-21,col,mexico dental town,0,1,0,45
+2024-05-15,2024-05-21,col,molar city prices,0,1,0,56
+2024-05-22,2024-05-28,col,molar city mexico,0,1,0,29
+2024-05-29,2024-06-04,col,dental tourism los algodones mexico,0,1,0,84
+2024-05-29,2024-06-04,col,molar city,0,1,0,5
+2024-05-29,2024-06-04,col,molar city in mexico,0,1,0,35
+2024-06-05,2024-06-11,col,molar city,0,1,0,8
+2024-06-12,2024-06-18,col,dental tourism los algodones mexico,0,1,0,54
+2024-06-12,2024-06-18,col,how much is dental work in los algodones,0,1,0,80
+2024-06-12,2024-06-18,col,los algodones,0,1,0,21
+2024-06-12,2024-06-18,col,molar city mexico,0,1,0,18
+2024-06-19,2024-06-25,col,algodones,0,1,0,3
+2024-06-19,2024-06-25,col,dentist town mexico,0,1,0,56
+2024-06-19,2024-06-25,col,how much is dental work in los algodones,0,2,0,80
+2024-06-19,2024-06-25,col,mexico dentist town,0,1,0,44
+2024-06-19,2024-06-25,col,molar city,0,1,0,9
+2024-06-19,2024-06-25,col,porcelain veneers los algodones,0,1,0,82
+2024-06-26,2024-07-02,col,dental technology los algodones,0,1,0,65
+2024-06-26,2024-07-02,col,molar city,0,1,0,4
+2024-07-03,2024-07-09,col,los algodones,0,1,0,11
+2024-07-03,2024-07-09,col,los algodones dentist prices,0,1,0,1
+2024-07-03,2024-07-09,col,los algodones molar city,0,1,0,10
+2024-07-03,2024-07-09,col,medical tourism los algodones mx,0,1,0,58
+2024-07-10,2024-07-16,col,molar city,0,1,0,11
+2024-07-17,2024-07-23,col,algodones,0,1,0,3
+2024-07-17,2024-07-23,col,dental tourism in los algodones,0,1,0,20
+2024-07-17,2024-07-23,col,dental tourism los algodones mexico,0,1,0,33
+2024-07-17,2024-07-23,col,molar city,0,2,0,8.5
+2024-07-24,2024-07-30,col,algodones dentist,0,1,0,2
+2024-07-24,2024-07-30,col,molar-agency,0,1,0,39
+2024-07-31,2024-08-06,col,algodones new mexico,0,1,0,88
+2024-07-31,2024-08-06,col,los algodones medical tourism,0,1,0,56
+2024-08-07,2024-08-13,col,dental tourism los algodones mexico,0,1,0,13
+2024-08-07,2024-08-13,col,medical tourism los algodones mx,0,1,0,64
+2024-08-14,2024-08-20,col,los algodones mexico,0,1,0,15
+2024-08-14,2024-08-20,col,molar city,0,1,0,9
+2024-08-14,2024-08-20,col,molar city mexico,0,2,0,15
+2024-08-14,2024-08-20,col,porcelain veneers los algodones,0,1,0,62
+2024-08-14,2024-08-20,col,teeth in a day los algodones,0,1,0,37
+2024-08-21,2024-08-27,col,dental treatments in los algodones,0,1,0,98
+2024-08-21,2024-08-27,col,los algodones mexico,0,1,0,40
+2024-08-21,2024-08-27,col,molar city in mexico,0,1,0,13
+2024-08-21,2024-08-27,col,same-day dentistry los algodones mexico,0,1,0,62
+2024-08-28,2024-09-03,col,about the practice los algodones,0,1,0,2
+2024-08-28,2024-09-03,col,algodonas,0,1,0,8
+2024-08-28,2024-09-03,col,dentist town mexico,0,1,0,27
+2024-08-28,2024-09-03,col,hygiene inside los algodones dental clinic,0,1,0,66
+2024-09-04,2024-09-10,col,los algodones,0,5,0,9.8
+2024-09-04,2024-09-10,col,lumineers los algodones mexico,0,1,0,34
+2024-09-04,2024-09-10,col,molar city,0,1,0,10
+2024-09-11,2024-09-17,col,molar city,0,1,0,8
+2024-09-18,2024-09-24,col,molar city,0,2,0,9.5
+2024-09-25,2024-10-01,col,dentist town mexico,0,1,0,30
+2024-09-25,2024-10-01,col,mexican dental town,0,1,0,30
+2024-09-25,2024-10-01,col,molar city,0,1,0,13
+2024-09-25,2024-10-01,col,molar city mexico,0,1,0,11
+2024-10-02,2024-10-08,col,los algodones,0,1,0,12
+2024-10-09,2024-10-15,col,algodones mexico,0,1,0,4
+2024-10-09,2024-10-15,col,molar city,0,1,0,9
+2024-10-16,2024-10-22,col,algodones,0,1,0,5
+2024-10-16,2024-10-22,col,molar city,0,3,0,9.333333333333334
+2024-10-23,2024-10-29,col,algodones,0,2,0,1
+2024-10-23,2024-10-29,col,los algodones,0,1,0,30
+2024-10-23,2024-10-29,col,molar city,0,15,0,14.866666666666667
+2024-10-23,2024-10-29,col,molar city dental,0,1,0,17
+2024-10-30,2024-11-05,col,molar city,0,3,0,13.333333333333334
+2024-11-06,2024-11-12,col,algodones,0,1,0,1
+2024-11-13,2024-11-19,col,molar city mexico,0,1,0,15

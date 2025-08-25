@@ -1,0 +1,20 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,usa,juan pablo dentista,0,1,0,11
+2024-05-08,2024-05-14,usa,juan pablo villaseñor,0,2,0,4
+2024-05-15,2024-05-21,usa,juan pablo villaseñor,0,1,0,5
+2024-05-22,2024-05-28,usa,juan pablo villaseñor,0,1,0,1
+2024-05-22,2024-05-28,usa,juan villaseñor,0,1,0,51
+2024-05-29,2024-06-04,usa,dr pablo villaseñor,0,1,0,10
+2024-05-29,2024-06-04,usa,implantes dentales en queretaro,0,1,0,10
+2024-06-05,2024-06-11,usa,manual villasenor,0,1,0,6
+2024-06-12,2024-06-18,usa,juan pablo dentista,0,1,0,8
+2024-06-12,2024-06-18,usa,manual villasenor,0,1,0,1
+2024-06-19,2024-06-25,usa,juan pablo dentista,0,1,0,11
+2024-06-26,2024-07-02,usa,dr pablo villaseñor,0,2,0,4
+2024-06-26,2024-07-02,usa,juan pablo villaseñor,0,1,0,3
+2024-06-26,2024-07-02,usa,odontologo queretaro,0,1,0,32
+2024-07-03,2024-07-09,usa,dental implants monterrey,0,1,0,61
+2024-07-03,2024-07-09,usa,materiales villaseñor,0,1,0,56
+2024-07-10,2024-07-16,usa,dental implants monterrey,0,1,0,47
+2024-07-10,2024-07-16,usa,dr pablo villaseñor,0,1,0,9
+2024-07-10,2024-07-16,usa,odontologo guadalajara,0,1,0,36

@@ -1,0 +1,232 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,usa,all on 4 monterrey mexico,0,2,0,71.5
+2024-05-01,2024-05-07,usa,all on four monterrey,0,1,0,30
+2024-05-01,2024-05-07,usa,dental implants in monterrey,0,1,0,31
+2024-05-01,2024-05-07,usa,dentist clinic monterrey,0,3,0,95.33333333333333
+2024-05-01,2024-05-07,usa,dentist in monterrey,0,1,0,28
+2024-05-08,2024-05-14,usa,all on 4 monterrey mexico,0,4,0,67.5
+2024-05-08,2024-05-14,usa,all on four monterrey,0,1,0,32
+2024-05-08,2024-05-14,usa,dental implants in monterrey mexico,0,1,0,61
+2024-05-08,2024-05-14,usa,dental implants monterrey,0,1,0,38
+2024-05-08,2024-05-14,usa,dentist clinic monterrey,0,5,0,97.6
+2024-05-08,2024-05-14,usa,dentist in monterrey,0,1,0,36
+2024-05-08,2024-05-14,usa,dentist in monterrey mexico,0,1,0,32
+2024-05-08,2024-05-14,usa,dentist monterrey mexico,0,1,0,30
+2024-05-08,2024-05-14,usa,monterrey mexico dentist,0,1,0,36
+2024-05-08,2024-05-14,usa,veneers in monterrey,0,3,0,25
+2024-05-15,2024-05-21,usa,dental implants monterrey,0,1,0,43
+2024-05-15,2024-05-21,usa,dental treatment in monterrey,0,2,0,10.5
+2024-05-15,2024-05-21,usa,dentist clinic monterrey,0,2,0,99
+2024-05-15,2024-05-21,usa,dentist in monterrey,0,1,0,35
+2024-05-15,2024-05-21,usa,veneers in monterrey,0,1,0,26
+2024-05-22,2024-05-28,usa,all on 4 monterrey mexico,0,1,0,86
+2024-05-22,2024-05-28,usa,dental implants in monterrey,0,2,0,38
+2024-05-22,2024-05-28,usa,dental implants in monterrey mexico,0,2,0,54
+2024-05-22,2024-05-28,usa,dental treatment in monterrey,0,1,0,10
+2024-05-22,2024-05-28,usa,dentist clinic monterrey,0,4,0,101
+2024-05-22,2024-05-28,usa,veneers in monterrey,0,3,0,25.666666666666668
+2024-05-29,2024-06-04,usa,all on 4 monterrey mexico,0,5,0,21.4
+2024-05-29,2024-06-04,usa,dental implants in monterrey,0,2,0,62
+2024-05-29,2024-06-04,usa,dental implants in monterrey mexico,0,1,0,58
+2024-05-29,2024-06-04,usa,dental implants monterrey,0,2,0,42.5
+2024-05-29,2024-06-04,usa,dental treatment in monterrey,0,1,0,11
+2024-05-29,2024-06-04,usa,veneers in monterrey,0,2,0,28.5
+2024-06-05,2024-06-11,usa,all on 4 monterrey mexico,0,2,0,26.5
+2024-06-05,2024-06-11,usa,dental implants in monterrey mexico,0,1,0,61
+2024-06-05,2024-06-11,usa,dentist in monterrey,0,2,0,33.5
+2024-06-05,2024-06-11,usa,veneers in monterrey,0,2,0,29
+2024-06-12,2024-06-18,usa,all on 4 monterrey mexico,0,5,0,48.8
+2024-06-12,2024-06-18,usa,dental implants in monterrey mexico,0,1,0,57
+2024-06-12,2024-06-18,usa,dental treatment in monterrey,0,1,0,15
+2024-06-12,2024-06-18,usa,dentist clinic monterrey,0,2,0,77
+2024-06-12,2024-06-18,usa,dentist in monterrey,0,1,0,34
+2024-06-12,2024-06-18,usa,veneers in monterrey,0,1,0,39
+2024-06-19,2024-06-25,usa,all on 4 monterrey mexico,0,8,0,43.125
+2024-06-19,2024-06-25,usa,dental implants in monterrey,0,2,0,44.5
+2024-06-19,2024-06-25,usa,dental implants monterrey,0,1,0,38
+2024-06-19,2024-06-25,usa,dental treatment in monterrey,0,1,0,12
+2024-06-19,2024-06-25,usa,porcelain veneers monterrey mexico,0,2,0,34.5
+2024-06-26,2024-07-02,usa,all on 4 monterrey mexico,0,6,0,54.666666666666664
+2024-06-26,2024-07-02,usa,dentist in monterrey,0,2,0,36
+2024-07-03,2024-07-09,usa,all on 4 monterrey mexico,0,5,0,45.8
+2024-07-03,2024-07-09,usa,dental implants monterrey,0,2,0,38.5
+2024-07-03,2024-07-09,usa,dental treatment in monterrey,0,2,0,13
+2024-07-10,2024-07-16,usa,all on 4 monterrey mexico,0,12,0,37.416666666666664
+2024-07-10,2024-07-16,usa,dentist in monterrey,0,1,0,38
+2024-07-10,2024-07-16,usa,veneers in monterrey,0,1,0,41
+2024-07-17,2024-07-23,usa,all on 4 monterrey mexico,0,11,0,37.72727272727273
+2024-07-17,2024-07-23,usa,all on four monterrey,0,1,0,34
+2024-07-17,2024-07-23,usa,dental implants in monterrey,0,2,0,46
+2024-07-17,2024-07-23,usa,dental implants monterrey,0,1,0,42
+2024-07-17,2024-07-23,usa,dental treatment in monterrey,0,2,0,11.5
+2024-07-17,2024-07-23,usa,dentist in monterrey,0,1,0,38
+2024-07-17,2024-07-23,usa,porcelain veneers monterrey mexico,0,2,0,31
+2024-07-24,2024-07-30,usa,all on 4 monterrey mexico,0,10,0,34.4
+2024-07-24,2024-07-30,usa,all on four monterrey,0,1,0,57
+2024-07-24,2024-07-30,usa,dental implants monterrey,0,1,0,42
+2024-07-24,2024-07-30,usa,dental treatment in monterrey,0,1,0,18
+2024-07-24,2024-07-30,usa,monterrey provisions,0,1,0,90
+2024-07-24,2024-07-30,usa,porcelain veneers monterrey mexico,0,2,0,31
+2024-07-31,2024-08-06,usa,all on 4 monterrey mexico,0,11,0,39
+2024-07-31,2024-08-06,usa,all on four monterrey,0,1,0,30
+2024-07-31,2024-08-06,usa,dental implants monterrey,0,3,0,43.666666666666664
+2024-07-31,2024-08-06,usa,dental treatment in monterrey,0,2,0,11
+2024-07-31,2024-08-06,usa,dentist in monterrey,0,2,0,38
+2024-07-31,2024-08-06,usa,porcelain veneers monterrey mexico,0,2,0,31.5
+2024-08-07,2024-08-13,usa,all on 4 monterrey mexico,0,9,0,37.666666666666664
+2024-08-07,2024-08-13,usa,dental implants in monterrey,0,2,0,45.5
+2024-08-07,2024-08-13,usa,dental implants monterrey,0,3,0,44.666666666666664
+2024-08-07,2024-08-13,usa,monterrey mexico dentist,0,1,0,44
+2024-08-07,2024-08-13,usa,porcelain veneers monterrey mexico,0,4,0,38.5
+2024-08-07,2024-08-13,usa,veneers in monterrey,0,2,0,84.5
+2024-08-14,2024-08-20,usa,all on 4 monterrey mexico,0,13,0,46.38461538461539
+2024-08-14,2024-08-20,usa,dental clinic monterrey,0,1,0,22
+2024-08-14,2024-08-20,usa,dental implants monterrey,0,1,0,89
+2024-08-14,2024-08-20,usa,dental treatment in monterrey,0,2,0,17.5
+2024-08-14,2024-08-20,usa,porcelain veneers monterrey mexico,0,2,0,35
+2024-08-14,2024-08-20,usa,veneers in monterrey,0,4,0,91
+2024-08-21,2024-08-27,usa,all on 4 monterrey mexico,0,9,0,38.111111111111114
+2024-08-21,2024-08-27,usa,all on four monterrey,0,2,0,29.5
+2024-08-21,2024-08-27,usa,porcelain veneers monterrey mexico,0,2,0,36
+2024-08-21,2024-08-27,usa,veneers in monterrey,0,1,0,91
+2024-08-28,2024-09-03,usa,all on 4 monterrey mexico,0,10,0,37.5
+2024-08-28,2024-09-03,usa,dental implants monterrey,0,1,0,45
+2024-08-28,2024-09-03,usa,dentist in monterrey,0,1,0,38
+2024-08-28,2024-09-03,usa,veneers in monterrey,0,1,0,37
+2024-09-04,2024-09-10,usa,all on 4 monterrey mexico,0,5,0,45.2
+2024-09-04,2024-09-10,usa,all on four monterrey,0,3,0,38.333333333333336
+2024-09-04,2024-09-10,usa,all on four monterrey mexico,0,1,0,49
+2024-09-04,2024-09-10,usa,dental implants monterrey,0,1,0,54
+2024-09-04,2024-09-10,usa,dentist in monterrey,0,1,0,44
+2024-09-11,2024-09-17,usa,all on 4 monterrey mexico,0,8,0,40
+2024-09-11,2024-09-17,usa,all on four monterrey,0,2,0,32.5
+2024-09-11,2024-09-17,usa,all on four monterrey mexico,0,6,0,42.333333333333336
+2024-09-11,2024-09-17,usa,dental implants monterrey,0,3,0,42.666666666666664
+2024-09-11,2024-09-17,usa,dentist in monterrey mexico,0,2,0,38
+2024-09-11,2024-09-17,usa,monterrey mexico dentist,0,1,0,44
+2024-09-11,2024-09-17,usa,porcelain veneers monterrey mexico,0,2,0,30
+2024-09-11,2024-09-17,usa,veneers in monterrey,0,3,0,38.333333333333336
+2024-09-18,2024-09-24,usa,all on 4 monterrey mexico,0,9,0,47.333333333333336
+2024-09-18,2024-09-24,usa,all on four monterrey,0,3,0,49
+2024-09-18,2024-09-24,usa,all on four monterrey mexico,0,1,0,47
+2024-09-18,2024-09-24,usa,dental implants monterrey,0,4,0,79.5
+2024-09-18,2024-09-24,usa,dentist in monterrey,0,1,0,96
+2024-09-18,2024-09-24,usa,dentist in monterrey mexico,0,1,0,37
+2024-09-18,2024-09-24,usa,porcelain veneers monterrey mexico,0,2,0,42.5
+2024-09-18,2024-09-24,usa,veneers in monterrey,0,2,0,64
+2024-09-25,2024-10-01,usa,all on 4 monterrey mexico,0,8,0,55.5
+2024-09-25,2024-10-01,usa,all on four monterrey,0,3,0,47
+2024-09-25,2024-10-01,usa,all on four monterrey mexico,0,2,0,52.5
+2024-09-25,2024-10-01,usa,is monterrey safe,0,1,0,1
+2024-09-25,2024-10-01,usa,where to stay in monterrey mexico,0,1,0,1
+2024-10-02,2024-10-08,usa,all on 4 monterrey mexico,0,5,0,72.4
+2024-10-02,2024-10-08,usa,all on four monterrey,0,5,0,37.2
+2024-10-02,2024-10-08,usa,all on four monterrey mexico,0,1,0,57
+2024-10-02,2024-10-08,usa,dental implants monterrey,0,2,0,79.5
+2024-10-02,2024-10-08,usa,dentist in monterrey,0,1,0,95
+2024-10-02,2024-10-08,usa,how safe is monterrey,0,1,0,1
+2024-10-02,2024-10-08,usa,porcelain veneers monterrey mexico,0,1,0,52
+2024-10-02,2024-10-08,usa,veneers in monterrey,0,1,0,67
+2024-10-09,2024-10-15,usa,all on 4 monterrey mexico,0,6,0,72
+2024-10-09,2024-10-15,usa,all on four monterrey,0,6,0,51.666666666666664
+2024-10-09,2024-10-15,usa,all on four monterrey mexico,0,1,0,54
+2024-10-09,2024-10-15,usa,dentist in monterrey mexico,0,5,0,61
+2024-10-09,2024-10-15,usa,porcelain veneers monterrey mexico,0,1,0,56
+2024-10-16,2024-10-22,usa,all on 4 monterrey mexico,0,9,0,77
+2024-10-16,2024-10-22,usa,all on four monterrey,0,9,0,55.888888888888886
+2024-10-16,2024-10-22,usa,all on four monterrey mexico,0,7,0,51.714285714285715
+2024-10-16,2024-10-22,usa,dental implants monterrey,0,1,0,82
+2024-10-16,2024-10-22,usa,dentist in monterrey,0,3,0,93.66666666666667
+2024-10-16,2024-10-22,usa,porcelain veneers monterrey mexico,0,1,0,56
+2024-10-16,2024-10-22,usa,veneers in monterrey,0,1,0,66
+2024-10-23,2024-10-29,usa,all on 4 monterrey mexico,0,3,0,42.333333333333336
+2024-10-23,2024-10-29,usa,all on four monterrey,0,9,0,54.888888888888886
+2024-10-23,2024-10-29,usa,all on four monterrey mexico,0,5,0,56.4
+2024-10-23,2024-10-29,usa,dental clinic monterrey,0,1,0,43
+2024-10-23,2024-10-29,usa,dental implants monterrey,0,1,0,81
+2024-10-23,2024-10-29,usa,dentist in monterrey,0,2,0,74.5
+2024-10-23,2024-10-29,usa,is monterey mexico safe,0,1,0,1
+2024-10-23,2024-10-29,usa,monterrey mexico cost of living,0,1,0,1
+2024-10-23,2024-10-29,usa,monterrey mexico dentist,0,1,0,42
+2024-10-23,2024-10-29,usa,porcelain veneers monterrey mexico,0,1,0,53
+2024-10-30,2024-11-05,usa,all on 4 monterrey mexico,0,5,0,59.8
+2024-10-30,2024-11-05,usa,all on four monterrey,0,8,0,48.75
+2024-10-30,2024-11-05,usa,all on four monterrey mexico,0,4,0,55
+2024-10-30,2024-11-05,usa,dental clinic monterrey mexico,0,5,0,81
+2024-10-30,2024-11-05,usa,dental implants monterrey,0,1,0,83
+2024-10-30,2024-11-05,usa,porcelain veneers monterrey mexico,0,1,0,49
+2024-11-06,2024-11-12,usa,all on 4 monterrey mexico,0,1,0,55
+2024-11-06,2024-11-12,usa,all on four monterrey,0,3,0,40.666666666666664
+2024-11-06,2024-11-12,usa,dental clinic monterrey mexico,0,1,0,69
+2024-11-06,2024-11-12,usa,dental implants monterrey,0,3,0,73.66666666666667
+2024-11-06,2024-11-12,usa,porcelain veneers monterrey mexico,0,1,0,51
+2024-11-06,2024-11-12,usa,veneers in monterrey,0,1,0,57
+2024-11-13,2024-11-19,usa,all on 4 dental implants monterrey mexico,0,1,0,51
+2024-11-13,2024-11-19,usa,all on 4 monterrey mexico,0,7,0,38.142857142857146
+2024-11-13,2024-11-19,usa,all on four monterrey,0,7,0,31.714285714285715
+2024-11-13,2024-11-19,usa,all on four monterrey mexico,0,4,0,33.75
+2024-11-13,2024-11-19,usa,dental clinic monterrey mexico,0,2,0,67
+2024-11-13,2024-11-19,usa,porcelain veneers monterrey mexico,0,2,0,50.5
+2024-11-20,2024-11-26,usa,all on 4 dental implants monterrey mexico,0,1,0,51
+2024-11-20,2024-11-26,usa,all on 4 monterrey mexico,0,7,0,56.142857142857146
+2024-11-20,2024-11-26,usa,all on four monterrey,0,7,0,23.142857142857142
+2024-11-20,2024-11-26,usa,all on four monterrey mexico,0,7,0,62.285714285714285
+2024-11-20,2024-11-26,usa,dental clinic monterrey,0,1,0,49
+2024-11-20,2024-11-26,usa,dental clinic monterrey mexico,0,2,0,62.5
+2024-11-20,2024-11-26,usa,dental clinics in monterrey mexico,0,1,0,57
+2024-11-20,2024-11-26,usa,dental implants monterrey,0,7,0,61
+2024-11-20,2024-11-26,usa,dentist in monterrey,0,7,0,76
+2024-11-20,2024-11-26,usa,porcelain veneers monterrey mexico,0,9,0,55.333333333333336
+2024-11-20,2024-11-26,usa,veneers in monterrey,0,7,0,56.857142857142854
+2024-11-27,2024-12-03,usa,all on 4 dental implants monterrey mexico,0,1,0,34
+2024-11-27,2024-12-03,usa,all on 4 monterrey mexico,0,7,0,54.285714285714285
+2024-11-27,2024-12-03,usa,all on four monterrey,0,7,0,23.571428571428573
+2024-11-27,2024-12-03,usa,all on four monterrey mexico,0,7,0,53
+2024-11-27,2024-12-03,usa,dental clinic monterrey mexico,0,1,0,64
+2024-11-27,2024-12-03,usa,dental implants monterrey,0,7,0,64.57142857142857
+2024-11-27,2024-12-03,usa,dentist in monterrey,0,6,0,79.16666666666667
+2024-11-27,2024-12-03,usa,porcelain veneers monterrey mexico,0,8,0,54.75
+2024-11-27,2024-12-03,usa,veneers in monterrey,0,6,0,59.666666666666664
+2024-12-04,2024-12-10,usa,all on 4 dental implants monterrey mexico,0,1,0,43
+2024-12-04,2024-12-10,usa,all on 4 monterrey mexico,0,7,0,58
+2024-12-04,2024-12-10,usa,all on four monterrey,0,4,0,27
+2024-12-04,2024-12-10,usa,all on four monterrey mexico,0,7,0,50.285714285714285
+2024-12-04,2024-12-10,usa,dental clinic monterrey mexico,0,1,0,47
+2024-12-04,2024-12-10,usa,dental implants monterrey,0,7,0,65.85714285714286
+2024-12-04,2024-12-10,usa,dentist in monterrey,0,7,0,69.57142857142857
+2024-12-04,2024-12-10,usa,monterrey mexico dentist,0,1,0,48
+2024-12-04,2024-12-10,usa,porcelain veneers monterrey mexico,0,7,0,42.142857142857146
+2024-12-04,2024-12-10,usa,veneers in monterrey,0,7,0,45.42857142857143
+2024-12-11,2024-12-17,usa,all on 4 monterrey mexico,0,2,0,84.5
+2024-12-11,2024-12-17,usa,all on four monterrey,0,2,0,35.5
+2024-12-11,2024-12-17,usa,all on four monterrey mexico,0,3,0,60.333333333333336
+2024-12-11,2024-12-17,usa,dental clinic monterrey mexico,0,1,0,30
+2024-12-11,2024-12-17,usa,dental implants monterrey,0,6,0,69
+2024-12-11,2024-12-17,usa,dentist in monterrey,0,6,0,68.66666666666667
+2024-12-11,2024-12-17,usa,dentist in monterrey mexico,0,7,0,51.285714285714285
+2024-12-11,2024-12-17,usa,monterrey mexico dentist,0,1,0,51
+2024-12-11,2024-12-17,usa,veneers in monterrey,0,7,0,36.42857142857143
+2024-12-18,2024-12-24,usa,all on 4 monterrey mexico,0,1,0,78
+2024-12-18,2024-12-24,usa,all on four monterrey,0,5,0,41.6
+2024-12-18,2024-12-24,usa,all on four monterrey mexico,0,4,0,72
+2024-12-18,2024-12-24,usa,dental clinic monterrey mexico,0,1,0,25
+2024-12-18,2024-12-24,usa,dental implants monterrey,0,6,0,72.16666666666667
+2024-12-18,2024-12-24,usa,dentist in monterrey,0,7,0,69.85714285714286
+2024-12-18,2024-12-24,usa,dentist in monterrey mexico,0,2,0,50.5
+2024-12-18,2024-12-24,usa,monterrey mexico dentist,0,1,0,50
+2024-12-18,2024-12-24,usa,porcelain veneers monterrey mexico,0,3,0,32
+2024-12-18,2024-12-24,usa,veneers in monterrey,0,6,0,35.333333333333336
+2024-12-25,2024-12-31,usa,all on 4 monterrey mexico,0,2,0,51.5
+2024-12-25,2024-12-31,usa,all on four monterrey mexico,0,3,0,63.333333333333336
+2024-12-25,2024-12-31,usa,dental clinic monterrey mexico,0,1,0,26
+2024-12-25,2024-12-31,usa,dental implants monterrey,0,7,0,67.28571428571429
+2024-12-25,2024-12-31,usa,dentist in monterrey,0,7,0,72
+2024-12-25,2024-12-31,usa,dentist in monterrey mexico,0,2,0,49
+2024-12-25,2024-12-31,usa,porcelain veneers monterrey mexico,0,3,0,26.666666666666668
+2024-12-25,2024-12-31,usa,veneers in monterrey,0,7,0,34.57142857142857
+2025-01-01,2025-01-07,usa,all on 4 monterrey mexico,0,1,0,71
+2025-01-01,2025-01-07,usa,all on four monterrey,0,1,0,63
+2025-01-01,2025-01-07,usa,care monterrey,0,1,0,16
+2025-01-01,2025-01-07,usa,dental implants monterrey,0,5,0,72.8
+2025-01-01,2025-01-07,usa,dentist in monterrey,0,5,0,92.6
+2025-01-01,2025-01-07,usa,veneers in monterrey,0,4,0,60

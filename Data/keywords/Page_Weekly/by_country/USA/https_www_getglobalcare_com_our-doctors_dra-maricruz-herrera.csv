@@ -1,0 +1,39 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,usa,dra herrera,0,2,0,43.5
+2024-05-01,2024-05-07,usa,herrera dentist,0,1,0,88
+2024-05-08,2024-05-14,usa,dr herrera dentist,0,1,0,78
+2024-05-08,2024-05-14,usa,herrera dental clinic,0,2,0,52.5
+2024-05-08,2024-05-14,usa,herrera dentist,0,2,0,67
+2024-05-15,2024-05-21,usa,real herrera dental clinic,0,1,0,40
+2024-05-22,2024-05-28,usa,dr herrera dentist,0,1,0,77
+2024-05-29,2024-06-04,usa,12500 merit dr dallas tx 75251,0,1,0,88
+2024-05-29,2024-06-04,usa,dra herrera,0,1,0,19
+2024-05-29,2024-06-04,usa,herrera dentist,0,1,0,86
+2024-06-05,2024-06-11,usa,herrera dentist,0,2,0,71
+2024-06-05,2024-06-11,usa,real herrera dental clinic,0,1,0,42
+2024-06-12,2024-06-18,usa,herrera dental clinic,0,1,0,53
+2024-06-19,2024-06-25,usa,herrera dental clinic,0,1,0,52
+2024-06-26,2024-07-02,usa,maricruz herrera,0,2,0,2.5
+2024-07-03,2024-07-09,usa,maricruz herrera,0,1,0,1
+2024-07-10,2024-07-16,usa,maricruz herrera,0,2,0,3.5
+2024-07-17,2024-07-23,usa,maricruz herrera,0,2,0,5.5
+2024-07-24,2024-07-30,usa,maricruz herrera,0,5,0,1.8
+2024-07-31,2024-08-06,usa,maricruz herrera,0,2,0,1
+2024-08-07,2024-08-13,usa,maricruz herrera,0,5,0,1.4
+2024-08-14,2024-08-20,usa,maricruz herrera,0,1,0,1
+2024-08-21,2024-08-27,usa,maricruz final,0,1,0,41
+2024-08-21,2024-08-27,usa,maricruz herrera,0,2,0,3.5
+2024-08-28,2024-09-03,usa,maricruz herrera,0,2,0,5
+2024-09-04,2024-09-10,usa,herrera family dental,0,1,0,12
+2024-09-04,2024-09-10,usa,maricruz herrera,0,1,0,1
+2024-09-11,2024-09-17,usa,maricruz herrera,0,1,0,1
+2024-09-18,2024-09-24,usa,mari cruz latest,0,1,0,74
+2024-09-18,2024-09-24,usa,maricruz herrera,0,2,0,1
+2024-09-25,2024-10-01,usa,dr herrera tijuana,0,1,0,42
+2024-09-25,2024-10-01,usa,periodoncista carolina,0,1,0,81
+2024-10-02,2024-10-08,usa,dentistas en guadalajara,0,1,0,71
+2024-10-09,2024-10-15,usa,periodontist specialist tojuana mx,0,1,0,66
+2024-10-16,2024-10-22,usa,periodontist specialist tojuana mx,0,1,0,90
+2024-10-23,2024-10-29,usa,periodoncista en monterrey,0,1,0,40
+2024-10-23,2024-10-29,usa,periodoncista en queretaro,0,1,0,36
+2024-10-23,2024-10-29,usa,periodontist specialist tojuana mx,0,2,0,82

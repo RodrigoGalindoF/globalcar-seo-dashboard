@@ -1,0 +1,13 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,mex,ihg healthcare discount,0,1,0,67
+2024-05-08,2024-05-14,mex,ihg membership levels,0,1,0,74
+2024-05-15,2024-05-21,mex,ihg elite status,0,1,0,31
+2024-05-15,2024-05-21,mex,ihg levels,0,1,0,54
+2024-05-22,2024-05-28,mex,ihg elite status,0,1,0,57
+2024-05-22,2024-05-28,mex,ihg member benefits,0,1,0,94
+2024-05-22,2024-05-28,mex,ihg membership levels,0,1,0,90
+2024-05-22,2024-05-28,mex,ihg silver elite benefits,0,1,0,30
+2024-05-29,2024-06-04,mex,ihg elite status,0,3,0,59.333333333333336
+2024-05-29,2024-06-04,mex,ihg membership levels,0,2,0,82
+2024-05-29,2024-06-04,mex,ihg reward levels,0,1,0,75
+2024-06-05,2024-06-11,mex,ihg status levels,0,1,0,49

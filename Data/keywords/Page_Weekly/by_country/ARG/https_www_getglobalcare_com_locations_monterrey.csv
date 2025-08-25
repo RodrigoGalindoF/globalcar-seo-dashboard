@@ -1,0 +1,32 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,arg,all on four monterrey,0,1,0,34
+2024-05-08,2024-05-14,arg,all on 4 monterrey mexico,0,1,0,33
+2024-05-15,2024-05-21,arg,dental treatment in monterrey,0,2,0,14
+2024-05-22,2024-05-28,arg,all on 4 monterrey mexico,0,1,0,24
+2024-05-22,2024-05-28,arg,veneers in monterrey,0,1,0,34
+2024-05-29,2024-06-04,arg,porcelain veneers monterrey mexico,0,1,0,33
+2024-06-05,2024-06-11,arg,all on 4 monterrey mexico,0,1,0,60
+2024-06-05,2024-06-11,arg,dental implants monterrey,0,1,0,42
+2024-06-12,2024-06-18,arg,all on 4 monterrey mexico,0,1,0,44
+2024-06-12,2024-06-18,arg,porcelain veneers monterrey mexico,0,1,0,29
+2024-06-19,2024-06-25,arg,all on 4 monterrey mexico,0,1,0,40
+2024-06-19,2024-06-25,arg,all on four monterrey,0,1,0,26
+2024-06-19,2024-06-25,arg,veneers in monterrey,0,1,0,24
+2024-06-26,2024-07-02,arg,all on 4 monterrey mexico,0,1,0,44
+2024-06-26,2024-07-02,arg,porcelain veneers monterrey mexico,0,1,0,28
+2024-07-03,2024-07-09,arg,dentist in monterrey,0,1,0,32
+2024-07-03,2024-07-09,arg,porcelain veneers monterrey mexico,0,1,0,34
+2024-07-10,2024-07-16,arg,porcelain veneers monterrey mexico,0,1,0,38
+2024-07-17,2024-07-23,arg,all on 4 monterrey mexico,0,1,0,61
+2024-07-24,2024-07-30,arg,all on four monterrey,0,1,0,51
+2024-07-31,2024-08-06,arg,all on four monterrey,0,1,0,55
+2024-07-31,2024-08-06,arg,dental implants monterrey,0,1,0,78
+2024-08-07,2024-08-13,arg,all on four monterrey,0,1,0,54
+2024-08-07,2024-08-13,arg,dental implants monterrey,0,1,0,83
+2024-08-07,2024-08-13,arg,dentist in monterrey,0,1,0,93
+2024-08-14,2024-08-20,arg,all on four monterrey,0,1,0,66
+2024-08-21,2024-08-27,arg,all on four monterrey mexico,0,1,0,60
+2024-08-28,2024-09-03,arg,dentist in monterrey,0,1,0,95
+2024-09-04,2024-09-10,arg,all on four monterrey,0,1,0,34
+2024-09-11,2024-09-17,arg,porcelain veneers monterrey mexico,0,1,0,33
+2024-09-18,2024-09-24,arg,dental clinic monterrey,0,1,0,33

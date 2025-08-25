@@ -1,0 +1,463 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,usa,dental clinic in puerto vallarta,0,1,0,56
+2024-05-01,2024-05-07,usa,dental implants in puerto vallarta mexico,0,1,0,60
+2024-05-01,2024-05-07,usa,dental implants puerto vallarta,0,1,0,55
+2024-05-01,2024-05-07,usa,dentists puerto vallarta,0,1,0,74
+2024-05-01,2024-05-07,usa,english-speaking dentists in puerto vallarta,0,3,0,40.666666666666664
+2024-05-01,2024-05-07,usa,puerto vallarta dentists,0,1,0,90
+2024-05-08,2024-05-14,usa,english-speaking dentists in puerto vallarta,0,1,0,55
+2024-05-15,2024-05-21,usa,dental implants in puerto vallarta,0,1,0,89
+2024-05-15,2024-05-21,usa,dental vacation puerto vallarta,0,1,0,67
+2024-05-15,2024-05-21,usa,english-speaking dentists in puerto vallarta,0,3,0,50
+2024-05-22,2024-05-28,usa,dental care puerto vallarta,0,1,0,46
+2024-05-22,2024-05-28,usa,dental implants puerto vallarta mexico,0,1,0,67
+2024-05-22,2024-05-28,usa,dental services in puerto vallarta,0,1,0,62
+2024-05-22,2024-05-28,usa,dental vacation puerto vallarta,0,1,0,68
+2024-05-22,2024-05-28,usa,dentist in puerto vallarta,0,1,0,82
+2024-05-22,2024-05-28,usa,dentist puerto vallarta,0,1,0,89
+2024-05-22,2024-05-28,usa,dentists in puerto vallarta,0,2,0,82.5
+2024-05-22,2024-05-28,usa,dentists puerto vallarta,0,1,0,62
+2024-05-22,2024-05-28,usa,english-speaking dentists in puerto vallarta,0,1,0,46
+2024-05-22,2024-05-28,usa,puerto vallarta dentist,0,1,0,86
+2024-05-22,2024-05-28,usa,puerto vallarta dentists,0,2,0,80
+2024-05-29,2024-06-04,usa,dental implants in puerto vallarta,0,2,0,72.5
+2024-05-29,2024-06-04,usa,dental implants puerto vallarta,0,2,0,73.5
+2024-05-29,2024-06-04,usa,dental vacation puerto vallarta,0,2,0,70
+2024-05-29,2024-06-04,usa,puerto vallarta dental,0,2,0,57.5
+2024-05-29,2024-06-04,usa,puerto vallarta veneers,0,1,0,48
+2024-05-29,2024-06-04,usa,veneers in puerto vallarta,0,1,0,58
+2024-06-05,2024-06-11,usa,best dentist in puerto vallarta,0,1,0,59
+2024-06-05,2024-06-11,usa,dental clinic puerto vallarta,0,1,0,48
+2024-06-05,2024-06-11,usa,dental implants in puerto vallarta,0,1,0,80
+2024-06-05,2024-06-11,usa,dental implants puerto vallarta mexico,0,1,0,78
+2024-06-05,2024-06-11,usa,dental vacation puerto vallarta,0,1,0,52
+2024-06-05,2024-06-11,usa,dentist in puerto vallarta,0,1,0,82
+2024-06-05,2024-06-11,usa,dentist puerto vallarta,0,2,0,84.5
+2024-06-05,2024-06-11,usa,puerto vallarta dental tourism,0,1,0,46
+2024-06-12,2024-06-18,usa,best dentist in puerto vallarta,0,1,0,59
+2024-06-12,2024-06-18,usa,dental implants puerto vallarta mexico,0,1,0,78
+2024-06-12,2024-06-18,usa,dental puerto vallarta,0,1,0,72
+2024-06-12,2024-06-18,usa,dentists in puerto vallarta,0,2,0,84
+2024-06-12,2024-06-18,usa,english-speaking dentists in puerto vallarta,0,1,0,51
+2024-06-19,2024-06-25,usa,dental express puerto vallarta,0,1,0,38
+2024-06-19,2024-06-25,usa,dental implants puerto vallarta,0,2,0,68.5
+2024-06-19,2024-06-25,usa,english-speaking dentists in puerto vallarta,0,3,0,41.666666666666664
+2024-06-19,2024-06-25,usa,puerto vallarta dental,0,2,0,56
+2024-06-19,2024-06-25,usa,puerto vallarta dentist,0,1,0,78
+2024-06-26,2024-07-02,usa,dentists in puerto vallarta,0,1,0,80
+2024-06-26,2024-07-02,usa,english-speaking dentists in puerto vallarta,0,1,0,40
+2024-06-26,2024-07-02,usa,puerto vallarta dentists,0,1,0,80
+2024-07-03,2024-07-09,usa,dental implants in puerto vallarta,0,1,0,45
+2024-07-03,2024-07-09,usa,dental implants puerto vallarta,0,1,0,91
+2024-07-03,2024-07-09,usa,dental services in puerto vallarta,0,1,0,56
+2024-07-03,2024-07-09,usa,dental supply puerto vallarta,0,1,0,36
+2024-07-03,2024-07-09,usa,dentists in puerto vallarta,0,2,0,75
+2024-07-03,2024-07-09,usa,english-speaking dentists in puerto vallarta,0,1,0,37
+2024-07-10,2024-07-16,usa,dental implants in puerto vallarta,0,1,0,38
+2024-07-10,2024-07-16,usa,dental implants puerto vallarta,0,1,0,90
+2024-07-10,2024-07-16,usa,dental vacation puerto vallarta,0,1,0,53
+2024-07-10,2024-07-16,usa,dentists in puerto vallarta,0,3,0,70
+2024-07-10,2024-07-16,usa,english-speaking dentists in puerto vallarta,0,1,0,29
+2024-07-10,2024-07-16,usa,puerto vallarta dental implants,0,1,0,47
+2024-07-17,2024-07-23,usa,best cosmetic dentist in puerto vallarta,0,1,0,64
+2024-07-17,2024-07-23,usa,best dentist in puerto vallarta,0,1,0,57
+2024-07-17,2024-07-23,usa,dental clinic in puerto vallarta,0,1,0,64
+2024-07-17,2024-07-23,usa,dental clinic puerto vallarta,0,1,0,40
+2024-07-17,2024-07-23,usa,dental services in puerto vallarta,0,1,0,47
+2024-07-17,2024-07-23,usa,dental solutions puerto vallarta,0,1,0,75
+2024-07-17,2024-07-23,usa,dental solutions pureto vallarta,0,1,0,74
+2024-07-17,2024-07-23,usa,dental vacation puerto vallarta,0,2,0,53.5
+2024-07-17,2024-07-23,usa,dentists in puerto vallarta,0,2,0,70
+2024-07-17,2024-07-23,usa,english-speaking dentists in puerto vallarta,0,1,0,40
+2024-07-17,2024-07-23,usa,invisalign puerto vallarta,0,1,0,76
+2024-07-17,2024-07-23,usa,puerto vallarta dental,0,3,0,67.33333333333333
+2024-07-17,2024-07-23,usa,puerto vallarta dental tourism,0,1,0,49
+2024-07-17,2024-07-23,usa,puerto vallarta dentist,0,1,0,78
+2024-07-17,2024-07-23,usa,puerto vallarta dentist prices,0,1,0,31
+2024-07-17,2024-07-23,usa,teeth whitening puerto vallarta,0,2,0,91.5
+2024-07-17,2024-07-23,usa,veneers in puerto vallarta,0,1,0,52
+2024-07-24,2024-07-30,usa,best dentist in puerto vallarta,0,1,0,59
+2024-07-24,2024-07-30,usa,dental implants in puerto vallarta,0,1,0,101
+2024-07-24,2024-07-30,usa,dental life puerto vallarta,0,2,0,59.5
+2024-07-24,2024-07-30,usa,dental vacation puerto vallarta,0,2,0,56.5
+2024-07-24,2024-07-30,usa,dentist puerto vallarta,0,1,0,82
+2024-07-24,2024-07-30,usa,dentista en puerto vallarta,0,1,0,59
+2024-07-24,2024-07-30,usa,english-speaking dentists in puerto vallarta,0,1,0,41
+2024-07-31,2024-08-06,usa,beachside dental clinic,0,1,0,68
+2024-07-31,2024-08-06,usa,dental implants puerto vallarta,0,1,0,74
+2024-07-31,2024-08-06,usa,dental services in puerto vallarta,0,1,0,56
+2024-07-31,2024-08-06,usa,dental solutions puerto vallarta,0,2,0,87
+2024-07-31,2024-08-06,usa,dental vacation puerto vallarta,0,1,0,58
+2024-07-31,2024-08-06,usa,dentist in puerto vallarta,0,1,0,76
+2024-07-31,2024-08-06,usa,dentists in puerto vallarta,0,2,0,78.5
+2024-07-31,2024-08-06,usa,dentists puerto vallarta,0,1,0,48
+2024-07-31,2024-08-06,usa,english-speaking dentists in puerto vallarta,0,1,0,43
+2024-07-31,2024-08-06,usa,puerto vallarta dental,0,3,0,77
+2024-07-31,2024-08-06,usa,puerto vallarta dentist,0,2,0,61.5
+2024-07-31,2024-08-06,usa,puerto vallarta dentists,0,1,0,76
+2024-08-07,2024-08-13,usa,best dentist in puerto vallarta,0,2,0,57.5
+2024-08-07,2024-08-13,usa,dental clinic in puerto vallarta,0,2,0,61
+2024-08-07,2024-08-13,usa,dental implants puerto vallarta,0,4,0,76
+2024-08-07,2024-08-13,usa,dental puerto vallarta,0,2,0,80
+2024-08-07,2024-08-13,usa,dental services in puerto vallarta,0,3,0,45.666666666666664
+2024-08-07,2024-08-13,usa,dentist in puerto vallarta,0,1,0,72
+2024-08-07,2024-08-13,usa,dentists in puerto vallarta,0,1,0,69
+2024-08-07,2024-08-13,usa,english-speaking dentists in puerto vallarta,0,1,0,45
+2024-08-07,2024-08-13,usa,puerto vallarta dental tourism,0,1,0,47
+2024-08-07,2024-08-13,usa,puerto vallarta dentist,0,1,0,72
+2024-08-07,2024-08-13,usa,vallarta dental,0,1,0,72
+2024-08-14,2024-08-20,usa,best dentist in puerto vallarta,0,2,0,53.5
+2024-08-14,2024-08-20,usa,dental care puerto vallarta,0,1,0,43
+2024-08-14,2024-08-20,usa,dental clinic puerto vallarta,0,1,0,51
+2024-08-14,2024-08-20,usa,dental implants in puerto vallarta,0,1,0,81
+2024-08-14,2024-08-20,usa,dental implants puerto vallarta,0,1,0,75
+2024-08-14,2024-08-20,usa,dental services in puerto vallarta,0,1,0,47
+2024-08-14,2024-08-20,usa,dentist in puerto vallarta,0,1,0,71
+2024-08-14,2024-08-20,usa,dentist puerto vallarta,0,3,0,67
+2024-08-14,2024-08-20,usa,dentists in puerto vallarta,0,3,0,70.66666666666667
+2024-08-14,2024-08-20,usa,dentists puerto vallarta,0,1,0,73
+2024-08-14,2024-08-20,usa,doctors in puerto vallarta,0,1,0,48
+2024-08-14,2024-08-20,usa,english-speaking dentists in puerto vallarta,0,1,0,39
+2024-08-14,2024-08-20,usa,puerto vallarta dental,0,1,0,67
+2024-08-14,2024-08-20,usa,puerto vallarta dentist,0,1,0,74
+2024-08-14,2024-08-20,usa,puerto vallarta dentists,0,1,0,68
+2024-08-14,2024-08-20,usa,veneers in puerto vallarta,0,1,0,51
+2024-08-21,2024-08-27,usa,best dentist in puerto vallarta,0,1,0,59
+2024-08-21,2024-08-27,usa,dental care puerto vallarta,0,2,0,45
+2024-08-21,2024-08-27,usa,dental implants in puerto vallarta,0,2,0,76.5
+2024-08-21,2024-08-27,usa,dental implants puerto vallarta,0,3,0,72.33333333333333
+2024-08-21,2024-08-27,usa,dental puerto vallarta,0,1,0,72
+2024-08-21,2024-08-27,usa,dental services in puerto vallarta,0,1,0,52
+2024-08-21,2024-08-27,usa,dental vacation puerto vallarta,0,1,0,60
+2024-08-21,2024-08-27,usa,dentist puerto vallarta,0,1,0,74
+2024-08-21,2024-08-27,usa,dentists in puerto vallarta,0,2,0,73
+2024-08-21,2024-08-27,usa,puerto vallarta dental implants,0,1,0,94
+2024-08-21,2024-08-27,usa,puerto vallarta dental tourism,0,1,0,52
+2024-08-21,2024-08-27,usa,puerto vallarta dentist prices,0,1,0,62
+2024-08-28,2024-09-03,usa,beachside dental clinic,0,1,0,68
+2024-08-28,2024-09-03,usa,dental care puerto vallarta,0,1,0,52
+2024-08-28,2024-09-03,usa,dental clinic puerto vallarta,0,1,0,61
+2024-08-28,2024-09-03,usa,dental implants puerto vallarta,0,2,0,78
+2024-08-28,2024-09-03,usa,dental services in puerto vallarta,0,2,0,63.5
+2024-08-28,2024-09-03,usa,dentist in puerto vallarta,0,1,0,81
+2024-08-28,2024-09-03,usa,dentist puerto vallarta,0,2,0,68
+2024-08-28,2024-09-03,usa,dentist puerto vallarta mexico,0,1,0,68
+2024-08-28,2024-09-03,usa,dentists in puerto vallarta,0,2,0,77.5
+2024-08-28,2024-09-03,usa,dentists puerto vallarta,0,1,0,81
+2024-08-28,2024-09-03,usa,puerto vallarta dentists,0,1,0,82
+2024-09-04,2024-09-10,usa,beachside dental clinic,0,2,0,63.5
+2024-09-04,2024-09-10,usa,dental care puerto vallarta,0,1,0,45
+2024-09-04,2024-09-10,usa,dental implants puerto vallarta,0,4,0,74.75
+2024-09-04,2024-09-10,usa,dental puerto vallarta,0,1,0,66
+2024-09-04,2024-09-10,usa,dentist in puerto vallarta,0,1,0,66
+2024-09-04,2024-09-10,usa,dentists in puerto vallarta,0,1,0,67
+2024-09-04,2024-09-10,usa,dentists in puerto vallarta mexico,0,2,0,62.5
+2024-09-04,2024-09-10,usa,english-speaking dentists in puerto vallarta,0,2,0,40.5
+2024-09-04,2024-09-10,usa,puerto vallarta dental,0,1,0,58
+2024-09-04,2024-09-10,usa,puerto vallarta dental tourism,0,3,0,59.333333333333336
+2024-09-04,2024-09-10,usa,puerto vallarta dentist,0,2,0,67
+2024-09-04,2024-09-10,usa,vallarta dental,0,1,0,73
+2024-09-11,2024-09-17,usa,beachside dental clinic,0,1,0,80
+2024-09-11,2024-09-17,usa,best dentist in puerto vallarta,0,2,0,57
+2024-09-11,2024-09-17,usa,dental implants in puerto vallarta,0,1,0,55
+2024-09-11,2024-09-17,usa,dental implants puerto vallarta,0,5,0,67.4
+2024-09-11,2024-09-17,usa,dental puerto vallarta,0,1,0,59
+2024-09-11,2024-09-17,usa,dental vacation puerto vallarta,0,3,0,57.333333333333336
+2024-09-11,2024-09-17,usa,dentist in puerto vallarta,0,1,0,82
+2024-09-11,2024-09-17,usa,dentist puerto vallarta,0,1,0,83
+2024-09-11,2024-09-17,usa,dentist puerto vallarta mexico,0,2,0,77
+2024-09-11,2024-09-17,usa,dentists in puerto vallarta,0,1,0,81
+2024-09-11,2024-09-17,usa,dentists in puerto vallarta mexico,0,3,0,68.66666666666667
+2024-09-11,2024-09-17,usa,english-speaking dentists in puerto vallarta,0,1,0,42
+2024-09-11,2024-09-17,usa,puerto vallarta dentists,0,1,0,71
+2024-09-18,2024-09-24,usa,beachside dental clinic,0,1,0,71
+2024-09-18,2024-09-24,usa,best dentist in puerto vallarta,0,1,0,22
+2024-09-18,2024-09-24,usa,cosmetic dentis in puerto vallarta,0,2,0,78
+2024-09-18,2024-09-24,usa,dental implants in puerto vallarta,0,2,0,45.5
+2024-09-18,2024-09-24,usa,dental implants puerto vallarta,0,4,0,51.75
+2024-09-18,2024-09-24,usa,dental services in puerto vallarta,0,1,0,34
+2024-09-18,2024-09-24,usa,dental vacation puerto vallarta,0,2,0,51.5
+2024-09-18,2024-09-24,usa,dentist in puerto vallarta,0,1,0,26
+2024-09-18,2024-09-24,usa,dentists in puerto vallarta,0,1,0,56
+2024-09-18,2024-09-24,usa,puerto vallarta dental,0,2,0,59
+2024-09-18,2024-09-24,usa,puerto vallarta dental implants,0,1,0,66
+2024-09-18,2024-09-24,usa,puerto vallarta dentist,0,2,0,80.5
+2024-09-25,2024-10-01,usa,cosmetic dentis in puerto vallarta,0,1,0,60
+2024-09-25,2024-10-01,usa,dental clinic puerto vallarta,0,2,0,9.5
+2024-09-25,2024-10-01,usa,dental implants in puerto vallarta,0,2,0,28.5
+2024-09-25,2024-10-01,usa,dental implants puerto vallarta,0,3,0,47
+2024-09-25,2024-10-01,usa,dental puerto vallarta,0,1,0,29
+2024-09-25,2024-10-01,usa,dental solutions pureto vallarta,0,1,0,49
+2024-09-25,2024-10-01,usa,dental vacation puerto vallarta,0,2,0,44
+2024-09-25,2024-10-01,usa,dentist puerto vallarta,0,1,0,76
+2024-09-25,2024-10-01,usa,dentists in puerto vallarta,0,1,0,14
+2024-09-25,2024-10-01,usa,dentists puerto vallarta,0,1,0,15
+2024-09-25,2024-10-01,usa,puerto vallarta dental implants,0,3,0,50
+2024-09-25,2024-10-01,usa,puerto vallarta dentist,0,1,0,24
+2024-09-25,2024-10-01,usa,puerto vallarta dentist prices,0,3,0,35
+2024-09-25,2024-10-01,usa,puerto vallarta dentists,0,1,0,21
+2024-09-25,2024-10-01,usa,puerto vallarta veneers,0,1,0,44
+2024-09-25,2024-10-01,usa,teeth whitening in puerto vallarta,0,1,0,32
+2024-10-02,2024-10-08,usa,puerto vallarta dentist,1,1,1,18
+2024-10-02,2024-10-08,usa,beachside dental clinic,0,1,0,61
+2024-10-02,2024-10-08,usa,dental clinic in puerto vallarta,0,1,0,39
+2024-10-02,2024-10-08,usa,dental clinic puerto vallarta,0,1,0,12
+2024-10-02,2024-10-08,usa,dental implants in puerto vallarta,0,1,0,29
+2024-10-02,2024-10-08,usa,dental implants puerto vallarta,0,4,0,46.25
+2024-10-02,2024-10-08,usa,dental puerto vallarta,0,1,0,30
+2024-10-02,2024-10-08,usa,dental services in puerto vallarta,0,1,0,28
+2024-10-02,2024-10-08,usa,dental tourism puerto vallarta,0,1,0,35
+2024-10-02,2024-10-08,usa,dental vacation puerto vallarta,0,2,0,27.5
+2024-10-02,2024-10-08,usa,dentist in puerto vallarta,0,1,0,22
+2024-10-02,2024-10-08,usa,dentist in puerto vallarta mexico,0,1,0,25
+2024-10-02,2024-10-08,usa,dentists in puerto vallarta,0,1,0,21
+2024-10-02,2024-10-08,usa,dentists in puerto vallarta mexico,0,2,0,25.5
+2024-10-02,2024-10-08,usa,dentists puerto vallarta,0,1,0,17
+2024-10-02,2024-10-08,usa,puerto vallarta dental,0,1,0,33
+2024-10-02,2024-10-08,usa,puerto vallarta dental implants,0,1,0,49
+2024-10-02,2024-10-08,usa,puerto vallarta dental tourism,0,1,0,33
+2024-10-02,2024-10-08,usa,puerto vallarta dentist prices,0,2,0,31.5
+2024-10-02,2024-10-08,usa,puerto vallarta dentists,0,2,0,19.5
+2024-10-09,2024-10-15,usa,beachside dental clinic,0,1,0,60
+2024-10-09,2024-10-15,usa,dental care puerto vallarta,0,1,0,17
+2024-10-09,2024-10-15,usa,dental clinic puerto vallarta,0,3,0,7.333333333333333
+2024-10-09,2024-10-15,usa,dental express puerto vallarta,0,1,0,39
+2024-10-09,2024-10-15,usa,dental implants puerto vallarta,0,1,0,69
+2024-10-09,2024-10-15,usa,dentist in puerto vallarta mexico,0,1,0,12
+2024-10-09,2024-10-15,usa,dentists in puerto vallarta,0,2,0,44.5
+2024-10-09,2024-10-15,usa,dentists puerto vallarta,0,1,0,39
+2024-10-09,2024-10-15,usa,english-speaking dentists in puerto vallarta,0,2,0,23
+2024-10-09,2024-10-15,usa,puerto vallarta dental implants,0,1,0,43
+2024-10-09,2024-10-15,usa,puerto vallarta dental tourism,0,2,0,13
+2024-10-09,2024-10-15,usa,puerto vallarta dentist,0,1,0,72
+2024-10-09,2024-10-15,usa,veneers in puerto vallarta,0,1,0,49
+2024-10-16,2024-10-22,usa,beachside dental clinic,0,1,0,64
+2024-10-16,2024-10-22,usa,best dentist in puerto vallarta,0,1,0,71
+2024-10-16,2024-10-22,usa,cosmetic dentis in puerto vallarta,0,2,0,81.5
+2024-10-16,2024-10-22,usa,dental implants in puerto vallarta,0,4,0,49.5
+2024-10-16,2024-10-22,usa,dental implants puerto vallarta,0,2,0,66.5
+2024-10-16,2024-10-22,usa,dental puerto vallarta,0,2,0,36
+2024-10-16,2024-10-22,usa,dental services in puerto vallarta,0,1,0,45
+2024-10-16,2024-10-22,usa,dental solutions puerto vallarta,0,1,0,62
+2024-10-16,2024-10-22,usa,dentist in puerto vallarta,0,2,0,55
+2024-10-16,2024-10-22,usa,dentist puerto vallarta mexico,0,1,0,64
+2024-10-16,2024-10-22,usa,dentists in puerto vallarta mexico,0,2,0,49.5
+2024-10-16,2024-10-22,usa,english-speaking dentists in puerto vallarta,0,2,0,26.5
+2024-10-16,2024-10-22,usa,puerto vallarta dentist,0,1,0,55
+2024-10-16,2024-10-22,usa,teeth whitening in puerto vallarta,0,2,0,42
+2024-10-16,2024-10-22,usa,teeth whitening puerto vallarta,0,1,0,87
+2024-10-23,2024-10-29,usa,dental implants in puerto vallarta,0,1,0,73
+2024-10-23,2024-10-29,usa,dental implants puerto vallarta,0,1,0,73
+2024-10-23,2024-10-29,usa,dental puerto vallarta,0,1,0,49
+2024-10-23,2024-10-29,usa,dentist in puerto vallarta,0,2,0,55.5
+2024-10-23,2024-10-29,usa,dentist puerto vallarta,0,2,0,76.5
+2024-10-23,2024-10-29,usa,dentist puerto vallarta mexico,0,1,0,61
+2024-10-23,2024-10-29,usa,dentists in puerto vallarta,0,3,0,60.333333333333336
+2024-10-23,2024-10-29,usa,puerto vallarta dentist,0,1,0,87
+2024-10-23,2024-10-29,usa,puerto vallarta dentists,0,3,0,71
+2024-10-30,2024-11-05,usa,beachside dental clinic,0,1,0,65
+2024-10-30,2024-11-05,usa,cosmetic dentis in puerto vallarta,0,1,0,90
+2024-10-30,2024-11-05,usa,dental clinic in puerto vallarta,0,1,0,58
+2024-10-30,2024-11-05,usa,dental implants puerto vallarta,0,2,0,59.5
+2024-10-30,2024-11-05,usa,dental services in puerto vallarta,0,1,0,48
+2024-10-30,2024-11-05,usa,dental vacation puerto vallarta,0,2,0,28
+2024-10-30,2024-11-05,usa,dentist in puerto vallarta mexico,0,1,0,69
+2024-10-30,2024-11-05,usa,dentist puerto vallarta,0,1,0,48
+2024-10-30,2024-11-05,usa,english-speaking dentists in puerto vallarta,0,2,0,33
+2024-10-30,2024-11-05,usa,puerto vallarta dentist prices,0,2,0,40
+2024-10-30,2024-11-05,usa,teeth whitening puerto vallarta,0,1,0,88
+2024-11-06,2024-11-12,usa,cosmetic dentis in puerto vallarta,0,4,0,76
+2024-11-06,2024-11-12,usa,dental clinic in puerto vallarta,0,2,0,51
+2024-11-06,2024-11-12,usa,dental clinic puerto vallarta,0,2,0,14
+2024-11-06,2024-11-12,usa,dental implants in puerto vallarta,0,2,0,38.5
+2024-11-06,2024-11-12,usa,dental implants puerto vallarta,0,1,0,67
+2024-11-06,2024-11-12,usa,dental puerto vallarta,0,1,0,12
+2024-11-06,2024-11-12,usa,dental services in puerto vallarta,0,1,0,29
+2024-11-06,2024-11-12,usa,dentist in puerto vallarta,0,1,0,30
+2024-11-06,2024-11-12,usa,dentists puerto vallarta,0,1,0,34
+2024-11-06,2024-11-12,usa,english-speaking dentists in puerto vallarta,0,1,0,27
+2024-11-06,2024-11-12,usa,health clinics in puerto vallarta,0,2,0,64
+2024-11-06,2024-11-12,usa,puerto vallarta dental implants,0,1,0,38
+2024-11-06,2024-11-12,usa,puerto vallarta dental tourism,0,1,0,11
+2024-11-06,2024-11-12,usa,puerto vallarta dentist,0,1,0,32
+2024-11-06,2024-11-12,usa,puerto vallarta dentist prices,0,4,0,38
+2024-11-06,2024-11-12,usa,puerto vallarta dentists,0,1,0,38
+2024-11-13,2024-11-19,usa,affordable dental care mexico,0,2,0,69
+2024-11-13,2024-11-19,usa,beachside dental clinic,0,1,0,64
+2024-11-13,2024-11-19,usa,best dentist in puerto vallarta,0,1,0,39
+2024-11-13,2024-11-19,usa,dental care puerto vallarta,0,1,0,27
+2024-11-13,2024-11-19,usa,dental clinic in puerto vallarta,0,1,0,46
+2024-11-13,2024-11-19,usa,dental implants in puerto vallarta,0,1,0,33
+2024-11-13,2024-11-19,usa,dental puerto vallarta,0,1,0,26
+2024-11-13,2024-11-19,usa,dental services in puerto vallarta,0,1,0,23
+2024-11-13,2024-11-19,usa,dental solutions pureto vallarta,0,3,0,62.666666666666664
+2024-11-13,2024-11-19,usa,dentist puerto vallarta,0,1,0,30
+2024-11-13,2024-11-19,usa,dentists in puerto vallarta,0,1,0,33
+2024-11-13,2024-11-19,usa,english-speaking dentists in puerto vallarta,0,2,0,24.5
+2024-11-13,2024-11-19,usa,puerto vallarta dental,0,1,0,18
+2024-11-13,2024-11-19,usa,puerto vallarta dental implants,0,2,0,40.5
+2024-11-13,2024-11-19,usa,puerto vallarta dental tourism,0,1,0,13
+2024-11-13,2024-11-19,usa,puerto vallarta dentist,0,2,0,40
+2024-11-13,2024-11-19,usa,puerto vallarta dentist prices,0,2,0,38
+2024-11-13,2024-11-19,usa,teeth whitening puerto vallarta,0,1,0,53
+2024-11-20,2024-11-26,usa,dental implants puerto vallarta,0,1,0,64
+2024-11-20,2024-11-26,usa,dental services in puerto vallarta,0,1,0,45
+2024-11-20,2024-11-26,usa,dentist puerto vallarta mexico,0,1,0,59
+2024-11-20,2024-11-26,usa,english-speaking dentists in puerto vallarta,0,2,0,40.5
+2024-11-20,2024-11-26,usa,puerto vallarta dental implants,0,1,0,72
+2024-11-20,2024-11-26,usa,puerto vallarta trips flight included,0,1,0,1
+2024-11-27,2024-12-03,usa,dental implants puerto vallarta,0,2,0,53.5
+2024-11-27,2024-12-03,usa,dental services in puerto vallarta,0,2,0,42
+2024-11-27,2024-12-03,usa,dental vacation puerto vallarta,0,1,0,48
+2024-11-27,2024-12-03,usa,dentist puerto vallarta,0,1,0,69
+2024-11-27,2024-12-03,usa,english-speaking dentists in puerto vallarta,0,1,0,46
+2024-11-27,2024-12-03,usa,health clinics in puerto vallarta,0,1,0,64
+2024-11-27,2024-12-03,usa,puerto vallarta dentists,0,1,0,74
+2024-12-04,2024-12-10,usa,dental tourism puerto vallarta,0,1,0,28
+2024-12-04,2024-12-10,usa,dental vacation puerto vallarta,0,1,0,45
+2024-12-04,2024-12-10,usa,dentists in puerto vallarta mexico,0,1,0,44
+2024-12-04,2024-12-10,usa,english-speaking dentists in puerto vallarta,0,2,0,36.5
+2024-12-04,2024-12-10,usa,health clinics in puerto vallarta,0,4,0,75.75
+2024-12-04,2024-12-10,usa,puerto vallarta dental tourism,0,3,0,26.666666666666668
+2024-12-04,2024-12-10,usa,teeth whitening puerto vallarta,0,1,0,57
+2024-12-11,2024-12-17,usa,dental services in puerto vallarta,0,1,0,44
+2024-12-11,2024-12-17,usa,dental vacation puerto vallarta,0,2,0,48
+2024-12-11,2024-12-17,usa,english-speaking dentists in puerto vallarta,0,2,0,36.5
+2024-12-11,2024-12-17,usa,health care in puerto vallarta mexico,0,2,0,98
+2024-12-11,2024-12-17,usa,health clinics in puerto vallarta,0,1,0,74
+2024-12-11,2024-12-17,usa,mapa mexico puerto vallarta,0,1,0,2
+2024-12-18,2024-12-24,usa,dental care puerto vallarta,0,1,0,42
+2024-12-18,2024-12-24,usa,dental services in puerto vallarta,0,1,0,62
+2024-12-18,2024-12-24,usa,dental vacation puerto vallarta,0,3,0,46.333333333333336
+2024-12-18,2024-12-24,usa,teeth whitening puerto vallarta,0,1,0,58
+2024-12-25,2024-12-31,usa,medical tourism puerto vallarta jal.,0,1,0,96
+2025-01-01,2025-01-07,usa,dental services in puerto vallarta,0,1,0,26
+2025-01-01,2025-01-07,usa,dentists in puerto vallarta mexico,0,1,0,62
+2025-01-01,2025-01-07,usa,medical tourism puerto vallarta jal.,0,2,0,97
+2025-01-01,2025-01-07,usa,puerto vallarta dental,0,1,0,50
+2025-01-01,2025-01-07,usa,puerto vallarta dental tourism,0,1,0,35
+2025-01-08,2025-01-14,usa,puerto vallarta dental tourism,0,1,0,48
+2025-01-15,2025-01-21,usa,dental services in puerto vallarta,0,2,0,35
+2025-01-15,2025-01-21,usa,dental tourism puerto vallarta,0,1,0,41
+2025-01-15,2025-01-21,usa,english-speaking dentists in puerto vallarta,0,1,0,37
+2025-01-15,2025-01-21,usa,puerto vallarta dental tourism,0,1,0,38
+2025-01-22,2025-01-28,usa,dental clinic in puerto vallarta,0,1,0,75
+2025-01-22,2025-01-28,usa,dental services in puerto vallarta,0,2,0,43.5
+2025-01-22,2025-01-28,usa,dental vacation puerto vallarta,0,1,0,30
+2025-01-22,2025-01-28,usa,medical tourism puerto vallarta jal.,0,1,0,96
+2025-01-29,2025-02-04,usa,dental care puerto vallarta,0,2,0,38
+2025-01-29,2025-02-04,usa,dental clinic in puerto vallarta,0,1,0,79
+2025-01-29,2025-02-04,usa,medical tourism puerto vallarta jal.,0,1,0,96
+2025-01-29,2025-02-04,usa,puerto vallarta dental tourism,0,1,0,35
+2025-02-05,2025-02-11,usa,dental cleaning puerto vallarta,0,1,0,50
+2025-02-05,2025-02-11,usa,dental clinic in puerto vallarta,0,1,0,74
+2025-02-05,2025-02-11,usa,dental services in puerto vallarta,0,2,0,19.5
+2025-02-05,2025-02-11,usa,dental vacation puerto vallarta,0,2,0,26
+2025-02-05,2025-02-11,usa,english-speaking dentists in puerto vallarta,0,1,0,37
+2025-02-05,2025-02-11,usa,medical tourism puerto vallarta jal.,0,2,0,94
+2025-02-05,2025-02-11,usa,puerto vallarta dental tourism,0,1,0,38
+2025-02-12,2025-02-18,usa,dental clinic in puerto vallarta,0,1,0,72
+2025-02-12,2025-02-18,usa,dental vacation puerto vallarta,0,1,0,21
+2025-02-12,2025-02-18,usa,english-speaking dentists in puerto vallarta,0,3,0,32
+2025-02-12,2025-02-18,usa,puerto vallarta teeth whitening,0,1,0,63
+2025-02-12,2025-02-18,usa,teeth whitening puerto vallarta,0,1,0,62
+2025-02-19,2025-02-25,usa,best dental tourism mexico,0,1,0,1
+2025-02-19,2025-02-25,usa,puerto vallarta dental,0,1,0,29
+2025-02-19,2025-02-25,usa,puerto vallarta dental tourism,0,5,0,16.4
+2025-02-26,2025-03-04,usa,dental services in puerto vallarta,0,2,0,19
+2025-02-26,2025-03-04,usa,dental vacation puerto vallarta,0,2,0,9.5
+2025-02-26,2025-03-04,usa,puerto vallarta dental implants,0,1,0,36
+2025-02-26,2025-03-04,usa,puerto vallarta dental tourism,0,4,0,9.75
+2025-02-26,2025-03-04,usa,puerto vallarta dentist prices,0,2,0,37.5
+2025-03-05,2025-03-11,usa,dental care puerto vallarta,0,1,0,19
+2025-03-05,2025-03-11,usa,dental clinic in puerto vallarta,0,1,0,53
+2025-03-05,2025-03-11,usa,dental clinic puerto vallarta,0,1,0,32
+2025-03-05,2025-03-11,usa,dental vacation puerto vallarta,0,2,0,12
+2025-03-05,2025-03-11,usa,english-speaking dentists in puerto vallarta,0,1,0,21
+2025-03-05,2025-03-11,usa,medical tourism puerto vallarta jal.,0,1,0,76
+2025-03-05,2025-03-11,usa,puerto vallarta dental tourism,0,1,0,21
+2025-03-05,2025-03-11,usa,puerto vallarta dentist prices,0,1,0,41
+2025-03-05,2025-03-11,usa,puerto vallarta letters removed,0,5,0,2
+2025-03-12,2025-03-18,usa,dental express puerto vallarta,0,1,0,15
+2025-03-12,2025-03-18,usa,english-speaking dentists in puerto vallarta,0,3,0,23
+2025-03-12,2025-03-18,usa,puerto vallarta dentist prices,0,1,0,36
+2025-03-19,2025-03-25,usa,dental services in puerto vallarta,0,3,0,18.666666666666668
+2025-03-19,2025-03-25,usa,dental vacation puerto vallarta,0,2,0,11
+2025-03-19,2025-03-25,usa,puerto vallarta,0,1,0,1
+2025-03-19,2025-03-25,usa,puerto vallarta dental,0,2,0,35
+2025-03-19,2025-03-25,usa,puerto vallarta dentist prices,0,1,0,45
+2025-03-26,2025-04-01,usa,dental services in puerto vallarta,0,1,0,19
+2025-03-26,2025-04-01,usa,dental tourism puerto vallarta,0,2,0,1
+2025-03-26,2025-04-01,usa,dental vacation puerto vallarta,0,1,0,13
+2025-03-26,2025-04-01,usa,puerto vallarta dental tourism,0,1,0,1
+2025-03-26,2025-04-01,usa,puerto vallarta dentist prices,0,4,0,47.75
+2025-04-02,2025-04-08,usa,cool things to do in puerto vallarta,0,3,0,1
+2025-04-02,2025-04-08,usa,dental services in puerto vallarta,0,3,0,30
+2025-04-02,2025-04-08,usa,dental tourism puerto vallarta,0,1,0,41
+2025-04-02,2025-04-08,usa,dental vacation puerto vallarta,0,5,0,13.2
+2025-04-02,2025-04-08,usa,english-speaking dentists in puerto vallarta,0,1,0,34
+2025-04-02,2025-04-08,usa,puerto vallarta dental tourism,0,2,0,47.5
+2025-04-02,2025-04-08,usa,puerto vallarta dentist prices,0,4,0,48
+2025-04-09,2025-04-15,usa,dental vacation puerto vallarta,0,2,0,17.5
+2025-04-09,2025-04-15,usa,english-speaking dentists in puerto vallarta,0,1,0,33
+2025-04-16,2025-04-22,usa,dental vacation puerto vallarta,0,3,0,20.666666666666668
+2025-04-16,2025-04-22,usa,dental work in puerto vallarta,0,1,0,25
+2025-04-16,2025-04-22,usa,english-speaking dentists in puerto vallarta,0,1,0,30
+2025-04-16,2025-04-22,usa,puerto vallarta dental,0,3,0,59.333333333333336
+2025-04-16,2025-04-22,usa,puerto vallarta dental tourism,0,4,0,46.5
+2025-04-16,2025-04-22,usa,puerto vallarta dentist prices,0,9,0,51.22222222222222
+2025-04-16,2025-04-22,usa,puerto vallarta weather in september,0,1,0,1
+2025-04-16,2025-04-22,usa,where to go in mexico in september,0,1,0,1
+2025-04-23,2025-04-29,usa,dental care puerto vallarta,0,1,0,33
+2025-04-23,2025-04-29,usa,dental services in puerto vallarta,0,1,0,26
+2025-04-23,2025-04-29,usa,dental vacation puerto vallarta,0,2,0,21
+2025-04-23,2025-04-29,usa,puerto vallarta dental clinic,0,1,0,53
+2025-04-23,2025-04-29,usa,puerto vallarta dentist prices,0,6,0,52.5
+2025-04-23,2025-04-29,usa,puerto vallarta jobs,0,1,0,1
+2025-04-30,2025-05-06,usa,dental care puerto vallarta,0,1,0,31
+2025-04-30,2025-05-06,usa,dental services in puerto vallarta,0,1,0,27
+2025-04-30,2025-05-06,usa,dental vacation puerto vallarta,0,2,0,15.5
+2025-04-30,2025-05-06,usa,hidden gems puerto vallarta,0,2,0,1
+2025-04-30,2025-05-06,usa,puerto vallarta dental tourism,0,1,0,38
+2025-04-30,2025-05-06,usa,puerto vallarta weather in september,0,1,0,1
+2025-04-30,2025-05-06,usa,weather in puerto vallarta in september,0,1,0,1
+2025-05-07,2025-05-13,usa,dental services in puerto vallarta,0,1,0,27
+2025-05-07,2025-05-13,usa,puerto vallarta dental tourism,0,2,0,24
+2025-05-07,2025-05-13,usa,puerto vallarta dentist prices,0,4,0,53.75
+2025-05-07,2025-05-13,usa,puerto vallarta medical tourism,0,1,0,1
+2025-05-14,2025-05-20,usa,dental services in puerto vallarta,0,2,0,46.5
+2025-05-14,2025-05-20,usa,puerto vallarta dental tourism,0,1,0,34
+2025-05-21,2025-05-27,usa,dental vacation puerto vallarta,0,1,0,24
+2025-05-21,2025-05-27,usa,jobs for americans in puerto vallarta,0,3,0,1
+2025-05-21,2025-05-27,usa,puerto vallarta dental implants,0,1,0,60
+2025-05-21,2025-05-27,usa,torre coralia,0,1,0,6
+2025-05-21,2025-05-27,usa,where to stay in puerto vallarta,0,9,0,1
+2025-05-28,2025-06-03,usa,dental tourism puerto vallarta,0,1,0,26
+2025-05-28,2025-06-03,usa,puerto vallarta dental,0,1,0,61
+2025-05-28,2025-06-03,usa,puerto vallarta dental implants,0,1,0,58
+2025-05-28,2025-06-03,usa,puerto vallarta dental tourism,0,1,0,23
+2025-05-28,2025-06-03,usa,puerto vallarta dentist prices,0,9,0,53
+2025-06-04,2025-06-10,usa,is puerto vallarta safe from cartels,0,1,0,1
+2025-06-04,2025-06-10,usa,puerto vallarta dental,0,2,0,56
+2025-06-04,2025-06-10,usa,puerto vallarta dental tourism,0,2,0,24.5
+2025-06-04,2025-06-10,usa,puerto vallarta dentist prices,0,10,0,51.2
+2025-06-11,2025-06-17,usa,dental care puerto vallarta,0,2,0,73
+2025-06-11,2025-06-17,usa,dental services in puerto vallarta,0,1,0,71
+2025-06-11,2025-06-17,usa,dentist in puerto vallarta,0,1,0,72
+2025-06-11,2025-06-17,usa,dentists in puerto vallarta,0,1,0,70
+2025-06-11,2025-06-17,usa,is puerto vallarta safe from cartels,0,1,0,1
+2025-06-11,2025-06-17,usa,puerto vallarta dentist,0,1,0,75
+2025-06-18,2025-06-24,usa,best dentist in puerto vallarta,0,1,0,64
+2025-06-18,2025-06-24,usa,dental care puerto vallarta,0,1,0,83
+2025-06-18,2025-06-24,usa,dental implants puerto vallarta mexico,0,1,0,80
+2025-06-18,2025-06-24,usa,dentist puerto vallarta,0,1,0,78
+2025-06-18,2025-06-24,usa,puerto vallarta dental,0,1,0,58
+2025-06-25,2025-07-01,usa,dental implants in puerto vallarta,0,1,0,97
+2025-06-25,2025-07-01,usa,dental implants puerto vallarta mexico,0,1,0,93
+2025-06-25,2025-07-01,usa,puerto vallarta dental,0,1,0,61
+2025-06-25,2025-07-01,usa,puerto vallarta dental tourism,0,2,0,25.5
+2025-07-02,2025-07-08,usa,dental care puerto vallarta,0,1,0,51
+2025-07-02,2025-07-08,usa,dental implants puerto vallarta,0,1,0,91
+2025-07-02,2025-07-08,usa,dental implants puerto vallarta mexico,0,1,0,82
+2025-07-02,2025-07-08,usa,puerto vallarta dental tourism,0,2,0,28.5
+2025-07-09,2025-07-15,usa,puerto vallarta dental tourism,0,1,0,45

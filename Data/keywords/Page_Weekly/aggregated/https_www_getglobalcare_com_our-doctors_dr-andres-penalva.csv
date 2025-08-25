@@ -1,0 +1,246 @@
+start_date,end_date,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,independent arbitrator,0,1,0,87
+2024-05-08,2024-05-14,18007787879,0,1,0,9
+2024-05-08,2024-05-14,andre penalva,0,1,0,1
+2024-05-08,2024-05-14,dr penalva,0,1,0,9
+2024-05-15,2024-05-21,dr andres dentist,0,1,0,101
+2024-05-22,2024-05-28,dentist in mexico city,0,2,0,75.5
+2024-05-22,2024-05-28,dr andres dentist,0,1,0,97
+2024-05-29,2024-06-04,mexico city dental implants,0,2,0,100
+2024-06-05,2024-06-11,andre penalva,0,1,0,1
+2024-06-05,2024-06-11,dr andres dentist,0,2,0,94.5
+2024-06-05,2024-06-11,dr penalva,0,1,0,47
+2024-06-12,2024-06-18,dental implants mexico city,0,1,0,87
+2024-06-12,2024-06-18,dr andres dentist,0,2,0,71
+2024-06-12,2024-06-18,peñalva,0,1,0,49
+2024-06-12,2024-06-18,western iowa periodontics and implant dentistry,0,1,0,2
+2024-06-19,2024-06-25,andre penalva,0,1,0,2
+2024-06-19,2024-06-25,mexico city dental implants,0,1,0,97
+2024-06-26,2024-07-02,mexico city dental implants,0,1,0,101
+2024-07-03,2024-07-09,dental implants mexico city,0,1,0,95
+2024-07-03,2024-07-09,dr andres dentist,0,2,0,75.5
+2024-07-03,2024-07-09,zygomatic implants tijuana,0,1,0,62
+2024-07-10,2024-07-16,dental implant mexico city,0,1,0,95
+2024-07-10,2024-07-16,dr andres dentist,0,1,0,55
+2024-07-10,2024-07-16,mexico city dentist,0,1,0,88
+2024-07-10,2024-07-16,urologist mexico city,0,1,0,50
+2024-07-17,2024-07-23,andres dental,0,2,0,79
+2024-07-17,2024-07-23,dr andres dentist,0,1,0,51
+2024-07-17,2024-07-23,peñalva,0,1,0,11
+2024-07-24,2024-07-30,mexico city veneers,0,1,0,41
+2024-07-24,2024-07-30,penalva,0,1,0,60
+2024-07-31,2024-08-06,veneers mexico city,0,1,0,41
+2024-08-07,2024-08-13,dr andres dentist,0,2,0,54
+2024-08-07,2024-08-13,dr penalva,0,1,0,9
+2024-08-07,2024-08-13,penalva,0,1,0,65
+2024-08-07,2024-08-13,veneers mexico city,0,1,0,39
+2024-08-14,2024-08-20,andres dental,0,1,0,83
+2024-08-14,2024-08-20,dr may penalba,0,5,0,11.6
+2024-08-21,2024-08-27,dr may penalba,0,2,0,13
+2024-08-21,2024-08-27,dr penalva,0,1,0,2
+2024-08-21,2024-08-27,peñalva,0,1,0,12
+2024-08-21,2024-08-27,veneers mexico city,0,1,0,35
+2024-08-28,2024-09-03,dr andres dentist,0,1,0,68
+2024-08-28,2024-09-03,dr may penalba,0,2,0,10.5
+2024-09-04,2024-09-10,andres peñalva,0,10,0,1.7
+2024-09-04,2024-09-10,dr andres dentist,0,1,0,51
+2024-09-04,2024-09-10,dr may penalba,0,3,0,12.333333333333334
+2024-09-11,2024-09-17,andres peñalva,0,2,0,5
+2024-09-11,2024-09-17,dr may penalba,0,3,0,11.333333333333334
+2024-09-18,2024-09-24,andres peñalva,0,1,0,7
+2024-09-18,2024-09-24,dental implants in mexico city,0,2,0,76
+2024-09-18,2024-09-24,dr andres dentist,0,2,0,10.5
+2024-09-18,2024-09-24,dr may penalba,0,2,0,11
+2024-09-25,2024-10-01,andres dental,0,1,0,50
+2024-09-25,2024-10-01,andres peñalva,0,2,0,11.5
+2024-09-25,2024-10-01,dentist n mex,0,1,0,26
+2024-09-25,2024-10-01,dr andres dentist,0,1,0,9
+2024-09-25,2024-10-01,dr may penalba,0,4,0,11.25
+2024-10-02,2024-10-08,andres peñalva,0,1,0,6
+2024-10-02,2024-10-08,dr andres dentist,0,2,0,50
+2024-10-02,2024-10-08,dr may penalba,0,1,0,10
+2024-10-09,2024-10-15,andres peñalva,0,2,0,9
+2024-10-09,2024-10-15,dentist n mex,0,1,0,20
+2024-10-09,2024-10-15,dr andres dentist,0,3,0,23.666666666666668
+2024-10-09,2024-10-15,dr may penalba,0,5,0,9.6
+2024-10-16,2024-10-22,andres peñalva,0,1,0,6
+2024-10-16,2024-10-22,andres peñalva tron,0,1,0,8
+2024-10-16,2024-10-22,dr andres dentist,0,3,0,19
+2024-10-16,2024-10-22,dr may penalba,0,6,0,10
+2024-10-16,2024-10-22,peñalva,0,2,0,3.5
+2024-10-23,2024-10-29,andres peñalva,0,2,0,3
+2024-10-23,2024-10-29,andres peñalva tron,0,2,0,7.5
+2024-10-23,2024-10-29,dr andrees,0,1,0,50
+2024-10-23,2024-10-29,dr may penalba,0,3,0,10
+2024-10-23,2024-10-29,dr penalva,0,2,0,4
+2024-10-30,2024-11-05,andres peñalva,0,2,0,4
+2024-10-30,2024-11-05,andres peñalva tron,0,2,0,8.5
+2024-10-30,2024-11-05,dr andres dentist,0,1,0,43
+2024-10-30,2024-11-05,dr may penalba,0,5,0,8.4
+2024-10-30,2024-11-05,mexico dentist,0,1,0,58
+2024-11-06,2024-11-12,andres peñalva,0,4,0,10
+2024-11-06,2024-11-12,dr may penalba,0,5,0,7.6
+2024-11-13,2024-11-19,andres peñalva tron,0,2,0,10.5
+2024-11-13,2024-11-19,dr andres dentist,0,3,0,27.666666666666668
+2024-11-13,2024-11-19,dr may penalba,0,4,0,7.25
+2024-11-13,2024-11-19,dr penalva,0,1,0,5
+2024-11-13,2024-11-19,veneers in mexico city,0,1,0,34
+2024-11-20,2024-11-26,andres peñalva tron,1,2,0.5,11
+2024-11-20,2024-11-26,dr andrees,0,1,0,63
+2024-11-20,2024-11-26,dr andres dentist,0,1,0,6
+2024-11-20,2024-11-26,dr may penalba,0,7,0,7.571428571428571
+2024-11-27,2024-12-03,andres peñalva,0,1,0,6
+2024-11-27,2024-12-03,andres peñalva tron,0,2,0,11.5
+2024-11-27,2024-12-03,dental implants mexico city,0,1,0,73
+2024-11-27,2024-12-03,dr may penalba,0,4,0,8
+2024-12-04,2024-12-10,andres peñalva,0,4,0,6.5
+2024-12-04,2024-12-10,andres peñalva tron,0,1,0,6
+2024-12-04,2024-12-10,dental implants mexico city,0,1,0,79
+2024-12-04,2024-12-10,dr andres dentist,0,1,0,27
+2024-12-04,2024-12-10,dr may penalba,0,6,0,8.666666666666668
+2024-12-11,2024-12-17,dr may penalba,0,4,0,8.75
+2024-12-18,2024-12-24,dr may penalba,0,6,0,9.333333333333334
+2024-12-25,2024-12-31,dr andres dentist,0,1,0,13
+2024-12-25,2024-12-31,dr may penalba,0,6,0,9
+2025-01-01,2025-01-07,2500 veneers cancun,0,2,0,77
+2025-01-01,2025-01-07,cancun dental care complaints,0,1,0,91
+2025-01-01,2025-01-07,dr andres dentist,0,1,0,6
+2025-01-01,2025-01-07,periodontist los algodones mexico,0,1,0,82
+2025-01-08,2025-01-14,andres peñalva tron,0,5,0,8.8
+2025-01-08,2025-01-14,cancun dental care complaints,0,1,0,88
+2025-01-08,2025-01-14,dr penalva,0,1,0,3
+2025-01-08,2025-01-14,periodontist los algodones mexico,0,4,0,80.75
+2025-01-15,2025-01-21,andres peñalva tron,0,6,0,7.833333333333333
+2025-01-15,2025-01-21,cancun dental care complaints,0,1,0,76
+2025-01-15,2025-01-21,especialidad en periodoncia cdmx,0,2,0,9
+2025-01-15,2025-01-21,periodontist in mexico,0,1,0,23
+2025-01-15,2025-01-21,periodontist los algodones mexico,0,3,0,97.33333333333333
+2025-01-22,2025-01-28,andres peñalva tron,0,9,0,7.777777777777778
+2025-01-22,2025-01-28,periodontics near me,0,1,0,16
+2025-01-22,2025-01-28,periodontist doctor,0,1,0,12
+2025-01-22,2025-01-28,periodontist mexico,0,2,0,19
+2025-01-22,2025-01-28,periodontist near me,0,1,0,9
+2025-01-22,2025-01-28,periodontists near me,0,1,0,6
+2025-01-29,2025-02-04,2500 veneers cancun,0,2,0,70.5
+2025-01-29,2025-02-04,andres peñalva tron,0,4,0,11.75
+2025-01-29,2025-02-04,periodontist near me,0,1,0,7
+2025-02-05,2025-02-11,periodontal doctors near me,1,3,0.3333333333333333,3
+2025-02-05,2025-02-11,andres peñalva tron,0,9,0,10.88888888888889
+2025-02-05,2025-02-11,dr may penalba,0,4,0,9.75
+2025-02-05,2025-02-11,periodontics near me,0,1,0,18
+2025-02-12,2025-02-18,andres peñalva tron,0,5,0,10.4
+2025-02-12,2025-02-18,dr may penalba,0,3,0,8.666666666666668
+2025-02-12,2025-02-18,periodontal doctor near me,0,1,0,11
+2025-02-12,2025-02-18,periodontics near me,0,5,0,19
+2025-02-19,2025-02-25,andres peñalva tron,1,8,0.125,8.625
+2025-02-19,2025-02-25,2500 veneers cancun,0,2,0,77.5
+2025-02-19,2025-02-25,dr may penalba,0,5,0,10.6
+2025-02-19,2025-02-25,dr penalva,0,1,0,8
+2025-02-19,2025-02-25,periodontics near me,0,3,0,12
+2025-02-19,2025-02-25,periodontist near me,0,2,0,20
+2025-02-19,2025-02-25,prosthodontist near me,0,1,0,62
+2025-02-26,2025-03-04,2500 veneers cancun,0,1,0,77
+2025-02-26,2025-03-04,andres peñalva tron,0,5,0,8
+2025-02-26,2025-03-04,dr may penalba,0,4,0,9.25
+2025-02-26,2025-03-04,implant specialist near me,0,1,0,6
+2025-02-26,2025-03-04,periodontics near me,0,3,0,36
+2025-02-26,2025-03-04,periodontist near me,0,1,0,4
+2025-03-05,2025-03-11,andres peñalva tron,1,10,0.1,6.1
+2025-03-05,2025-03-11,dr may penalba,0,2,0,10.5
+2025-03-05,2025-03-11,periodontal doctor near me,0,1,0,5
+2025-03-05,2025-03-11,periodontics near me,0,1,0,4
+2025-03-05,2025-03-11,st dental lmplant specialist near me,0,1,0,4
+2025-03-12,2025-03-18,andres peñalva tron,0,6,0,5.666666666666667
+2025-03-12,2025-03-18,dentist paddocks,0,1,0,10
+2025-03-12,2025-03-18,dr may penalba,0,1,0,9
+2025-03-12,2025-03-18,periodoncia cdmx,0,1,0,8
+2025-03-12,2025-03-18,periodontics near me,0,1,0,5
+2025-03-12,2025-03-18,periodontist mexico,0,1,0,49
+2025-03-12,2025-03-18,periodontist near me,0,1,0,7
+2025-03-19,2025-03-25,andres peñalva tron,0,6,0,9
+2025-03-19,2025-03-25,dr may penalba,0,6,0,11
+2025-03-19,2025-03-25,periodontist mexico,0,1,0,40
+2025-03-19,2025-03-25,periodontist near me,0,1,0,8
+2025-03-26,2025-04-01,andres peñalva tron,0,7,0,9.142857142857142
+2025-03-26,2025-04-01,dentista andres,0,1,0,8
+2025-03-26,2025-04-01,dr may penalba,0,7,0,11.142857142857142
+2025-03-26,2025-04-01,periodontics near me,0,5,0,15.8
+2025-03-26,2025-04-01,periodontist mexico,0,1,0,43
+2025-03-26,2025-04-01,periodontist near me,0,2,0,23
+2025-03-26,2025-04-01,periodontists near me,0,2,0,19
+2025-04-02,2025-04-08,periodontics near me,0,14,0,22.428571428571427
+2025-04-02,2025-04-08,periodontist near me,0,1,0,11
+2025-04-09,2025-04-15,andres peñalva tron,0,2,0,12.5
+2025-04-09,2025-04-15,periodontics near me,0,7,0,9.428571428571429
+2025-04-09,2025-04-15,periodontist mexico,0,1,0,45
+2025-04-09,2025-04-15,periodontist near me,0,2,0,17.5
+2025-04-09,2025-04-15,periodontists near me,0,2,0,17.5
+2025-04-09,2025-04-15,prosthodontist near me,0,1,0,66
+2025-04-16,2025-04-22,andres peñalva tron,0,3,0,9.333333333333334
+2025-04-16,2025-04-22,periodontics near me,0,2,0,9
+2025-04-16,2025-04-22,periodontist near me,0,1,0,8
+2025-04-23,2025-04-29,andres peñalva tron,0,1,0,15
+2025-04-23,2025-04-29,periodontics near me,0,1,0,11
+2025-04-23,2025-04-29,periodontist in mexico,0,2,0,45.5
+2025-04-23,2025-04-29,periodontist near me,0,2,0,6.5
+2025-04-23,2025-04-29,periodontists near me,0,1,0,6
+2025-04-30,2025-05-06,andres peñalva tron,0,4,0,9
+2025-04-30,2025-05-06,periodontics near me,0,2,0,4
+2025-04-30,2025-05-06,peñalva,0,1,0,9
+2025-05-07,2025-05-13,andres peñalva tron,0,7,0,7.142857142857143
+2025-05-07,2025-05-13,cancun dental care complaints,0,1,0,84
+2025-05-07,2025-05-13,periodontics near me,0,9,0,44.111111111111114
+2025-05-14,2025-05-20,andres peñalva tron,0,6,0,7.333333333333333
+2025-05-14,2025-05-20,diordent,0,1,0,13
+2025-05-14,2025-05-20,periodontics near me,0,12,0,31.25
+2025-05-14,2025-05-20,periodontist near me,0,1,0,8
+2025-05-14,2025-05-20,periodontists near me,0,2,0,16.5
+2025-05-14,2025-05-20,zona dental gran patio,0,1,0,8
+2025-05-21,2025-05-27,andres peñalva tron,1,5,0.2,6.6
+2025-05-21,2025-05-27,dr penalva,0,1,0,12
+2025-05-21,2025-05-27,periodontics near me,0,12,0,34.916666666666664
+2025-05-21,2025-05-27,periodontist near me,0,1,0,11
+2025-05-21,2025-05-27,periodontists near me,0,1,0,10
+2025-05-28,2025-06-03,andres peñalva tron,0,3,0,6.666666666666667
+2025-05-28,2025-06-03,periodontics near me,0,1,0,94
+2025-05-28,2025-06-03,periodontist mexico,0,1,0,47
+2025-06-04,2025-06-10,andres peñalva tron,0,4,0,6.25
+2025-06-04,2025-06-10,dr penalva,0,2,0,10
+2025-06-11,2025-06-17,andres peñalva tron,0,7,0,5.571428571428571
+2025-06-11,2025-06-17,penalva,0,1,0,1
+2025-06-11,2025-06-17,periodontist in mexico,0,3,0,39.666666666666664
+2025-06-18,2025-06-24,andres peñalva tron,0,1,0,7
+2025-06-18,2025-06-24,doctor de paz maxilofacial,0,1,0,62
+2025-06-18,2025-06-24,dr andres dentist,0,1,0,75
+2025-06-25,2025-07-01,andres peñalva tron,0,2,0,9
+2025-06-25,2025-07-01,juan pablo cervantes dentista,0,1,0,4
+2025-06-25,2025-07-01,periodoncia guadalajara,0,1,0,59
+2025-06-25,2025-07-01,periodontist los algodones mexico,0,3,0,92.33333333333333
+2025-06-25,2025-07-01,periodontist near me,0,1,0,36
+2025-06-25,2025-07-01,periodontist specialist tojuana mx,0,4,0,94.5
+2025-06-25,2025-07-01,periodontists near me,0,1,0,25
+2025-07-02,2025-07-08,periodontist in mexico,0,1,0,30
+2025-07-02,2025-07-08,periodontist in my area,0,1,0,18
+2025-07-02,2025-07-08,periodontist los algodones mexico,0,4,0,88
+2025-07-02,2025-07-08,periodontist mexico,0,2,0,44
+2025-07-02,2025-07-08,periodontist near me,0,1,0,36
+2025-07-02,2025-07-08,periodontist specialist tojuana mx,0,7,0,92.42857142857143
+2025-07-09,2025-07-15,andres peñalva tron,0,1,0,4
+2025-07-09,2025-07-15,dr carlos garcia dentist,0,1,0,29
+2025-07-09,2025-07-15,dr penalva,0,1,0,1
+2025-07-09,2025-07-15,grupo dental bosques,0,1,0,15
+2025-07-09,2025-07-15,periodoncista en queretaro,0,1,0,43
+2025-07-09,2025-07-15,periodontist los algodones mexico,0,2,0,89.5
+2025-07-09,2025-07-15,periodontist specialist tojuana mx,0,4,0,97
+2025-07-09,2025-07-15,peñalva,0,1,0,7
+2025-07-09,2025-07-15,where is a good periodontist in mexico city for gum graft surgery,0,4,0,9.5
+2025-07-16,2025-07-22,andres peñalva tron,0,2,0,4.5
+2025-07-16,2025-07-22,consejo mexicano de periodoncia,0,1,0,9
+2025-07-16,2025-07-22,dr andres dentist,0,1,0,7
+2025-07-16,2025-07-22,periodontics near me,0,1,0,90
+2025-07-16,2025-07-22,periodontist los algodones mexico,0,4,0,86.5
+2025-07-16,2025-07-22,periodontist mexico,0,1,0,37
+2025-07-16,2025-07-22,periodontist near me,0,2,0,70.5
+2025-07-16,2025-07-22,periodontist specialist tojuana mx,0,1,0,94
+2025-07-16,2025-07-22,periodontists near me,0,2,0,19.5
+2025-07-16,2025-07-22,peñalva,0,1,0,83

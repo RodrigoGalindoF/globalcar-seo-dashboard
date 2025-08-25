@@ -1,0 +1,837 @@
+start_date,end_date,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,dentists in juarez mexico,1,1,1,1
+2024-05-01,2024-05-07,best dentist in juarez,0,1,0,33
+2024-05-01,2024-05-07,best dentist in juarez mexico,0,2,0,37.5
+2024-05-01,2024-05-07,"best dentist in juarez, mexico",0,1,0,1
+2024-05-01,2024-05-07,ciudad dental clinic,0,1,0,11
+2024-05-01,2024-05-07,clinica a laser,0,1,0,19
+2024-05-01,2024-05-07,clinica dental,0,1,0,76
+2024-05-01,2024-05-07,clinica dental laser,0,2,0,8.5
+2024-05-01,2024-05-07,clinica juarez laser,0,1,0,15
+2024-05-01,2024-05-07,dental implants juarez,0,1,0,46
+2024-05-01,2024-05-07,dental juarez chihuahua,0,1,0,73
+2024-05-01,2024-05-07,dentist in juarez mexico,0,56,0,49.892857142857146
+2024-05-01,2024-05-07,juarez dental clinic,0,1,0,33
+2024-05-01,2024-05-07,juarez dentists,0,3,0,44.666666666666664
+2024-05-01,2024-05-07,juarez laser,0,2,0,7.5
+2024-05-01,2024-05-07,juarez lazer,0,1,0,11
+2024-05-01,2024-05-07,juarez mexico dentist,0,1,0,1
+2024-05-01,2024-05-07,mexico dental lasers market,0,6,0,67.33333333333333
+2024-05-01,2024-05-07,washington dental clinic in juarez mexico,0,1,0,36
+2024-05-01,2024-05-07,washington dental in juarez mexico,0,1,0,46
+2024-05-08,2024-05-14,best dentist in juarez,0,3,0,30
+2024-05-08,2024-05-14,"best dentist in juarez, mexico",0,1,0,1
+2024-05-08,2024-05-14,ciudad dental,0,1,0,11
+2024-05-08,2024-05-14,clinica cd juarez,0,1,0,63
+2024-05-08,2024-05-14,clinica dental,0,1,0,69
+2024-05-08,2024-05-14,clinica dental juarez,0,1,0,23
+2024-05-08,2024-05-14,clinica dental laser,0,10,0,8.4
+2024-05-08,2024-05-14,clinica dental mexico dc,0,1,0,53
+2024-05-08,2024-05-14,clinica en ciudad juarez,0,1,0,57
+2024-05-08,2024-05-14,clinicas en cd juarez,0,1,0,91
+2024-05-08,2024-05-14,clínica juárez lazer,0,1,0,8
+2024-05-08,2024-05-14,consultorio dental cancun,0,1,0,81
+2024-05-08,2024-05-14,dental clinic juarez,0,1,0,30
+2024-05-08,2024-05-14,dental clinic monterrey,0,1,0,73
+2024-05-08,2024-05-14,dental clinics in juarez mexico,0,2,0,18
+2024-05-08,2024-05-14,dental implants juarez mexico,0,1,0,34
+2024-05-08,2024-05-14,dental in juarez mexico,0,1,0,42
+2024-05-08,2024-05-14,dental laser mexico,0,1,0,32
+2024-05-08,2024-05-14,dentist ciudad juarez mexico,0,1,0,43
+2024-05-08,2024-05-14,dentist in juarez mexico,0,2,0,19
+2024-05-08,2024-05-14,dentist juarez mexico,0,1,0,54
+2024-05-08,2024-05-14,dentists in juarez mexico,0,2,0,48.5
+2024-05-08,2024-05-14,implant dentistry in mexico,0,1,0,1
+2024-05-08,2024-05-14,juarez dental implants,0,1,0,26
+2024-05-08,2024-05-14,juarez dentists,0,2,0,50
+2024-05-08,2024-05-14,juarez lazer,0,1,0,19
+2024-05-08,2024-05-14,laser dental clinic,0,1,0,29
+2024-05-08,2024-05-14,los algodones dental clinic,0,1,0,86
+2024-05-08,2024-05-14,mexico dental lasers market,0,14,0,59.214285714285715
+2024-05-15,2024-05-21,best dentist in juarez,0,3,0,49
+2024-05-15,2024-05-21,"best dentist in juarez, mexico",0,3,0,14.333333333333334
+2024-05-15,2024-05-21,clinica dental,0,1,0,28
+2024-05-15,2024-05-21,clinica dental laser,0,12,0,9
+2024-05-15,2024-05-21,clinica dental mexico dc,0,1,0,63
+2024-05-15,2024-05-21,clinica juarez laser,0,2,0,14
+2024-05-15,2024-05-21,dental cd juarez,0,1,0,1
+2024-05-15,2024-05-21,dental clinic monterrey,0,1,0,80
+2024-05-15,2024-05-21,dental clinics in juarez mexico,0,2,0,19
+2024-05-15,2024-05-21,dental implants juarez mexico,0,2,0,37
+2024-05-15,2024-05-21,dental implants mexico,0,1,0,1
+2024-05-15,2024-05-21,dental washington juarez,0,1,0,27
+2024-05-15,2024-05-21,dentist in juarez mexico,0,3,0,1
+2024-05-15,2024-05-21,dentist juarez mexico,0,1,0,58
+2024-05-15,2024-05-21,dentures in mexico,0,1,0,1
+2024-05-15,2024-05-21,implantes dentales cd juarez,0,1,0,1
+2024-05-15,2024-05-21,juarez dental,0,1,0,34
+2024-05-15,2024-05-21,juarez dental clinic,0,1,0,29
+2024-05-15,2024-05-21,juarez dental implants,0,2,0,19.5
+2024-05-15,2024-05-21,juarez dentists,0,5,0,53.2
+2024-05-15,2024-05-21,juarez mexico dental implants,0,1,0,1
+2024-05-15,2024-05-21,laser juarez,0,4,0,8
+2024-05-15,2024-05-21,mexico dental lasers market,0,14,0,56.42857142857143
+2024-05-15,2024-05-21,periodoncista cd juarez,0,1,0,1
+2024-05-15,2024-05-21,washington dental clinic mexico,0,8,0,64.875
+2024-05-15,2024-05-21,washington dental in juarez mexico,0,1,0,34
+2024-05-22,2024-05-28,best dentist in juarez mexico,0,2,0,26.5
+2024-05-22,2024-05-28,"best dentist in juarez, mexico",0,1,0,1
+2024-05-22,2024-05-28,clinica dental laser,0,19,0,8.578947368421051
+2024-05-22,2024-05-28,clinica juarez laser,0,1,0,8
+2024-05-22,2024-05-28,clinica laser dental,0,3,0,2.666666666666667
+2024-05-22,2024-05-28,dental implants in mexico,0,1,0,1
+2024-05-22,2024-05-28,dental washington juarez,0,1,0,27
+2024-05-22,2024-05-28,dentist in juarez mexico,0,1,0,1
+2024-05-22,2024-05-28,dentist juarez,0,1,0,4
+2024-05-22,2024-05-28,juarez dental,0,1,0,71
+2024-05-22,2024-05-28,juarez dentists,0,1,0,55
+2024-05-22,2024-05-28,juarez mexico dentist,0,1,0,1
+2024-05-22,2024-05-28,laser juarez,0,1,0,10
+2024-05-22,2024-05-28,mejor dentista en ciudad juárez,0,1,0,1
+2024-05-22,2024-05-28,mexico dental lasers market,0,9,0,66.22222222222223
+2024-05-22,2024-05-28,washington dental ciudad juarez,0,2,0,23
+2024-05-29,2024-06-04,"""ciudad juárez""",0,1,0,55
+2024-05-29,2024-06-04,best dentist in juarez mexico,0,1,0,1
+2024-05-29,2024-06-04,"best dentist in juarez, mexico",0,1,0,1
+2024-05-29,2024-06-04,clinica dental juarez,0,1,0,1
+2024-05-29,2024-06-04,clinica dental laser,0,16,0,7.875
+2024-05-29,2024-06-04,clinica juarez laser,0,4,0,9.75
+2024-05-29,2024-06-04,clínica juárez lazer,0,1,0,15
+2024-05-29,2024-06-04,dental implants in juarez mexico,0,1,0,1
+2024-05-29,2024-06-04,dental implants in mexico,0,1,0,17
+2024-05-29,2024-06-04,dentist in juarez mexico,0,1,0,1
+2024-05-29,2024-06-04,dentures in mexico,0,2,0,8.5
+2024-05-29,2024-06-04,juarez dental clinic,0,1,0,30
+2024-05-29,2024-06-04,juarez dental implants,0,1,0,1
+2024-05-29,2024-06-04,juarez lazer,0,1,0,19
+2024-05-29,2024-06-04,laser juarez,0,1,0,11
+2024-05-29,2024-06-04,mexico dental lasers market,0,7,0,68.85714285714286
+2024-05-29,2024-06-04,washington dental clinic in juarez mexico,0,3,0,27
+2024-06-05,2024-06-11,"best dentist in juarez, mexico",0,1,0,1
+2024-06-05,2024-06-11,clinica dental laser,0,20,0,8.5
+2024-06-05,2024-06-11,clinica juarez laser,0,1,0,9
+2024-06-05,2024-06-11,clínica dental láser,0,1,0,5
+2024-06-05,2024-06-11,dental clinic juarez,0,1,0,27
+2024-06-05,2024-06-11,dental implants juarez mexico,0,1,0,1
+2024-06-05,2024-06-11,dental washington juarez,0,1,0,28
+2024-06-05,2024-06-11,dentist juarez mexico,0,1,0,1
+2024-06-05,2024-06-11,mexico dental lasers market,0,13,0,61.84615384615385
+2024-06-12,2024-06-18,best dentist in juarez mexico,0,1,0,1
+2024-06-12,2024-06-18,ciudad dental clinic,0,1,0,17
+2024-06-12,2024-06-18,clinica dental laser,0,13,0,9.846153846153847
+2024-06-12,2024-06-18,clinica santa clara cd juarez,0,1,0,10
+2024-06-12,2024-06-18,dental care in juarez mexico,0,1,0,58
+2024-06-12,2024-06-18,dental implants in mexico,0,1,0,1
+2024-06-12,2024-06-18,dental sign juarez,0,1,0,12
+2024-06-12,2024-06-18,dental washington juarez,0,2,0,28.5
+2024-06-12,2024-06-18,juarez laser,0,1,0,16
+2024-06-12,2024-06-18,laser juarez,0,3,0,11.666666666666666
+2024-06-12,2024-06-18,mexico dental lasers market,0,20,0,61.55
+2024-06-12,2024-06-18,mexico teeth implants,0,1,0,4
+2024-06-12,2024-06-18,washington dental clinic juarez,0,1,0,37
+2024-06-19,2024-06-25,clinica dental laser,0,23,0,10.130434782608695
+2024-06-19,2024-06-25,clinica juarez laser,0,1,0,7
+2024-06-19,2024-06-25,clínica dental láser,0,1,0,11
+2024-06-19,2024-06-25,dental implants juarez mexico,0,1,0,1
+2024-06-19,2024-06-25,dental washington juarez,0,1,0,24
+2024-06-19,2024-06-25,medical star hospital chihuahua,0,1,0,73
+2024-06-19,2024-06-25,mexico dental lasers market,0,25,0,61.24
+2024-06-19,2024-06-25,star medica cd juarez photos,0,1,0,5
+2024-06-19,2024-06-25,teeth implants cost,0,1,0,6
+2024-06-19,2024-06-25,washington dental ciudad juarez,0,2,0,28
+2024-06-26,2024-07-02,clinica dental laser,0,8,0,5.75
+2024-06-26,2024-07-02,clinica juarez laser,0,2,0,11
+2024-06-26,2024-07-02,dental care juarez,0,2,0,32.5
+2024-06-26,2024-07-02,dental gc,0,1,0,1
+2024-06-26,2024-07-02,dentists juarez,0,1,0,49
+2024-06-26,2024-07-02,laser juarez,0,1,0,12
+2024-06-26,2024-07-02,los algodones dentists reviews,0,1,0,73
+2024-06-26,2024-07-02,medical star hospital chihuahua,0,1,0,67
+2024-06-26,2024-07-02,mexico dental lasers market,0,7,0,97.71428571428571
+2024-06-26,2024-07-02,washington dental clinic juarez,0,3,0,37.666666666666664
+2024-07-03,2024-07-09,clinica dental laser,0,15,0,14.666666666666666
+2024-07-03,2024-07-09,clinica juarez laser,0,4,0,11.25
+2024-07-03,2024-07-09,clinica santa clara cd juarez,0,1,0,8
+2024-07-03,2024-07-09,clínica dental láser,0,2,0,11.5
+2024-07-03,2024-07-09,dental care juarez,0,2,0,37.5
+2024-07-03,2024-07-09,dental implants in mexico,0,1,0,1
+2024-07-03,2024-07-09,dental implants mexico,0,1,0,2
+2024-07-03,2024-07-09,dental washington juarez,0,1,0,25
+2024-07-03,2024-07-09,dentist in juarez mexico,0,1,0,1
+2024-07-03,2024-07-09,dentista cd juarez chih,0,5,0,85.4
+2024-07-03,2024-07-09,dentista mi plaza libramiento,0,1,0,9
+2024-07-03,2024-07-09,dentists in juarez mexico,0,1,0,1
+2024-07-03,2024-07-09,juarez clinica dental,0,1,0,11
+2024-07-03,2024-07-09,juarez laser,0,1,0,19
+2024-07-03,2024-07-09,mexico dental lasers market,0,4,0,100.25
+2024-07-03,2024-07-09,star medica chihuahua reviews,0,1,0,4
+2024-07-03,2024-07-09,washington dental clinic in juarez mexico,0,1,0,31
+2024-07-10,2024-07-16,clinica dental laser,0,21,0,9.047619047619047
+2024-07-10,2024-07-16,clinica juarez laser,0,4,0,11.25
+2024-07-10,2024-07-16,clínica dental láser,0,1,0,11
+2024-07-10,2024-07-16,dental implants mexico,0,1,0,2
+2024-07-10,2024-07-16,dental washington juarez,0,1,0,34
+2024-07-10,2024-07-16,dentista cd juarez chih,0,1,0,95
+2024-07-10,2024-07-16,fotos de hospital star médica ciudad juárez,0,1,0,2
+2024-07-10,2024-07-16,implants mexico,0,1,0,2
+2024-07-10,2024-07-16,washington dental clinic cd juarez,0,1,0,28
+2024-07-10,2024-07-16,washington dental clinic in juarez mexico,0,1,0,38
+2024-07-17,2024-07-23,clinica dental laser,0,6,0,8.333333333333332
+2024-07-17,2024-07-23,clinica juarez laser,0,4,0,8.75
+2024-07-17,2024-07-23,clínica juárez lazer ciudad juárez photos,0,1,0,4
+2024-07-17,2024-07-23,dentist juarez mexico,0,2,0,1
+2024-07-17,2024-07-23,dentista cd juarez chih,0,5,0,96.2
+2024-07-17,2024-07-23,dentista laser,0,1,0,18
+2024-07-17,2024-07-23,dentists in juarez,0,1,0,1
+2024-07-17,2024-07-23,mexico dental implants,0,1,0,1
+2024-07-17,2024-07-23,star medica cd juarez photos,0,1,0,2
+2024-07-24,2024-07-30,"best dentist in juarez, mexico",0,1,0,1
+2024-07-24,2024-07-30,clinica dental laser,0,24,0,9
+2024-07-24,2024-07-30,clinica juarez laser,0,1,0,15
+2024-07-24,2024-07-30,clínica dental láser,0,1,0,10
+2024-07-24,2024-07-30,dental care in juarez mexico,0,2,0,51
+2024-07-24,2024-07-30,dental care juarez,0,1,0,32
+2024-07-24,2024-07-30,dental laser,0,1,0,3
+2024-07-24,2024-07-30,dental laser clinic,0,1,0,10
+2024-07-24,2024-07-30,dental washington juarez,0,1,0,28
+2024-07-24,2024-07-30,dentist in juarez mexico,0,1,0,1
+2024-07-24,2024-07-30,dentist in mexico near texas border,0,1,0,1
+2024-07-24,2024-07-30,dentista cd juarez chih,0,3,0,100
+2024-07-24,2024-07-30,mexico dental lasers market,0,6,0,77.16666666666667
+2024-07-24,2024-07-30,star medica cd juarez photos,0,1,0,5
+2024-07-31,2024-08-06,best dentist in juarez,0,1,0,1
+2024-07-31,2024-08-06,best dentist juarez,0,2,0,1
+2024-07-31,2024-08-06,ciudad dental clinic,0,1,0,17
+2024-07-31,2024-08-06,clinica dental laser,0,14,0,8.571428571428571
+2024-07-31,2024-08-06,clínica dental láser,0,1,0,9
+2024-07-31,2024-08-06,clínica juárez lazer ciudad juárez reviews,0,4,0,9.25
+2024-07-31,2024-08-06,dental care juarez,0,1,0,79
+2024-07-31,2024-08-06,dental washington cd juarez,0,1,0,26
+2024-07-31,2024-08-06,dentista cd juarez chih,0,3,0,83
+2024-07-31,2024-08-06,implantes dentales cd juarez,0,1,0,60
+2024-07-31,2024-08-06,juarez clinica dental,0,1,0,12
+2024-07-31,2024-08-06,juarez dentist,0,1,0,1
+2024-07-31,2024-08-06,juarez laser,0,2,0,9
+2024-07-31,2024-08-06,laser cd juarez,0,1,0,13
+2024-07-31,2024-08-06,mexico dental implants,0,1,0,8
+2024-07-31,2024-08-06,mexico dental lasers market,0,19,0,83.84210526315789
+2024-07-31,2024-08-06,star medica cd juarez photos,0,1,0,4
+2024-07-31,2024-08-06,washington dental cd juarez,0,1,0,32
+2024-07-31,2024-08-06,washington dental clinic cd juarez,0,1,0,18
+2024-08-07,2024-08-13,clinica dental laser,0,10,0,8.1
+2024-08-07,2024-08-13,clínica juárez lazer ciudad juárez reviews,0,1,0,8
+2024-08-07,2024-08-13,dental care juarez,0,1,0,45
+2024-08-07,2024-08-13,dental implants in juarez mexico,0,2,0,1
+2024-08-07,2024-08-13,dental implants in mexico,0,1,0,1
+2024-08-07,2024-08-13,dental implants mexico,0,1,0,9
+2024-08-07,2024-08-13,dental washington juarez,0,1,0,36
+2024-08-07,2024-08-13,dentist in ciudad juarez mexico,0,2,0,1
+2024-08-07,2024-08-13,dentist in juarez mexico,0,1,0,1
+2024-08-07,2024-08-13,dentista cd juarez chih,0,2,0,96.5
+2024-08-07,2024-08-13,fotos de hospital star médica ciudad juárez,0,1,0,5
+2024-08-07,2024-08-13,juarez dental,0,1,0,41
+2024-08-07,2024-08-13,mexico dental lasers market,0,15,0,80.2
+2024-08-14,2024-08-20,clinica dental laser,0,9,0,10.11111111111111
+2024-08-14,2024-08-20,clinica juarez laser,0,2,0,9.5
+2024-08-14,2024-08-20,clínica juárez lazer ciudad juárez reviews,0,3,0,4.666666666666666
+2024-08-14,2024-08-20,dental implants mexico,0,1,0,1
+2024-08-14,2024-08-20,dental washington juarez,0,1,0,40
+2024-08-14,2024-08-20,dentista cd juarez chih,0,8,0,88.625
+2024-08-14,2024-08-20,implant dentures mexico,0,1,0,10
+2024-08-14,2024-08-20,juarez laser,0,1,0,18
+2024-08-14,2024-08-20,mexico dental lasers market,0,8,0,73.625
+2024-08-14,2024-08-20,washington dental cd juarez,0,1,0,29
+2024-08-21,2024-08-27,ciudad juarez dental implants,0,1,0,27
+2024-08-21,2024-08-27,clinica dental laser,0,10,0,10
+2024-08-21,2024-08-27,clinica juarez laser,0,2,0,11.5
+2024-08-21,2024-08-27,clínica dental láser,0,1,0,8
+2024-08-21,2024-08-27,clínica juárez lazer,0,1,0,16
+2024-08-21,2024-08-27,clínica juárez lazer ciudad juárez reviews,0,1,0,3
+2024-08-21,2024-08-27,dental care juarez,0,1,0,47
+2024-08-21,2024-08-27,dental implants mexico,0,1,0,1
+2024-08-21,2024-08-27,dental washington juarez,0,1,0,32
+2024-08-21,2024-08-27,dentista cd juarez chih,0,5,0,95.4
+2024-08-21,2024-08-27,hospital medica de la ciudad tijuana reviews,0,1,0,2
+2024-08-21,2024-08-27,juarez dentist,0,1,0,81
+2024-08-21,2024-08-27,juarez dentist shuttle,0,2,0,17
+2024-08-21,2024-08-27,mexico dental lasers market,0,12,0,79.66666666666667
+2024-08-21,2024-08-27,washington dental cd juarez,0,2,0,37.5
+2024-08-28,2024-09-03,clinica dental laser,0,15,0,8.466666666666667
+2024-08-28,2024-09-03,clinica juarez laser,0,2,0,9
+2024-08-28,2024-09-03,clínica dental láser,0,2,0,8
+2024-08-28,2024-09-03,clínica juárez lazer,0,1,0,9
+2024-08-28,2024-09-03,clínica juárez lazer ciudad juárez reviews,0,3,0,5.666666666666667
+2024-08-28,2024-09-03,dental laser,0,1,0,1
+2024-08-28,2024-09-03,dental washington cd juarez,0,2,0,24
+2024-08-28,2024-09-03,dentist juarez,0,1,0,92
+2024-08-28,2024-09-03,dentist juarez mexico,0,2,0,46
+2024-08-28,2024-09-03,dentista cd juarez chih,0,2,0,39
+2024-08-28,2024-09-03,dentists juarez,0,1,0,42
+2024-08-28,2024-09-03,juarez clinica dental,0,1,0,11
+2024-08-28,2024-09-03,juarez dentist shuttle,0,1,0,15
+2024-08-28,2024-09-03,laser dental juarez,0,2,0,6.5
+2024-08-28,2024-09-03,lasik eye surgery juarez mexico,0,1,0,52
+2024-08-28,2024-09-03,puerto dental,0,4,0,10.5
+2024-08-28,2024-09-03,washington dental clinic juarez,0,1,0,52
+2024-09-04,2024-09-10,clinica dental laser,2,20,0.1,7.15
+2024-09-04,2024-09-10,clinica juarez laser,0,1,0,13
+2024-09-04,2024-09-10,dental clinic cd juarez,0,1,0,41
+2024-09-04,2024-09-10,dental total cd juarez,0,1,0,15
+2024-09-04,2024-09-10,dental washington cd juarez,0,1,0,22
+2024-09-04,2024-09-10,dentist juarez,0,2,0,63.5
+2024-09-04,2024-09-10,dentist juarez mexico,0,3,0,45.333333333333336
+2024-09-04,2024-09-10,dentista cd juarez chih,0,2,0,91
+2024-09-04,2024-09-10,dentistas en juarez mexico,0,1,0,1
+2024-09-04,2024-09-10,juarez dentist shuttle,0,1,0,5
+2024-09-04,2024-09-10,juarez laser,0,1,0,6
+2024-09-04,2024-09-10,laser dental juarez,0,3,0,5.333333333333333
+2024-09-04,2024-09-10,washington dental clinic juarez,0,1,0,48
+2024-09-11,2024-09-17,clinica dental laser,0,23,0,7.782608695652174
+2024-09-11,2024-09-17,clinica dental láser,0,1,0,7
+2024-09-11,2024-09-17,clinica juarez laser,0,1,0,14
+2024-09-11,2024-09-17,clínica dental láser,0,1,0,7
+2024-09-11,2024-09-17,clínica juárez lazer ciudad juárez reviews,0,2,0,8
+2024-09-11,2024-09-17,dental care cd juarez,0,3,0,38.333333333333336
+2024-09-11,2024-09-17,dentist juarez mexico,0,1,0,47
+2024-09-11,2024-09-17,dentista cd juarez chih,0,5,0,90.6
+2024-09-11,2024-09-17,juarez dental,0,1,0,51
+2024-09-11,2024-09-17,juarez dental clinic,0,1,0,45
+2024-09-11,2024-09-17,juarez laser,0,1,0,12
+2024-09-11,2024-09-17,laser dental juarez,0,6,0,4
+2024-09-11,2024-09-17,mexico dental lasers market,0,1,0,88
+2024-09-11,2024-09-17,puerto dental,0,1,0,10
+2024-09-11,2024-09-17,washington dental clinic juarez,0,1,0,81
+2024-09-18,2024-09-24,ciudad juarez dentist,0,1,0,1
+2024-09-18,2024-09-24,clinica dental laser,0,20,0,9.8
+2024-09-18,2024-09-24,clinica dental laser photos,0,1,0,12
+2024-09-18,2024-09-24,clinica dental laser reviews,0,2,0,4.5
+2024-09-18,2024-09-24,clínica dental láser,0,1,0,10
+2024-09-18,2024-09-24,clínica juárez lazer ciudad juárez reviews,0,1,0,8
+2024-09-18,2024-09-24,dental care juarez,0,1,0,33
+2024-09-18,2024-09-24,dental implants in juarez mexico,0,1,0,1
+2024-09-18,2024-09-24,dental implants juarez,0,1,0,29
+2024-09-18,2024-09-24,dentist juarez,0,1,0,99
+2024-09-18,2024-09-24,dentista cd juarez chih,0,4,0,95.75
+2024-09-18,2024-09-24,juarez dental implants,0,2,0,44.5
+2024-09-18,2024-09-24,juarez dentist shuttle,0,4,0,15.25
+2024-09-18,2024-09-24,juarez laser,0,2,0,13.5
+2024-09-18,2024-09-24,laser dental juarez,0,2,0,3
+2024-09-18,2024-09-24,laser tag ciudad juarez,0,1,0,11
+2024-09-18,2024-09-24,puerto dental,0,1,0,14
+2024-09-18,2024-09-24,washington dental clinic juarez,0,1,0,45
+2024-09-18,2024-09-24,washington dental juarez,0,1,0,70
+2024-09-25,2024-10-01,ciudad dental clinic,0,1,0,15
+2024-09-25,2024-10-01,clinica dental cd juarez,0,1,0,40
+2024-09-25,2024-10-01,clinica dental juarez,0,1,0,36
+2024-09-25,2024-10-01,clinica dental laser,0,24,0,9.333333333333334
+2024-09-25,2024-10-01,clinica dental laser reviews,0,5,0,4.6
+2024-09-25,2024-10-01,clinica dental láser,0,1,0,11
+2024-09-25,2024-10-01,clinica juarez laser,0,3,0,10.666666666666666
+2024-09-25,2024-10-01,clínica dental láser,0,1,0,8
+2024-09-25,2024-10-01,dental care cd juarez,0,1,0,35
+2024-09-25,2024-10-01,dental clinic near me,0,1,0,85
+2024-09-25,2024-10-01,dental laser mexico,0,1,0,60
+2024-09-25,2024-10-01,dentist juarez,0,1,0,83
+2024-09-25,2024-10-01,dentist juarez mexico,0,2,0,75.5
+2024-09-25,2024-10-01,dentista cd juarez chih,0,2,0,89.5
+2024-09-25,2024-10-01,dentists in juarez,0,1,0,86
+2024-09-25,2024-10-01,juarez clinica dental,0,2,0,11
+2024-09-25,2024-10-01,juarez dental implants,0,1,0,49
+2024-09-25,2024-10-01,juarez dentist shuttle,0,1,0,13
+2024-09-25,2024-10-01,juarez lazer,0,1,0,27
+2024-09-25,2024-10-01,la clínica dental,0,1,0,63
+2024-09-25,2024-10-01,laser dental clinic,0,1,0,32
+2024-09-25,2024-10-01,laser dental juarez,0,5,0,3.6
+2024-09-25,2024-10-01,laser dentistry los algodones mx,0,3,0,71.33333333333333
+2024-09-25,2024-10-01,porcelain veneers monterrey mexico,0,1,0,60
+2024-09-25,2024-10-01,puerto dental,0,1,0,10
+2024-09-25,2024-10-01,washington dental clinic juarez,0,1,0,50
+2024-09-25,2024-10-01,washington dental clinic juarez mexico,0,2,0,64.5
+2024-09-25,2024-10-01,ztex,0,1,0,2
+2024-10-02,2024-10-08,bassanetti dental clinic juárez,0,1,0,15
+2024-10-02,2024-10-08,ciudad juarez dental implants,0,1,0,16
+2024-10-02,2024-10-08,clinica dental juarez,0,2,0,23.5
+2024-10-02,2024-10-08,clinica dental laser,0,20,0,19.1
+2024-10-02,2024-10-08,clinica dental laser reviews,0,2,0,9.5
+2024-10-02,2024-10-08,clinica juarez laser,0,1,0,5
+2024-10-02,2024-10-08,clínica dental juárez,0,1,0,40
+2024-10-02,2024-10-08,clínica dental láser,0,1,0,42
+2024-10-02,2024-10-08,dental clinic juarez,0,1,0,32
+2024-10-02,2024-10-08,dental laser,0,1,0,10
+2024-10-02,2024-10-08,dental laser mexico,0,1,0,54
+2024-10-02,2024-10-08,dental total cd juarez,0,1,0,10
+2024-10-02,2024-10-08,dentist in juarez mexico,0,3,0,1
+2024-10-02,2024-10-08,dentist juarez mexico,0,1,0,80
+2024-10-02,2024-10-08,dentista cd juarez chih,0,6,0,98.33333333333333
+2024-10-02,2024-10-08,dentists juarez,0,1,0,90
+2024-10-02,2024-10-08,endodoncista,0,1,0,1
+2024-10-02,2024-10-08,juarez dental implants,0,4,0,51.25
+2024-10-02,2024-10-08,juarez dentist shuttle,0,1,0,15
+2024-10-02,2024-10-08,laser dental clinic,0,1,0,30
+2024-10-02,2024-10-08,laser dental juarez,0,14,0,4
+2024-10-02,2024-10-08,laser dentistry los algodones mx,0,2,0,72.5
+2024-10-02,2024-10-08,lasik eye surgery ciudad juarez,0,1,0,26
+2024-10-02,2024-10-08,puerto dental,0,4,0,13
+2024-10-02,2024-10-08,veneers juarez mexico,0,1,0,95
+2024-10-02,2024-10-08,washington dental clinic juarez,0,1,0,42
+2024-10-09,2024-10-15,best dentist in juarez mexico,0,1,0,1
+2024-10-09,2024-10-15,ciudad juarez dentist,0,4,0,51.5
+2024-10-09,2024-10-15,ciudad juarez professional upholstery cleaning,0,1,0,83
+2024-10-09,2024-10-15,clinica dental juarez,0,2,0,25
+2024-10-09,2024-10-15,clinica dental laser,0,20,0,6.05
+2024-10-09,2024-10-15,clinica dental láser,0,2,0,7.5
+2024-10-09,2024-10-15,clinica juarez laser,0,4,0,8.5
+2024-10-09,2024-10-15,dental care cd juarez,0,1,0,39
+2024-10-09,2024-10-15,dental care juarez,0,1,0,45
+2024-10-09,2024-10-15,dental implants juarez,0,2,0,46.5
+2024-10-09,2024-10-15,dental laser mexico,0,2,0,56.5
+2024-10-09,2024-10-15,dental mexico cd juarez,0,1,0,75
+2024-10-09,2024-10-15,dental total cd juarez,0,1,0,11
+2024-10-09,2024-10-15,dentist juarez,0,3,0,67.33333333333333
+2024-10-09,2024-10-15,dentist juarez mexico,0,2,0,68.5
+2024-10-09,2024-10-15,dentista cd juarez,0,1,0,12
+2024-10-09,2024-10-15,dentista cd juarez chih,0,2,0,96
+2024-10-09,2024-10-15,dentists in juarez,0,1,0,87
+2024-10-09,2024-10-15,implant smile cd juarez,0,1,0,36
+2024-10-09,2024-10-15,juarez dental clinic,0,4,0,47.5
+2024-10-09,2024-10-15,juarez dentist reviews,0,1,0,87
+2024-10-09,2024-10-15,juarez laser,0,1,0,24
+2024-10-09,2024-10-15,laser dental clinic,0,1,0,28
+2024-10-09,2024-10-15,laser dental juarez,0,1,0,4
+2024-10-09,2024-10-15,laser dental mexico,0,2,0,39
+2024-10-09,2024-10-15,laser dentistry los algodones mx,0,6,0,73.5
+2024-10-09,2024-10-15,laser tech dental juarez,0,1,0,8
+2024-10-09,2024-10-15,north peace dental and implant centre,0,1,0,10
+2024-10-16,2024-10-22,bassanetti dental clinic juárez,0,1,0,12
+2024-10-16,2024-10-22,best dentist in juarez mexico,0,2,0,1.5
+2024-10-16,2024-10-22,"best dentist in juarez, mexico",0,1,0,31
+2024-10-16,2024-10-22,cancun dental care complaints,0,2,0,93.5
+2024-10-16,2024-10-22,clinica dental laser,0,13,0,7.461538461538462
+2024-10-16,2024-10-22,dental care juarez,0,2,0,30
+2024-10-16,2024-10-22,"dental implants juarez, mexico",0,1,0,1
+2024-10-16,2024-10-22,dental laser,0,1,0,1
+2024-10-16,2024-10-22,dentist in juarez mexico,0,1,0,1
+2024-10-16,2024-10-22,dentist juarez mexico,0,1,0,84
+2024-10-16,2024-10-22,dentista cd juarez chih,0,6,0,94.83333333333333
+2024-10-16,2024-10-22,dentista en cd juarez,0,1,0,14
+2024-10-16,2024-10-22,juarez dental,0,1,0,99
+2024-10-16,2024-10-22,juarez dental implants,0,2,0,52
+2024-10-16,2024-10-22,juarez dentist,0,1,0,2
+2024-10-16,2024-10-22,juarez dentist shuttle,0,4,0,12.75
+2024-10-16,2024-10-22,juarez mexico dental implants,0,1,0,1
+2024-10-16,2024-10-22,laser dental center,0,2,0,5.5
+2024-10-16,2024-10-22,laser dental juarez,0,1,0,4
+2024-10-16,2024-10-22,laser dentistry los algodones mx,0,3,0,73.66666666666667
+2024-10-16,2024-10-22,laser tech dental juarez,0,2,0,10
+2024-10-16,2024-10-22,washington dental clinic juarez,0,1,0,46
+2024-10-23,2024-10-29,ciudad juarez dentist,0,2,0,50.5
+2024-10-23,2024-10-29,clinica dental laser,0,5,0,8
+2024-10-23,2024-10-29,clinica dental láser,0,1,0,7
+2024-10-23,2024-10-29,clinica juarez laser,0,1,0,13
+2024-10-23,2024-10-29,clínica dental láser,0,1,0,8
+2024-10-23,2024-10-29,dental care juarez,0,1,0,28
+2024-10-23,2024-10-29,dental juarez,0,1,0,58
+2024-10-23,2024-10-29,dental juarez mexico,0,1,0,1
+2024-10-23,2024-10-29,dental laser mexico,0,1,0,39
+2024-10-23,2024-10-29,dental total cd juarez,0,3,0,10
+2024-10-23,2024-10-29,dentist in juarez,0,2,0,1
+2024-10-23,2024-10-29,dentist juarez,0,1,0,95
+2024-10-23,2024-10-29,dentist juarez mexico,0,1,0,72
+2024-10-23,2024-10-29,dentista cd juarez chih,0,6,0,90.66666666666667
+2024-10-23,2024-10-29,implantes dentales cd juarez,0,1,0,1
+2024-10-23,2024-10-29,juarez dental implants,0,2,0,53
+2024-10-23,2024-10-29,juarez dentist shuttle,0,1,0,1
+2024-10-23,2024-10-29,juarez laser,0,2,0,24
+2024-10-23,2024-10-29,laser dental clinic,0,1,0,26
+2024-10-23,2024-10-29,laser tech dental juarez,0,5,0,11
+2024-10-23,2024-10-29,precio de implantes dentales en cd juárez,0,1,0,5
+2024-10-23,2024-10-29,puerto dental,0,4,0,11.5
+2024-10-23,2024-10-29,washington dental clinic juarez,0,2,0,73
+2024-10-30,2024-11-05,best laser dentist near me,0,1,0,24
+2024-10-30,2024-11-05,ciudad juarez dentist,0,2,0,48
+2024-10-30,2024-11-05,clinica dental cd juarez,0,1,0,48
+2024-10-30,2024-11-05,clinica dental juarez,0,1,0,38
+2024-10-30,2024-11-05,clinica dental laser,0,14,0,16.42857142857143
+2024-10-30,2024-11-05,clinica juarez laser,0,2,0,8.5
+2024-10-30,2024-11-05,clínica dental láser,0,2,0,24.5
+2024-10-30,2024-11-05,dental care cd juarez,0,1,0,41
+2024-10-30,2024-11-05,dental implants in juarez mexico,0,1,0,1
+2024-10-30,2024-11-05,dental implants mexico,0,2,0,1
+2024-10-30,2024-11-05,dental lazer,0,1,0,1
+2024-10-30,2024-11-05,dental total cd juarez,0,2,0,15
+2024-10-30,2024-11-05,dentist juarez,0,2,0,49
+2024-10-30,2024-11-05,dentist juarez mexico,0,1,0,74
+2024-10-30,2024-11-05,dentista cd juarez chih,0,6,0,89
+2024-10-30,2024-11-05,dentists mexico,0,1,0,1
+2024-10-30,2024-11-05,dentures in mexico,0,2,0,3.5
+2024-10-30,2024-11-05,juarez clinica dental,0,1,0,14
+2024-10-30,2024-11-05,juarez dental implants,0,2,0,30.5
+2024-10-30,2024-11-05,juarez dentist shuttle,0,2,0,16.5
+2024-10-30,2024-11-05,juarez dentists,0,5,0,87.4
+2024-10-30,2024-11-05,laser dental clinic,0,2,0,37.5
+2024-10-30,2024-11-05,laser dental near me,0,1,0,37
+2024-10-30,2024-11-05,laser juarez,0,1,0,12
+2024-10-30,2024-11-05,laser tech dental juarez,0,1,0,12
+2024-10-30,2024-11-05,lasik eye surgery ciudad juarez,0,1,0,72
+2024-10-30,2024-11-05,mexico dental implants,0,1,0,1
+2024-10-30,2024-11-05,puerto dental,0,3,0,11
+2024-10-30,2024-11-05,washington clinic juarez mexico,0,2,0,57.5
+2024-10-30,2024-11-05,washington dental clinic juarez,0,1,0,48
+2024-11-06,2024-11-12,bassanetti dental clinic juárez,0,1,0,12
+2024-11-06,2024-11-12,clinica dental laser,0,25,0,26.2
+2024-11-06,2024-11-12,clinica dental láser,0,2,0,4
+2024-11-06,2024-11-12,clinica juarez,0,1,0,49
+2024-11-06,2024-11-12,clinica juarez laser,0,1,0,4
+2024-11-06,2024-11-12,consultorio dental juarez,0,1,0,20
+2024-11-06,2024-11-12,dental clinic juarez,0,1,0,36
+2024-11-06,2024-11-12,dental implants juarez mx,0,1,0,40
+2024-11-06,2024-11-12,dental implants mexico,0,3,0,1
+2024-11-06,2024-11-12,dental juarez mexico,0,1,0,38
+2024-11-06,2024-11-12,dental laser mexico,0,1,0,55
+2024-11-06,2024-11-12,dentist cd juarez,0,1,0,37
+2024-11-06,2024-11-12,dentist juarez,0,2,0,47.5
+2024-11-06,2024-11-12,dentist juarez mexico,0,2,0,76
+2024-11-06,2024-11-12,dentists in juarez mexico,0,1,0,1
+2024-11-06,2024-11-12,juarez dental implants,0,3,0,54.333333333333336
+2024-11-06,2024-11-12,juarez dentist,0,1,0,76
+2024-11-06,2024-11-12,juarez dentist shuttle,0,3,0,15.666666666666666
+2024-11-06,2024-11-12,juarez dentista,0,1,0,48
+2024-11-06,2024-11-12,juarez dentists,0,8,0,85.5
+2024-11-06,2024-11-12,juarez mexico dental implants,0,1,0,42
+2024-11-06,2024-11-12,laser dental clinic,0,1,0,23
+2024-11-06,2024-11-12,laser tech dental juarez,0,1,0,11
+2024-11-06,2024-11-12,mexico dental implants,0,1,0,1
+2024-11-06,2024-11-12,precio de implantes dentales en cd juárez,0,1,0,3
+2024-11-06,2024-11-12,puerto dental,0,3,0,9.666666666666666
+2024-11-06,2024-11-12,washington clinic juarez mexico,0,1,0,66
+2024-11-06,2024-11-12,washington dental clinic juarez,0,1,0,54
+2024-11-13,2024-11-19,all on 4 dental implants in mexico,0,1,0,1
+2024-11-13,2024-11-19,best place in mexico to get dental implants,0,1,0,4
+2024-11-13,2024-11-19,ciudad juarez dentist,0,3,0,33.333333333333336
+2024-11-13,2024-11-19,clinica 6 cd juarez,0,1,0,11
+2024-11-13,2024-11-19,clinica cd,0,2,0,46.5
+2024-11-13,2024-11-19,clinica dental laser,0,31,0,7.774193548387097
+2024-11-13,2024-11-19,clinica dental mexico en monterrey,0,1,0,52
+2024-11-13,2024-11-19,clinica dental mexico monterrey,0,1,0,64
+2024-11-13,2024-11-19,clínica dental ciudad de méxico,0,1,0,71
+2024-11-13,2024-11-19,clínica dental juárez,0,1,0,3
+2024-11-13,2024-11-19,clínica dental láser,0,2,0,5.5
+2024-11-13,2024-11-19,clínica dental world,0,1,0,92
+2024-11-13,2024-11-19,crm de dentista,0,1,0,39
+2024-11-13,2024-11-19,dental care juarez,0,2,0,37
+2024-11-13,2024-11-19,dental clinic juarez,0,2,0,36.5
+2024-11-13,2024-11-19,dental clinic monterrey,0,1,0,85
+2024-11-13,2024-11-19,dental implants cost in juarez mexico,0,1,0,63
+2024-11-13,2024-11-19,dental implants juarez mexico,0,2,0,24.5
+2024-11-13,2024-11-19,dental laser mexico,0,1,0,51
+2024-11-13,2024-11-19,dental tech juarez,0,1,0,15
+2024-11-13,2024-11-19,dental total cd juarez,0,1,0,11
+2024-11-13,2024-11-19,dentist cd juarez,0,1,0,41
+2024-11-13,2024-11-19,dentist in juarez,0,1,0,45
+2024-11-13,2024-11-19,dentist juarez mexico,0,1,0,34
+2024-11-13,2024-11-19,dentistas en cd juárez,0,1,0,68
+2024-11-13,2024-11-19,dentists in juarez mexico,0,1,0,51
+2024-11-13,2024-11-19,fotos de clínica santa clara juárez,0,1,0,2
+2024-11-13,2024-11-19,juarez dental implants,0,8,0,50.5
+2024-11-13,2024-11-19,juarez dentist shuttle,0,1,0,16
+2024-11-13,2024-11-19,juarez dentists,0,3,0,67.33333333333333
+2024-11-13,2024-11-19,juarez lazer,0,3,0,12.666666666666666
+2024-11-13,2024-11-19,laser hair removal juarez,0,1,0,57
+2024-11-13,2024-11-19,laser tech dental juarez,0,3,0,10.666666666666666
+2024-11-13,2024-11-19,nucleo dental ciudad juarez chihuahua mexico,0,1,0,37
+2024-11-13,2024-11-19,washington clinic juarez,0,1,0,89
+2024-11-13,2024-11-19,washington dental clinic juarez,0,1,0,39
+2024-11-13,2024-11-19,washington dental in juarez mexico,0,1,0,34
+2024-11-20,2024-11-26,"best dentist in juarez, mexico",0,1,0,3
+2024-11-20,2024-11-26,ciudad juarez dentist,0,2,0,50.5
+2024-11-20,2024-11-26,clinica,0,1,0,76
+2024-11-20,2024-11-26,clinica dental laser,0,23,0,10.391304347826088
+2024-11-20,2024-11-26,clinica juarez laser,0,3,0,9.666666666666666
+2024-11-20,2024-11-26,clinicas dentales en guadalajara,0,1,0,94
+2024-11-20,2024-11-26,crm clinica dental,0,1,0,27
+2024-11-20,2024-11-26,dental care cd juarez,0,2,0,42
+2024-11-20,2024-11-26,dental implants in juarez mexico,0,1,0,2
+2024-11-20,2024-11-26,dental implants juarez,0,2,0,50
+2024-11-20,2024-11-26,dental implants juarez mexico,0,3,0,34.666666666666664
+2024-11-20,2024-11-26,dental juarez,0,2,0,43.5
+2024-11-20,2024-11-26,dental laser,0,1,0,1
+2024-11-20,2024-11-26,dental washington juarez,0,1,0,46
+2024-11-20,2024-11-26,dentist in juarez mexico,0,1,0,53
+2024-11-20,2024-11-26,dentist juarez mexico,0,1,0,70
+2024-11-20,2024-11-26,dentista cd juarez chih,0,2,0,80
+2024-11-20,2024-11-26,dentistas en ciudad juarez mexico,0,1,0,81
+2024-11-20,2024-11-26,dentistas en juarez chihuahua,0,1,0,64
+2024-11-20,2024-11-26,dentistas juarez,0,1,0,58
+2024-11-20,2024-11-26,dentists juarez,0,1,0,92
+2024-11-20,2024-11-26,juarez dental,0,2,0,83.5
+2024-11-20,2024-11-26,juarez dental clinic,0,7,0,46.714285714285715
+2024-11-20,2024-11-26,juarez dental implants,0,9,0,45.22222222222222
+2024-11-20,2024-11-26,juarez dentist shuttle,0,2,0,14.5
+2024-11-20,2024-11-26,juarez dentists,0,2,0,76.5
+2024-11-20,2024-11-26,juarez mexico dentist,0,1,0,60
+2024-11-20,2024-11-26,laser dental clinic,0,1,0,23
+2024-11-20,2024-11-26,laser dental mexico,0,1,0,39
+2024-11-20,2024-11-26,laser dentistry los algodones mx,0,4,0,52
+2024-11-20,2024-11-26,laser tech dental juarez,0,6,0,9
+2024-11-20,2024-11-26,smile dental juarez,0,1,0,93
+2024-11-20,2024-11-26,star medica cd juarez photos,0,2,0,3
+2024-11-20,2024-11-26,veneers in juarez,0,1,0,78
+2024-11-20,2024-11-26,washington dental clinic juarez,0,1,0,41
+2024-11-27,2024-12-03,clinica dental laser,1,31,0.03225806451612903,14.129032258064516
+2024-11-27,2024-12-03,"""clinica dental""",0,1,0,98
+2024-11-27,2024-12-03,advanced dental care juarez,0,1,0,81
+2024-11-27,2024-12-03,clinica cd juarez,0,1,0,50
+2024-11-27,2024-12-03,clinica dental cd juarez,0,1,0,45
+2024-11-27,2024-12-03,clinica dental juarez,0,1,0,43
+2024-11-27,2024-12-03,clinica dental láser,0,2,0,4
+2024-11-27,2024-12-03,clinica juarez laser,0,4,0,9.25
+2024-11-27,2024-12-03,clinica minnesota chihuahua,0,1,0,10
+2024-11-27,2024-12-03,clínica dental láser,0,1,0,6
+2024-11-27,2024-12-03,dental care cd juarez,0,1,0,44
+2024-11-27,2024-12-03,dental care juarez,0,1,0,33
+2024-11-27,2024-12-03,dental implants juarez,0,1,0,57
+2024-11-27,2024-12-03,dental implants juarez mexico,0,1,0,42
+2024-11-27,2024-12-03,dental juarez,0,1,0,47
+2024-11-27,2024-12-03,dental tech juarez,0,2,0,28
+2024-11-27,2024-12-03,dental total cd juarez,0,1,0,12
+2024-11-27,2024-12-03,dental washington juarez,0,1,0,70
+2024-11-27,2024-12-03,dentist in chihuahua mexico,0,1,0,85
+2024-11-27,2024-12-03,dentist juarez mexico,0,2,0,40
+2024-11-27,2024-12-03,dentista cd juarez,0,2,0,77
+2024-11-27,2024-12-03,dentista cd juarez chih,0,1,0,100
+2024-11-27,2024-12-03,dentistas en ciudad juarez,0,1,0,59
+2024-11-27,2024-12-03,dermatólogo ciudad juárez,0,1,0,99
+2024-11-27,2024-12-03,implant dentist near me,0,1,0,11
+2024-11-27,2024-12-03,implantes dentales cd juarez,0,2,0,21.5
+2024-11-27,2024-12-03,juarez clinica dental,0,1,0,20
+2024-11-27,2024-12-03,juarez dental,0,2,0,64
+2024-11-27,2024-12-03,juarez dentist,0,2,0,88.5
+2024-11-27,2024-12-03,juarez dentist shuttle,0,5,0,11.4
+2024-11-27,2024-12-03,juarez laser,0,1,0,41
+2024-11-27,2024-12-03,juarez mexico dentist,0,1,0,72
+2024-11-27,2024-12-03,laser cd juarez,0,1,0,12
+2024-11-27,2024-12-03,laser dental clinic,0,1,0,33
+2024-11-27,2024-12-03,laser dentistry los algodones mx,0,2,0,56.5
+2024-11-27,2024-12-03,laser tech dental juarez,0,1,0,14
+2024-11-27,2024-12-03,plan de marketing clinica dental,0,1,0,61
+2024-11-27,2024-12-03,washington dental clinic in juarez mexico,0,1,0,46
+2024-11-27,2024-12-03,washington dental clinic juarez,0,2,0,54.5
+2024-11-27,2024-12-03,washington dental juarez,0,1,0,38
+2024-12-04,2024-12-10,clinica dental laser,1,18,0.05555555555555555,11
+2024-12-04,2024-12-10,best dentist in juarez mexico,0,8,0,35.375
+2024-12-04,2024-12-10,braces in juarez,0,1,0,57
+2024-12-04,2024-12-10,ciudad juarez dentist,0,3,0,48.666666666666664
+2024-12-04,2024-12-10,clinica,0,1,0,85
+2024-12-04,2024-12-10,clinica dental 2000,0,1,0,73
+2024-12-04,2024-12-10,clinica dental like,0,1,0,95
+2024-12-04,2024-12-10,clinica express tijuana,0,1,0,53
+2024-12-04,2024-12-10,clinica juarez laser,0,1,0,11
+2024-12-04,2024-12-10,clinicas cd juarez,0,1,0,57
+2024-12-04,2024-12-10,clinicas dentales cd juarez,0,1,0,49
+2024-12-04,2024-12-10,clínica dental innovation,0,1,0,77
+2024-12-04,2024-12-10,clínica dental juárez,0,1,0,35
+2024-12-04,2024-12-10,clínica dental láser,0,1,0,33
+2024-12-04,2024-12-10,dental care juarez,0,1,0,55
+2024-12-04,2024-12-10,dental clinic juarez,0,2,0,29
+2024-12-04,2024-12-10,dental clinic near me,0,1,0,10
+2024-12-04,2024-12-10,dental image tijuana,0,1,0,75
+2024-12-04,2024-12-10,dental implants juarez mexico,0,1,0,56
+2024-12-04,2024-12-10,dental juarez,0,1,0,48
+2024-12-04,2024-12-10,dental laser clinic,0,1,0,19
+2024-12-04,2024-12-10,dental mexico ciudad juarez,0,1,0,44
+2024-12-04,2024-12-10,dental plan sc juarez,0,1,0,10
+2024-12-04,2024-12-10,dental total cd juarez,0,1,0,13
+2024-12-04,2024-12-10,dental washington juarez,0,1,0,61
+2024-12-04,2024-12-10,dentist in juarez mexico,0,1,0,57
+2024-12-04,2024-12-10,dentist juarez mexico,0,5,0,65.2
+2024-12-04,2024-12-10,dentista cd juarez,0,2,0,62
+2024-12-04,2024-12-10,dentista cd juarez chih,0,1,0,90
+2024-12-04,2024-12-10,dentista ciudad juarez,0,1,0,59
+2024-12-04,2024-12-10,dentista en juarez,0,1,0,66
+2024-12-04,2024-12-10,dentista juarez,0,2,0,49.5
+2024-12-04,2024-12-10,dentistas en cd juarez,0,1,0,59
+2024-12-04,2024-12-10,dentistas en ciudad juarez,0,1,0,62
+2024-12-04,2024-12-10,dentistas en ciudad juárez,0,1,0,77
+2024-12-04,2024-12-10,dentistas en juarez,0,2,0,68
+2024-12-04,2024-12-10,dentists in juarez mexico,0,2,0,30.5
+2024-12-04,2024-12-10,dentists juarez,0,1,0,56
+2024-12-04,2024-12-10,exodoncia ciudad juarez,0,3,0,55.333333333333336
+2024-12-04,2024-12-10,fotos de hospital star médica ciudad juárez,0,1,0,3
+2024-12-04,2024-12-10,international x dental clinic,0,1,0,72
+2024-12-04,2024-12-10,juarez dental,0,1,0,69
+2024-12-04,2024-12-10,juarez dental clinic,0,2,0,37.5
+2024-12-04,2024-12-10,juarez dental implants,0,4,0,49.75
+2024-12-04,2024-12-10,juarez dentist,0,6,0,53.666666666666664
+2024-12-04,2024-12-10,juarez dentist prices,0,1,0,43
+2024-12-04,2024-12-10,juarez dentist shuttle,0,4,0,12.25
+2024-12-04,2024-12-10,juarez dentists,0,1,0,59
+2024-12-04,2024-12-10,juarez mexico dental implants,0,1,0,50
+2024-12-04,2024-12-10,juarez mexico dentist,0,1,0,1
+2024-12-04,2024-12-10,laser dental clinic,0,3,0,31.666666666666668
+2024-12-04,2024-12-10,laser dentistry los algodones,0,1,0,87
+2024-12-04,2024-12-10,laser dentistry los algodones mx,0,3,0,50
+2024-12-04,2024-12-10,laser juarez,0,1,0,24
+2024-12-04,2024-12-10,laser tech dental juarez,0,1,0,13
+2024-12-04,2024-12-10,lasik juarez,0,1,0,46
+2024-12-04,2024-12-10,mejor dentista en ciudad juárez,0,1,0,61
+2024-12-04,2024-12-10,mexico dental implants,0,1,0,1
+2024-12-04,2024-12-10,nucleo dental juarez,0,1,0,42
+2024-12-04,2024-12-10,quality dental juarez,0,1,0,58
+2024-12-04,2024-12-10,terapia laser juarez,0,1,0,88
+2024-12-04,2024-12-10,veneers juarez,0,1,0,55
+2024-12-04,2024-12-10,washington clinic juarez mexico,0,1,0,31
+2024-12-11,2024-12-17,best all on 4 dental implants in mexico,0,1,0,2
+2024-12-11,2024-12-17,best dentist in juarez mexico,0,4,0,33.75
+2024-12-11,2024-12-17,"best dentist in juarez, mexico",0,1,0,3
+2024-12-11,2024-12-17,ciudad juarez dentist,0,3,0,54.333333333333336
+2024-12-11,2024-12-17,clinica dental laser,0,30,0,9.6
+2024-12-11,2024-12-17,clinica dental laser cdmx,0,2,0,35
+2024-12-11,2024-12-17,clinica dental láser,0,2,0,6
+2024-12-11,2024-12-17,clinica dental world,0,1,0,62
+2024-12-11,2024-12-17,clinica juarez,0,1,0,93
+2024-12-11,2024-12-17,clinica laser dental,0,1,0,69
+2024-12-11,2024-12-17,clínica dental care,0,2,0,12
+2024-12-11,2024-12-17,dental clinic juarez,0,1,0,34
+2024-12-11,2024-12-17,dental implants in juarez mexico,0,3,0,31
+2024-12-11,2024-12-17,dental implants juarez,0,1,0,50
+2024-12-11,2024-12-17,dental implants juarez mexico,0,2,0,52
+2024-12-11,2024-12-17,dental implants mexico,0,1,0,1
+2024-12-11,2024-12-17,dental juarez,0,4,0,46.5
+2024-12-11,2024-12-17,dental laser mexico,0,1,0,54
+2024-12-11,2024-12-17,dental mexico ciudad juarez,0,1,0,47
+2024-12-11,2024-12-17,dental tec cd juarez,0,2,0,39.5
+2024-12-11,2024-12-17,dentist cd juarez,0,1,0,39
+2024-12-11,2024-12-17,dentist ciudad juarez mexico,0,1,0,41
+2024-12-11,2024-12-17,dentist in juarez,0,1,0,55
+2024-12-11,2024-12-17,dentist in juarez mexico,0,1,0,55
+2024-12-11,2024-12-17,dentist juarez mexico,0,1,0,1
+2024-12-11,2024-12-17,"dentist juarez, mexico",0,1,0,51
+2024-12-11,2024-12-17,dentista cd juarez,0,2,0,59
+2024-12-11,2024-12-17,dentista cd juarez chih,0,2,0,92.5
+2024-12-11,2024-12-17,dentista ciudad de méxico,0,1,0,94
+2024-12-11,2024-12-17,dentista en cd juarez,0,2,0,58
+2024-12-11,2024-12-17,dentista juarez,0,1,0,64
+2024-12-11,2024-12-17,dentista queretaro,0,1,0,79
+2024-12-11,2024-12-17,dentistas cd juarez,0,1,0,1
+2024-12-11,2024-12-17,dentistas en juarez mexico,0,2,0,67.5
+2024-12-11,2024-12-17,dentists in juarez mexico,0,3,0,50.666666666666664
+2024-12-11,2024-12-17,exodoncia ciudad juarez,0,2,0,50
+2024-12-11,2024-12-17,international x dental clinic,0,1,0,90
+2024-12-11,2024-12-17,juarez dental implants,0,3,0,46
+2024-12-11,2024-12-17,"juarez dentist in el paso, tx",0,1,0,19
+2024-12-11,2024-12-17,juarez dentist prices,0,5,0,43.4
+2024-12-11,2024-12-17,laser cd juarez,0,1,0,11
+2024-12-11,2024-12-17,laser dentistry los algodones mx,0,6,0,44.833333333333336
+2024-12-11,2024-12-17,like dental clinic,0,1,0,7
+2024-12-11,2024-12-17,mexico dental implants,0,1,0,1
+2024-12-11,2024-12-17,sinus lift cancun,0,1,0,67
+2024-12-11,2024-12-17,veneers in juarez,0,2,0,49
+2024-12-11,2024-12-17,veneers juarez mexico,0,2,0,55.5
+2024-12-11,2024-12-17,washington dental clinic juarez,0,1,0,33
+2024-12-18,2024-12-24,bencomo dental clinic,0,1,0,42
+2024-12-18,2024-12-24,"best dentist in juarez, mexico",0,1,0,1
+2024-12-18,2024-12-24,blanqueamiento dental ciudad juarez,0,1,0,95
+2024-12-18,2024-12-24,clinica dental juarez,0,1,0,17
+2024-12-18,2024-12-24,clinica dental laser,0,23,0,12.304347826086957
+2024-12-18,2024-12-24,clinica dental laser cdmx,0,3,0,42.666666666666664
+2024-12-18,2024-12-24,clinica dental monterrey,0,1,0,67
+2024-12-18,2024-12-24,clinicas ciudad juarez,0,1,0,25
+2024-12-18,2024-12-24,clinicas dentales cd juarez,0,1,0,41
+2024-12-18,2024-12-24,clínica dental juárez,0,1,0,10
+2024-12-18,2024-12-24,clínica dental méxico monterrey,0,1,0,38
+2024-12-18,2024-12-24,clínica juárez lazer ciudad juárez reviews,0,9,0,10
+2024-12-18,2024-12-24,consultorio dental juarez,0,1,0,35
+2024-12-18,2024-12-24,dental care juarez,0,1,0,53
+2024-12-18,2024-12-24,dental cd juarez,0,1,0,20
+2024-12-18,2024-12-24,dental clinic juarez,0,1,0,35
+2024-12-18,2024-12-24,dental clinics in juarez mexico,0,1,0,49
+2024-12-18,2024-12-24,dental implants in juarez mexico,0,1,0,56
+2024-12-18,2024-12-24,dental implants juarez,0,1,0,50
+2024-12-18,2024-12-24,dental implants juarez mexico,0,3,0,50.333333333333336
+2024-12-18,2024-12-24,dental juarez chihuahua,0,2,0,37
+2024-12-18,2024-12-24,dental juarez mexico,0,1,0,45
+2024-12-18,2024-12-24,dental laser,0,1,0,6
+2024-12-18,2024-12-24,dental mexico ciudad juarez,0,3,0,42
+2024-12-18,2024-12-24,dental offices,0,1,0,10
+2024-12-18,2024-12-24,dental total cd juarez,0,1,0,10
+2024-12-18,2024-12-24,dental washington juarez,0,1,0,42
+2024-12-18,2024-12-24,dentist ciudad juarez mexico,0,1,0,43
+2024-12-18,2024-12-24,dentist in juarez,0,1,0,55
+2024-12-18,2024-12-24,dentist in juarez mexico,0,2,0,29
+2024-12-18,2024-12-24,dentist juarez,0,1,0,43
+2024-12-18,2024-12-24,dentista cd juarez,0,2,0,62.5
+2024-12-18,2024-12-24,dentista cd juarez chih,0,4,0,65.25
+2024-12-18,2024-12-24,dentista ciudad juarez,0,1,0,56
+2024-12-18,2024-12-24,dentista en ciudad juarez,0,3,0,46.333333333333336
+2024-12-18,2024-12-24,dentista en juarez,0,4,0,54.75
+2024-12-18,2024-12-24,dentistas en cd juarez,0,3,0,62
+2024-12-18,2024-12-24,dentistas en ciudad juárez,0,1,0,63
+2024-12-18,2024-12-24,dentistas en juarez,0,1,0,72
+2024-12-18,2024-12-24,dentistas en juarez mexico,0,1,0,75
+2024-12-18,2024-12-24,dentists juarez,0,1,0,77
+2024-12-18,2024-12-24,exodoncia ciudad juarez,0,3,0,46
+2024-12-18,2024-12-24,international x dental clinic,0,1,0,66
+2024-12-18,2024-12-24,juarez dental,0,1,0,54
+2024-12-18,2024-12-24,juarez dental clinic,0,1,0,28
+2024-12-18,2024-12-24,juarez dental implants,0,2,0,53
+2024-12-18,2024-12-24,juarez dentist,0,2,0,58
+2024-12-18,2024-12-24,juarez dentist shuttle,0,2,0,16
+2024-12-18,2024-12-24,juarez dentists,0,1,0,58
+2024-12-18,2024-12-24,juarez lazer,0,6,0,22.333333333333332
+2024-12-18,2024-12-24,juarez mexico dental implants,0,1,0,53
+2024-12-18,2024-12-24,la z cd juárez,0,1,0,42
+2024-12-18,2024-12-24,laser cd juarez,0,2,0,11
+2024-12-18,2024-12-24,laser dental clinic,0,1,0,23
+2024-12-18,2024-12-24,laser dental mexico,0,1,0,31
+2024-12-18,2024-12-24,laser dentistry los algodones mx,0,6,0,45.166666666666664
+2024-12-18,2024-12-24,lasik eye surgery ciudad juarez,0,4,0,39.5
+2024-12-18,2024-12-24,mexico dental implants,0,1,0,10
+2024-12-18,2024-12-24,terapia laser juarez,0,1,0,98
+2024-12-18,2024-12-24,the clinic cd juarez,0,3,0,11.666666666666666
+2024-12-18,2024-12-24,veneers juarez,0,1,0,51
+2024-12-18,2024-12-24,washington clinic juarez mexico,0,1,0,26
+2024-12-18,2024-12-24,washington dental clinic juarez,0,2,0,33.5
+2024-12-25,2024-12-31,best dentist in juarez,0,3,0,36
+2024-12-25,2024-12-31,best dentist in juarez mexico,0,1,0,36
+2024-12-25,2024-12-31,carillas dentales juarez,0,1,0,108
+2024-12-25,2024-12-31,centro de salud dental merida,0,1,0,29
+2024-12-25,2024-12-31,clinica dental laser,0,16,0,10.5
+2024-12-25,2024-12-31,clinica dental near me,0,1,0,10
+2024-12-25,2024-12-31,clinica juárez,0,1,0,11
+2024-12-25,2024-12-31,clínica juárez,0,1,0,46
+2024-12-25,2024-12-31,clínica juárez lazer ciudad juárez reviews,0,22,0,9.090909090909092
+2024-12-25,2024-12-31,cosmetic dentist near me,0,1,0,20
+2024-12-25,2024-12-31,dental care cd juarez,0,2,0,36
+2024-12-25,2024-12-31,dental care juarez,0,3,0,38.666666666666664
+2024-12-25,2024-12-31,dental clinic cd juarez,0,1,0,32
+2024-12-25,2024-12-31,dental clinic juarez,0,1,0,27
+2024-12-25,2024-12-31,dental clinics in juarez mexico,0,2,0,36
+2024-12-25,2024-12-31,dental company,0,2,0,11.5
+2024-12-25,2024-12-31,dental implants juarez mexico,0,2,0,44.5
+2024-12-25,2024-12-31,dental implants mexico,0,1,0,1
+2024-12-25,2024-12-31,dental laser mexico,0,1,0,29
+2024-12-25,2024-12-31,dental mexico ciudad juarez,0,1,0,45
+2024-12-25,2024-12-31,dental place,0,1,0,8
+2024-12-25,2024-12-31,dental washington juarez,0,1,0,39
+2024-12-25,2024-12-31,dentist in juarez mexico,0,1,0,52
+2024-12-25,2024-12-31,dentist juarez,0,2,0,61.5
+2024-12-25,2024-12-31,dentist juarez mexico,0,3,0,42
+2024-12-25,2024-12-31,dentista juarez,0,1,0,65
+2024-12-25,2024-12-31,dentistas en ciudad juarez,0,1,0,56
+2024-12-25,2024-12-31,dentists in juarez mexico,0,1,0,1
+2024-12-25,2024-12-31,especialistas en encias retraidas,0,1,0,1
+2024-12-25,2024-12-31,exodoncia ciudad juarez,0,2,0,48
+2024-12-25,2024-12-31,international x dental clinic,0,4,0,81.75
+2024-12-25,2024-12-31,juarez dental,0,1,0,45
+2024-12-25,2024-12-31,juarez dental implants,0,3,0,27.333333333333332
+2024-12-25,2024-12-31,juarez dentist,0,2,0,76.5
+2024-12-25,2024-12-31,juarez dentist shuttle,0,4,0,11.5
+2024-12-25,2024-12-31,juarez dentists,0,1,0,59
+2024-12-25,2024-12-31,juarez laser,0,1,0,27
+2024-12-25,2024-12-31,juarez mexico dentist,0,2,0,45
+2024-12-25,2024-12-31,laser dentistry los algodones mx,0,5,0,43.6
+2024-12-25,2024-12-31,montana dental clinic,0,2,0,9.5
+2024-12-25,2024-12-31,periodoncista cd juarez,0,1,0,1
+2024-12-25,2024-12-31,periodontist near me,0,1,0,34
+2024-12-25,2024-12-31,terapia laser juarez,0,3,0,89.66666666666667
+2024-12-25,2024-12-31,washington dental clinic juarez,0,1,0,29

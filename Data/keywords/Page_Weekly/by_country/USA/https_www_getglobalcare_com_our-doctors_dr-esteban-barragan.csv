@@ -1,0 +1,244 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,usa,dr barragan,0,2,0,58
+2024-05-08,2024-05-14,usa,dr barragan,0,1,0,67
+2024-05-15,2024-05-21,usa,doctor barragan,0,1,0,77
+2024-05-15,2024-05-21,usa,dr barragan,0,2,0,61
+2024-05-22,2024-05-28,usa,barragan dentist,0,2,0,17.5
+2024-05-22,2024-05-28,usa,dr barragan,0,1,0,48
+2024-05-22,2024-05-28,usa,dr barragan dentist,0,1,0,12
+2024-05-29,2024-06-04,usa,doctor barragan,0,1,0,50
+2024-05-29,2024-06-04,usa,dr barragan,0,1,0,14
+2024-05-29,2024-06-04,usa,dr barragan dentist,0,1,0,12
+2024-06-05,2024-06-11,usa,dr barragan,0,2,0,72
+2024-06-05,2024-06-11,usa,esteban barragan,0,2,0,19
+2024-06-12,2024-06-18,usa,esteban barragan,0,3,0,1
+2024-06-19,2024-06-25,usa,doctor barragan,0,1,0,40
+2024-06-19,2024-06-25,usa,dr barragan,0,2,0,54
+2024-06-19,2024-06-25,usa,dr barragan dentist,0,1,0,10
+2024-06-19,2024-06-25,usa,esteban barragan,0,1,0,7
+2024-06-26,2024-07-02,usa,barragan last name origin,0,1,0,1
+2024-06-26,2024-07-02,usa,doctor barragan,0,1,0,59
+2024-06-26,2024-07-02,usa,dr barragan dentist,0,1,0,31
+2024-06-26,2024-07-02,usa,esteban barragan,0,3,0,1
+2024-07-03,2024-07-09,usa,dr barragan,0,2,0,75
+2024-07-03,2024-07-09,usa,esteban barragan,0,3,0,3.6666666666666665
+2024-07-10,2024-07-16,usa,dr barragan,0,2,0,64.5
+2024-07-10,2024-07-16,usa,dr barragan dentist,0,1,0,8
+2024-07-10,2024-07-16,usa,esteban barragan,0,1,0,1
+2024-07-17,2024-07-23,usa,doctor barragan,0,1,0,88
+2024-07-17,2024-07-23,usa,dr barragan,0,1,0,98
+2024-07-17,2024-07-23,usa,dr barragan dentist,0,1,0,11
+2024-07-17,2024-07-23,usa,esteban barragan,0,1,0,7
+2024-07-24,2024-07-30,usa,dentist in playa del carmen,0,1,0,100
+2024-07-24,2024-07-30,usa,doctor barragan,0,2,0,52.5
+2024-07-24,2024-07-30,usa,dr barragan,0,2,0,64
+2024-07-24,2024-07-30,usa,dr barragan dentist,0,1,0,12
+2024-07-24,2024-07-30,usa,dr. barragan,0,1,0,90
+2024-07-24,2024-07-30,usa,esteban barragan,0,5,0,3.2
+2024-07-31,2024-08-06,usa,dr barragan,0,2,0,91.5
+2024-07-31,2024-08-06,usa,esteban barragan,0,5,0,1.6
+2024-07-31,2024-08-06,usa,oral surgery star idaho,0,1,0,58
+2024-08-07,2024-08-13,usa,dental treatment in playa del carmen,0,1,0,92
+2024-08-07,2024-08-13,usa,dentist in playa del carmen,0,2,0,92
+2024-08-07,2024-08-13,usa,dr barragan,0,1,0,94
+2024-08-07,2024-08-13,usa,esteban barragan,0,6,0,5.333333333333333
+2024-08-14,2024-08-20,usa,best dental implants playa del carmen,0,3,0,54
+2024-08-14,2024-08-20,usa,best dentist in playa del carmen,0,1,0,64
+2024-08-14,2024-08-20,usa,dental implants in playa del carmen,0,1,0,53
+2024-08-14,2024-08-20,usa,dental treatment in playa del carmen,0,1,0,65
+2024-08-14,2024-08-20,usa,dentist in playa del carmen,0,1,0,47
+2024-08-14,2024-08-20,usa,dentist playa del carmen,0,2,0,73
+2024-08-14,2024-08-20,usa,dentists in playa del carmen,0,1,0,56
+2024-08-14,2024-08-20,usa,esteban barragan,0,2,0,1
+2024-08-21,2024-08-27,usa,barragan dentist,0,1,0,17
+2024-08-21,2024-08-27,usa,best dental implants playa del carmen,0,1,0,52
+2024-08-21,2024-08-27,usa,dental treatment in playa del carmen,0,1,0,63
+2024-08-21,2024-08-27,usa,dentist in playa del carmen,0,4,0,47
+2024-08-21,2024-08-27,usa,dentist playa del carmen,0,1,0,63
+2024-08-21,2024-08-27,usa,dentists in playa del carmen,0,3,0,55.666666666666664
+2024-08-21,2024-08-27,usa,dr barragan,0,1,0,62
+2024-08-21,2024-08-27,usa,dr barragan dentist,0,2,0,12.5
+2024-08-21,2024-08-27,usa,dr del carmen,0,1,0,75
+2024-08-21,2024-08-27,usa,esteban barragan,0,1,0,1
+2024-08-21,2024-08-27,usa,playa del carmen dentist,0,1,0,65
+2024-08-28,2024-09-03,usa,best dental implants playa del carmen,0,1,0,65
+2024-08-28,2024-09-03,usa,dentist in playa del carmen,0,5,0,50.4
+2024-08-28,2024-09-03,usa,dentist playa del carmen,0,1,0,66
+2024-08-28,2024-09-03,usa,dr barragan dentist,0,3,0,15.333333333333334
+2024-08-28,2024-09-03,usa,esteban barragan,0,2,0,4
+2024-08-28,2024-09-03,usa,playa del carmen dental implants,0,1,0,49
+2024-09-04,2024-09-10,usa,dental treatment in playa del carmen,0,1,0,70
+2024-09-04,2024-09-10,usa,dentist in playa del carmen,0,3,0,51.666666666666664
+2024-09-04,2024-09-10,usa,dentist playa del carmen,0,2,0,78.5
+2024-09-11,2024-09-17,usa,dentist in playa del carmen,0,3,0,54.333333333333336
+2024-09-11,2024-09-17,usa,dr barragan dentist,0,1,0,11
+2024-09-18,2024-09-24,usa,best dental implants playa del carmen,0,1,0,55
+2024-09-18,2024-09-24,usa,dentist in playa del carmen,0,5,0,43.6
+2024-09-18,2024-09-24,usa,esteban barragan,0,2,0,1
+2024-09-18,2024-09-24,usa,esteban dental clinic,0,1,0,7
+2024-09-18,2024-09-24,usa,oral surgeon star idaho,0,1,0,72
+2024-09-25,2024-10-01,usa,dental treatment in playa del carmen,0,2,0,61.5
+2024-09-25,2024-10-01,usa,dentist in playa del carmen,0,2,0,47
+2024-09-25,2024-10-01,usa,dr grant brough,0,2,0,58.5
+2024-09-25,2024-10-01,usa,esteban barragan,0,8,0,3.5
+2024-10-02,2024-10-08,usa,dentist in playa del carmen,0,4,0,28
+2024-10-02,2024-10-08,usa,dr grant brough,0,1,0,66
+2024-10-02,2024-10-08,usa,esteban barragan,0,2,0,1
+2024-10-09,2024-10-15,usa,dentist in playa del carmen,0,2,0,10.5
+2024-10-09,2024-10-15,usa,esteban barragan,0,1,0,2
+2024-10-16,2024-10-22,usa,esteban barragan,1,4,0.25,1.25
+2024-10-16,2024-10-22,usa,carmen esteban age,0,1,0,1
+2024-10-16,2024-10-22,usa,dental implants in playa del carmen,0,1,0,42
+2024-10-16,2024-10-22,usa,dentist in playa del carmen,0,3,0,10.333333333333334
+2024-10-16,2024-10-22,usa,esteban dental clinic,0,1,0,35
+2024-10-23,2024-10-29,usa,carmen esteban age,0,1,0,1
+2024-10-23,2024-10-29,usa,dentist in playa del carmen,0,4,0,12.5
+2024-10-23,2024-10-29,usa,dentist playa del carmen,0,1,0,21
+2024-10-23,2024-10-29,usa,dentista barragan,0,1,0,54
+2024-10-23,2024-10-29,usa,dentista esteban,0,1,0,10
+2024-10-23,2024-10-29,usa,dr barragan mexico,0,8,0,6.25
+2024-10-23,2024-10-29,usa,esteban barragan,0,2,0,1.5
+2024-10-30,2024-11-05,usa,carmen esteban age,0,4,0,1
+2024-10-30,2024-11-05,usa,dentist in playa del carmen,0,2,0,19.5
+2024-10-30,2024-11-05,usa,dentist playa del carmen,0,1,0,12
+2024-10-30,2024-11-05,usa,dentista playa del carmen,0,2,0,11.5
+2024-10-30,2024-11-05,usa,dr barragan mexico,0,2,0,6.5
+2024-10-30,2024-11-05,usa,esteban barragan,0,2,0,7
+2024-11-06,2024-11-12,usa,carmen esteban age,0,3,0,1
+2024-11-06,2024-11-12,usa,dentist in playa del carmen,0,1,0,10
+2024-11-06,2024-11-12,usa,dentista playa del carmen,0,3,0,10.333333333333334
+2024-11-06,2024-11-12,usa,dr barragan mexico,0,1,0,6
+2024-11-06,2024-11-12,usa,ortodoncista playa del carmen,0,1,0,9
+2024-11-13,2024-11-19,usa,carmen esteban age,0,2,0,1
+2024-11-13,2024-11-19,usa,dental implants in playa del carmen,0,1,0,39
+2024-11-13,2024-11-19,usa,dentista playa del carmen,0,1,0,36
+2024-11-13,2024-11-19,usa,dr barragan mexico,0,1,0,6
+2024-11-13,2024-11-19,usa,esteban barragan,0,3,0,27.333333333333332
+2024-11-20,2024-11-26,usa,dental implants in playa del carmen,0,1,0,32
+2024-11-20,2024-11-26,usa,dentist playa del carmen,0,1,0,11
+2024-11-20,2024-11-26,usa,dr barragan mexico,0,1,0,8
+2024-11-20,2024-11-26,usa,esteban barragan,0,1,0,11
+2024-11-20,2024-11-26,usa,podiatrist playa del carmen,0,1,0,12
+2024-11-27,2024-12-03,usa,dr barragan mexico,0,1,0,10
+2024-11-27,2024-12-03,usa,podiatrist playa del carmen,0,1,0,11
+2024-12-04,2024-12-10,usa,clinica dental esteban,0,1,0,23
+2024-12-04,2024-12-10,usa,dental treatment in playa del carmen,0,1,0,61
+2024-12-04,2024-12-10,usa,dentist playa del carmen,0,1,0,7
+2024-12-04,2024-12-10,usa,dentiste playa del carmen,0,1,0,10
+2024-12-04,2024-12-10,usa,dr barragan mexico,0,5,0,6.6
+2024-12-04,2024-12-10,usa,esteban barragan,0,1,0,11
+2024-12-11,2024-12-17,usa,dr barragan mexico,1,15,0.06666666666666667,6.533333333333333
+2024-12-11,2024-12-17,usa,dentist playa del carmen,0,1,0,12
+2024-12-11,2024-12-17,usa,dentista playa del carmen,0,3,0,8.666666666666668
+2024-12-11,2024-12-17,usa,esteban barragan,0,1,0,11
+2024-12-11,2024-12-17,usa,oral surgeon star idaho,0,3,0,79.33333333333333
+2024-12-18,2024-12-24,usa,dental clinics in playa del carmen,0,1,0,50
+2024-12-18,2024-12-24,usa,dental treatment in playa del carmen,0,1,0,66
+2024-12-18,2024-12-24,usa,dr barragan mexico,0,1,0,10
+2024-12-18,2024-12-24,usa,oral surgeon star idaho,0,1,0,75
+2024-12-25,2024-12-31,usa,dental implants in playa del carmen,0,4,0,56
+2024-12-25,2024-12-31,usa,dental treatment in playa del carmen,0,3,0,69.66666666666667
+2024-12-25,2024-12-31,usa,dentista barragan,0,2,0,4
+2024-12-25,2024-12-31,usa,dentista playa del carmen,0,1,0,11
+2024-12-25,2024-12-31,usa,dr barragan mexico,0,1,0,2
+2025-01-01,2025-01-07,usa,dr barragan mexico,1,2,0.5,2
+2025-01-01,2025-01-07,usa,dental implants in playa del carmen,0,2,0,56.5
+2025-01-01,2025-01-07,usa,dental treatment in playa del carmen,0,1,0,73
+2025-01-01,2025-01-07,usa,dentist playa del carmen,0,1,0,37
+2025-01-01,2025-01-07,usa,doctor barragan,0,1,0,59
+2025-01-08,2025-01-14,usa,dental implants in playa del carmen,0,2,0,44
+2025-01-08,2025-01-14,usa,dentist in playa del carmen,0,1,0,15
+2025-01-08,2025-01-14,usa,dentist playa del carmen,0,1,0,31
+2025-01-08,2025-01-14,usa,dentista barragan,0,1,0,30
+2025-01-08,2025-01-14,usa,dentista esteban,0,1,0,8
+2025-01-08,2025-01-14,usa,doctor barragan,0,1,0,57
+2025-01-08,2025-01-14,usa,dr barragan mexico,0,2,0,5
+2025-01-15,2025-01-21,usa,dental clinics in playa del carmen,0,1,0,43
+2025-01-15,2025-01-21,usa,dental treatment in playa del carmen,0,1,0,51
+2025-01-15,2025-01-21,usa,dr barragan mexico,0,3,0,4.666666666666666
+2025-01-15,2025-01-21,usa,dr. barragan,0,1,0,9
+2025-01-15,2025-01-21,usa,oral surgery star idaho,0,1,0,62
+2025-01-22,2025-01-28,usa,"-site:facebook.com -site:fb.me -site:youtube.com -site:youtu.be -site:youtube.be -site:twitter.com -site:instagram.com -site:tiktok.com -site:vm.tiktok.com -site:t.co -site:x.com ""uic barcelona"" -""job posting"" -""contratación"" -""ofertas de trabajo"" -""ofertas laborales"" -""empleo"" -""contratando"" -""hire"" -""hiring"" -""se busca""",0,3,0,63
+2025-01-22,2025-01-28,usa,clinica dental barragan,0,1,0,13
+2025-01-22,2025-01-28,usa,dental clinics in playa del carmen,0,1,0,39
+2025-01-22,2025-01-28,usa,dental implants in playa del carmen,0,3,0,45.666666666666664
+2025-01-22,2025-01-28,usa,dental treatment in playa del carmen,0,3,0,48.666666666666664
+2025-01-22,2025-01-28,usa,dentista barragan,0,2,0,10
+2025-01-22,2025-01-28,usa,dr barragan mexico,0,2,0,2.5
+2025-01-22,2025-01-28,usa,playa dentist,0,1,0,12
+2025-01-29,2025-02-04,usa,dental clinics in playa del carmen,0,1,0,49
+2025-01-29,2025-02-04,usa,dental treatment in playa del carmen,0,1,0,58
+2025-01-29,2025-02-04,usa,doctor barragan mexico,0,1,0,1
+2025-01-29,2025-02-04,usa,dr barragan mexico,0,1,0,4
+2025-02-05,2025-02-11,usa,dental implants in playa del carmen,0,1,0,53
+2025-02-05,2025-02-11,usa,dental treatment in playa del carmen,0,3,0,58.333333333333336
+2025-02-05,2025-02-11,usa,dentista barragan,0,1,0,4
+2025-02-05,2025-02-11,usa,doctor barragan mexico,0,1,0,2
+2025-02-05,2025-02-11,usa,dr barragan,0,3,0,46
+2025-02-05,2025-02-11,usa,dr barragan mexico,0,4,0,1.5
+2025-02-12,2025-02-18,usa,dental clinics in playa del carmen,0,1,0,56
+2025-02-12,2025-02-18,usa,dental treatment in playa del carmen,0,1,0,85
+2025-02-12,2025-02-18,usa,dr barragan mexico,0,1,0,1
+2025-02-12,2025-02-18,usa,esteban dental clinic,0,1,0,11
+2025-02-19,2025-02-25,usa,dr barragan mexico,1,56,0.017857142857142856,2.2142857142857144
+2025-02-19,2025-02-25,usa,barragan dentist,0,1,0,8
+2025-02-19,2025-02-25,usa,dental clinics in playa del carmen,0,1,0,64
+2025-02-19,2025-02-25,usa,dental treatment in playa del carmen,0,1,0,70
+2025-02-19,2025-02-25,usa,doctor barragan mexico,0,2,0,1
+2025-02-26,2025-03-04,usa,dr barragan mexico,1,24,0.041666666666666664,1.5833333333333335
+2025-02-26,2025-03-04,usa,dr barragan,0,1,0,38
+2025-02-26,2025-03-04,usa,dr barragan traumatologo,0,1,0,64
+2025-03-05,2025-03-11,usa,dental clinics in playa del carmen,0,2,0,45.5
+2025-03-05,2025-03-11,usa,dental implants in playa del carmen,0,2,0,52.5
+2025-03-05,2025-03-11,usa,dental treatment in playa del carmen,0,2,0,67.5
+2025-03-05,2025-03-11,usa,dentista barragan,0,1,0,11
+2025-03-05,2025-03-11,usa,doctor barragan mexico,0,1,0,8
+2025-03-05,2025-03-11,usa,dr barragan mexico,0,3,0,1
+2025-03-12,2025-03-18,usa,dental clinics in playa del carmen,0,13,0,50.46153846153846
+2025-03-12,2025-03-18,usa,dental implants in playa del carmen,0,15,0,55.266666666666666
+2025-03-12,2025-03-18,usa,dental treatment in playa del carmen,0,7,0,57.142857142857146
+2025-03-12,2025-03-18,usa,dr barragan mexico,0,7,0,4
+2025-03-19,2025-03-25,usa,dr barragan mexico,1,19,0.05263157894736842,3.736842105263158
+2025-03-19,2025-03-25,usa,dental clinics in playa del carmen,0,9,0,61.333333333333336
+2025-03-19,2025-03-25,usa,dental implants in playa del carmen,0,13,0,56.53846153846154
+2025-03-19,2025-03-25,usa,dental treatment in playa del carmen,0,5,0,75
+2025-03-19,2025-03-25,usa,dr barragan dentist,0,1,0,8
+2025-03-19,2025-03-25,usa,esteban barragan,0,1,0,6
+2025-03-19,2025-03-25,usa,mexico,0,1,0,1
+2025-03-19,2025-03-25,usa,playa del carmen dentist,0,1,0,54
+2025-03-19,2025-03-25,usa,playa dentist,0,1,0,61
+2025-03-26,2025-04-01,usa,best dentist in playa del carmen,0,1,0,58
+2025-03-26,2025-04-01,usa,dental clinics in playa del carmen,0,1,0,58
+2025-03-26,2025-04-01,usa,dental implants in playa del carmen,0,8,0,68
+2025-03-26,2025-04-01,usa,dental treatment in playa del carmen,0,6,0,78.16666666666667
+2025-03-26,2025-04-01,usa,dentist in playa del carmen mexico,0,1,0,58
+2025-03-26,2025-04-01,usa,dentists in playa del carmen,0,1,0,50
+2025-03-26,2025-04-01,usa,dr barragan mexico,0,7,0,2
+2025-03-26,2025-04-01,usa,esteban barragan,0,1,0,5
+2025-04-02,2025-04-08,usa,dental implants in playa del carmen,0,6,0,68
+2025-04-02,2025-04-08,usa,dental treatment in playa del carmen,0,9,0,65.55555555555556
+2025-04-02,2025-04-08,usa,doctor barragan mexico,0,1,0,4
+2025-04-02,2025-04-08,usa,dr barragan mexico,0,5,0,2
+2025-04-02,2025-04-08,usa,esteban dentista,0,1,0,6
+2025-04-02,2025-04-08,usa,pediatra en playa del carmen,0,1,0,44
+2025-04-09,2025-04-15,usa,dental implants in playa del carmen,0,10,0,64.1
+2025-04-09,2025-04-15,usa,dental treatment in playa del carmen,0,15,0,69.2
+2025-04-09,2025-04-15,usa,dentista barragan,0,2,0,7
+2025-04-09,2025-04-15,usa,doctor barragan,0,1,0,1
+2025-04-09,2025-04-15,usa,doctor barragan mexico,0,1,0,1
+2025-04-09,2025-04-15,usa,doctores playa del carmen,0,1,0,37
+2025-04-09,2025-04-15,usa,dr barragan dentist,0,1,0,15
+2025-04-09,2025-04-15,usa,dr barragan mexico,0,4,0,4.5
+2025-04-16,2025-04-22,usa,dental implants in playa del carmen,0,9,0,58.44444444444444
+2025-04-16,2025-04-22,usa,dental treatment in playa del carmen,0,7,0,70.14285714285714
+2025-04-16,2025-04-22,usa,dr barragan dentist,0,4,0,10
+2025-04-16,2025-04-22,usa,dr barragan mexico,0,6,0,2.166666666666667
+2025-04-23,2025-04-29,usa,dental implants in playa del carmen,0,2,0,57.5
+2025-04-23,2025-04-29,usa,dental treatment in playa del carmen,0,5,0,65.8
+2025-04-23,2025-04-29,usa,dentist in playa del carmen,0,1,0,38
+2025-04-23,2025-04-29,usa,dentista barragan,0,1,0,7
+2025-04-23,2025-04-29,usa,dentista playa del carmen,0,1,0,15
+2025-04-23,2025-04-29,usa,dentistas en playa del carmen,0,1,0,53
+2025-04-23,2025-04-29,usa,dr barragan dentist,0,1,0,10
+2025-04-23,2025-04-29,usa,dr barragan mexico,0,5,0,2.4
+2025-04-23,2025-04-29,usa,playa del carmen dental,0,1,0,71

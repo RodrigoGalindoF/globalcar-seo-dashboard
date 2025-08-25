@@ -1,0 +1,104 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,mex,dr. ricardo alvarez,0,1,0,36
+2024-05-08,2024-05-14,mex,chef ricardo alvarez,0,2,0,1
+2024-05-15,2024-05-21,mex,minimally invasive dentist tijuana,0,1,0,11
+2024-05-22,2024-05-28,mex,ricardo alvarez,0,1,0,96
+2024-05-29,2024-06-04,mex,ricardo alvarez,0,1,0,1
+2024-06-05,2024-06-11,mex,ricardo álvarez,0,1,0,1
+2024-06-12,2024-06-18,mex,ricardo álvarez,0,1,0,1
+2024-06-19,2024-06-25,mex,doctor ricardo alvarez,0,1,0,8
+2024-06-19,2024-06-25,mex,ricardo álvarez,0,1,0,1
+2024-06-26,2024-07-02,mex,dr ricardo alvarez,1,2,0.5,2
+2024-07-03,2024-07-09,mex,minimally invasive dentist tijuana,0,1,0,7
+2024-07-10,2024-07-16,mex,dr ricardo alvarez,0,1,0,10
+2024-07-17,2024-07-23,mex,alvarez dental tijuana,0,1,0,18
+2024-07-17,2024-07-23,mex,ricardo álvarez,0,1,0,1
+2024-07-24,2024-07-30,mex,minimally invasive dentist tijuana,0,3,0,26
+2024-07-31,2024-08-06,mex,minimally invasive dentist tijuana,0,1,0,10
+2024-08-07,2024-08-13,mex,dentist alvarez,0,1,0,12
+2024-08-07,2024-08-13,mex,dentista alvarez,0,1,0,9
+2024-08-14,2024-08-20,mex,minimally invasive dentist tijuana,0,1,0,7
+2024-08-21,2024-08-27,mex,minimally invasive dentist tijuana,0,1,0,5
+2024-08-28,2024-09-03,mex,dr alvarez tijuana,0,1,0,8
+2024-09-04,2024-09-10,mex,dr alvarez dentist,0,1,0,4
+2024-09-11,2024-09-17,mex,alvarez dental tijuana,0,1,0,13
+2024-09-11,2024-09-17,mex,dr ricardo alvarez,0,1,0,2
+2024-09-18,2024-09-24,mex,dental alvarez tijuana,0,1,0,15
+2024-09-18,2024-09-24,mex,minimally invasive dentist tijuana,0,1,0,8
+2024-09-25,2024-10-01,mex,minimally invasive dentist tijuana,0,1,0,7
+2024-10-02,2024-10-08,mex,dr implant dentistry tijuana,0,1,0,97
+2024-10-02,2024-10-08,mex,minimally invasive dentist tijuana,0,2,0,7
+2024-10-09,2024-10-15,mex,dental alvarez photos,0,1,0,2
+2024-10-16,2024-10-22,mex,ricardo dentista,0,1,0,12
+2024-10-23,2024-10-29,mex,dr. implant - dentista en tijuana,0,1,0,97
+2024-10-23,2024-10-29,mex,minimally invasive dentist tijuana,0,1,0,7
+2024-10-23,2024-10-29,mex,ricardo dentist,0,1,0,11
+2024-10-30,2024-11-05,mex,dr ricardo dentista,0,1,0,12
+2024-10-30,2024-11-05,mex,dr. implant - dentista en tijuana,0,1,0,96
+2024-11-06,2024-11-12,mex,dr alvarez dentist,0,1,0,3
+2024-11-06,2024-11-12,mex,dr. implant - dentista en tijuana,0,1,0,64
+2024-11-06,2024-11-12,mex,minimally invasive dentist tijuana,0,1,0,5
+2024-11-13,2024-11-19,mex,dr ricardo alvarez,1,1,1,3
+2024-11-13,2024-11-19,mex,alvarez dental tijuana,0,1,0,8
+2024-11-13,2024-11-19,mex,dentista ricardo,0,2,0,9
+2024-11-13,2024-11-19,mex,dr alvarez dentist,0,1,0,7
+2024-11-20,2024-11-26,mex,dr. implant tijuana - dentista en tijuana,0,1,0,75
+2024-11-20,2024-11-26,mex,same day dentist tijuana,0,1,0,75
+2024-11-27,2024-12-03,mex,dentista alvarez,0,1,0,8
+2024-11-27,2024-12-03,mex,dr. implant tijuana - dentista en tijuana,0,1,0,84
+2024-12-04,2024-12-10,mex,dr alvarez tijuana,0,1,0,10
+2024-12-11,2024-12-17,mex,dr ricardo alvarez,1,1,1,3
+2024-12-11,2024-12-17,mex,all-on-4 dental implants baja california mexico,0,1,0,86
+2024-12-11,2024-12-17,mex,childrens dentist in the tijuana area,0,4,0,83.75
+2024-12-11,2024-12-17,mex,childrens dentist tijuana,0,4,0,62.5
+2024-12-11,2024-12-17,mex,dental alvarez,0,10,0,32.4
+2024-12-11,2024-12-17,mex,dental alvarez tijuana reviews,0,1,0,11
+2024-12-11,2024-12-17,mex,dentist alvarez,0,1,0,10
+2024-12-11,2024-12-17,mex,dr alvarez dentist,0,1,0,4
+2024-12-11,2024-12-17,mex,loreto dentist,0,2,0,82
+2024-12-11,2024-12-17,mex,pediatric dentist around tijuana mexico,0,7,0,52.285714285714285
+2024-12-11,2024-12-17,mex,tijuana childrens dentist,0,3,0,61.333333333333336
+2024-12-18,2024-12-24,mex,all-on-4 dental implants baja california mexico,0,3,0,90
+2024-12-18,2024-12-24,mex,childrens dentist in the tijuana area,0,1,0,63
+2024-12-18,2024-12-24,mex,childrens dentist tijuana,0,5,0,68.4
+2024-12-18,2024-12-24,mex,dental alvarez,0,5,0,29.4
+2024-12-18,2024-12-24,mex,dental alvarez tijuana,0,1,0,10
+2024-12-18,2024-12-24,mex,dr alvarez dental,0,1,0,7
+2024-12-18,2024-12-24,mex,dr alvarez dentist,0,1,0,3
+2024-12-18,2024-12-24,mex,dr implant dentistry tijuana,0,2,0,82
+2024-12-18,2024-12-24,mex,dr. implant - dentista en tijuana,0,1,0,37
+2024-12-18,2024-12-24,mex,dr. implant tijuana - dentista en tijuana,0,1,0,50
+2024-12-18,2024-12-24,mex,loreto dentist,0,2,0,77
+2024-12-18,2024-12-24,mex,pediatric dentist around tijuana mexico,0,7,0,58
+2024-12-18,2024-12-24,mex,tijuana childrens dentist,0,3,0,66.66666666666667
+2024-12-25,2024-12-31,mex,dental alvarez,0,3,0,38
+2024-12-25,2024-12-31,mex,dental alvarez reviews,0,1,0,10
+2024-12-25,2024-12-31,mex,dental alvarez tijuana,0,1,0,4
+2024-12-25,2024-12-31,mex,fotos de dental alvarez,0,2,0,10
+2024-12-25,2024-12-31,mex,pediatric dentist around tijuana mexico,0,4,0,67.25
+2025-01-01,2025-01-07,mex,dr. ricardo alvarez,1,1,1,3
+2025-01-01,2025-01-07,mex,dental alvarez,0,3,0,35.333333333333336
+2025-01-01,2025-01-07,mex,dr alvarez tijuana,0,1,0,8
+2025-01-01,2025-01-07,mex,dr ricardo alvarez,0,1,0,6
+2025-01-01,2025-01-07,mex,tijuana childrens dentist,0,1,0,93
+2025-01-08,2025-01-14,mex,doctor ricardo alvarez,1,1,1,3
+2025-01-08,2025-01-14,mex,alvarez dental,0,1,0,10
+2025-01-08,2025-01-14,mex,dental alvarez,0,2,0,30.5
+2025-01-08,2025-01-14,mex,dental alvarez tijuana,0,1,0,13
+2025-01-08,2025-01-14,mex,dental alvarez tijuana reviews,0,1,0,9
+2025-01-08,2025-01-14,mex,dentista alvarez,0,1,0,6
+2025-01-08,2025-01-14,mex,dr alvarez,0,1,0,6
+2025-01-08,2025-01-14,mex,dr alvarez tijuana,0,1,0,8
+2025-01-08,2025-01-14,mex,dr ricardo alvarez,0,1,0,7
+2025-01-15,2025-01-21,mex,alvarez dental,0,1,0,14
+2025-01-15,2025-01-21,mex,dental alvarez,0,1,0,26
+2025-01-15,2025-01-21,mex,dental alvarez tijuana,0,5,0,9.8
+2025-01-15,2025-01-21,mex,dentista alvarez,0,2,0,53.5
+2025-01-15,2025-01-21,mex,dr alvarez,0,2,0,6
+2025-01-15,2025-01-21,mex,dr alvarez dentist,0,1,0,10
+2025-01-15,2025-01-21,mex,dr ricardo alvarez,0,2,0,13.5
+2025-01-15,2025-01-21,mex,dr. alvarez,0,1,0,7
+2025-01-15,2025-01-21,mex,dr. implant - dentista en tijuana,0,1,0,92
+2025-01-15,2025-01-21,mex,dr. implant tijuana - dentista en tijuana,0,1,0,51
+2025-01-22,2025-01-28,mex,dr ricardo alvarez,1,1,1,3
+2025-01-22,2025-01-28,mex,dental alvarez tijuana,0,2,0,8

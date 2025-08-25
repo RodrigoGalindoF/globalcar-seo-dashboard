@@ -1,0 +1,21 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,aus,mexico,0,3,0,1
+2024-05-08,2024-05-14,aus,mexico capital,0,1,0,1
+2024-05-15,2024-05-21,aus,where is mexico,0,4,0,1
+2024-05-22,2024-05-28,aus,dental implants mexico city,0,1,0,53
+2024-05-22,2024-05-28,aus,where is mexico,0,1,0,1
+2024-05-29,2024-06-04,aus,where is mexico,0,1,0,1
+2024-06-05,2024-06-11,aus,where is mexico,0,2,0,1
+2024-06-12,2024-06-18,aus,where is mexico,0,4,0,1
+2024-06-19,2024-06-25,aus,where is mexico,0,5,0,1
+2024-06-26,2024-07-02,aus,where is mexico,0,2,0,1
+2024-07-03,2024-07-09,aus,where is mexico,0,3,0,1.3333333333333333
+2024-07-10,2024-07-16,aus,where is mexico,0,1,0,2
+2024-07-10,2024-07-16,aus,where us mexico,0,1,0,2
+2024-07-17,2024-07-23,aus,dentists in mexico city,0,1,0,25
+2024-07-24,2024-07-30,aus,mexico city dental tourism,0,1,0,72
+2024-07-31,2024-08-06,aus,international dental clinic mexico city,0,1,0,19
+2024-08-07,2024-08-13,aus,dental services in mexico,0,1,0,67
+2024-08-07,2024-08-13,aus,dentist mexico city,0,1,0,42
+2024-08-07,2024-08-13,aus,mexico city dentist prices,0,1,0,50
+2024-08-07,2024-08-13,aus,mexico dental clinic,0,1,0,86

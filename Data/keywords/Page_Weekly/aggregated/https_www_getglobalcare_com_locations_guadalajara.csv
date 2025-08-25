@@ -1,0 +1,505 @@
+start_date,end_date,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,dentist in guadalajara,0,1,0,53
+2024-05-01,2024-05-07,dentist in guadalajara mexico,0,1,0,53
+2024-05-01,2024-05-07,guadalajara dental,0,1,0,42
+2024-05-01,2024-05-07,guadalajara dental clinic,0,1,0,57
+2024-05-01,2024-05-07,guadalajara dental implants,0,1,0,57
+2024-05-08,2024-05-14,dental implants guadalajara mexico,0,2,0,45.5
+2024-05-08,2024-05-14,guadalajara dental,0,2,0,56.5
+2024-05-08,2024-05-14,guadalajara dental implants,0,5,0,60.2
+2024-05-08,2024-05-14,teeth implants in guadalajara jalisco,0,1,0,101
+2024-05-15,2024-05-21,dental implants guadalajara mexico,0,1,0,39
+2024-05-15,2024-05-21,dentist guadalajara,0,3,0,38.666666666666664
+2024-05-15,2024-05-21,dentist in guadalajara,0,4,0,39
+2024-05-15,2024-05-21,guadalajara dental,0,4,0,40.5
+2024-05-15,2024-05-21,guadalajara dental clinic,0,2,0,69
+2024-05-15,2024-05-21,guadalajara dental implants,0,6,0,53.5
+2024-05-15,2024-05-21,guadalajara dentist,0,1,0,64
+2024-05-15,2024-05-21,teeth implants in guadalajara jalisco,0,1,0,69
+2024-05-22,2024-05-28,dental implants guadalajara mexico,0,2,0,43
+2024-05-22,2024-05-28,dentist guadalajara,0,3,0,33.666666666666664
+2024-05-22,2024-05-28,dentist in guadalajara,0,1,0,34
+2024-05-22,2024-05-28,guadalajara dental clinic,0,3,0,62.666666666666664
+2024-05-22,2024-05-28,guadalajara dental implants,0,3,0,54.333333333333336
+2024-05-22,2024-05-28,guadalajara dentist,0,2,0,28
+2024-05-29,2024-06-04,dental implants guadalajara mexico,0,3,0,44.333333333333336
+2024-05-29,2024-06-04,guadalajara dental implants,0,6,0,60.5
+2024-05-29,2024-06-04,orthodontics place guadalajara,0,2,0,29
+2024-05-29,2024-06-04,teeth implants in guadalajara jalisco,0,1,0,76
+2024-06-05,2024-06-11,dental implants guadalajara mexico,0,4,0,43.75
+2024-06-05,2024-06-11,dental implants in guadalajara mexico,0,2,0,46.5
+2024-06-05,2024-06-11,dentist guadalajara,0,1,0,45
+2024-06-05,2024-06-11,guadalajara dental,0,2,0,70
+2024-06-05,2024-06-11,guadalajara dental care,0,2,0,70
+2024-06-05,2024-06-11,guadalajara dental clinic,0,1,0,62
+2024-06-05,2024-06-11,guadalajara dental implants,0,4,0,68
+2024-06-05,2024-06-11,teeth implants in guadalajara jalisco,0,4,0,74.5
+2024-06-12,2024-06-18,dental implants guadalajara mexico,0,2,0,66.5
+2024-06-12,2024-06-18,dental implants in guadalajara mexico,0,1,0,47
+2024-06-12,2024-06-18,dentist guadalajara,0,1,0,36
+2024-06-12,2024-06-18,guadalajara dental,0,4,0,51
+2024-06-12,2024-06-18,guadalajara dental clinic,0,2,0,60.5
+2024-06-12,2024-06-18,guadalajara dental implants,0,7,0,86.14285714285714
+2024-06-12,2024-06-18,guadalajara dentist,0,2,0,62.5
+2024-06-12,2024-06-18,teeth implants in guadalajara jalisco,0,2,0,85.5
+2024-06-12,2024-06-18,veneers in guadalajara mexico,0,1,0,79
+2024-06-19,2024-06-25,best dentist in guadalajara mexico,0,1,0,64
+2024-06-19,2024-06-25,dental implants guadalajara mexico,0,1,0,85
+2024-06-19,2024-06-25,dentist guadalajara,0,1,0,39
+2024-06-19,2024-06-25,guadalajara dental clinic,0,4,0,53
+2024-06-19,2024-06-25,guadalajara dental implants,0,3,0,91.66666666666667
+2024-06-19,2024-06-25,teeth implants in guadalajara jalisco,0,2,0,94
+2024-06-26,2024-07-02,guadalajara dental,0,1,0,56
+2024-06-26,2024-07-02,guadalajara dental implants,0,7,0,87.28571428571429
+2024-06-26,2024-07-02,teeth implants in guadalajara jalisco,0,5,0,88
+2024-06-26,2024-07-02,veneers guadalajara,0,2,0,44.5
+2024-06-26,2024-07-02,veneers in guadalajara mexico,0,1,0,73
+2024-07-03,2024-07-09,guadalajara dental care,0,1,0,57
+2024-07-03,2024-07-09,guadalajara dental implants,0,5,0,83.6
+2024-07-03,2024-07-09,orthodontics place guadalajara,0,1,0,6
+2024-07-03,2024-07-09,teeth implants in guadalajara jalisco,0,2,0,86
+2024-07-10,2024-07-16,guadalajara dental,0,2,0,38
+2024-07-10,2024-07-16,guadalajara dental clinic,0,1,0,68
+2024-07-10,2024-07-16,guadalajara dental implants,0,7,0,85.28571428571429
+2024-07-10,2024-07-16,guadalajara dentist,0,1,0,61
+2024-07-10,2024-07-16,teeth implants in guadalajara jalisco,0,4,0,101.25
+2024-07-17,2024-07-23,dentist guadalajara,0,3,0,42
+2024-07-17,2024-07-23,guadalajara dental,0,3,0,35
+2024-07-17,2024-07-23,guadalajara dental care,0,1,0,60
+2024-07-17,2024-07-23,guadalajara dental implants,0,4,0,84.75
+2024-07-17,2024-07-23,teeth implants in guadalajara jalisco,0,1,0,102
+2024-07-24,2024-07-30,dental implants guadalajara mexico,0,1,0,81
+2024-07-24,2024-07-30,guadalajara dental clinic,0,1,0,62
+2024-07-24,2024-07-30,guadalajara dental implants,0,6,0,83.5
+2024-07-24,2024-07-30,guadalajara dentist,0,1,0,54
+2024-07-31,2024-08-06,best dentist in guadalajara mexico,0,1,0,60
+2024-07-31,2024-08-06,guadalajara dental implants,0,5,0,87
+2024-08-07,2024-08-13,dental implants guadalajara mexico,0,1,0,78
+2024-08-07,2024-08-13,dental implants in guadalajara mexico,0,1,0,83
+2024-08-07,2024-08-13,guadalajara dental,0,2,0,39
+2024-08-07,2024-08-13,guadalajara dental clinic,0,1,0,56
+2024-08-07,2024-08-13,guadalajara dental implants,0,4,0,85.75
+2024-08-14,2024-08-20,dental implants guadalajara mexico,0,2,0,55
+2024-08-14,2024-08-20,dentist guadalajara,0,1,0,26
+2024-08-14,2024-08-20,dentist in guadalajara mexico,0,1,0,32
+2024-08-14,2024-08-20,guadalajara dental,0,2,0,37.5
+2024-08-14,2024-08-20,guadalajara dental clinic,0,4,0,54.5
+2024-08-14,2024-08-20,guadalajara dental implants,0,6,0,74.16666666666667
+2024-08-14,2024-08-20,guadalajara dentist,0,1,0,36
+2024-08-14,2024-08-20,save guadalajara,0,2,0,16.5
+2024-08-14,2024-08-20,veneers guadalajara,0,1,0,58
+2024-08-14,2024-08-20,veneers in guadalajara mexico,0,1,0,62
+2024-08-21,2024-08-27,best dentist in guadalajara mexico,0,1,0,54
+2024-08-21,2024-08-27,dental implants guadalajara mexico,0,2,0,59.5
+2024-08-21,2024-08-27,dentist guadalajara,0,2,0,30
+2024-08-21,2024-08-27,dentist in guadalajara,0,2,0,39.5
+2024-08-21,2024-08-27,guadalajara dental clinic,0,2,0,41
+2024-08-21,2024-08-27,guadalajara dental implants,0,3,0,76.66666666666667
+2024-08-21,2024-08-27,guadalajara dentist,0,3,0,32.33333333333333
+2024-08-21,2024-08-27,orthodontics place guadalajara,0,1,0,12
+2024-08-21,2024-08-27,veneers guadalajara,0,1,0,53
+2024-08-28,2024-09-03,dental implants guadalajara mexico,0,3,0,53
+2024-08-28,2024-09-03,dental implants in guadalajara mexico,0,2,0,59
+2024-08-28,2024-09-03,dentist guadalajara,0,2,0,35.5
+2024-08-28,2024-09-03,dentist in guadalajara,0,1,0,34
+2024-08-28,2024-09-03,dentist in guadalajara mexico,0,1,0,35
+2024-08-28,2024-09-03,guadalajara dental,0,1,0,44
+2024-08-28,2024-09-03,guadalajara dental care,0,1,0,60
+2024-08-28,2024-09-03,guadalajara dental clinic,0,10,0,55.8
+2024-08-28,2024-09-03,guadalajara dental implants,0,7,0,85
+2024-08-28,2024-09-03,teeth implants in guadalajara jalisco,0,6,0,78.83333333333333
+2024-08-28,2024-09-03,veneers guadalajara,0,1,0,67
+2024-09-04,2024-09-10,dental guadalajara,0,1,0,63
+2024-09-04,2024-09-10,dental implants guadalajara mexico,0,1,0,60
+2024-09-04,2024-09-10,dentist in guadalajara,0,1,0,33
+2024-09-04,2024-09-10,dentists in guadalajara mexico,0,1,0,35
+2024-09-04,2024-09-10,guadalajara dental,0,3,0,40.666666666666664
+2024-09-04,2024-09-10,guadalajara dental clinic,0,2,0,57
+2024-09-04,2024-09-10,guadalajara dental implants,0,3,0,82
+2024-09-04,2024-09-10,teeth implants in guadalajara jalisco,0,6,0,78.16666666666667
+2024-09-11,2024-09-17,dental implants guadalajara mexico,0,1,0,52
+2024-09-11,2024-09-17,dentist in guadalajara mexico,0,1,0,34
+2024-09-11,2024-09-17,guadalajara dental,0,2,0,55
+2024-09-11,2024-09-17,guadalajara dental implants,0,4,0,84.25
+2024-09-11,2024-09-17,guadalajara dentist,0,2,0,42.5
+2024-09-18,2024-09-24,dental guadalajara,0,1,0,70
+2024-09-18,2024-09-24,dental implants guadalajara mexico,0,2,0,44
+2024-09-18,2024-09-24,dentist guadalajara,0,4,0,35.25
+2024-09-18,2024-09-24,guadalajara dentist,0,2,0,43
+2024-09-18,2024-09-24,teeth implants in guadalajara jalisco,0,4,0,54.25
+2024-09-25,2024-10-01,dental implants guadalajara mexico,0,1,0,45
+2024-09-25,2024-10-01,guadalajara dental care,0,1,0,37
+2024-09-25,2024-10-01,guadalajara dental implants,0,6,0,39.166666666666664
+2024-09-25,2024-10-01,teeth implants in guadalajara jalisco,0,6,0,56.166666666666664
+2024-10-02,2024-10-08,adwords partner guadalajara,0,1,0,31
+2024-10-02,2024-10-08,dental guadalajara,0,1,0,65
+2024-10-02,2024-10-08,dental implants guadalajara mexico,0,1,0,30
+2024-10-02,2024-10-08,guadalajara dental implants,0,3,0,45.666666666666664
+2024-10-02,2024-10-08,guadalajara dentist,0,1,0,25
+2024-10-02,2024-10-08,teeth implants in guadalajara jalisco,0,5,0,58.8
+2024-10-09,2024-10-15,best dentist in guadalajara mexico,0,1,0,47
+2024-10-09,2024-10-15,dental implants guadalajara mexico,0,3,0,29.666666666666668
+2024-10-09,2024-10-15,dental jalisco,0,1,0,77
+2024-10-09,2024-10-15,dentist in guadalajara,0,2,0,32.5
+2024-10-09,2024-10-15,guadalajara dental care,0,1,0,18
+2024-10-09,2024-10-15,guadalajara dental implants,0,6,0,35.333333333333336
+2024-10-09,2024-10-15,save guadalajara,0,2,0,30.5
+2024-10-09,2024-10-15,teeth implants in guadalajara jalisco,0,4,0,44
+2024-10-16,2024-10-22,dental implants guadalajara mexico,0,1,0,31
+2024-10-16,2024-10-22,dentist guadalajara,0,3,0,26
+2024-10-16,2024-10-22,guadalajara dental,0,2,0,36
+2024-10-16,2024-10-22,guadalajara dental care,0,2,0,30
+2024-10-16,2024-10-22,guadalajara dental implants,0,6,0,34.333333333333336
+2024-10-16,2024-10-22,teeth implants in guadalajara jalisco,0,7,0,42.857142857142854
+2024-10-23,2024-10-29,dental implants guadalajara mexico,0,2,0,30
+2024-10-23,2024-10-29,dentist guadalajara,0,2,0,23
+2024-10-23,2024-10-29,dentist in guadalajara,0,1,0,28
+2024-10-23,2024-10-29,guadalajara dental care,0,2,0,15.5
+2024-10-23,2024-10-29,guadalajara dental clinic,0,2,0,36
+2024-10-23,2024-10-29,guadalajara dental implants,0,8,0,33.25
+2024-10-23,2024-10-29,guadalajara dentist,0,3,0,26
+2024-10-23,2024-10-29,guadalajara locations,0,1,0,97
+2024-10-23,2024-10-29,teeth implants in guadalajara jalisco,0,7,0,39.42857142857143
+2024-10-30,2024-11-05,dental guadalajara,0,1,0,43
+2024-10-30,2024-11-05,dental implants guadalajara mexico,0,1,0,29
+2024-10-30,2024-11-05,english speaking dentist near me,0,2,0,11
+2024-10-30,2024-11-05,genesiscare guadalajara,0,1,0,92
+2024-10-30,2024-11-05,guadalajara dental,0,1,0,24
+2024-10-30,2024-11-05,guadalajara dental clinic,0,5,0,40
+2024-10-30,2024-11-05,guadalajara dental implants,0,6,0,31.833333333333332
+2024-10-30,2024-11-05,guadalajara dentist,0,3,0,32.33333333333333
+2024-10-30,2024-11-05,teeth implants in guadalajara jalisco,0,5,0,38.4
+2024-11-06,2024-11-12,dental care guadalajara,0,1,0,10
+2024-11-06,2024-11-12,dental implants guadalajara mexico,0,2,0,30.5
+2024-11-06,2024-11-12,dentist in guadalajara mexico,0,1,0,30
+2024-11-06,2024-11-12,guadalajara dental clinic,0,5,0,39.4
+2024-11-06,2024-11-12,guadalajara dental implants,0,1,0,31
+2024-11-06,2024-11-12,teeth implants in guadalajara jalisco,0,6,0,37.833333333333336
+2024-11-13,2024-11-19,dental care,0,1,0,12
+2024-11-13,2024-11-19,dental implants guadalajara mexico,0,1,0,36
+2024-11-13,2024-11-19,dentist in guadalajara,0,2,0,26
+2024-11-13,2024-11-19,dentist in guadalajara mexico,0,1,0,30
+2024-11-13,2024-11-19,guadalajara dental,0,1,0,25
+2024-11-13,2024-11-19,guadalajara dental care,0,3,0,20.666666666666668
+2024-11-13,2024-11-19,guadalajara dental clinic,0,10,0,31.3
+2024-11-13,2024-11-19,guadalajara dental implants,0,3,0,32
+2024-11-13,2024-11-19,guadalajara dentist,0,1,0,24
+2024-11-13,2024-11-19,teeth implants in guadalajara jalisco,0,5,0,39
+2024-11-13,2024-11-19,veneers guadalajara,0,1,0,33
+2024-11-20,2024-11-26,dental implants guadalajara mexico,0,1,0,29
+2024-11-20,2024-11-26,dentist guadalajara,0,6,0,20.833333333333332
+2024-11-20,2024-11-26,dentist in guadalajara,0,3,0,23.666666666666668
+2024-11-20,2024-11-26,guadalajara dental care,0,2,0,17.5
+2024-11-20,2024-11-26,guadalajara dental clinic,0,18,0,35.166666666666664
+2024-11-20,2024-11-26,guadalajara dental implants,0,5,0,26.2
+2024-11-20,2024-11-26,guadalajara dentist,0,3,0,17
+2024-11-20,2024-11-26,teeth implants in guadalajara jalisco,0,6,0,40.333333333333336
+2024-11-27,2024-12-03,dental guadalajara,0,2,0,49
+2024-11-27,2024-12-03,dentist guadalajara,0,1,0,16
+2024-11-27,2024-12-03,guadalajara dental,0,1,0,18
+2024-11-27,2024-12-03,guadalajara dental clinic,0,13,0,33.53846153846154
+2024-11-27,2024-12-03,guadalajara dental implants,0,6,0,35
+2024-11-27,2024-12-03,teeth implants in guadalajara jalisco,0,2,0,53
+2024-12-04,2024-12-10,caredent guadalajara,0,1,0,19
+2024-12-04,2024-12-10,dental implants guadalajara mexico,0,2,0,46.5
+2024-12-04,2024-12-10,guadalajara dental,0,1,0,21
+2024-12-04,2024-12-10,guadalajara dental clinic,0,12,0,30.166666666666668
+2024-12-04,2024-12-10,guadalajara dental implants,0,7,0,42.714285714285715
+2024-12-04,2024-12-10,teeth implants in guadalajara jalisco,0,6,0,47.833333333333336
+2024-12-11,2024-12-17,dental implants guadalajara mexico,0,1,0,27
+2024-12-11,2024-12-17,dentist in guadalajara mexico,0,1,0,26
+2024-12-11,2024-12-17,globalcare,0,1,0,2
+2024-12-11,2024-12-17,guadalajara dental,0,1,0,19
+2024-12-11,2024-12-17,guadalajara dental clinic,0,14,0,28.928571428571427
+2024-12-11,2024-12-17,guadalajara dental implants,0,7,0,28.857142857142858
+2024-12-11,2024-12-17,teeth implants in guadalajara jalisco,0,7,0,35.57142857142857
+2024-12-18,2024-12-24,dental implants guadalajara mexico,0,2,0,37.5
+2024-12-18,2024-12-24,globalcare,0,1,0,2
+2024-12-18,2024-12-24,guadalajara dental,0,2,0,22.5
+2024-12-18,2024-12-24,guadalajara dental care,0,1,0,16
+2024-12-18,2024-12-24,guadalajara dental clinic,0,15,0,29.333333333333332
+2024-12-18,2024-12-24,guadalajara dental implants,0,5,0,26.2
+2024-12-18,2024-12-24,guadalajara dentist,0,1,0,17
+2024-12-18,2024-12-24,teeth implants in guadalajara jalisco,0,6,0,31.5
+2024-12-25,2024-12-31,dental care,0,1,0,9
+2024-12-25,2024-12-31,dental care today,0,1,0,6
+2024-12-25,2024-12-31,dental implants guadalajara mexico,0,2,0,41
+2024-12-25,2024-12-31,dentist in guadalajara,0,1,0,28
+2024-12-25,2024-12-31,dentist in guadalajara mexico,0,1,0,26
+2024-12-25,2024-12-31,guadalajara coordinates,0,2,0,1
+2024-12-25,2024-12-31,guadalajara dental,0,3,0,25
+2024-12-25,2024-12-31,guadalajara dental clinic,0,13,0,32.15384615384615
+2024-12-25,2024-12-31,guadalajara dental implants,0,7,0,25.857142857142858
+2024-12-25,2024-12-31,guadalajara dentist,0,2,0,27.5
+2024-12-25,2024-12-31,teeth implants in guadalajara jalisco,0,9,0,34.22222222222222
+2025-01-01,2025-01-07,dental implants guadalajara mexico,0,2,0,33.5
+2025-01-01,2025-01-07,english speaking dental clinic near me,0,1,0,9
+2025-01-01,2025-01-07,guadalajara dental,0,1,0,24
+2025-01-01,2025-01-07,guadalajara dental care,0,1,0,21
+2025-01-01,2025-01-07,guadalajara dental clinic,0,8,0,31.875
+2025-01-01,2025-01-07,guadalajara dental implants,0,5,0,26.6
+2025-01-01,2025-01-07,teeth implants in guadalajara jalisco,0,6,0,33.833333333333336
+2025-01-08,2025-01-14,alternatives to all on 4 dental implants algodones,0,1,0,79
+2025-01-08,2025-01-14,dental cleaning near me,0,2,0,10
+2025-01-08,2025-01-14,dental implants guadalajara mexico,0,1,0,45
+2025-01-08,2025-01-14,dental implants in guadalajara mexico,0,1,0,32
+2025-01-08,2025-01-14,dentist in guadalajara,0,1,0,27
+2025-01-08,2025-01-14,dentist in guadalajara mexico,0,1,0,24
+2025-01-08,2025-01-14,guadalajara dental implants,0,7,0,32.42857142857143
+2025-01-08,2025-01-14,teeth implants in guadalajara jalisco,0,7,0,34.714285714285715
+2025-01-15,2025-01-21,alternatives to all on 4 dental implants algodones,0,1,0,93
+2025-01-15,2025-01-21,dental care,0,1,0,10
+2025-01-15,2025-01-21,dental care guadalajara,0,2,0,13
+2025-01-15,2025-01-21,dental implants guadalajara mexico,0,1,0,40
+2025-01-15,2025-01-21,dentist in guadalajara,0,1,0,30
+2025-01-15,2025-01-21,english speaking dentist near me,0,1,0,11
+2025-01-15,2025-01-21,guadalajara dental,0,6,0,26.5
+2025-01-15,2025-01-21,guadalajara dental care,0,1,0,21
+2025-01-15,2025-01-21,guadalajara dental clinic,0,14,0,32.14285714285714
+2025-01-15,2025-01-21,guadalajara dental implants,0,6,0,29.5
+2025-01-15,2025-01-21,guadalajara dentist,0,1,0,27
+2025-01-15,2025-01-21,teeth implants in guadalajara jalisco,0,6,0,35
+2025-01-15,2025-01-21,walk in dentist near me,0,1,0,10
+2025-01-22,2025-01-28,dental care,0,2,0,8.5
+2025-01-22,2025-01-28,dental care guadalajara,0,1,0,12
+2025-01-22,2025-01-28,dental carr,0,1,0,9
+2025-01-22,2025-01-28,dentist in guadalajara mexico,0,1,0,29
+2025-01-22,2025-01-28,global dental,0,2,0,7.5
+2025-01-22,2025-01-28,guadalajara dental,0,1,0,24
+2025-01-22,2025-01-28,guadalajara dental care,0,1,0,8
+2025-01-22,2025-01-28,guadalajara dental clinic,0,13,0,27.23076923076923
+2025-01-22,2025-01-28,guadalajara dental implants,0,6,0,30.333333333333332
+2025-01-22,2025-01-28,guadalajara dentist,0,1,0,28
+2025-01-22,2025-01-28,teeth implants in guadalajara jalisco,0,5,0,37.4
+2025-01-29,2025-02-04,dental implants guadalajara mexico,0,1,0,54
+2025-01-29,2025-02-04,dental work,0,1,0,7
+2025-01-29,2025-02-04,go dental care,0,1,0,3
+2025-01-29,2025-02-04,guadalajara dental,0,1,0,23
+2025-01-29,2025-02-04,guadalajara dental clinic,0,15,0,28.333333333333332
+2025-01-29,2025-02-04,guadalajara dental implants,0,6,0,32.16666666666667
+2025-01-29,2025-02-04,guadalajara dentist,0,3,0,20
+2025-01-29,2025-02-04,teeth implants in guadalajara jalisco,0,7,0,44.285714285714285
+2025-02-05,2025-02-11,dental care without insurance,0,1,0,50
+2025-02-05,2025-02-11,dental implants guadalajara mexico,0,1,0,64
+2025-02-05,2025-02-11,guadalajara dental care,0,1,0,18
+2025-02-05,2025-02-11,guadalajara dental clinic,0,13,0,29.46153846153846
+2025-02-05,2025-02-11,guadalajara dental implants,0,4,0,33.5
+2025-02-05,2025-02-11,guadalajara dentist,0,1,0,11
+2025-02-05,2025-02-11,teeth implants in guadalajara jalisco,0,6,0,42
+2025-02-12,2025-02-18,dental implants guadalajara mexico,0,1,0,62
+2025-02-12,2025-02-18,guadalajara dental,0,4,0,21.75
+2025-02-12,2025-02-18,guadalajara dental care,0,2,0,17
+2025-02-12,2025-02-18,guadalajara dental clinic,0,14,0,28.214285714285715
+2025-02-12,2025-02-18,guadalajara dental implants,0,4,0,28.5
+2025-02-12,2025-02-18,teeth implants in guadalajara jalisco,0,7,0,39.714285714285715
+2025-02-19,2025-02-25,dental implants guadalajara mexico,0,1,0,31
+2025-02-19,2025-02-25,globalcare,0,1,0,1
+2025-02-19,2025-02-25,guadalajara dental,0,3,0,21.666666666666668
+2025-02-19,2025-02-25,guadalajara dental clinic,0,9,0,27.333333333333332
+2025-02-19,2025-02-25,guadalajara dental implants,0,7,0,30.428571428571427
+2025-02-19,2025-02-25,guadalajara dentist,0,1,0,28
+2025-02-19,2025-02-25,teeth implants in guadalajara jalisco,0,6,0,44.833333333333336
+2025-02-26,2025-03-04,globalcare,0,1,0,1
+2025-02-26,2025-03-04,guadalajara dental,0,2,0,21.5
+2025-02-26,2025-03-04,guadalajara dental care,0,2,0,17.5
+2025-02-26,2025-03-04,guadalajara dental clinic,0,12,0,25.5
+2025-02-26,2025-03-04,guadalajara dental implants,0,8,0,29.375
+2025-02-26,2025-03-04,guadalajara dentist,0,3,0,23.333333333333332
+2025-02-26,2025-03-04,teeth implants in guadalajara jalisco,0,5,0,47
+2025-03-05,2025-03-11,dentist in guadalajara mexico,0,1,0,29
+2025-03-05,2025-03-11,global dental,0,1,0,8
+2025-03-05,2025-03-11,globalcare,0,1,0,1
+2025-03-05,2025-03-11,guadalajara dental clinic,0,8,0,24
+2025-03-05,2025-03-11,guadalajara dental implants,0,7,0,30
+2025-03-12,2025-03-18,care guadalajara,0,1,0,10
+2025-03-12,2025-03-18,dental implants guadalajara mexico,0,1,0,56
+2025-03-12,2025-03-18,guadalajara dental,0,2,0,26.5
+2025-03-12,2025-03-18,guadalajara dental care,0,1,0,16
+2025-03-12,2025-03-18,guadalajara dental clinic,0,14,0,23.428571428571427
+2025-03-12,2025-03-18,guadalajara dental implants,0,7,0,29
+2025-03-12,2025-03-18,guadalajara dentist,0,1,0,25
+2025-03-19,2025-03-25,dental implants guadalajara mexico,0,1,0,56
+2025-03-19,2025-03-25,dentist guadalajara,0,5,0,25.8
+2025-03-19,2025-03-25,dentist in guadalajara,0,5,0,25.6
+2025-03-19,2025-03-25,dentist in guadalajara mexico,0,1,0,23
+2025-03-19,2025-03-25,global care,0,1,0,12
+2025-03-19,2025-03-25,guadalajara dental,0,8,0,21.75
+2025-03-19,2025-03-25,guadalajara dental care,0,1,0,20
+2025-03-19,2025-03-25,guadalajara dental clinic,0,18,0,29.444444444444443
+2025-03-19,2025-03-25,guadalajara dental implants,0,5,0,30.2
+2025-03-19,2025-03-25,guadalajara dentist,0,1,0,31
+2025-03-26,2025-04-01,dental filling near me,0,1,0,5
+2025-03-26,2025-04-01,dentist guadalajara,0,1,0,25
+2025-03-26,2025-04-01,dentist in guadalajara mexico,0,2,0,23
+2025-03-26,2025-04-01,guadalajara dental,0,3,0,32.66666666666667
+2025-03-26,2025-04-01,guadalajara dental care,0,1,0,19
+2025-03-26,2025-04-01,guadalajara dental clinic,0,14,0,29.714285714285715
+2025-03-26,2025-04-01,guadalajara dental implants,0,6,0,31.5
+2025-03-26,2025-04-01,guadalajara dentist,0,5,0,27.6
+2025-04-02,2025-04-08,dental filling near me,0,1,0,5
+2025-04-02,2025-04-08,dentist guadalajara,0,1,0,48
+2025-04-02,2025-04-08,dentist in guadalajara,0,1,0,25
+2025-04-02,2025-04-08,dentist in guadalajara mexico,0,1,0,24
+2025-04-02,2025-04-08,global care,0,1,0,3
+2025-04-02,2025-04-08,globalcare,0,1,0,1
+2025-04-02,2025-04-08,guadalajara dental,0,1,0,45
+2025-04-02,2025-04-08,guadalajara dental care,0,2,0,27.5
+2025-04-02,2025-04-08,guadalajara dental clinic,0,13,0,31.846153846153847
+2025-04-02,2025-04-08,guadalajara dental implants,0,7,0,33.285714285714285
+2025-04-02,2025-04-08,teeth cleaning near me,0,1,0,11
+2025-04-09,2025-04-15,country dental,0,1,0,12
+2025-04-09,2025-04-15,guadalajara dental,0,5,0,31
+2025-04-09,2025-04-15,guadalajara dental care,0,1,0,34
+2025-04-09,2025-04-15,guadalajara dental clinic,0,16,0,34
+2025-04-09,2025-04-15,guadalajara dental implants,0,7,0,34.714285714285715
+2025-04-09,2025-04-15,living in guadalajara,0,1,0,1
+2025-04-09,2025-04-15,parts of guadalajara,0,1,0,1
+2025-04-09,2025-04-15,teeth cleaning near me,0,2,0,11.5
+2025-04-09,2025-04-15,va dental care near me,0,1,0,10
+2025-04-16,2025-04-22,affordable dental care,0,1,0,47
+2025-04-16,2025-04-22,dental implants in guadalajara mexico,0,1,0,35
+2025-04-16,2025-04-22,dentist appointment,0,1,0,25
+2025-04-16,2025-04-22,dentist guadalajara,0,2,0,50
+2025-04-16,2025-04-22,dentist in guadalajara,0,5,0,48
+2025-04-16,2025-04-22,dentist in guadalajara mexico,0,2,0,40
+2025-04-16,2025-04-22,global dental,0,1,0,10
+2025-04-16,2025-04-22,globalcare,0,1,0,2
+2025-04-16,2025-04-22,guadalajara,0,1,0,1
+2025-04-16,2025-04-22,guadalajara dental,0,1,0,46
+2025-04-16,2025-04-22,guadalajara dental clinic,0,18,0,34.666666666666664
+2025-04-16,2025-04-22,guadalajara dental implants,0,6,0,36.333333333333336
+2025-04-16,2025-04-22,guadalajara safety,0,1,0,1
+2025-04-16,2025-04-22,teeth cleaning near me,0,3,0,8.666666666666668
+2025-04-16,2025-04-22,walk in dentist near me,0,3,0,7
+2025-04-23,2025-04-29,affordable dental care,0,1,0,47
+2025-04-23,2025-04-29,best area to stay in guadalajara,0,1,0,1
+2025-04-23,2025-04-29,dental care,0,1,0,8
+2025-04-23,2025-04-29,dental implants guadalajara mexico,0,1,0,44
+2025-04-23,2025-04-29,dental implants in guadalajara mexico,0,1,0,57
+2025-04-23,2025-04-29,dentist guadalajara,0,3,0,50.666666666666664
+2025-04-23,2025-04-29,dentist in guadalajara,0,1,0,49
+2025-04-23,2025-04-29,dentist in guadalajara mexico,0,5,0,44.2
+2025-04-23,2025-04-29,global dental,0,1,0,8
+2025-04-23,2025-04-29,globalcare,0,1,0,3
+2025-04-23,2025-04-29,guadalajara dental,0,1,0,50
+2025-04-23,2025-04-29,guadalajara dental clinic,0,17,0,35.35294117647059
+2025-04-23,2025-04-29,guadalajara dental implants,0,7,0,42.285714285714285
+2025-04-23,2025-04-29,guadalajara dentist,0,7,0,52
+2025-04-30,2025-05-06,dental implants guadalajara mexico,0,1,0,44
+2025-04-30,2025-05-06,dentist guadalajara,0,1,0,48
+2025-04-30,2025-05-06,dentist in guadalajara,0,1,0,49
+2025-04-30,2025-05-06,dentist near me english speaking,0,4,0,8.5
+2025-04-30,2025-05-06,globalcare,0,1,0,1
+2025-04-30,2025-05-06,guadalajara dental,0,4,0,49.5
+2025-04-30,2025-05-06,guadalajara dental care,0,2,0,34
+2025-04-30,2025-05-06,guadalajara dental clinic,0,14,0,40.07142857142857
+2025-04-30,2025-05-06,guadalajara dental implants,0,10,0,46.7
+2025-05-07,2025-05-13,globalcare,0,1,0,1
+2025-05-07,2025-05-13,guadalajara dental,0,1,0,50
+2025-05-07,2025-05-13,guadalajara dental care,0,1,0,35
+2025-05-07,2025-05-13,guadalajara dental clinic,0,15,0,39.333333333333336
+2025-05-07,2025-05-13,guadalajara dental implants,0,11,0,47
+2025-05-07,2025-05-13,guadalajara dentist,0,1,0,42
+2025-05-14,2025-05-20,dentist in guadalajara mexico,0,1,0,53
+2025-05-14,2025-05-20,english speaking dentist near me,0,1,0,8
+2025-05-14,2025-05-20,guadalajara dental,0,2,0,64.5
+2025-05-14,2025-05-20,guadalajara dental care,0,2,0,39
+2025-05-14,2025-05-20,guadalajara dental clinic,0,14,0,41.714285714285715
+2025-05-14,2025-05-20,guadalajara dental implants,0,3,0,46
+2025-05-14,2025-05-20,guadalajara dentist,0,2,0,56
+2025-05-14,2025-05-20,where should i stay in guadalajara,0,1,0,1
+2025-05-21,2025-05-27,dentist guadalajara,0,1,0,67
+2025-05-21,2025-05-27,dentist in guadalajara mexico,0,1,0,44
+2025-05-21,2025-05-27,guadalajara dental,0,3,0,51
+2025-05-21,2025-05-27,guadalajara dental care,0,1,0,13
+2025-05-21,2025-05-27,guadalajara dental clinic,0,25,0,39.12
+2025-05-21,2025-05-27,guadalajara dental implants,0,20,0,44.4
+2025-05-21,2025-05-27,guadalajara dentist,0,2,0,62.5
+2025-05-28,2025-06-03,best neighborhoods to stay in guadalajara,0,1,0,1
+2025-05-28,2025-06-03,dental care,0,1,0,10
+2025-05-28,2025-06-03,dentist guadalajara,0,2,0,52.5
+2025-05-28,2025-06-03,dentist in guadalajara mexico,0,1,0,45
+2025-05-28,2025-06-03,globalcare,0,2,0,1
+2025-05-28,2025-06-03,guadalajara dental,0,2,0,36.5
+2025-05-28,2025-06-03,guadalajara dental clinic,0,14,0,36.214285714285715
+2025-05-28,2025-06-03,guadalajara dental implants,0,9,0,44.55555555555556
+2025-05-28,2025-06-03,guadalajara dentist,0,3,0,62
+2025-05-28,2025-06-03,is guadalajara safe for tourists 2025,0,5,0,1
+2025-05-28,2025-06-03,safest neighborhoods in guadalajara mexico,0,2,0,1
+2025-06-04,2025-06-10,dental appointment,0,1,0,1
+2025-06-04,2025-06-10,dental care,0,1,0,7
+2025-06-04,2025-06-10,dentist guadalajara,0,3,0,46.333333333333336
+2025-06-04,2025-06-10,global dental,0,1,0,10
+2025-06-04,2025-06-10,guadalajara dental care,0,1,0,33
+2025-06-04,2025-06-10,guadalajara dental clinic,0,16,0,37.6875
+2025-06-04,2025-06-10,guadalajara dental implants,0,6,0,44.666666666666664
+2025-06-04,2025-06-10,guadalajara medical tourism,0,1,0,93
+2025-06-04,2025-06-10,safest neighborhoods in guadalajara,0,1,0,1
+2025-06-11,2025-06-17,dentist guadalajara,0,1,0,49
+2025-06-11,2025-06-17,dentist in guadalajara,0,1,0,50
+2025-06-11,2025-06-17,dentist in guadalajara mexico,0,2,0,45
+2025-06-11,2025-06-17,facelift guadalajara,0,1,0,1
+2025-06-11,2025-06-17,guadalajara best neighborhoods,0,1,0,1
+2025-06-11,2025-06-17,guadalajara dental,0,6,0,51.833333333333336
+2025-06-11,2025-06-17,guadalajara dental care,0,1,0,49
+2025-06-11,2025-06-17,guadalajara dental clinic,0,12,0,34
+2025-06-11,2025-06-17,guadalajara dental implants,0,5,0,44.6
+2025-06-11,2025-06-17,guadalajara dentist,0,5,0,48.2
+2025-06-11,2025-06-17,guadalajara medical tourism,0,3,0,82.33333333333333
+2025-06-11,2025-06-17,guadalajara travel tips,0,2,0,1
+2025-06-11,2025-06-17,zapopan,0,1,0,1
+2025-06-11,2025-06-17,zopopan,0,2,0,1
+2025-06-18,2025-06-24,dental filling near me,0,1,0,6
+2025-06-18,2025-06-24,dental implants guadalajara mexico,0,3,0,45.333333333333336
+2025-06-18,2025-06-24,dental jalisco tijuana,0,1,0,81
+2025-06-18,2025-06-24,dentist guadalajara,0,2,0,32.5
+2025-06-18,2025-06-24,dentist in guadalajara,0,3,0,46.666666666666664
+2025-06-18,2025-06-24,guadalajara dental care,0,1,0,49
+2025-06-18,2025-06-24,guadalajara dental clinic,0,10,0,28.7
+2025-06-18,2025-06-24,guadalajara dental implants,0,2,0,43
+2025-06-18,2025-06-24,guadalajara travel tips,0,1,0,1
+2025-06-25,2025-07-01,dental filling near me,0,1,0,11
+2025-06-25,2025-07-01,dental walk in clinic near me,0,1,0,5
+2025-06-25,2025-07-01,dentist guadalajara,0,2,0,55
+2025-06-25,2025-07-01,dentist in guadalajara,0,1,0,49
+2025-06-25,2025-07-01,global dental,0,1,0,8
+2025-06-25,2025-07-01,guadalajara clinic,0,2,0,61.5
+2025-06-25,2025-07-01,guadalajara dental,0,2,0,35.5
+2025-06-25,2025-07-01,guadalajara dental care,0,1,0,39
+2025-06-25,2025-07-01,guadalajara dental clinic,0,11,0,27.818181818181817
+2025-06-25,2025-07-01,guadalajara dentist,0,1,0,56
+2025-06-25,2025-07-01,guadalajara facelift,0,2,0,1
+2025-06-25,2025-07-01,universal dental clinic,0,1,0,45
+2025-07-02,2025-07-08,dental care,0,1,0,8
+2025-07-02,2025-07-08,dental care mexico,0,1,0,99
+2025-07-02,2025-07-08,dentist in guadalajara,0,2,0,50
+2025-07-02,2025-07-08,dentist near me,0,1,0,9
+2025-07-02,2025-07-08,guadalajara chat,0,1,0,39
+2025-07-02,2025-07-08,guadalajara dental,0,1,0,39
+2025-07-02,2025-07-08,guadalajara dental clinic,0,9,0,26.77777777777778
+2025-07-02,2025-07-08,medical dental center,0,1,0,11
+2025-07-02,2025-07-08,top dental guadalajara,0,1,0,26
+2025-07-09,2025-07-15,affordable dental care,0,1,0,18
+2025-07-09,2025-07-15,best dentist in guadalajara mexico,0,1,0,38
+2025-07-09,2025-07-15,dental care clinic,0,1,0,11
+2025-07-09,2025-07-15,dental city zapopan,0,1,0,21
+2025-07-09,2025-07-15,dental implants in guadalajara mexico,0,1,0,60
+2025-07-09,2025-07-15,dentist guadalajara,0,1,0,43
+2025-07-09,2025-07-15,dentist in guadalajara,0,1,0,52
+2025-07-09,2025-07-15,dentist in guadalajara mexico,0,1,0,32
+2025-07-09,2025-07-15,dentist near me,0,1,0,12
+2025-07-09,2025-07-15,globalcare,0,2,0,1
+2025-07-09,2025-07-15,guadalajara clinic,0,1,0,50
+2025-07-09,2025-07-15,guadalajara dental,0,3,0,39.666666666666664
+2025-07-09,2025-07-15,guadalajara dental care,0,1,0,41
+2025-07-09,2025-07-15,guadalajara dental clinic,0,10,0,28
+2025-07-09,2025-07-15,guadalajara dental implants,0,1,0,41
+2025-07-09,2025-07-15,guadalajara dentist,0,2,0,37
+2025-07-09,2025-07-15,nearest dentist,0,1,0,7
+2025-07-09,2025-07-15,retiring in guadalajara mexico,0,4,0,1
+2025-07-16,2025-07-22,cheap dentist near me,0,1,0,12
+2025-07-16,2025-07-22,dental care,0,1,0,11
+2025-07-16,2025-07-22,guadalajara dental clinic,0,5,0,31
+2025-07-16,2025-07-22,guadalajara dental implants,0,2,0,63
+2025-07-16,2025-07-22,medical tourism guadalajara,0,1,0,49
+2025-07-16,2025-07-22,travel doctor,0,2,0,45

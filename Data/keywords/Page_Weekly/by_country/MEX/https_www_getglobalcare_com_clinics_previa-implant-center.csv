@@ -1,0 +1,377 @@
+start_date,end_date,country,query,clicks,impressions,ctr,position
+2024-05-01,2024-05-07,mex,previa dental works,0,1,0,4
+2024-05-01,2024-05-07,mex,previa implant center,0,1,0,9
+2024-05-08,2024-05-14,mex,previa dental works,0,1,0,5
+2024-05-08,2024-05-14,mex,previa implant center,0,1,0,8
+2024-05-15,2024-05-21,mex,previa implant center,0,1,0,8
+2024-05-22,2024-05-28,mex,previa implant center,0,1,0,15
+2024-05-22,2024-05-28,mex,same day dentist tijuana,0,1,0,60
+2024-05-29,2024-06-04,mex,previa implant center,0,4,0,9.5
+2024-06-05,2024-06-11,mex,best dental implants tijuana,0,2,0,69
+2024-06-05,2024-06-11,mex,best implant dentist in tijuana,0,1,0,88
+2024-06-05,2024-06-11,mex,best implants tijuana,0,1,0,88
+2024-06-05,2024-06-11,mex,previa implant center,0,1,0,12
+2024-06-12,2024-06-18,mex,previa dental tijuana,0,1,0,17
+2024-06-12,2024-06-18,mex,previa dental works,0,2,0,5
+2024-06-12,2024-06-18,mex,previa implant center,0,3,0,10.333333333333334
+2024-06-19,2024-06-25,mex,best dental implants in tijuana,0,3,0,83.66666666666667
+2024-06-19,2024-06-25,mex,best dental implants tijuana,0,2,0,79
+2024-06-19,2024-06-25,mex,best implant dentist in tijuana,0,2,0,93.5
+2024-06-19,2024-06-25,mex,best implants tijuana,0,2,0,68
+2024-06-19,2024-06-25,mex,previa dental tijuana,0,2,0,14
+2024-06-19,2024-06-25,mex,previa implant center,0,3,0,14
+2024-06-26,2024-07-02,mex,previa implant center,0,2,0,8.5
+2024-07-03,2024-07-09,mex,best dentist tijuana,0,1,0,99
+2024-07-03,2024-07-09,mex,implant tijuana,0,1,0,82
+2024-07-03,2024-07-09,mex,previa dental,0,1,0,20
+2024-07-03,2024-07-09,mex,previa implant center,0,2,0,13
+2024-07-10,2024-07-16,mex,previa dental works,0,10,0,10
+2024-07-10,2024-07-16,mex,previa implant center,0,3,0,8.333333333333332
+2024-07-10,2024-07-16,mex,western dental tijuana mexico,0,1,0,52
+2024-07-17,2024-07-23,mex,dental implant in tijuana,0,1,0,101
+2024-07-17,2024-07-23,mex,previa dental,0,2,0,11
+2024-07-17,2024-07-23,mex,previa dental works,0,4,0,9.5
+2024-07-17,2024-07-23,mex,previa implant center,0,1,0,16
+2024-07-24,2024-07-30,mex,previa dental tijuana,0,1,0,11
+2024-07-24,2024-07-30,mex,previa dental works,0,2,0,12
+2024-07-24,2024-07-30,mex,previa implant center,0,2,0,12.5
+2024-07-31,2024-08-06,mex,best dentist in tijuana for implants,0,1,0,70
+2024-07-31,2024-08-06,mex,best implants tijuana,0,1,0,30
+2024-07-31,2024-08-06,mex,previa implant center,0,2,0,11
+2024-07-31,2024-08-06,mex,same day dentist tijuana,0,1,0,58
+2024-08-07,2024-08-13,mex,previa dental works,0,3,0,9
+2024-08-07,2024-08-13,mex,previa implant center,0,3,0,8
+2024-08-14,2024-08-20,mex,best dental implants tijuana,0,1,0,63
+2024-08-14,2024-08-20,mex,best implants tijuana,0,1,0,66
+2024-08-14,2024-08-20,mex,previa dental works,0,1,0,10
+2024-08-21,2024-08-27,mex,best dental implants tijuana,0,2,0,72.5
+2024-08-21,2024-08-27,mex,best implant dentist in tijuana,0,1,0,73
+2024-08-21,2024-08-27,mex,previa dental works,0,2,0,10.5
+2024-08-21,2024-08-27,mex,previa implant center,0,1,0,8
+2024-08-21,2024-08-27,mex,same day dentist tijuana,0,2,0,72.5
+2024-08-28,2024-09-03,mex,best dental implants in tijuana,0,1,0,64
+2024-08-28,2024-09-03,mex,implant center,0,1,0,17
+2024-08-28,2024-09-03,mex,previa dental works,0,1,0,8
+2024-08-28,2024-09-03,mex,previa implant center,0,2,0,11
+2024-09-04,2024-09-10,mex,previa implant center,0,4,0,7
+2024-09-11,2024-09-17,mex,best dental implants in tijuana,0,2,0,36.5
+2024-09-11,2024-09-17,mex,best dental implants tijuana,0,1,0,30
+2024-09-11,2024-09-17,mex,best implants tijuana,0,3,0,45.666666666666664
+2024-09-11,2024-09-17,mex,good dentists in tijuana,0,1,0,99
+2024-09-11,2024-09-17,mex,implant tijuana,0,2,0,42.5
+2024-09-11,2024-09-17,mex,previa dental tijuana,0,2,0,5.5
+2024-09-11,2024-09-17,mex,previa implant center,0,3,0,5.333333333333333
+2024-09-11,2024-09-17,mex,same day dentist tijuana,0,2,0,79.5
+2024-09-18,2024-09-24,mex,alvarez dental tijuana,0,1,0,38
+2024-09-18,2024-09-24,mex,best dental implants in tijuana,0,1,0,30
+2024-09-18,2024-09-24,mex,best dental implants tijuana,0,1,0,24
+2024-09-18,2024-09-24,mex,best implants tijuana,0,3,0,46.666666666666664
+2024-09-18,2024-09-24,mex,implant tijuana,0,1,0,62
+2024-09-18,2024-09-24,mex,previa implant center,0,3,0,3
+2024-09-18,2024-09-24,mex,same day dentist tijuana,0,1,0,77
+2024-09-25,2024-10-01,mex,best dental implants tijuana,0,1,0,32
+2024-09-25,2024-10-01,mex,best implant dentist in tijuana,0,1,0,32
+2024-09-25,2024-10-01,mex,implant tijuana,0,1,0,38
+2024-09-25,2024-10-01,mex,previa dental,0,2,0,10.5
+2024-09-25,2024-10-01,mex,previa dental tijuana,0,5,0,9.2
+2024-10-02,2024-10-08,mex,best dental implants tijuana,0,1,0,31
+2024-10-02,2024-10-08,mex,best implant dentist in tijuana,0,1,0,32
+2024-10-02,2024-10-08,mex,best implants tijuana,0,1,0,20
+2024-10-02,2024-10-08,mex,implant dentist tijuana,0,1,0,98
+2024-10-02,2024-10-08,mex,implant tijuana,0,1,0,35
+2024-10-02,2024-10-08,mex,previa dental,0,6,0,3.8333333333333335
+2024-10-02,2024-10-08,mex,previa dental tijuana,0,3,0,6.333333333333333
+2024-10-02,2024-10-08,mex,previa implant center,0,5,0,7.2
+2024-10-02,2024-10-08,mex,same day dentist tijuana,0,1,0,97
+2024-10-09,2024-10-15,mex,best dental implants tijuana,0,1,0,23
+2024-10-09,2024-10-15,mex,best implant dentist in tijuana,0,1,0,31
+2024-10-09,2024-10-15,mex,best implants tijuana,0,1,0,26
+2024-10-09,2024-10-15,mex,implant dental center tijuana,0,1,0,21
+2024-10-09,2024-10-15,mex,implant dentist tijuana,0,1,0,101
+2024-10-09,2024-10-15,mex,implant tijuana,0,2,0,69.5
+2024-10-09,2024-10-15,mex,previa dental,0,1,0,4
+2024-10-09,2024-10-15,mex,previa dental tijuana,0,4,0,10.25
+2024-10-09,2024-10-15,mex,previa implant center,0,2,0,7.5
+2024-10-09,2024-10-15,mex,same day dentist tijuana,0,1,0,100
+2024-10-09,2024-10-15,mex,washington dental clinic tijuana mexico,0,1,0,56
+2024-10-16,2024-10-22,mex,previa dental,0,2,0,3.5
+2024-10-16,2024-10-22,mex,previa dental tijuana,0,5,0,10.6
+2024-10-16,2024-10-22,mex,previa implant center,0,4,0,6.5
+2024-10-23,2024-10-29,mex,previa dental tijuana,0,5,0,10.4
+2024-10-23,2024-10-29,mex,previa implant center,0,3,0,3.3333333333333335
+2024-10-30,2024-11-05,mex,previa implant center,0,2,0,2.5
+2024-11-06,2024-11-12,mex,best implants tijuana,0,1,0,30
+2024-11-06,2024-11-12,mex,previa dental,0,1,0,5
+2024-11-06,2024-11-12,mex,previa dental tijuana,0,6,0,9.666666666666666
+2024-11-06,2024-11-12,mex,same day dentist tijuana,0,1,0,63
+2024-11-13,2024-11-19,mex,implant tijuana,0,2,0,99
+2024-11-13,2024-11-19,mex,previa dental,0,7,0,12.714285714285714
+2024-11-13,2024-11-19,mex,previa dental tijuana,0,1,0,8
+2024-11-13,2024-11-19,mex,previa implant center,0,3,0,5.333333333333333
+2024-11-20,2024-11-26,mex,best dental implants in tijuana,0,1,0,21
+2024-11-20,2024-11-26,mex,best dental implants tijuana,0,3,0,31.333333333333332
+2024-11-20,2024-11-26,mex,best implant dentist in tijuana,0,1,0,16
+2024-11-20,2024-11-26,mex,best implants tijuana,0,1,0,19
+2024-11-20,2024-11-26,mex,implant art tijuana,0,1,0,32
+2024-11-20,2024-11-26,mex,implant tijuana,0,2,0,56.5
+2024-11-20,2024-11-26,mex,implants tijuana,0,1,0,70
+2024-11-20,2024-11-26,mex,previa dental,0,18,0,14.11111111111111
+2024-11-20,2024-11-26,mex,previa dental tijuana,0,4,0,6.5
+2024-11-20,2024-11-26,mex,previa implant center,0,2,0,4
+2024-11-20,2024-11-26,mex,same day dentist tijuana,0,1,0,65
+2024-11-20,2024-11-26,mex,zygomatic implants tijuana,0,1,0,14
+2024-11-27,2024-12-03,mex,best dental clinic in tijuana,0,1,0,33
+2024-11-27,2024-12-03,mex,best dental implants in tijuana,0,3,0,21.666666666666668
+2024-11-27,2024-12-03,mex,best dental implants tijuana,0,3,0,14.333333333333334
+2024-11-27,2024-12-03,mex,best implant dentist in tijuana,0,3,0,16.666666666666664
+2024-11-27,2024-12-03,mex,best implants tijuana,0,4,0,14.75
+2024-11-27,2024-12-03,mex,denta metrics tijuana,0,3,0,15
+2024-11-27,2024-12-03,mex,dental implants cost tijuana,0,1,0,98
+2024-11-27,2024-12-03,mex,dental implants in mexico tijuana,0,3,0,75
+2024-11-27,2024-12-03,mex,dr implant dentistry tijuana,0,2,0,44.5
+2024-11-27,2024-12-03,mex,implant art tijuana,0,2,0,46.5
+2024-11-27,2024-12-03,mex,implant dentist tijuana,0,3,0,79.33333333333333
+2024-11-27,2024-12-03,mex,implant tijuana,0,4,0,50.25
+2024-11-27,2024-12-03,mex,implants tijuana,0,2,0,48
+2024-11-27,2024-12-03,mex,previa dental,0,9,0,11.777777777777779
+2024-11-27,2024-12-03,mex,previa implant center,0,2,0,8
+2024-11-27,2024-12-03,mex,same day dentist tijuana,0,2,0,60
+2024-11-27,2024-12-03,mex,tijuana dental clinic,0,1,0,69
+2024-11-27,2024-12-03,mex,tijuana dental implant,0,2,0,37
+2024-11-27,2024-12-03,mex,tijuana implants,0,2,0,36
+2024-11-27,2024-12-03,mex,zygomatic implants tijuana,0,1,0,15
+2024-12-04,2024-12-10,mex,denta metrics tijuana,0,2,0,15
+2024-12-04,2024-12-10,mex,implant art tijuana,0,1,0,83
+2024-12-04,2024-12-10,mex,previa dental,0,7,0,10.857142857142858
+2024-12-04,2024-12-10,mex,previa dental tijuana,0,3,0,9
+2024-12-04,2024-12-10,mex,previa implant center,0,1,0,4
+2024-12-11,2024-12-17,mex,dental implants cost tijuana,0,1,0,103
+2024-12-11,2024-12-17,mex,dr. implant - dentista en tijuana,0,1,0,64
+2024-12-11,2024-12-17,mex,previa dental,0,3,0,11
+2024-12-11,2024-12-17,mex,previa dental tijuana,0,8,0,10.875
+2024-12-11,2024-12-17,mex,previa implant center,0,7,0,3.7142857142857144
+2024-12-18,2024-12-24,mex,best dental implants in tijuana,0,2,0,40
+2024-12-18,2024-12-24,mex,best dental implants tijuana,0,1,0,17
+2024-12-18,2024-12-24,mex,best implant dentist in tijuana,0,1,0,21
+2024-12-18,2024-12-24,mex,dental easy care tijuana,0,1,0,53
+2024-12-18,2024-12-24,mex,dental implants in mexico tijuana,0,1,0,93
+2024-12-18,2024-12-24,mex,implant dentist tijuana,0,1,0,83
+2024-12-18,2024-12-24,mex,implant tijuana,0,1,0,35
+2024-12-18,2024-12-24,mex,previa dental,0,5,0,15
+2024-12-18,2024-12-24,mex,previa dental tijuana,0,1,0,10
+2024-12-18,2024-12-24,mex,previa implant center,0,4,0,3
+2024-12-18,2024-12-24,mex,same day dentist tijuana,0,1,0,61
+2024-12-25,2024-12-31,mex,best dental implants in tijuana,0,1,0,35
+2024-12-25,2024-12-31,mex,best dental implants tijuana,0,1,0,22
+2024-12-25,2024-12-31,mex,best implant dentist in tijuana,0,1,0,22
+2024-12-25,2024-12-31,mex,dental implants in mexico tijuana,0,1,0,79
+2024-12-25,2024-12-31,mex,implant dentist tijuana,0,1,0,74
+2024-12-25,2024-12-31,mex,implant tijuana,0,1,0,41
+2024-12-25,2024-12-31,mex,previa dental,0,3,0,7.333333333333333
+2024-12-25,2024-12-31,mex,previa dental tijuana,0,10,0,6.9
+2024-12-25,2024-12-31,mex,previa implant center,0,3,0,3.6666666666666665
+2024-12-25,2024-12-31,mex,same day dentist tijuana,0,1,0,64
+2024-12-25,2024-12-31,mex,tijuana implants,0,1,0,60
+2025-01-01,2025-01-07,mex,advanced dental clinic tijuana,0,1,0,22
+2025-01-01,2025-01-07,mex,best dental implants in tijuana,0,4,0,30.75
+2025-01-01,2025-01-07,mex,best dental implants tijuana,0,5,0,15.6
+2025-01-01,2025-01-07,mex,best implant dentist in tijuana,0,4,0,17.75
+2025-01-01,2025-01-07,mex,dental implant service tijuana,0,2,0,23
+2025-01-01,2025-01-07,mex,dental implants cost tijuana,0,1,0,102
+2025-01-01,2025-01-07,mex,dental implants in mexico tijuana,0,3,0,100
+2025-01-01,2025-01-07,mex,implant dentist tijuana,0,2,0,81.5
+2025-01-01,2025-01-07,mex,implant tijuana,0,5,0,48.2
+2025-01-01,2025-01-07,mex,previa dental,0,3,0,3.6666666666666665
+2025-01-01,2025-01-07,mex,previa implant center,0,3,0,3
+2025-01-01,2025-01-07,mex,same day dentist tijuana,0,3,0,65.33333333333333
+2025-01-01,2025-01-07,mex,tijuana implants,0,3,0,68.33333333333333
+2025-01-08,2025-01-14,mex,best dental implants in tijuana,0,2,0,27.5
+2025-01-08,2025-01-14,mex,best dental implants tijuana,0,2,0,18.5
+2025-01-08,2025-01-14,mex,best dentist in tijuana for implants,0,1,0,51
+2025-01-08,2025-01-14,mex,best implant dentist in tijuana,0,4,0,20.5
+2025-01-08,2025-01-14,mex,dental implant service tijuana,0,3,0,31.333333333333332
+2025-01-08,2025-01-14,mex,dental implants in mexico tijuana,0,2,0,67
+2025-01-08,2025-01-14,mex,dental implants tijuana mx,0,1,0,84
+2025-01-08,2025-01-14,mex,dr. implant tijuana - dentista en tijuana reviews,0,1,0,33
+2025-01-08,2025-01-14,mex,implant tijuana,0,2,0,59.5
+2025-01-08,2025-01-14,mex,previa dental tijuana,0,4,0,10.75
+2025-01-08,2025-01-14,mex,previa implant center,0,4,0,4.75
+2025-01-08,2025-01-14,mex,same day dentist tijuana,0,1,0,76
+2025-01-08,2025-01-14,mex,tijuana implants,0,2,0,44.5
+2025-01-15,2025-01-21,mex,best dental implants in tijuana,0,6,0,30.666666666666668
+2025-01-15,2025-01-21,mex,best dental implants tijuana,0,8,0,18.375
+2025-01-15,2025-01-21,mex,dental implant service tijuana,0,6,0,27.5
+2025-01-15,2025-01-21,mex,dr. implant - dentista en tijuana,0,3,0,94.33333333333333
+2025-01-15,2025-01-21,mex,dr. implant tijuana - dentista en tijuana reviews,0,11,0,25.636363636363637
+2025-01-15,2025-01-21,mex,implant dental center tijuana,0,5,0,19.2
+2025-01-15,2025-01-21,mex,implant tijuana,0,10,0,72.8
+2025-01-15,2025-01-21,mex,previa dental,0,1,0,5
+2025-01-15,2025-01-21,mex,previa dental tijuana,0,5,0,9.2
+2025-01-15,2025-01-21,mex,previa implant center,0,2,0,4
+2025-01-15,2025-01-21,mex,same day dentist tijuana,0,4,0,72.75
+2025-01-22,2025-01-28,mex,previa dental,0,2,0,15
+2025-01-22,2025-01-28,mex,previa dental tijuana,0,4,0,10.25
+2025-01-22,2025-01-28,mex,previa implant center,0,2,0,5.5
+2025-01-29,2025-02-04,mex,best dental implants in tijuana,0,1,0,22
+2025-01-29,2025-02-04,mex,best dental implants tijuana,0,1,0,19
+2025-01-29,2025-02-04,mex,best dentist in tijuana for implants,0,1,0,41
+2025-01-29,2025-02-04,mex,best implant dentist in tijuana,0,1,0,19
+2025-01-29,2025-02-04,mex,dental implant service tijuana,0,2,0,23.5
+2025-01-29,2025-02-04,mex,dental implants in mexico tijuana,0,1,0,86
+2025-01-29,2025-02-04,mex,dental implants tijuana mx,0,1,0,102
+2025-01-29,2025-02-04,mex,dr. implant tijuana - dentista en tijuana reviews,0,1,0,25
+2025-01-29,2025-02-04,mex,implant dental center tijuana,0,1,0,16
+2025-01-29,2025-02-04,mex,implant dentist tijuana,0,2,0,75.5
+2025-01-29,2025-02-04,mex,implant tijuana,0,1,0,39
+2025-01-29,2025-02-04,mex,previa dental,0,7,0,13.857142857142858
+2025-01-29,2025-02-04,mex,previa dental tijuana,0,4,0,8.75
+2025-01-29,2025-02-04,mex,previa implant center,0,5,0,4.4
+2025-01-29,2025-02-04,mex,same day dentist tijuana,0,1,0,67
+2025-01-29,2025-02-04,mex,tijuana dentist center,0,1,0,76
+2025-02-05,2025-02-11,mex,dr implant dentistry tijuana,0,1,0,72
+2025-02-05,2025-02-11,mex,implant dental center tijuana,0,1,0,38
+2025-02-05,2025-02-11,mex,implant dentist tijuana,0,1,0,76
+2025-02-05,2025-02-11,mex,previa dental,0,8,0,13.75
+2025-02-05,2025-02-11,mex,previa dental tijuana,0,1,0,9
+2025-02-05,2025-02-11,mex,previa implant center,0,6,0,4.833333333333334
+2025-02-05,2025-02-11,mex,tooth implant cost tijuana,0,1,0,89
+2025-02-05,2025-02-11,mex,washington dental clinic tijuana mexico,0,1,0,67
+2025-02-12,2025-02-18,mex,best dental implants in tijuana,0,1,0,36
+2025-02-12,2025-02-18,mex,best dental implants tijuana,0,1,0,24
+2025-02-12,2025-02-18,mex,best implant dentist in tijuana,0,1,0,24
+2025-02-12,2025-02-18,mex,dental implant service tijuana,0,1,0,24
+2025-02-12,2025-02-18,mex,dental implants cost tijuana mx,0,1,0,103
+2025-02-12,2025-02-18,mex,dental implants tijuana mx,0,2,0,95.5
+2025-02-12,2025-02-18,mex,dr. implant tijuana - dentista en tijuana reviews,0,1,0,26
+2025-02-12,2025-02-18,mex,full mouth implants tijuana,0,1,0,91
+2025-02-12,2025-02-18,mex,implant dental center tijuana,0,1,0,15
+2025-02-12,2025-02-18,mex,implant dentist tijuana,0,4,0,77.5
+2025-02-12,2025-02-18,mex,implant tijuana,0,1,0,39
+2025-02-12,2025-02-18,mex,one dental carrousel tijuana,0,4,0,12
+2025-02-12,2025-02-18,mex,previa dental,0,12,0,11.083333333333334
+2025-02-12,2025-02-18,mex,previa dental tijuana,0,3,0,8.333333333333332
+2025-02-12,2025-02-18,mex,previa implant center,0,2,0,5
+2025-02-12,2025-02-18,mex,same day dentist tijuana,0,1,0,69
+2025-02-19,2025-02-25,mex,all on 4 dental implants tijuana mexico,0,6,0,97.33333333333333
+2025-02-19,2025-02-25,mex,all on four tijuana,0,3,0,93.66666666666667
+2025-02-19,2025-02-25,mex,all-on-4 dental implants baja california mexico,0,1,0,76
+2025-02-19,2025-02-25,mex,all-on-4 dental implants tijuana mx,0,3,0,98.66666666666667
+2025-02-19,2025-02-25,mex,bone grafting tijuana mx,0,5,0,70.4
+2025-02-19,2025-02-25,mex,dental clinic tijuana,0,1,0,67
+2025-02-19,2025-02-25,mex,dental implants cost tijuana,0,4,0,97.25
+2025-02-19,2025-02-25,mex,dental implants tijuana mx,0,4,0,73.75
+2025-02-19,2025-02-25,mex,full mouth implants tijuana,0,14,0,80.28571428571429
+2025-02-19,2025-02-25,mex,implant dentist tijuana,0,6,0,75.83333333333333
+2025-02-19,2025-02-25,mex,implants tijuana,0,1,0,45
+2025-02-19,2025-02-25,mex,loreto dentist,0,1,0,96
+2025-02-19,2025-02-25,mex,one dental carrousel tijuana,0,2,0,9
+2025-02-19,2025-02-25,mex,previa dental,0,5,0,13.2
+2025-02-19,2025-02-25,mex,previa dental tijuana,0,10,0,8.3
+2025-02-19,2025-02-25,mex,previa implant center,0,6,0,6
+2025-02-26,2025-03-04,mex,all on 4 dental implants tijuana mexico,0,2,0,96.5
+2025-02-26,2025-03-04,mex,all-on-4 dental implants baja california mexico,0,4,0,96.25
+2025-02-26,2025-03-04,mex,bone grafting tijuana mx,0,5,0,75
+2025-02-26,2025-03-04,mex,dental clinic tijuana,0,7,0,66.14285714285714
+2025-02-26,2025-03-04,mex,dental implants cost tijuana,0,7,0,99.42857142857143
+2025-02-26,2025-03-04,mex,dental implants cost tijuana mx,0,1,0,96
+2025-02-26,2025-03-04,mex,dental implants tijuana mx,0,7,0,93.14285714285714
+2025-02-26,2025-03-04,mex,dr implant dentistry tijuana,0,1,0,100
+2025-02-26,2025-03-04,mex,endodontics tijuana,0,2,0,96
+2025-02-26,2025-03-04,mex,full mouth implants tijuana,0,14,0,74.92857142857143
+2025-02-26,2025-03-04,mex,implant dentist tijuana,0,8,0,77.625
+2025-02-26,2025-03-04,mex,implants tijuana,0,7,0,62.142857142857146
+2025-02-26,2025-03-04,mex,loreto dentist,0,4,0,74.25
+2025-02-26,2025-03-04,mex,one dental carrousel tijuana,0,3,0,9.333333333333334
+2025-02-26,2025-03-04,mex,pediatric dentist around tijuana mexico,0,1,0,65
+2025-02-26,2025-03-04,mex,previa dental,0,11,0,11.636363636363637
+2025-02-26,2025-03-04,mex,previa dental tijuana,0,2,0,7.5
+2025-02-26,2025-03-04,mex,previa implant center,0,13,0,5.615384615384615
+2025-02-26,2025-03-04,mex,sinus lift tijuana mx,0,6,0,66.5
+2025-02-26,2025-03-04,mex,tijuana pediatric dentist in the tijuana area,0,2,0,74.5
+2025-02-26,2025-03-04,mex,tmj dental treatment in tijuana,0,3,0,49
+2025-03-05,2025-03-11,mex,all on 4 dental implants tijuana mexico,0,1,0,101
+2025-03-05,2025-03-11,mex,all-on-4 dental implants baja california mexico,0,4,0,91.75
+2025-03-05,2025-03-11,mex,bone grafting tijuana mx,0,3,0,70.66666666666667
+2025-03-05,2025-03-11,mex,dental clinic tijuana,0,4,0,71.5
+2025-03-05,2025-03-11,mex,dental implants cost tijuana,0,6,0,98
+2025-03-05,2025-03-11,mex,dental implants tijuana mx,0,6,0,88.83333333333333
+2025-03-05,2025-03-11,mex,full mouth implants tijuana,0,11,0,89.45454545454545
+2025-03-05,2025-03-11,mex,implant dentist tijuana,0,6,0,79.83333333333333
+2025-03-05,2025-03-11,mex,implants tijuana,0,6,0,60.166666666666664
+2025-03-05,2025-03-11,mex,one dental carrousel tijuana,0,3,0,11.666666666666666
+2025-03-05,2025-03-11,mex,previa dental,0,17,0,9.823529411764707
+2025-03-05,2025-03-11,mex,previa dental tijuana,0,2,0,8
+2025-03-05,2025-03-11,mex,previa implant center,0,5,0,5.4
+2025-03-05,2025-03-11,mex,sinus lift tijuana mx,0,1,0,84
+2025-03-05,2025-03-11,mex,tijuana pediatric dentist in the tijuana area,0,2,0,94
+2025-03-05,2025-03-11,mex,tmj dental treatment in tijuana,0,1,0,55
+2025-03-12,2025-03-18,mex,all on 4 dental implants tijuana mexico,0,1,0,99
+2025-03-12,2025-03-18,mex,all on four tijuana,0,1,0,97
+2025-03-12,2025-03-18,mex,all-on-4 dental implants baja california mexico,0,4,0,85.75
+2025-03-12,2025-03-18,mex,best center tijuana,0,4,0,7.75
+2025-03-12,2025-03-18,mex,bio implant center - dental implants tijuana mexico,0,1,0,43
+2025-03-12,2025-03-18,mex,bone grafting tijuana mx,0,5,0,77.2
+2025-03-12,2025-03-18,mex,dental clinic tijuana,0,1,0,65
+2025-03-12,2025-03-18,mex,dental implant center,0,1,0,11
+2025-03-12,2025-03-18,mex,dental implants cost tijuana,0,7,0,89.28571428571429
+2025-03-12,2025-03-18,mex,dental implants cost tijuana mx,0,4,0,89
+2025-03-12,2025-03-18,mex,dental implants tijuana mx,0,6,0,76.33333333333333
+2025-03-12,2025-03-18,mex,full mouth implants tijuana,0,14,0,91
+2025-03-12,2025-03-18,mex,implant dentist tijuana,0,5,0,53.4
+2025-03-12,2025-03-18,mex,implant tijuana,0,1,0,46
+2025-03-12,2025-03-18,mex,implants tijuana,0,3,0,34
+2025-03-12,2025-03-18,mex,nuvia dental implant center locations,0,2,0,7
+2025-03-12,2025-03-18,mex,previa dental,0,10,0,6.5
+2025-03-12,2025-03-18,mex,previa dental tijuana,0,9,0,8.555555555555555
+2025-03-12,2025-03-18,mex,previa implant center,0,4,0,3
+2025-03-12,2025-03-18,mex,sinus lift tijuana mx,0,5,0,53
+2025-03-19,2025-03-25,mex,all-on-4 dental implants baja california mexico,0,4,0,87.75
+2025-03-19,2025-03-25,mex,all-on-4 dental implants tijuana mx,0,1,0,101
+2025-03-19,2025-03-25,mex,bone grafting tijuana mx,0,6,0,80.16666666666667
+2025-03-19,2025-03-25,mex,dental clinic tijuana,0,8,0,67.5
+2025-03-19,2025-03-25,mex,dental crowns in tijuana,0,1,0,98
+2025-03-19,2025-03-25,mex,dental implants cost tijuana,0,3,0,92.33333333333333
+2025-03-19,2025-03-25,mex,dental implants cost tijuana mx,0,3,0,97
+2025-03-19,2025-03-25,mex,dental implants tijuana mx,0,7,0,78.14285714285714
+2025-03-19,2025-03-25,mex,full mouth implants tijuana,0,8,0,96.625
+2025-03-19,2025-03-25,mex,implant dentist tijuana,0,6,0,43.5
+2025-03-19,2025-03-25,mex,implants tijuana,0,7,0,33
+2025-03-19,2025-03-25,mex,previa dental,0,15,0,7.4
+2025-03-19,2025-03-25,mex,previa dental tijuana,0,1,0,9
+2025-03-19,2025-03-25,mex,previa implant center,0,3,0,4.333333333333334
+2025-03-19,2025-03-25,mex,sinus lift tijuana mx,0,7,0,45.285714285714285
+2025-03-19,2025-03-25,mex,tijuana dental clinic,0,1,0,84
+2025-03-26,2025-04-01,mex,all on 4 dental implants tijuana mexico,0,1,0,96
+2025-03-26,2025-04-01,mex,all on four tijuana,0,1,0,99
+2025-03-26,2025-04-01,mex,all-on-4 dental implants baja california mexico,0,2,0,81
+2025-03-26,2025-04-01,mex,best center tijuana,0,1,0,12
+2025-03-26,2025-04-01,mex,best dental implants in tijuana,0,1,0,30
+2025-03-26,2025-04-01,mex,best dental implants tijuana,0,1,0,18
+2025-03-26,2025-04-01,mex,best dentist in tijuana for implants,0,1,0,34
+2025-03-26,2025-04-01,mex,bone grafting tijuana mx,0,5,0,81
+2025-03-26,2025-04-01,mex,dental implant in tijuana mexico,0,1,0,68
+2025-03-26,2025-04-01,mex,dental implant service tijuana,0,1,0,23
+2025-03-26,2025-04-01,mex,dental implants cost tijuana,0,2,0,100
+2025-03-26,2025-04-01,mex,dental implants mexico tijuana,0,1,0,98
+2025-03-26,2025-04-01,mex,dental implants tijuana mx,0,4,0,81
+2025-03-26,2025-04-01,mex,dr implant dentistry tijuana,0,2,0,43
+2025-03-26,2025-04-01,mex,dr. implant tijuana - dentista en tijuana reviews,0,2,0,15
+2025-03-26,2025-04-01,mex,full mouth implants tijuana,0,6,0,95.33333333333333
+2025-03-26,2025-04-01,mex,implant dentist tijuana,0,9,0,57.44444444444444
+2025-03-26,2025-04-01,mex,implant tijuana,0,1,0,22
+2025-03-26,2025-04-01,mex,implants tijuana,0,6,0,38.333333333333336
+2025-03-26,2025-04-01,mex,previa dental,0,22,0,7.818181818181818
+2025-03-26,2025-04-01,mex,previa dental tijuana,0,8,0,9.5
+2025-03-26,2025-04-01,mex,previa implant center,0,2,0,4
+2025-03-26,2025-04-01,mex,same day crowns tijuana,0,1,0,62
+2025-03-26,2025-04-01,mex,sinus lift tijuana mx,0,6,0,61.666666666666664
+2025-03-26,2025-04-01,mex,tijuana dental implant,0,2,0,35.5
+2025-04-02,2025-04-08,mex,bone grafting tijuana mx,0,3,0,98.66666666666667
+2025-04-02,2025-04-08,mex,dental implants cost tijuana mx,0,4,0,87
+2025-04-02,2025-04-08,mex,dental implants tijuana mx,0,2,0,94
+2025-04-02,2025-04-08,mex,implant dentist tijuana,0,5,0,66.4
+2025-04-02,2025-04-08,mex,implants tijuana,0,2,0,73
+2025-04-02,2025-04-08,mex,previa dental,0,2,0,11.5
+2025-04-02,2025-04-08,mex,previa dental tijuana,0,8,0,8
+2025-04-02,2025-04-08,mex,previa implant center,0,1,0,6
+2025-04-02,2025-04-08,mex,sinus lift tijuana mx,0,3,0,82
