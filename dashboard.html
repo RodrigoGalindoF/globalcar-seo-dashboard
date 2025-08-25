@@ -320,5 +320,30 @@
         })();
     </script>
 
+    <script>
+        (function(){
+            var blocker, container;
+            function applyMobileBlocker() {
+                if (!blocker) blocker = document.querySelector('.mobile-blocker');
+                if (!container) container = document.querySelector('.dashboard-container');
+                var isMobile = window.matchMedia('(max-width: 1023px)').matches;
+                if (isMobile) {
+                    if (blocker) blocker.style.display = 'flex';
+                    if (container) container.style.display = 'none';
+                    document.documentElement.style.overflow = 'hidden';
+                    document.body.style.overflow = 'hidden';
+                } else {
+                    if (blocker) blocker.style.display = 'none';
+                    if (container) container.style.display = '';
+                    document.documentElement.style.overflow = '';
+                    document.body.style.overflow = '';
+                }
+            }
+            // Run as early as possible after DOM is ready
+            document.addEventListener('DOMContentLoaded', applyMobileBlocker);
+            window.addEventListener('resize', _.throttle ? _.throttle(applyMobileBlocker, 150) : applyMobileBlocker);
+        })();
+    </script>
+
 </body>
 </html>
