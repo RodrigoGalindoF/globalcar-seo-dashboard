@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEO Dashboard</title>
+    
+    <!-- Favicon to prevent 404 errors -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+    
+    <!-- External Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script>
+    
+    <!-- Fallback for Chart.js if CDN fails -->
+    <script>
+        if (typeof Chart === 'undefined') {
+            console.error('Chart.js failed to load from CDN, trying alternative source...');
+            const script = document.createElement('script');
+            script.src = 'https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js';
+            script.onload = () => console.log('Chart.js loaded from alternative source');
+            script.onerror = () => console.error('Chart.js failed to load from all sources');
+            document.head.appendChild(script);
+        }
+    </script>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Chart loading styles -->
+    <style>
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .loading-spinner {
+            animation: spin 1s linear infinite;
+        }
+    </style>
+    
+    <!-- Date management system -->
+    <script src="js/logger.js" type="module"></script>
+    <script src="js/utils.js" type="module"></script>
+    
+    <script src="js/dashboardUpdates.js" type="module"></script>
+    <script src="js/charts.js" type="module"></script>
+    <script src="js/navbar.js" type="module"></script>
+    <script src="js/chartZoomScroll.js" type="module"></script>
+
+
+    <script src="js/dateUtils.js" type="module"></script>
+    <script src="js/dateRangePicker.js" type="module"></script>
+    <script src="js/kpiComponent.js" type="module"></script>
+    <script src="js/autoDataLoader.js" type="module"></script>
+    <script src="js/dashboard.js" type="module"></script>
+    
+    <!-- Fallback for direct file access -->
+    <script>
+        // Check if we're running from file:// protocol
+        if (window.location.protocol === 'file:') {
+            const warning = document.createElement('div');
+            warning.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                background: #fef3c7;
+                color: #92400e;
+                padding: 1rem;
+                text-align: center;
+                z-index: 9999;
+                border-bottom: 2px solid #f59e0b;
+                font-family: system-ui, -apple-system, sans-serif;
+            `;
+            warning.innerHTML = `
+                <strong>⚠️ CORS Error:</strong> This application needs to run on a web server. 
+                Please use: <code>http://localhost:8000</code> instead of opening the file directly.
+                <br><br>
+                <button onclick="this.parentElement.remove()" style="
+                    background: #f59e0b;
+                    color: white;
+                    border: none;
+                    padding: 0.5rem 1rem;
+                    border-radius: 0.375rem;
+                    cursor: pointer;
+                ">Dismiss</button>
+            `;
+            document.body.appendChild(warning);
+        }
+    </script>
+    
+    
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- Mobile Menu Toggle -->
+        <div class="mobile-menu-toggle" onclick="toggleSidebar()">
+            <svg class="nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+            </svg>
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <img src="Resources/global-care-logo.png" alt="Globalcare" style="width: 100%; height: auto; max-width: 200px;">
+                </div>
+            </div>
+
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item active" onclick="showSection('overview')">
+                    <svg class="nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path>
+                    </svg>
+                    <span>Overview</span>
+                </a>
+
+
+
+
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Overview Section -->
+            <section id="overview" class="section active">
+
+                <!-- Key Metrics -->
+                <div class="metrics-grid" id="overviewMetrics">
+                    <!-- KPI cards will be dynamically generated here -->
+                </div>
+
+                <!-- Performance Chart -->
+                <div class="chart-container">
+                    <div class="chart-header">
+                        <div class="metric-selector">
+                            <div class="metric-buttons">
+                                <button class="metric-btn active" id="btn-clicks" data-metric="clicks" onclick="toggleBlogMetric('clicks')">
+                                    <span class="metric-icon" style="background-color: rgba(26, 115, 232, 0.1); color: #1a73e8;">
+                                        <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5M7.188 2.239l.777 2.897M5.136 7.965l-2.898-.777M13.95 4.05l-2.122 2.122m-5.657 5.656l-2.12 2.122"></path>
+                                        </svg>
+                                    </span>
+                                    Clicks
+                                </button>
+                                <button class="metric-btn active" id="btn-impressions" data-metric="impressions" onclick="toggleBlogMetric('impressions')">
+                                    <span class="metric-icon" style="background-color: rgba(234, 67, 53, 0.1); color: #ea4335;">
+                                        <svg width="12" height="12" fill="currentColor" viewBox="0 0 20 20">
+                                            <path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/>
+                                            <path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/>
+                                        </svg>
+                                    </span>
+                                    Impressions
+                                </button>
+                                <button class="metric-btn" id="btn-ctr" data-metric="ctr" onclick="toggleBlogMetric('ctr')">
+                                    <span class="metric-icon" style="background-color: rgba(52, 168, 83, 0.1); color: #34a853;">
+                                        <svg width="12" height="12" fill="currentColor" viewBox="0 0 20 20">
+                                            <path d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/>
+                                        </svg>
+                                    </span>
+                                    CTR
+                                </button>
+                                <button class="metric-btn" id="btn-position" data-metric="position" onclick="toggleBlogMetric('position')">
+                                    <span class="metric-icon" style="background-color: rgba(251, 188, 4, 0.1); color: #fbbc04;">
+                                        <svg width="12" height="12" fill="currentColor" viewBox="0 0 20 20">
+                                            <path d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/>
+                                        </svg>
+                                    </span>
+                                    Position
+                                </button>
+                            </div>
+                        </div>
+                        <!-- Country Filter -->
+                        <div class="country-filter">
+                            <div class="country-dropdown" id="countryDropdown">
+                                <label for="countryFilterSelect" class="country-label">Country</label>
+                                <button type="button" class="country-dropdown-toggle" aria-haspopup="listbox" aria-expanded="false" aria-controls="countryDropdownMenu">
+                                    <span class="country-selected-text">All countries</span>
+                                    <svg class="country-dropdown-caret" width="12" height="12" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                        <path d="M5.23 7.21a.75.75 0 011.06.02L10 10.94l3.71-3.71a.75.75 0 111.06 1.06l-4.24 4.24a.75.75 0 01-1.06 0L5.21 8.27a.75.75 0 01.02-1.06z"/>
+                                    </svg>
+                                </button>
+                                <ul id="countryDropdownMenu" class="country-dropdown-menu" role="listbox">
+                                    <li class="country-dropdown-item" role="option" data-value="" aria-selected="true">All countries</li>
+                                    <li class="country-dropdown-item" role="option" data-value="United States">United States</li>
+                                    <li class="country-dropdown-item" role="option" data-value="Mexico">Mexico</li>
+                                    <li class="country-dropdown-item" role="option" data-value="Canada">Canada</li>
+                                    <li class="country-dropdown-item" role="option" data-value="Spain">Spain</li>
+                                    <li class="country-dropdown-item" role="option" data-value="Colombia">Colombia</li>
+                                    <li class="country-dropdown-item" role="option" data-value="Peru">Peru</li>
+                                    <li class="country-dropdown-item" role="option" data-value="Argentina">Argentina</li>
+                                    <li class="country-dropdown-item" role="option" data-value="Chile">Chile</li>
+                                    <li class="country-dropdown-item" role="option" data-value="Australia">Australia</li>
+                                    <li class="country-dropdown-item" role="option" data-value="New Zealand">New Zealand</li>
+                                </ul>
+                                <select id="countryFilterSelect" class="visually-hidden">
+                                    <option value="">All countries</option>
+                                    <option value="United States">United States</option>
+                                    <option value="Mexico">Mexico</option>
+                                    <option value="Canada">Canada</option>
+                                    <option value="Spain">Spain</option>
+                                    <option value="Colombia">Colombia</option>
+                                    <option value="Peru">Peru</option>
+                                    <option value="Argentina">Argentina</option>
+                                    <option value="Chile">Chile</option>
+                                    <option value="Australia">Australia</option>
+                                    <option value="New Zealand">New Zealand</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="date-range" id="dateRange">
+                            <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                            </svg>
+                            <span id="dateRangeText">Loading...</span>
+                        </div>
+                    </div>
+                    
+
+                    
+
+                    
+                    <div class="chart-wrapper">
+                        <canvas id="performanceChart" width="2176" height="800" style="display: block; box-sizing: border-box; height: 400px; width: 1088px;"></canvas>
+                        <!-- Chart loading indicator -->
+                        <div id="chartLoadingIndicator" style="display: none; text-align: center; padding: 20px; color: #666;">
+                            <div class="loading-spinner" style="display: inline-block; width: 20px; height: 20px; border: 2px solid #f3f4f6; border-top: 2px solid #3b82f6; border-radius: 50%; animation: spin 1s linear infinite;"></div>
+                            <span style="margin-left: 10px;">Loading chart...</span>
+                        </div>
+                        <!-- Chart error indicator -->
+                        <div id="chartErrorIndicator" style="display: none; text-align: center; padding: 20px; color: #dc2626;">
+                            <span>⚠️ Chart failed to load. Please refresh the page.</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Top Pages Table -->
+                <div id="topPagesTableContainer">
+                    <!-- Component will be dynamically generated here -->
+                </div>
+            </section>
+
+        </main>
+    </div>
+
+</body>
+</html>
