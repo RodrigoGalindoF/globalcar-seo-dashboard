@@ -247,5 +247,78 @@
         </main>
     </div>
 
+    <!-- Mobile-only blocker overlay -->
+    <div class="mobile-blocker" role="dialog" aria-modal="true" aria-labelledby="mobileBlockerTitle">
+        <div class="mobile-blocker-content">
+            <h2 id="mobileBlockerTitle">Hey team! Mobile version is still under development.</h2>
+            <p class="mobile-blocker-subtext">Please access your dashboard on Desktop.</p>
+            <div class="mobile-blocker-actions">
+                <button class="btn btn-primary" id="copyDashboardLinkBtn">Copy link</button>
+                <button class="btn btn-secondary" id="shareDashboardLinkBtn">Share</button>
+            </div>
+            <p class="mobile-blocker-note">Tip: open this link on your desktop browser.</p>
+        </div>
+    </div>
+
+    <script>
+        (function(){
+            function copyLink() {
+                var url = window.location.href;
+                var btn = document.getElementById('copyDashboardLinkBtn');
+                if (!btn) return;
+                if (navigator.clipboard && navigator.clipboard.writeText) {
+                    navigator.clipboard.writeText(url).then(function(){
+                        var old = btn.textContent;
+                        btn.textContent = 'Copied!';
+                        setTimeout(function(){ btn.textContent = old; }, 1600);
+                    }).catch(fallbackCopy);
+                } else {
+                    fallbackCopy();
+                }
+                function fallbackCopy(){
+                    try {
+                        var tmp = document.createElement('textarea');
+                        tmp.value = url;
+                        tmp.setAttribute('readonly', '');
+                        tmp.style.position = 'absolute';
+                        tmp.style.left = '-9999px';
+                        document.body.appendChild(tmp);
+                        tmp.select();
+                        document.execCommand('copy');
+                        document.body.removeChild(tmp);
+                        var old = btn.textContent;
+                        btn.textContent = 'Copied!';
+                        setTimeout(function(){ btn.textContent = old; }, 1600);
+                    } catch (e) {}
+                }
+            }
+            function shareLink() {
+                var url = window.location.href;
+                var btn = document.getElementById('shareDashboardLinkBtn');
+                if (!btn) return;
+                if (navigator.share) {
+                    navigator.share({ title: document.title || 'SEO Dashboard', url: url }).catch(function(){ /* no-op */ });
+                } else {
+                    // Fallback to copy
+                    var old = btn.textContent;
+                    btn.textContent = 'Copied link';
+                    if (navigator.clipboard && navigator.clipboard.writeText) {
+                        navigator.clipboard.writeText(url).finally(function(){
+                            setTimeout(function(){ btn.textContent = old; }, 1600);
+                        });
+                    } else {
+                        setTimeout(function(){ btn.textContent = old; }, 1600);
+                    }
+                }
+            }
+            document.addEventListener('DOMContentLoaded', function(){
+                var copyBtn = document.getElementById('copyDashboardLinkBtn');
+                var shareBtn = document.getElementById('shareDashboardLinkBtn');
+                if (copyBtn) copyBtn.addEventListener('click', copyLink);
+                if (shareBtn) shareBtn.addEventListener('click', shareLink);
+            });
+        })();
+    </script>
+
 </body>
 </html>
