@@ -248,15 +248,25 @@
     </div>
 
     <!-- Mobile-only blocker overlay -->
-    <div class="mobile-blocker" role="dialog" aria-modal="true" aria-labelledby="mobileBlockerTitle">
-        <div class="mobile-blocker-content">
-            <h2 id="mobileBlockerTitle">Hey team! Mobile version is still under development.</h2>
-            <p class="mobile-blocker-subtext">Please access your dashboard on Desktop.</p>
-            <div class="mobile-blocker-actions">
-                <button class="btn btn-primary" id="copyDashboardLinkBtn">Copy link</button>
-                <button class="btn btn-secondary" id="shareDashboardLinkBtn">Share</button>
+    <div class="mobile-blocker" role="dialog" aria-modal="true" aria-labelledby="mobileBlockerTitle" aria-describedby="mobileBlockerDesc" tabindex="-1">
+        <div class="mobile-blocker-content" role="document">
+            <div class="mobile-blocker-header">
+                <img class="mobile-blocker-logo" src="Resources/global-care-logo.png" alt="Globalcare">
+                <span class="mobile-blocker-badge" aria-hidden="true">Desktop recommended</span>
             </div>
-            <p class="mobile-blocker-note">Tip: open this link on your desktop browser.</p>
+            <h2 id="mobileBlockerTitle">This dashboard is best on desktop</h2>
+            <p id="mobileBlockerDesc" class="mobile-blocker-subtext">For the richest charts and analysis, open this link on your computer.</p>
+            <ul class="mobile-blocker-highlights">
+                <li>Large interactive charts</li>
+                <li>Faster data exploration</li>
+                <li>Keyboard shortcuts</li>
+            </ul>
+            <div class="mobile-blocker-actions">
+                <button class="btn btn-primary" id="shareDashboardLinkBtn">Share</button>
+                <button class="btn btn-secondary" id="copyDashboardLinkBtn" aria-live="polite">Copy link</button>
+                <button class="btn btn-secondary" id="emailDashboardLinkBtn">Email me</button>
+            </div>
+            <p class="mobile-blocker-note">Tip: send this link to yourself and open it on desktop.</p>
         </div>
     </div>
 
