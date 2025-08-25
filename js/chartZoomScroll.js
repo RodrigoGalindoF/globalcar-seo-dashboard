@@ -48,6 +48,13 @@ class ChartZoomManager {
         this._scheduledUpdate = null;
         this._scheduledSync = null;
         
+        // Subtle zoom hint state
+        this.zoomHintEl = null;
+        this.zoomHintHoverTimer = null;
+        this.zoomHintHideTimer = null;
+        this.zoomHintSeen = (typeof window !== 'undefined') && (sessionStorage.getItem('chartZoomHintSeen') === '1');
+        this.isCoarsePointer = (typeof window !== 'undefined') && window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
+
         logger.debug('ChartZoomManager initialized');
     }
 
@@ -65,8 +72,8 @@ class ChartZoomManager {
 
 
     setupEventListeners() {
-        // Find the chart wrapper element (contains both canvas and axis areas)
-        const chartWrapper = document.querySelector('.chart-wrapper');
+        // Find the chart wrapper element closest to our canvas (contains both canvas and axis areas)
+        const chartWrapper = this.getChartWrapper();
         if (!chartWrapper) {
             logger.warn('Chart wrapper element not found');
             return;
@@ -77,6 +84,13 @@ class ChartZoomManager {
 
         // Mouse move to keep zoom center in sync with cursor position
         chartWrapper.addEventListener('mousemove', (e) => this.handleMouseMove(e), { passive: true });
+
+        // Hover to show subtle zoom hint
+        chartWrapper.addEventListener('mouseenter', () => this.onChartHoverStart());
+        chartWrapper.addEventListener('mouseleave', () => this.onChartHoverEnd());
+
+        // Click dismisses the hint as an interaction signal
+        chartWrapper.addEventListener('click', () => this.dismissZoomHint('click'));
 
         // Keyboard events (global)
         document.addEventListener('keydown', (e) => this.handleKeyDown(e), { passive: false });
@@ -91,6 +105,22 @@ class ChartZoomManager {
         });
         
         logger.debug('Chart zoom event listeners set');
+    }
+
+    /**
+     * Resolve the chart wrapper for this manager's canvas
+     */
+    getChartWrapper() {
+        try {
+            const targetId = this.containerId || 'performanceChart';
+            const chartCanvas = document.getElementById(targetId);
+            if (chartCanvas && typeof chartCanvas.closest === 'function') {
+                const wrapper = chartCanvas.closest('.chart-wrapper');
+                if (wrapper) return wrapper;
+            }
+        } catch (_) {}
+        // Fallback: first chart wrapper
+        return document.querySelector('.chart-wrapper');
     }
 
     // ===== Helper Functions =====
@@ -133,6 +163,9 @@ class ChartZoomManager {
         // Prevent default behavior to avoid page scrolling
         e.preventDefault();
         e.stopPropagation();
+
+        // First sign of zoom intent -> hide hint
+        this.dismissZoomHint('wheel');
         
         // Calculate mouse position relative to chart canvas
         const targetId = this.containerId || 'performanceChart';
@@ -210,6 +243,7 @@ class ChartZoomManager {
             case '+':
             case '=':
                 e.preventDefault();
+                this.dismissZoomHint('key');
                 if (this.zoomLevel < this.zoomLevels.max) {
                     // Reset zoom-from-point state for keyboard zoom
                     this.isZoomingFromPoint = false;
@@ -219,6 +253,7 @@ class ChartZoomManager {
                 break;
             case '-':
                 e.preventDefault();
+                this.dismissZoomHint('key');
                 // Reset zoom-from-point state for keyboard zoom
                 this.isZoomingFromPoint = false;
                 this.zoomCenterDataIndex = null;
@@ -226,6 +261,7 @@ class ChartZoomManager {
                 break;
             case '0':
                 e.preventDefault();
+                this.dismissZoomHint('key');
                 this.resetToDefault();
                 break;
             case 'ArrowLeft':
@@ -241,6 +277,72 @@ class ChartZoomManager {
                 }
                 break;
         }
+    }
+
+    // ===== Zoom Hint Methods =====
+    onChartHoverStart() {
+        try {
+            if (this.isCoarsePointer) return; // avoid on touch devices
+            if (this.zoomHintSeen) return; // once per session
+            const wrapper = this.getChartWrapper();
+            if (!wrapper) return;
+            clearTimeout(this.zoomHintHoverTimer);
+            this.zoomHintHoverTimer = setTimeout(() => this.showZoomHint(), 800);
+        } catch (_) {}
+    }
+
+    onChartHoverEnd() {
+        clearTimeout(this.zoomHintHoverTimer);
+        // Let auto-hide take care if it's already visible
+    }
+
+    createZoomHintElement() {
+        if (this.zoomHintEl) return this.zoomHintEl;
+        const wrapper = this.getChartWrapper();
+        if (!wrapper) return null;
+        const el = document.createElement('div');
+        el.className = 'chart-zoom-hint';
+        el.setAttribute('aria-hidden', 'true');
+        el.innerHTML = `
+            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="12" cy="12" r="3"></circle>
+                <path d="M8 12h-3m14 0h-3M12 8V5m0 14v-3"></path>
+            </svg>
+            <span>Scroll to zoom • 0 resets</span>
+        `;
+        wrapper.appendChild(el);
+        this.zoomHintEl = el;
+        return el;
+    }
+
+    showZoomHint() {
+        try {
+            if (this.zoomHintSeen) return;
+            const el = this.createZoomHintElement();
+            if (!el) return;
+            // Mark as seen immediately to avoid multiple shows this session
+            this.zoomHintSeen = true;
+            try { sessionStorage.setItem('chartZoomHintSeen', '1'); } catch (_) {}
+            // animate in
+            requestAnimationFrame(() => {
+                el.classList.add('show');
+            });
+            clearTimeout(this.zoomHintHideTimer);
+            this.zoomHintHideTimer = setTimeout(() => this.hideZoomHint(), 2500);
+        } catch (_) {}
+    }
+
+    hideZoomHint() {
+        if (!this.zoomHintEl) return;
+        this.zoomHintEl.classList.remove('show');
+    }
+
+    dismissZoomHint(_reason = '') {
+        // Mark dismissed for completeness; already marked as seen when shown
+        try { sessionStorage.setItem('chartZoomHintDismissed', '1'); } catch (_) {}
+        clearTimeout(this.zoomHintHoverTimer);
+        clearTimeout(this.zoomHintHideTimer);
+        this.hideZoomHint();
     }
 
     // ===== Core Zoom Methods =====
@@ -1400,6 +1502,8 @@ class ChartZoomManager {
                 this.isUpdatingChart = false;
             }
         }
+
+        // Show hint again is not desirable; keep session flag intact
 
 
 
