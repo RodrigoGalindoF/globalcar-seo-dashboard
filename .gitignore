@@ -1413,17 +1413,7 @@ dmypy.json
 *.swo
 *~
 
-# Large data files (exclude from git)
-Data/Chart-Daily_Data/*.csv
-Data/keywords/Page_Weekly/aggregated/*.csv
-Data/keywords/Page_Weekly/by_country/*/*.csv
-Data/keywords/Site_Daily/*.csv
-Data/weekly_data_output/aggregated/*.csv
-Data/weekly_data_output/by_country/*/*.csv
-dashboard_data.json
-og_metadata.json
-
-# Keep data structure but exclude large files
-!Data/Chart-Daily_Data/
-!Data/keywords/
-!Data/weekly_data_output/
+# Data files: include in repo so GitHub Pages can serve them
+!Data/**
+!dashboard_data.json
+!og_metadata.json
