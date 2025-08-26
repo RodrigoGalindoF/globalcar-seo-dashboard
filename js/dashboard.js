@@ -102,14 +102,7 @@ let aggregatedDailyLoaded = false; // ensure aggregated daily CSV only loads onc
 const countryNameToISO3 = {
     'United States': 'USA',
     'Mexico': 'MEX',
-    'Canada': 'CAN',
-    'Spain': 'ESP',
-    'Colombia': 'COL',
-    'Peru': 'PER',
-    'Argentina': 'ARG',
-    'Chile': 'CHL',
-    'Australia': 'AUS',
-    'New Zealand': 'NZL'
+    'Canada': 'CAN'
 };
 
 function sanitizeToUnderscore(str) {
